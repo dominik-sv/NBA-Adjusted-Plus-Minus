@@ -77,3 +77,8 @@ def get_lineups(game_id: str = "0022400062") -> pd.DataFrame:
         assert len(current_lineup) == 10, f"Lineup not complete at t={next_time}"
 
     return lineup
+
+
+if __name__ == "__main__":
+    lineup = get_lineups()
+    print(lineup)
