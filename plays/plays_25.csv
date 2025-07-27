@@ -1,0 +1,485 @@
+,actionNumber,teamId,scoreHome,scoreAway,description,actionType,subType,time,location,newPossession,possession,possessionCount
+0,2,0,0,0,Start of 1st Period (10:12 PM EST),period,start,0.0,,False,,0
+1,4,1610612758,0,0,Jump Ball Sabonis vs. Gobert: Tip to Huerter,Jump Ball,,0.0,h,True,SAC,1
+2,7,1610612750,0,0,McDaniels S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,190.0,v,False,SAC,1
+3,9,1610612758,0,0,MISS Sabonis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,190.0,h,False,SAC,1
+4,10,0,0,0,KINGS Rebound,Rebound,Normal Rebound,190.0,h,False,SAC,1
+5,11,1610612758,1,0,Sabonis Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,190.0,h,False,SAC,1
+6,12,1610612750,1,0,Randle Lost Ball Turnover (P1.T1),Turnover,Lost Ball,290.0,v,True,MIN,2
+7,12,1610612758,1,0,Fox STEAL (1 STL),,,290.0,h,True,SAC,3
+8,14,1610612758,3,0,DeRozan 1' Running Layup (2 PTS) (Fox 1 AST),Made Shot,Running Layup Shot,340.0,h,False,SAC,3
+9,16,1610612750,3,0,MISS McDaniels 6' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,500.0,v,True,MIN,4
+10,17,1610612758,3,0,Huerter REBOUND (Off:0 Def:1),Rebound,Unknown,520.0,h,True,SAC,5
+11,18,1610612758,3,0,MISS DeRozan 3PT Jump Shot,Missed Shot,Jump Shot,620.0,h,False,SAC,5
+12,19,1610612758,3,0,DeRozan REBOUND (Off:1 Def:0),Rebound,Unknown,640.0,h,False,SAC,5
+13,20,1610612750,3,0,Randle S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,720.0,v,False,SAC,5
+14,22,1610612758,4,0,Sabonis Free Throw 1 of 2 (2 PTS),Free Throw,Free Throw 1 of 2,720.0,h,False,SAC,5
+15,23,1610612758,5,0,Sabonis Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,720.0,h,False,SAC,5
+16,24,1610612750,5,2,McDaniels 16' Pullup Jump Shot (2 PTS) (Edwards 1 AST),Made Shot,Pullup Jump shot,940.0,v,True,MIN,6
+17,27,1610612758,5,2,Jump Ball Sabonis vs. Gobert: Tip to Conley,Jump Ball,,1080.0,h,True,SAC,7
+18,30,1610612758,5,2,Sabonis Lost Ball Turnover (P1.T1),Turnover,Lost Ball,1080.0,h,False,SAC,7
+19,30,1610612750,5,2,Gobert STEAL (1 STL),,,1080.0,v,True,MIN,8
+20,32,1610612750,5,5,Edwards 25' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1270.0,v,False,MIN,8
+21,33,1610612758,5,5,MISS DeRozan 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1420.0,h,True,SAC,9
+22,34,1610612750,5,5,Gobert REBOUND (Off:0 Def:1),Rebound,Unknown,1440.0,v,True,MIN,10
+23,35,1610612750,5,5,Gobert Lost Ball Turnover (P1.T2),Turnover,Lost Ball,1450.0,v,False,MIN,10
+24,35,1610612758,5,5,Sabonis STEAL (1 STL),,,1450.0,h,True,SAC,11
+25,37,1610612758,5,5,Sabonis Bad Pass Turnover (P2.T2),Turnover,Bad Pass,1480.0,h,False,SAC,11
+26,37,1610612750,5,5,Gobert STEAL (2 STL),,,1480.0,v,True,MIN,12
+27,39,1610612750,5,8,Randle 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,1570.0,v,False,MIN,12
+28,40,1610612758,7,8,Fox 10' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,1670.0,h,True,SAC,13
+29,42,1610612750,7,8,MISS Conley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,1770.0,v,True,MIN,14
+30,43,1610612758,7,8,Huerter REBOUND (Off:0 Def:2),Rebound,Unknown,1800.0,h,True,SAC,15
+31,44,1610612758,9,8,Murray 16' Fadeaway Jumper (2 PTS),Made Shot,Fadeaway Jump Shot,1910.0,h,False,SAC,15
+32,45,1610612750,9,8,Gobert Lane Violation Turnover (P2.T3),Turnover,Lane Violation,2030.0,v,True,MIN,16
+33,46,1610612758,11,8,Fox 8' Fadeaway Jumper (4 PTS),Made Shot,Fadeaway Jump Shot,2140.0,h,True,SAC,17
+34,47,1610612750,11,8,MISS Randle 25' 3PT Jump Shot,Missed Shot,Jump Shot,2310.0,v,True,MIN,18
+35,48,1610612750,11,8,McDaniels REBOUND (Off:1 Def:0),Rebound,Unknown,2350.0,v,False,MIN,18
+36,49,1610612750,11,8,MISS McDaniels 7' Putback Layup,Missed Shot,Putback Layup Shot,2370.0,v,False,MIN,18
+37,50,1610612758,11,8,Sabonis REBOUND (Off:0 Def:1),Rebound,Unknown,2390.0,h,True,SAC,19
+38,51,1610612758,11,8,Fox Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,2410.0,h,False,SAC,19
+39,52,1610612750,11,8,Gobert OFF.Foul (P1) (J.Van Duyne),Foul,Offensive,2490.0,v,True,MIN,20
+40,54,1610612750,11,8,Gobert Offensive Foul Turnover (P3.T4),Turnover,Offensive Foul Turnover,2490.0,v,False,MIN,20
+41,55,1610612758,11,8,MISS Sabonis 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,2630.0,h,True,SAC,21
+42,56,1610612750,11,8,Gobert REBOUND (Off:0 Def:2),Rebound,Unknown,2660.0,v,True,MIN,22
+43,57,1610612750,11,8,MISS Edwards 25' 3PT Jump Shot,Missed Shot,Jump Shot,2780.0,v,False,MIN,22
+44,58,1610612758,11,8,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,2810.0,h,True,SAC,23
+45,59,1610612758,14,8,Sabonis 26' 3PT Jump Shot (6 PTS) (Fox 2 AST),Made Shot,Jump Shot,2920.0,h,False,SAC,23
+46,61,1610612750,14,8,MISS McDaniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,3060.0,v,True,MIN,24
+47,62,0,14,8,Timberwolves Rebound,Rebound,Unknown,3060.0,v,False,MIN,24
+48,64,1610612758,14,8,Sabonis L.B.FOUL (P1.T1) (T.Ford),Foul,Loose Ball,3060.0,h,False,MIN,24
+49,66,0,14,8,KINGS Timeout: Regular (Full 1 Short 0),Timeout,Regular,3060.0,h,False,MIN,24
+50,67,1610612750,14,11,Randle 25' 3PT Jump Shot (6 PTS) (Conley 1 AST),Made Shot,Jump Shot,3140.0,v,False,MIN,24
+51,69,1610612758,14,11,MISS Murray 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,3320.0,h,True,SAC,25
+52,70,1610612750,14,11,Gobert REBOUND (Off:0 Def:3),Rebound,Unknown,3360.0,v,True,MIN,26
+53,71,1610612750,14,11,Edwards Lost Ball Turnover (P1.T5),Turnover,Lost Ball,3420.0,v,False,MIN,26
+54,71,1610612758,14,11,DeRozan STEAL (1 STL),,,3420.0,h,True,SAC,27
+55,73,1610612758,17,11,Fox 28' 3PT Jump Shot (7 PTS) (Murray 1 AST),Made Shot,Jump Shot,3520.0,h,False,SAC,27
+56,75,1610612750,17,11,MISS Edwards 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,3780.0,v,True,MIN,28
+57,76,0,17,11,KINGS Rebound,Rebound,Unknown,3780.0,h,True,SAC,29
+58,78,1610612758,17,11,SUB: Monk FOR Fox,Substitution,,3780.0,h,False,SAC,29
+59,79,1610612758,17,11,SUB: Ellis FOR Huerter,Substitution,,3780.0,h,False,SAC,29
+60,82,1610612758,17,11,MISS DeRozan 16' Jump Shot,Missed Shot,Jump Shot,3910.0,h,False,SAC,29
+61,83,1610612750,17,11,Gobert REBOUND (Off:0 Def:4),Rebound,Unknown,3930.0,v,True,MIN,30
+62,84,1610612758,17,11,Monk S.FOUL (P1.T2) (S.Mehta),Foul,Shooting,4090.0,h,False,MIN,30
+63,86,1610612750,17,12,McDaniels Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,4090.0,v,False,MIN,30
+64,87,1610612750,17,12,SUB: Reid FOR Conley,Substitution,,4090.0,v,False,MIN,30
+65,88,1610612750,17,12,SUB: DiVincenzo FOR Randle,Substitution,,4090.0,v,False,MIN,30
+66,91,1610612750,17,13,McDaniels Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,4090.0,v,False,MIN,30
+67,92,1610612758,17,13,MISS Murray 27' 3PT Jump Shot,Missed Shot,Jump Shot,4220.0,h,True,SAC,31
+68,93,1610612750,17,13,Edwards REBOUND (Off:0 Def:1),Rebound,Unknown,4260.0,v,True,MIN,32
+69,94,1610612750,17,13,Edwards Bad Pass Turnover (P2.T6),Turnover,Bad Pass,4330.0,v,False,MIN,32
+70,94,1610612758,17,13,Ellis STEAL (1 STL),,,4330.0,h,True,SAC,33
+71,96,1610612758,19,13,Monk 8' Running Layup (2 PTS),Made Shot,Running Layup Shot,4400.0,h,False,SAC,33
+72,97,1610612750,19,13,MISS Reid 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,4510.0,v,True,MIN,34
+73,98,1610612758,19,13,Ellis REBOUND (Off:0 Def:1),Rebound,Unknown,4510.0,h,True,SAC,35
+74,99,1610612758,21,13,Monk 13' Floating Jump Shot (4 PTS) (Sabonis 1 AST),Made Shot,Floating Jump shot,4690.0,h,False,SAC,35
+75,101,1610612750,21,16,Edwards 3PT Jump Shot (6 PTS) (McDaniels 1 AST),Made Shot,Jump Shot,4970.0,v,True,MIN,36
+76,103,1610612750,21,16,Edwards S.FOUL (P1.T3) (J.Van Duyne),Foul,Shooting,5110.0,v,True,SAC,37
+77,105,1610612758,21,16,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,5110.0,h,False,SAC,37
+78,106,0,21,16,KINGS Rebound,Rebound,Normal Rebound,5110.0,h,False,SAC,37
+79,107,1610612758,21,16,SUB: Lyles FOR Murray,Substitution,,5110.0,h,False,SAC,37
+80,108,1610612750,21,16,SUB: Alexander-Walker FOR McDaniels,Substitution,,5110.0,v,False,SAC,37
+81,111,1610612758,22,16,DeRozan Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,5110.0,h,False,SAC,37
+82,112,1610612750,22,19,Alexander-Walker 25' 3PT Jump Shot (3 PTS) (Edwards 2 AST),Made Shot,Jump Shot,5240.0,v,True,MIN,38
+83,114,1610612750,22,19,Edwards S.FOUL (P2.T4) (T.Ford),Foul,Shooting,5340.0,v,True,SAC,39
+84,116,1610612758,22,19,MISS DeRozan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,5340.0,h,False,SAC,39
+85,117,0,22,19,KINGS Rebound,Rebound,Normal Rebound,5340.0,h,False,SAC,39
+86,118,1610612758,23,19,DeRozan Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,5340.0,h,False,SAC,39
+87,119,1610612750,23,21,Gobert 4' Alley Oop Layup (2 PTS) (Reid 1 AST),Made Shot,Alley Oop Layup shot,5450.0,v,True,MIN,40
+88,121,1610612758,23,21,MISS Lyles 26' 3PT Jump Shot,Missed Shot,Jump Shot,5570.0,h,True,SAC,41
+89,122,1610612750,23,21,Reid REBOUND (Off:0 Def:1),Rebound,Unknown,5600.0,v,True,MIN,42
+90,123,1610612750,23,21,MISS Edwards 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,5690.0,v,False,MIN,42
+91,124,1610612758,23,21,Sabonis REBOUND (Off:0 Def:2),Rebound,Unknown,5720.0,h,True,SAC,43
+92,125,1610612758,23,21,DeRozan Out of Bounds - Bad Pass Turnover Turnover (P1.T4),Turnover,Out of Bounds - Bad Pass Turnover,5790.0,h,False,SAC,43
+93,126,0,23,21,Timberwolves Timeout: Regular (Reg.1 Short 0),Timeout,Regular,5790.0,v,True,MIN,44
+94,127,1610612758,23,21,SUB: Fox FOR DeRozan,Substitution,,5790.0,h,False,MIN,44
+95,128,1610612750,23,21,SUB: Randle FOR Edwards,Substitution,,5790.0,v,False,MIN,44
+96,129,1610612750,23,21,SUB: Ingles FOR Gobert,Substitution,,5790.0,v,False,MIN,44
+97,133,1610612750,23,21,MISS DiVincenzo 24' 3PT Jump Shot,Missed Shot,Jump Shot,6010.0,v,False,MIN,44
+98,134,1610612758,23,21,Lyles REBOUND (Off:0 Def:1),Rebound,Unknown,6040.0,h,True,SAC,45
+99,135,1610612758,25,21,Monk 5' Driving Dunk (6 PTS),Made Shot,Driving Dunk Shot,6150.0,h,False,SAC,45
+100,136,1610612750,25,24,Reid 29' 3PT Jump Shot (3 PTS) (Randle 1 AST),Made Shot,Jump Shot,6350.0,v,True,MIN,46
+101,138,1610612758,27,24,Fox 5' Cutting Dunk Shot (9 PTS) (Lyles 1 AST),Made Shot,Cutting Dunk Shot,6560.0,h,True,SAC,47
+102,140,1610612750,27,24,DiVincenzo OFF.Foul (P1) (S.Mehta),Foul,Offensive,6590.0,v,True,MIN,48
+103,142,1610612750,27,24,DiVincenzo Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,6590.0,v,False,MIN,48
+104,143,1610612758,27,24,SUB: Murray FOR Sabonis,Substitution,,6590.0,h,True,SAC,49
+105,144,1610612758,27,24,SUB: Len FOR Ellis,Substitution,,6590.0,h,False,SAC,49
+106,147,1610612758,29,24,Len 2' Alley Oop Dunk (2 PTS) (Fox 3 AST),Made Shot,Alley Oop Dunk Shot,6644.0,h,False,SAC,49
+107,149,1610612750,29,24,DiVincenzo Lost Ball Turnover (P2.T8),Turnover,Lost Ball,6750.0,v,True,MIN,50
+108,149,1610612758,29,24,Lyles STEAL (1 STL),,,6750.0,h,True,SAC,51
+109,151,1610612758,32,24,Monk 25' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,6804.0,h,False,SAC,51
+110,152,1610612750,32,26,Randle 3' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,6896.0,v,True,MIN,52
+111,153,1610612758,32,26,Murray S.FOUL (P1.T3) (T.Ford),Foul,Shooting,6896.0,h,False,MIN,52
+112,155,1610612750,32,26,MISS Randle Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,6896.0,v,False,MIN,52
+113,156,1610612758,32,26,Len REBOUND (Off:0 Def:1),Rebound,Unknown,6918.0,h,True,SAC,53
+114,157,1610612758,32,26,Len Traveling Turnover (P1.T5),Turnover,Traveling,7105.0,h,False,SAC,53
+115,158,1610612758,32,26,SUB: Ellis FOR Monk,Substitution,,7105.0,h,True,MIN,54
+116,160,1610612750,32,29,Randle 25' 3PT Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,7200.0,v,False,MIN,54
+117,161,0,32,29,Instant Replay1st Period (10:39 PM EST),Instant Replay,Support Ruling,7200.0,,True,SAC,55
+118,162,0,32,29,End of 1st Period (10:40 PM EST),period,end,7200.0,,False,SAC,55
+119,167,0,32,29,Start of 2nd Period (10:42 PM EST),period,start,7200.0,,True,MIN,56
+120,168,1610612750,32,29,MISS Reid 27' 3PT Jump Shot,Missed Shot,Jump Shot,7370.0,v,False,MIN,56
+121,169,1610612758,32,29,Murray REBOUND (Off:0 Def:2),Rebound,Unknown,7410.0,h,True,SAC,57
+122,170,1610612758,34,29,DeRozan 16' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,7570.0,h,False,SAC,57
+123,171,1610612750,34,29,Reid Offensive Charge Foul (P1) (J.Van Duyne),Foul,Offensive Charge,7710.0,v,True,MIN,58
+124,173,1610612750,34,29,Reid Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,7710.0,v,False,MIN,58
+125,175,1610612750,34,29,Ingles S.FOUL (P1.T1) (J.Van Duyne),Foul,Shooting,7930.0,v,True,SAC,59
+126,177,1610612758,35,29,Murray Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,7930.0,h,False,SAC,59
+127,178,1610612758,36,29,Murray Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,7930.0,h,False,SAC,59
+128,179,1610612750,36,31,Randle 13' Floating Jump Shot (13 PTS),Made Shot,Floating Jump shot,8150.0,v,True,MIN,60
+129,180,1610612758,38,31,Murray 19' Fadeaway Jumper (6 PTS),Made Shot,Fadeaway Jump Shot,8370.0,h,True,SAC,61
+130,181,1610612750,38,33,Randle 16' Driving Floating Jump Shot (15 PTS) (Ingles 1 AST),Made Shot,Driving Floating Jump Shot,8500.0,v,True,MIN,62
+131,183,1610612758,38,33,MISS Murray 26' 3PT Jump Shot,Missed Shot,Jump Shot,8660.0,h,True,SAC,63
+132,184,1610612750,38,33,Alexander-Walker REBOUND (Off:0 Def:1),Rebound,Unknown,8730.0,v,True,MIN,64
+133,185,1610612750,38,35,DiVincenzo 6' Running Layup (2 PTS) (Alexander-Walker 1 AST),Made Shot,Running Layup Shot,8760.0,v,False,MIN,64
+134,188,1610612758,38,35,SUB: Monk FOR Fox,Substitution,,8820.0,h,True,SAC,65
+135,190,0,38,35,KINGS Timeout: Regular (Full 2 Short 0),Timeout,Regular,8820.0,h,False,SAC,65
+136,192,1610612750,38,35,SUB: McDaniels FOR Ingles,Substitution,,8820.0,v,False,SAC,65
+137,191,0,38,35,Instant Replay2nd Period (10:47 PM EST),Instant Replay,Coach Challenge Overturn Ruling,8820.0,,False,SAC,65
+138,194,1610612758,41,35,Lyles 3PT Jump Shot (3 PTS) (DeRozan 1 AST),Made Shot,Jump Shot,8900.0,h,False,SAC,65
+139,196,1610612750,41,35,MISS DiVincenzo 26' 3PT Jump Shot,Missed Shot,Jump Shot,9050.0,v,True,MIN,66
+140,197,1610612750,41,35,McDaniels REBOUND (Off:2 Def:0),Rebound,Unknown,9100.0,v,False,MIN,66
+141,198,1610612758,41,35,Huerter S.FOUL (P1.T1) (T.Ford),Foul,Shooting,9130.0,h,False,MIN,66
+142,200,1610612750,41,36,Randle Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,9130.0,v,False,MIN,66
+143,201,1610612750,41,36,SUB: Edwards FOR DiVincenzo,Substitution,,9130.0,v,False,MIN,66
+144,203,1610612750,41,37,Randle Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,9130.0,v,False,MIN,66
+145,204,1610612758,41,37,MISS Lyles 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,9370.0,h,True,SAC,67
+146,205,1610612750,41,37,Reid REBOUND (Off:0 Def:2),Rebound,Unknown,9400.0,v,True,MIN,68
+147,206,1610612750,41,37,MISS Alexander-Walker 25' 3PT Jump Shot,Missed Shot,Jump Shot,9470.0,v,False,MIN,68
+148,207,1610612758,41,37,Murray REBOUND (Off:0 Def:3),Rebound,Unknown,9520.0,h,True,SAC,69
+149,208,1610612758,43,37,DeRozan 2' Driving Reverse Layup (8 PTS) (Monk 1 AST),Made Shot,Driving Reverse Layup Shot,9580.0,h,False,SAC,69
+150,210,1610612750,43,39,Reid 13' Driving Floating Bank Jump Shot (5 PTS) (Alexander-Walker 2 AST),Made Shot,Driving Floating Bank Jump Shot,9690.0,v,True,MIN,70
+151,212,1610612758,43,39,Lyles S.FOUL (P1.T2) (J.Van Duyne),Foul,Shooting,9690.0,h,False,MIN,70
+152,218,1610612758,43,39,SUB: Sabonis FOR Lyles,Substitution,,9690.0,h,False,MIN,70
+153,224,1610612750,43,39,SUB: Gobert FOR Randle,Substitution,,9690.0,v,False,MIN,70
+154,216,1610612750,43,40,Reid Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,9690.0,v,False,MIN,70
+155,220,1610612750,43,40,Gobert S.FOUL (P2.T2) (S.Mehta),Foul,Shooting,9780.0,v,True,SAC,71
+156,222,1610612758,44,40,DeRozan Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,9780.0,h,False,SAC,71
+157,223,1610612758,45,40,DeRozan Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,9780.0,h,False,SAC,71
+158,226,1610612750,45,40,MISS Reid 12' Floating Jump Shot,Missed Shot,Floating Jump shot,9930.0,v,True,MIN,72
+159,227,1610612758,45,40,Sabonis REBOUND (Off:0 Def:3),Rebound,Unknown,9940.0,h,True,SAC,73
+160,228,1610612758,45,40,Sabonis Out of Bounds Lost Ball Turnover (P3.T6),Turnover,Out of Bounds Lost Ball Turnover,9940.0,h,False,SAC,73
+161,229,1610612750,45,40,SUB: Randle FOR Alexander-Walker,Substitution,,9940.0,v,True,MIN,74
+162,230,1610612750,45,40,SUB: Conley FOR Reid,Substitution,,9940.0,v,False,MIN,74
+163,233,1610612750,45,40,MISS Conley 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10040.0,v,False,MIN,74
+164,234,1610612758,45,40,DeRozan REBOUND (Off:1 Def:1),Rebound,Unknown,10070.0,h,True,SAC,75
+165,235,1610612758,47,40,DeRozan 18' Running Pull-Up Jump Shot (12 PTS),Made Shot,Running Pull-Up Jump Shot,10120.0,h,False,SAC,75
+166,237,1610612750,47,40,MISS Randle 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,10350.0,v,True,MIN,76
+167,238,1610612758,47,40,Huerter REBOUND (Off:0 Def:3),Rebound,Unknown,10380.0,h,True,SAC,77
+168,239,1610612758,47,40,MISS DeRozan 14' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,10440.0,h,False,SAC,77
+169,240,1610612758,47,40,Sabonis REBOUND (Off:1 Def:3),Rebound,Unknown,10450.0,h,False,SAC,77
+170,241,1610612750,47,40,Conley S.FOUL (P1.T3) (S.Mehta),Foul,Shooting,10450.0,v,False,SAC,77
+171,243,1610612758,48,40,Sabonis Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,10450.0,h,False,SAC,77
+172,244,1610612758,48,40,MISS Sabonis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,10450.0,h,False,SAC,77
+173,245,1610612750,48,40,Randle REBOUND (Off:0 Def:1),Rebound,Unknown,10480.0,v,True,MIN,78
+174,246,1610612750,48,42,Randle 10' Turnaround Fadeaway (19 PTS),Made Shot,Turnaround Fadeaway shot,10640.0,v,False,MIN,78
+175,247,1610612758,48,42,MISS Huerter 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,10800.0,h,True,SAC,79
+176,248,1610612750,48,42,Gobert REBOUND (Off:0 Def:5),Rebound,Unknown,10840.0,v,True,MIN,80
+177,249,1610612750,48,45,Edwards 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,10990.0,v,False,MIN,80
+178,251,1610612758,48,45,MISS Huerter 28' 3PT Jump Shot,Missed Shot,Jump Shot,11140.0,h,True,SAC,81
+179,252,1610612750,48,45,Gobert REBOUND (Off:0 Def:6),Rebound,Unknown,11180.0,v,True,MIN,82
+180,253,1610612750,48,45,Randle OFF.Foul (P2) (S.Mehta),Foul,Offensive,11240.0,v,False,MIN,82
+181,255,1610612750,48,45,Randle Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,11240.0,v,False,MIN,82
+182,262,1610612758,48,45,SUB: Fox FOR Monk,Substitution,,11240.0,h,True,SAC,83
+183,263,1610612758,48,45,SUB: Ellis FOR Huerter,Substitution,,11240.0,h,False,SAC,83
+184,260,1610612758,48,45,MISS Murray 16' Floating Jump Shot,Missed Shot,Floating Jump shot,11390.0,h,False,SAC,83
+185,261,0,48,45,KINGS Rebound,Rebound,Unknown,11390.0,h,False,SAC,83
+186,264,1610612758,48,45,MISS Fox 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,11450.0,h,False,SAC,83
+187,265,1610612750,48,45,Edwards REBOUND (Off:0 Def:2),Rebound,Unknown,11530.0,v,True,MIN,84
+188,266,1610612750,48,45,MISS McDaniels 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,11570.0,v,False,MIN,84
+189,267,1610612758,48,45,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,11610.0,h,True,SAC,85
+190,268,1610612758,48,45,MISS DeRozan 4' Running Layup,Missed Shot,Running Layup Shot,11630.0,h,False,SAC,85
+191,268,1610612750,48,45,Conley BLOCK (1 BLK),,,11630.0,v,False,SAC,85
+192,270,0,48,45,KINGS Rebound,Rebound,Unknown,11630.0,h,False,SAC,85
+193,272,1610612758,50,45,DeRozan 8' Fadeaway Jumper (14 PTS) (Fox 4 AST),Made Shot,Fadeaway Jump Shot,11660.0,h,False,SAC,85
+194,274,1610612750,50,48,Randle 3PT Jump Shot (22 PTS) (Conley 2 AST),Made Shot,Jump Shot,11840.0,v,True,MIN,86
+195,276,1610612758,50,48,MISS Murray 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,11960.0,h,True,SAC,87
+196,277,1610612750,50,48,Edwards REBOUND (Off:0 Def:3),Rebound,Unknown,11990.0,v,True,MIN,88
+197,278,1610612750,50,48,MISS Edwards 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,12100.0,v,False,MIN,88
+198,279,1610612758,50,48,Sabonis REBOUND (Off:1 Def:4),Rebound,Unknown,12140.0,h,True,SAC,89
+199,280,1610612758,50,48,MISS Sabonis 6' Layup,Missed Shot,Layup Shot,12200.0,h,False,SAC,89
+200,281,1610612750,50,48,Randle REBOUND (Off:0 Def:2),Rebound,Unknown,12230.0,v,True,MIN,90
+201,282,1610612758,50,48,Ellis P.FOUL (P1.T3) (S.Mehta),Foul,Personal,12260.0,h,False,MIN,90
+202,284,1610612758,50,48,SUB: Monk FOR Ellis,Substitution,,12260.0,h,False,MIN,90
+203,285,1610612750,50,48,SUB: Reid FOR Randle,Substitution,,12260.0,v,False,MIN,90
+204,288,0,50,48,Timberwolves Timeout: Regular (Reg.2 Short 0),Timeout,Regular,12260.0,v,False,MIN,90
+205,289,1610612750,50,48,MISS Edwards 3PT Jump Shot,Missed Shot,Jump Shot,12350.0,v,False,MIN,90
+206,290,0,50,48,Timberwolves Rebound,Rebound,Unknown,12360.0,v,False,MIN,90
+207,291,1610612758,50,48,Fox L.B.FOUL (P1.T4) (J.Van Duyne),Foul,Loose Ball,12360.0,h,False,MIN,90
+208,293,1610612750,50,48,MISS McDaniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,12490.0,v,False,MIN,90
+209,294,1610612758,50,48,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,12530.0,h,True,SAC,91
+210,295,1610612758,50,48,MISS Monk 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,12690.0,h,False,SAC,91
+211,296,1610612750,50,48,Gobert REBOUND (Off:0 Def:7),Rebound,Unknown,12720.0,v,True,MIN,92
+212,297,1610612750,50,51,Reid 27' 3PT Jump Shot (9 PTS) (McDaniels 2 AST),Made Shot,Jump Shot,12820.0,v,False,MIN,92
+213,299,1610612758,50,51,Sabonis OFF.Foul (P2) (J.Van Duyne),Foul,Offensive,13040.0,h,True,SAC,93
+214,301,1610612758,50,51,Sabonis Offensive Foul Turnover (P4.T7),Turnover,Offensive Foul Turnover,13040.0,h,False,SAC,93
+215,302,1610612750,50,51,SUB: DiVincenzo FOR Conley,Substitution,,13040.0,v,True,MIN,94
+216,304,1610612750,50,51,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,13170.0,v,False,MIN,94
+217,305,1610612758,50,51,Monk REBOUND (Off:0 Def:1),Rebound,Unknown,13220.0,h,True,SAC,95
+218,306,1610612758,53,51,Murray 27' 3PT Running Jump Shot (9 PTS) (Monk 2 AST),Made Shot,Running Jump Shot,13250.0,h,False,SAC,95
+219,311,0,53,51,Timberwolves Timeout: Coach Challenge (Reg.2 Short 0),Timeout,Coach Challenge,13400.0,v,True,MIN,96
+220,313,1610612750,53,51,SUB: Conley FOR Edwards,Substitution,,13400.0,v,False,MIN,96
+221,312,0,53,51,Instant Replay2nd Period (11:07 PM EST),Instant Replay,Coach Challenge Overturn Ruling,13400.0,,False,MIN,96
+222,315,1610612758,53,51,Murray P.FOUL (P2.PN) (S.Mehta),Foul,Personal,13400.0,h,False,MIN,96
+223,317,1610612750,53,52,Reid Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,13400.0,v,False,MIN,96
+224,324,1610612750,53,53,Reid Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,13400.0,v,False,MIN,96
+225,319,1610612758,55,53,Sabonis 2' Cutting Layup Shot (9 PTS) (Monk 3 AST),Made Shot,Cutting Layup Shot,13550.0,h,True,SAC,97
+226,321,1610612750,55,55,McDaniels 4' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,13800.0,v,True,MIN,98
+227,322,1610612750,55,55,Reid S.FOUL (P2.T4) (T.Ford),Foul,Shooting,13946.0,v,True,SAC,99
+228,325,1610612758,56,55,Monk Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,13946.0,h,False,SAC,99
+229,326,1610612758,57,55,Monk Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,13946.0,h,False,SAC,99
+230,327,1610612750,57,55,MISS McDaniels 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,14066.0,v,True,MIN,100
+231,328,0,57,55,KINGS Rebound,Rebound,Unknown,14080.0,h,True,SAC,101
+232,330,1610612750,57,55,McDaniels S.FOUL (P2.PN) (S.Mehta),Foul,Shooting,14120.0,v,False,SAC,101
+233,332,1610612758,58,55,Fox Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,14120.0,h,False,SAC,101
+234,333,1610612750,58,55,SUB: Edwards FOR McDaniels,Substitution,,14120.0,v,False,SAC,101
+235,335,1610612758,59,55,Fox Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,14120.0,h,False,SAC,101
+236,336,1610612750,59,55,MISS Conley 30' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,14351.0,v,True,MIN,102
+237,337,1610612758,59,55,DeRozan REBOUND (Off:1 Def:2),Rebound,Unknown,14386.0,h,True,SAC,103
+238,338,1610612758,59,55,MISS DeRozan 59' 3PT Jump Shot,Missed Shot,Jump Shot,14390.0,h,False,SAC,103
+239,339,0,59,55,KINGS Rebound,Rebound,Unknown,14390.0,h,False,SAC,103
+240,340,0,59,55,End of 2nd Period (11:13 PM EST),period,end,14400.0,,False,SAC,103
+241,347,0,59,55,Start of 3rd Period (11:28 PM EST),period,start,14400.0,,True,MIN,104
+242,348,0,59,55,Timberwolves Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,14640.0,v,False,MIN,104
+243,349,1610612758,61,55,Fox 5' Driving Layup (13 PTS),Made Shot,Driving Layup Shot,14720.0,h,True,SAC,105
+244,350,1610612750,61,58,Conley 24' 3PT Jump Shot (3 PTS) (McDaniels 3 AST),Made Shot,Jump Shot,14870.0,v,True,MIN,106
+245,352,1610612758,64,58,Sabonis 3PT Jump Shot (12 PTS) (Fox 5 AST),Made Shot,Jump Shot,15010.0,h,True,SAC,107
+246,354,1610612750,64,61,Randle 26' 3PT Jump Shot (25 PTS) (Gobert 1 AST),Made Shot,Jump Shot,15210.0,v,True,MIN,108
+247,356,1610612758,66,61,Fox 6' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,15330.0,h,True,SAC,109
+248,357,1610612750,66,64,Conley 24' 3PT Jump Shot (6 PTS) (Randle 2 AST),Made Shot,Jump Shot,15470.0,v,True,MIN,110
+249,359,1610612758,68,64,Sabonis 2' Driving Layup (14 PTS) (Murray 2 AST),Made Shot,Driving Layup Shot,15580.0,h,True,SAC,111
+250,361,1610612750,68,64,McDaniels Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,15690.0,v,True,MIN,112
+251,362,1610612758,70,64,Murray 19' Pullup Jump Shot (11 PTS) (Fox 6 AST),Made Shot,Pullup Jump shot,15780.0,h,True,SAC,113
+252,364,0,70,64,Timberwolves Timeout: Regular (Reg.3 Short 0),Timeout,Regular,15820.0,v,True,MIN,114
+253,365,1610612750,70,64,MISS Randle 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16040.0,v,False,MIN,114
+254,366,1610612758,70,64,Huerter REBOUND (Off:0 Def:4),Rebound,Unknown,16080.0,h,True,SAC,115
+255,367,1610612750,70,64,Conley S.FOUL (P2.T1) (T.Ford),Foul,Shooting,16120.0,v,False,SAC,115
+256,369,1610612758,71,64,DeRozan Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,16120.0,h,False,SAC,115
+257,370,1610612758,72,64,DeRozan Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,16120.0,h,False,SAC,115
+258,371,1610612750,72,66,Edwards 8' Driving Layup (11 PTS) (Conley 3 AST),Made Shot,Driving Layup Shot,16260.0,v,True,MIN,116
+259,373,1610612758,72,66,Murray S.FOUL (P3.T1) (T.Ford),Foul,Shooting,16260.0,h,False,MIN,116
+260,375,1610612750,72,67,Edwards Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,16260.0,v,False,MIN,116
+261,376,1610612758,74,67,Huerter 6' Driving Layup (2 PTS) (Fox 7 AST),Made Shot,Driving Layup Shot,16380.0,h,True,SAC,117
+262,379,1610612758,74,67,Fox P.FOUL (P2.T2) (S.Mehta),Foul,Personal,16540.0,h,True,MIN,118
+263,381,1610612750,74,67,McDaniels Out of Bounds - Bad Pass Turnover Turnover (P2.T13),Turnover,Out of Bounds - Bad Pass Turnover,16600.0,v,False,MIN,118
+264,382,1610612758,74,67,MISS Huerter 24' 3PT Jump Shot,Missed Shot,Jump Shot,16670.0,h,True,SAC,119
+265,383,1610612750,74,67,Randle REBOUND (Off:0 Def:3),Rebound,Unknown,16710.0,v,True,MIN,120
+266,384,1610612750,74,67,MISS Gobert 6' Hook Shot,Missed Shot,Hook Shot,16810.0,v,False,MIN,120
+267,385,1610612750,74,67,Edwards REBOUND (Off:1 Def:3),Rebound,Unknown,16810.0,v,False,MIN,120
+268,386,1610612758,74,67,Huerter S.FOUL (P2.T3) (T.Ford),Foul,Shooting,16810.0,h,False,MIN,120
+269,388,1610612750,74,68,Edwards Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,16810.0,v,False,MIN,120
+270,389,1610612750,74,68,SUB: Alexander-Walker FOR McDaniels,Substitution,,16810.0,v,False,MIN,120
+271,391,1610612750,74,69,Edwards Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,16810.0,v,False,MIN,120
+272,392,1610612758,77,69,Murray 3PT Jump Shot (14 PTS) (Fox 8 AST),Made Shot,Jump Shot,16940.0,h,True,SAC,121
+273,394,1610612750,77,69,Alexander-Walker Bad Pass Turnover (P1.T14),Turnover,Bad Pass,17030.0,v,True,MIN,122
+274,394,1610612758,77,69,Sabonis STEAL (2 STL),,,17030.0,h,True,SAC,123
+275,396,1610612758,77,69,MISS Murray 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,17080.0,h,False,SAC,123
+276,397,1610612750,77,69,Gobert REBOUND (Off:0 Def:8),Rebound,Unknown,17120.0,v,True,MIN,124
+277,398,1610612750,77,69,MISS Conley 3PT Jump Shot,Missed Shot,Jump Shot,17270.0,v,False,MIN,124
+278,399,1610612758,77,69,Murray REBOUND (Off:0 Def:6),Rebound,Unknown,17310.0,h,True,SAC,125
+279,400,1610612758,79,69,Sabonis 2' Layup (16 PTS),Made Shot,Layup Shot,17520.0,h,False,SAC,125
+280,401,1610612750,79,69,MISS Alexander-Walker 3PT Jump Shot,Missed Shot,Jump Shot,17710.0,v,True,MIN,126
+281,402,1610612758,79,69,Murray REBOUND (Off:0 Def:7),Rebound,Unknown,17740.0,h,True,SAC,127
+282,403,1610612750,79,69,Edwards S.FOUL (P3.T2) (T.Ford),Foul,Shooting,17780.0,v,False,SAC,127
+283,405,1610612758,80,69,DeRozan Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,17780.0,h,False,SAC,127
+284,406,1610612758,81,69,DeRozan Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,17780.0,h,False,SAC,127
+285,407,1610612750,81,71,Edwards 6' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,17890.0,v,True,MIN,128
+286,408,1610612758,81,71,MISS Fox 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,17940.0,h,True,SAC,129
+287,409,1610612750,81,71,Randle REBOUND (Off:0 Def:4),Rebound,Unknown,17970.0,v,True,MIN,130
+288,410,1610612750,81,71,MISS Edwards 26' 3PT Jump Shot,Missed Shot,Jump Shot,18060.0,v,False,MIN,130
+289,411,0,81,71,KINGS Rebound,Rebound,Unknown,18070.0,h,True,SAC,131
+290,413,1610612750,81,71,SUB: Reid FOR Conley,Substitution,,18070.0,v,False,SAC,131
+291,414,1610612750,81,71,SUB: DiVincenzo FOR Gobert,Substitution,,18070.0,v,False,SAC,131
+292,417,1610612758,81,71,MISS Murray 6' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,18250.0,h,False,SAC,131
+293,418,1610612750,81,71,Reid REBOUND (Off:0 Def:3),Rebound,Unknown,18270.0,v,True,MIN,132
+294,419,1610612750,81,74,Alexander-Walker 3PT Jump Shot (6 PTS) (Edwards 3 AST),Made Shot,Jump Shot,18340.0,v,False,MIN,132
+295,421,0,81,74,KINGS Timeout: Regular (Full 3 Short 0),Timeout,Regular,18340.0,h,True,SAC,133
+296,422,1610612758,81,74,SUB: Monk FOR Fox,Substitution,,18340.0,h,False,SAC,133
+297,423,1610612758,81,74,SUB: Ellis FOR Huerter,Substitution,,18340.0,h,False,SAC,133
+298,428,1610612758,81,74,DeRozan Traveling Turnover (P2.T8),Turnover,Traveling,18520.0,h,False,SAC,133
+299,429,1610612750,81,76,Randle 8' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,18630.0,v,True,MIN,134
+300,430,1610612758,84,76,Murray 3PT Jump Shot (17 PTS) (DeRozan 2 AST),Made Shot,Jump Shot,18730.0,h,True,SAC,135
+301,432,1610612750,84,76,MISS Edwards 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,18830.0,v,True,MIN,136
+302,433,1610612758,84,76,Sabonis REBOUND (Off:1 Def:5),Rebound,Unknown,18860.0,h,True,SAC,137
+303,434,1610612750,84,76,DiVincenzo AWAY.FROM.PLAY.FOUL (P2.T3) (J.Van Duyne),Foul,Away From Play,18920.0,v,False,SAC,137
+304,436,1610612758,86,76,Monk 7' Layup (13 PTS),Made Shot,Layup Shot,19040.0,h,False,SAC,137
+305,440,0,86,76,Timberwolves Timeout: Regular (Reg.4 Short 0),Timeout,Regular,19130.0,v,True,MIN,138
+306,441,0,86,76,Instant Replay3rd Period (11:47 PM EST),Instant Replay,Coach Challenge Overturn Ruling,19130.0,,False,MIN,138
+307,442,1610612750,86,76,MISS Edwards 9' Driving Layup,Missed Shot,Driving Layup Shot,19220.0,v,False,MIN,138
+308,442,1610612758,86,76,Sabonis BLOCK (1 BLK),,,19220.0,h,False,MIN,138
+309,444,1610612750,86,76,DiVincenzo REBOUND (Off:1 Def:0),Rebound,Unknown,19270.0,v,False,MIN,138
+310,445,1610612750,86,76,MISS Edwards 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,19300.0,v,False,MIN,138
+311,446,1610612758,86,76,Murray REBOUND (Off:0 Def:8),Rebound,Unknown,19330.0,h,True,SAC,139
+312,447,1610612758,86,76,MISS Sabonis 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,19470.0,h,False,SAC,139
+313,448,1610612750,86,76,Reid REBOUND (Off:0 Def:4),Rebound,Unknown,19490.0,v,True,MIN,140
+314,449,1610612750,86,78,Randle 6' Running Dunk (29 PTS) (Reid 2 AST),Made Shot,Running Dunk Shot,19530.0,v,False,MIN,140
+315,451,1610612750,86,78,Reid S.FOUL (P3.T4) (T.Ford),Foul,Shooting,19730.0,v,True,SAC,141
+316,453,1610612758,87,78,Ellis Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,19730.0,h,False,SAC,141
+317,454,1610612758,87,78,SUB: Fox FOR DeRozan,Substitution,,19730.0,h,False,SAC,141
+318,455,1610612758,87,78,SUB: Lyles FOR Murray,Substitution,,19730.0,h,False,SAC,141
+319,456,1610612750,87,78,SUB: Gobert FOR Randle,Substitution,,19730.0,v,False,SAC,141
+320,460,1610612758,88,78,Ellis Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,19730.0,h,False,SAC,141
+321,461,1610612750,88,80,DiVincenzo 8' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,19960.0,v,True,MIN,142
+322,462,1610612758,88,80,MISS Lyles 24' 3PT Jump Shot,Missed Shot,Jump Shot,20020.0,h,True,SAC,143
+323,463,1610612750,88,80,Gobert REBOUND (Off:0 Def:9),Rebound,Unknown,20050.0,v,True,MIN,144
+324,464,1610612750,88,83,Reid 3PT Jump Shot (14 PTS) (Edwards 4 AST),Made Shot,Jump Shot,20130.0,v,False,MIN,144
+325,467,1610612758,88,83,MISS Fox 8' Floating Jump Shot,Missed Shot,Floating Jump shot,20400.0,h,True,SAC,145
+326,468,1610612750,88,83,Reid REBOUND (Off:0 Def:5),Rebound,Unknown,20430.0,v,True,MIN,146
+327,469,1610612750,88,83,Reid Bad Pass Turnover (P2.T15),Turnover,Bad Pass,20440.0,v,False,MIN,146
+328,469,1610612758,88,83,Ellis STEAL (2 STL),,,20440.0,h,True,SAC,147
+329,471,1610612758,88,83,MISS Ellis 8' Floating Jump Shot,Missed Shot,Floating Jump shot,20440.0,h,False,SAC,147
+330,472,1610612750,88,83,Reid REBOUND (Off:0 Def:6),Rebound,Unknown,20440.0,v,True,MIN,148
+331,473,1610612758,88,83,Fox P.FOUL (P3.T4) (J.Van Duyne),Foul,Personal,20440.0,h,False,MIN,148
+332,475,1610612758,88,83,SUB: Murray FOR Ellis,Substitution,,20440.0,h,False,MIN,148
+333,477,1610612750,88,86,Alexander-Walker 26' 3PT Jump Shot (9 PTS) (Reid 3 AST),Made Shot,Jump Shot,20600.0,v,False,MIN,148
+334,479,1610612758,88,86,MISS Murray 10' Floating Jump Shot,Missed Shot,Floating Jump shot,20730.0,h,True,SAC,149
+335,480,1610612750,88,86,Reid REBOUND (Off:0 Def:7),Rebound,Unknown,20760.0,v,True,MIN,150
+336,481,1610612750,88,89,Edwards 29' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,20870.0,v,False,MIN,150
+337,482,1610612758,88,89,MISS Sabonis 26' 3PT Jump Shot,Missed Shot,Jump Shot,20980.0,h,True,SAC,151
+338,483,1610612758,88,89,Murray REBOUND (Off:1 Def:8),Rebound,Unknown,21011.0,h,False,SAC,151
+339,484,1610612758,88,89,MISS Sabonis 15' Jump Shot,Missed Shot,Jump Shot,21088.0,h,False,SAC,151
+340,485,1610612750,88,89,Reid REBOUND (Off:0 Def:8),Rebound,Unknown,21111.0,v,True,MIN,152
+341,486,1610612750,88,89,MISS Edwards 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,21301.0,v,False,MIN,152
+342,487,0,88,89,KINGS Rebound,Rebound,Unknown,21312.0,h,True,SAC,153
+343,489,1610612758,88,89,SUB: Len FOR Sabonis,Substitution,,21312.0,h,False,SAC,153
+344,491,1610612758,88,89,Fox Lost Ball Turnover (P2.T9),Turnover,Lost Ball,21453.0,h,False,SAC,153
+345,491,1610612750,88,89,Edwards STEAL (1 STL),,,21453.0,v,True,MIN,154
+346,493,1610612750,88,89,MISS DiVincenzo 24' 3PT Jump Shot,Missed Shot,Jump Shot,21568.0,v,False,MIN,154
+347,494,1610612758,88,89,Fox REBOUND (Off:0 Def:1),Rebound,Unknown,21577.0,h,True,SAC,155
+348,495,1610612758,88,89,MISS Fox 72' 3PT Jump Shot,Missed Shot,Jump Shot,21590.0,h,False,SAC,155
+349,496,0,88,89,KINGS Rebound,Rebound,Unknown,21590.0,h,False,SAC,155
+350,497,0,88,89,End of 3rd Period (11:56 PM EST),period,end,21600.0,,False,SAC,155
+351,504,0,88,89,Start of 4th Period (11:59 PM EST),period,start,21600.0,,True,SAC,156
+352,505,1610612758,91,89,Murray 24' 3PT Jump Shot (20 PTS) (Fox 9 AST),Made Shot,Jump Shot,21720.0,h,False,SAC,156
+353,507,1610612750,91,91,DiVincenzo 9' Cutting Layup Shot (6 PTS) (Conley 4 AST),Made Shot,Cutting Layup Shot,21890.0,v,True,MIN,157
+354,509,1610612758,91,91,MISS Fox 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,21980.0,h,True,SAC,158
+355,510,1610612750,91,91,Reid REBOUND (Off:0 Def:9),Rebound,Unknown,22010.0,v,True,MIN,159
+356,511,1610612750,91,91,MISS Reid 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,22140.0,v,False,MIN,159
+357,512,1610612758,91,91,DeRozan REBOUND (Off:1 Def:3),Rebound,Unknown,22160.0,h,True,SAC,160
+358,513,1610612750,91,91,Gobert S.FOUL (P3.T1) (T.Ford),Foul,Shooting,22220.0,v,False,SAC,160
+359,515,1610612758,92,91,Len Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,22220.0,h,False,SAC,160
+360,516,1610612758,92,91,MISS Len Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22220.0,h,False,SAC,160
+361,517,1610612750,92,91,Reid REBOUND (Off:0 Def:10),Rebound,Unknown,22260.0,v,True,MIN,161
+362,518,1610612750,92,91,MISS Conley 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22370.0,v,False,MIN,161
+363,519,1610612758,92,91,Len REBOUND (Off:0 Def:2),Rebound,Unknown,22390.0,h,True,SAC,162
+364,520,1610612758,92,91,MISS Fox 16' Jump Shot,Missed Shot,Jump Shot,22630.0,h,False,SAC,162
+365,521,1610612750,92,91,Reid REBOUND (Off:0 Def:11),Rebound,Unknown,22660.0,v,True,MIN,163
+366,522,1610612750,92,91,MISS Conley 12' Floating Jump Shot,Missed Shot,Floating Jump shot,22820.0,v,False,MIN,163
+367,523,1610612750,92,91,Gobert REBOUND (Off:1 Def:9),Rebound,Unknown,22820.0,v,False,MIN,163
+368,524,1610612758,92,91,McDermott P.FOUL (P1.T1) (J.Van Duyne),Foul,Personal,22820.0,h,False,MIN,163
+369,526,1610612750,92,91,SUB: Edwards FOR Alexander-Walker,Substitution,,22820.0,v,False,MIN,163
+370,528,1610612750,92,91,MISS DiVincenzo 29' 3PT Jump Shot,Missed Shot,Jump Shot,22900.0,v,False,MIN,163
+371,529,1610612758,92,91,Murray REBOUND (Off:1 Def:9),Rebound,Unknown,22930.0,h,True,SAC,164
+372,530,1610612758,92,91,MISS McDermott 27' 3PT Jump Shot,Missed Shot,Jump Shot,23020.0,h,False,SAC,164
+373,531,1610612758,92,91,Murray REBOUND (Off:2 Def:9),Rebound,Unknown,23020.0,h,False,SAC,164
+374,532,1610612758,94,91,DeRozan 21' Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,23170.0,h,False,SAC,164
+375,533,1610612750,94,91,MISS DiVincenzo 12' Driving Layup,Missed Shot,Driving Layup Shot,23370.0,v,True,MIN,165
+376,533,1610612758,94,91,Len BLOCK (1 BLK),,,23370.0,h,False,MIN,165
+377,535,1610612758,94,91,Fox REBOUND (Off:0 Def:2),Rebound,Unknown,23400.0,h,True,SAC,166
+378,536,1610612758,97,91,Murray 25' 3PT Running Jump Shot (23 PTS) (Fox 10 AST),Made Shot,Running Jump Shot,23430.0,h,False,SAC,166
+379,538,1610612750,97,93,Edwards 2' Driving Reverse Layup (21 PTS),Made Shot,Driving Reverse Layup Shot,23530.0,v,True,MIN,167
+380,539,1610612758,97,93,Len S.FOUL (P1.T2) (T.Ford),Foul,Shooting,23530.0,h,False,MIN,167
+381,541,1610612750,97,93,SUB: Randle FOR Gobert,Substitution,,23530.0,v,False,MIN,167
+382,543,1610612750,97,94,Edwards Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,23530.0,v,False,MIN,167
+383,544,1610612750,97,94,Reid S.FOUL (P4.T2) (S.Mehta),Foul,Shooting,23620.0,v,True,SAC,168
+384,546,1610612758,98,94,DeRozan Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,23620.0,h,False,SAC,168
+385,547,1610612758,99,94,DeRozan Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,23620.0,h,False,SAC,168
+386,548,1610612750,99,97,Edwards 26' 3PT Jump Shot (25 PTS) (Randle 3 AST),Made Shot,Jump Shot,23720.0,v,True,MIN,169
+387,550,1610612758,99,97,MISS Fox 5' Driving Layup,Missed Shot,Driving Layup Shot,23910.0,h,True,SAC,170
+388,551,1610612750,99,97,Reid REBOUND (Off:0 Def:12),Rebound,Unknown,23930.0,v,True,MIN,171
+389,552,1610612750,99,100,Reid 26' 3PT Jump Shot (17 PTS) (DiVincenzo 1 AST),Made Shot,Jump Shot,24100.0,v,False,MIN,171
+390,554,0,99,100,KINGS Timeout: Regular (Full 4 Short 0),Timeout,Regular,24110.0,h,True,SAC,172
+391,555,1610612758,99,100,SUB: Monk FOR Fox,Substitution,,24110.0,h,False,SAC,172
+392,556,1610612758,99,100,SUB: Sabonis FOR Murray,Substitution,,24110.0,h,False,SAC,172
+393,557,1610612758,99,100,SUB: Ellis FOR Len,Substitution,,24110.0,h,False,SAC,172
+394,558,1610612750,99,100,SUB: McDaniels FOR Conley,Substitution,,24110.0,v,False,SAC,172
+395,563,1610612758,99,100,MISS DeRozan 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,24270.0,h,False,SAC,172
+396,564,1610612750,99,100,Edwards REBOUND (Off:1 Def:4),Rebound,Unknown,24300.0,v,True,MIN,173
+397,565,1610612750,99,100,MISS Edwards 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,24380.0,v,False,MIN,173
+398,566,1610612758,99,100,Sabonis REBOUND (Off:1 Def:6),Rebound,Unknown,24400.0,h,True,SAC,174
+399,567,1610612758,99,100,MISS DeRozan 9' Floating Jump Shot,Missed Shot,Floating Jump shot,24490.0,h,False,SAC,174
+400,568,1610612750,99,100,Reid REBOUND (Off:0 Def:13),Rebound,Unknown,24510.0,v,True,MIN,175
+401,569,1610612750,99,102,Edwards 8' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,24560.0,v,False,MIN,175
+402,570,1610612758,99,102,McDermott S.FOUL (P2.T3) (S.Mehta),Foul,Shooting,24560.0,h,False,MIN,175
+403,572,1610612750,99,103,Edwards Free Throw 1 of 1 (28 PTS),Free Throw,Free Throw 1 of 1,24560.0,v,False,MIN,175
+404,573,1610612758,99,103,MISS Monk 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,24680.0,h,True,SAC,176
+405,574,1610612750,99,103,Randle REBOUND (Off:0 Def:5),Rebound,Unknown,24700.0,v,True,MIN,177
+406,575,1610612750,99,103,MISS Edwards 17' Jump Shot,Missed Shot,Jump Shot,24790.0,v,False,MIN,177
+407,576,0,99,103,KINGS Rebound,Rebound,Unknown,24800.0,h,True,SAC,178
+408,578,1610612758,99,103,SUB: Fox FOR Ellis,Substitution,,24800.0,h,False,SAC,178
+409,580,1610612758,99,103,MISS DeRozan 10' Driving Layup,Missed Shot,Driving Layup Shot,24920.0,h,False,SAC,178
+410,580,1610612750,99,103,McDaniels BLOCK (1 BLK),,,24920.0,v,False,SAC,178
+411,582,0,99,103,Timberwolves Rebound,Rebound,Unknown,24920.0,v,True,MIN,179
+412,584,1610612758,99,103,SUB: Murray FOR McDermott,Substitution,,24920.0,h,False,MIN,179
+413,586,1610612750,99,105,Randle 2' Layup (31 PTS),Made Shot,Layup Shot,25120.0,v,False,MIN,179
+414,587,1610612750,99,105,McDaniels S.FOUL (P3.T3) (J.Van Duyne),Foul,Shooting,25230.0,v,True,SAC,180
+415,589,1610612758,100,105,DeRozan Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,25230.0,h,False,SAC,180
+416,590,1610612758,101,105,DeRozan Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,25230.0,h,False,SAC,180
+417,591,1610612750,101,105,Edwards Out of Bounds - Bad Pass Turnover Turnover (P3.T16),Turnover,Out of Bounds - Bad Pass Turnover,25380.0,v,True,MIN,181
+418,592,1610612758,103,105,Sabonis 4' Cutting Dunk Shot (18 PTS) (Fox 11 AST),Made Shot,Cutting Dunk Shot,25460.0,h,True,SAC,182
+419,594,1610612750,103,107,Reid 6' Hook Bank Shot (19 PTS) (DiVincenzo 2 AST),Made Shot,Hook Bank Shot,25590.0,v,True,MIN,183
+420,596,1610612750,103,107,Edwards P.FOUL (P4.T4) (T.Ford),Foul,Personal,25740.0,v,True,SAC,184
+421,598,1610612750,103,107,SUB: Gobert FOR Reid,Substitution,,25740.0,v,False,SAC,184
+422,600,1610612758,105,107,Sabonis 4' Turnaround Hook Shot (20 PTS),Made Shot,Turnaround Hook Shot,25850.0,h,False,SAC,184
+423,601,1610612750,105,110,DiVincenzo 32' 3PT Jump Shot (9 PTS) (Randle 4 AST),Made Shot,Jump Shot,26060.0,v,True,MIN,185
+424,603,1610612758,108,110,Sabonis 25' 3PT Jump Shot (23 PTS) (Monk 4 AST),Made Shot,Jump Shot,26250.0,h,True,SAC,186
+425,605,1610612750,108,110,MISS DiVincenzo 3PT Jump Shot,Missed Shot,Jump Shot,26500.0,v,True,MIN,187
+426,606,1610612758,108,110,DeRozan REBOUND (Off:1 Def:4),Rebound,Unknown,26520.0,h,True,SAC,188
+427,607,1610612758,108,110,MISS Monk 12' Floating Jump Shot,Missed Shot,Floating Jump shot,26620.0,h,False,SAC,188
+428,608,1610612750,108,110,Edwards REBOUND (Off:1 Def:5),Rebound,Unknown,26630.0,v,True,MIN,189
+429,609,0,108,110,Timberwolves Timeout: Regular (Reg.5 Short 0),Timeout,Regular,26640.0,v,False,MIN,189
+430,610,0,108,110,KINGS Timeout: Regular (Full 5 Short 0),Timeout,Regular,26640.0,h,False,MIN,189
+431,611,1610612750,108,110,SUB: Conley FOR DiVincenzo,Substitution,,26640.0,v,False,MIN,189
+432,613,1610612750,108,112,Randle 8' Fadeaway Jumper (33 PTS),Made Shot,Fadeaway Jump Shot,26840.0,v,False,MIN,189
+433,614,1610612750,108,112,Gobert P.FOUL (P4.PN) (S.Mehta),Foul,Personal,26970.0,v,True,SAC,190
+434,616,1610612758,109,112,Sabonis Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,26970.0,h,False,SAC,190
+435,617,1610612758,109,112,MISS Sabonis Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26970.0,h,False,SAC,190
+436,618,1610612750,109,112,Gobert REBOUND (Off:1 Def:10),Rebound,Unknown,27000.0,v,True,MIN,191
+437,619,1610612750,109,112,Randle Traveling Turnover (P3.T17),Turnover,Traveling,27110.0,v,False,MIN,191
+438,620,1610612758,111,112,DeRozan 4' Driving Reverse Layup (26 PTS),Made Shot,Driving Reverse Layup Shot,27220.0,h,True,SAC,192
+439,621,1610612750,111,112,MISS McDaniels 3PT Jump Shot,Missed Shot,Jump Shot,27370.0,v,True,MIN,193
+440,622,1610612758,111,112,DeRozan REBOUND (Off:1 Def:5),Rebound,Unknown,27390.0,h,True,SAC,194
+441,623,1610612750,111,112,Randle S.FOUL (P3.PN) (J.Van Duyne),Foul,Shooting,27400.0,v,False,SAC,194
+442,625,1610612758,111,112,MISS Monk Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,27400.0,h,False,SAC,194
+443,626,0,111,112,KINGS Rebound,Rebound,Normal Rebound,27400.0,h,False,SAC,194
+444,627,1610612750,111,112,SUB: DiVincenzo FOR McDaniels,Substitution,,27400.0,v,False,SAC,194
+445,629,1610612758,112,112,Monk Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,27400.0,h,False,SAC,194
+446,630,1610612750,112,112,MISS Randle 9' Floating Jump Shot,Missed Shot,Floating Jump shot,27580.0,v,True,MIN,195
+447,631,1610612750,112,112,Conley REBOUND (Off:1 Def:0),Rebound,Unknown,27610.0,v,False,MIN,195
+448,632,1610612750,112,112,MISS Conley 24' 3PT Jump Shot,Missed Shot,Jump Shot,27680.0,v,False,MIN,195
+449,633,1610612758,112,112,Sabonis REBOUND (Off:1 Def:7),Rebound,Unknown,27710.0,h,True,SAC,196
+450,634,1610612758,112,112,MISS DeRozan 11' Jump Bank Shot,Missed Shot,Jump Bank Shot,27830.0,h,False,SAC,196
+451,635,1610612750,112,112,Conley REBOUND (Off:1 Def:1),Rebound,Unknown,27850.0,v,True,MIN,197
+452,636,1610612750,112,114,Edwards 23' Step Back Jump Shot (30 PTS),Made Shot,Step Back Jump shot,27920.0,v,False,MIN,197
+453,637,1610612758,112,114,MISS DeRozan 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,28060.0,h,True,SAC,198
+454,638,1610612750,112,114,Edwards REBOUND (Off:1 Def:6),Rebound,Unknown,28080.0,v,True,MIN,199
+455,639,1610612750,112,114,MISS Edwards 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,28160.0,v,False,MIN,199
+456,640,1610612758,112,114,DeRozan REBOUND (Off:1 Def:6),Rebound,Unknown,28190.0,h,True,SAC,200
+457,641,1610612758,114,114,Monk 7' Driving Layup (16 PTS),Made Shot,Driving Layup Shot,28267.0,h,False,SAC,200
+458,642,1610612750,114,114,DiVincenzo S.FOUL (P3.PN) (S.Mehta),Foul,Shooting,28267.0,v,False,SAC,200
+459,644,1610612758,115,114,Monk Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,28267.0,h,False,SAC,200
+460,645,1610612758,115,114,Sabonis S.FOUL (P3.T4) (S.Mehta),Foul,Shooting,28418.0,h,True,MIN,201
+461,647,1610612750,115,115,Gobert Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,28418.0,v,False,MIN,201
+462,648,1610612750,115,115,SUB: McDaniels FOR DiVincenzo,Substitution,,28418.0,v,False,MIN,201
+463,655,1610612750,115,115,SUB: Alexander-Walker FOR Conley,Substitution,,28418.0,v,False,MIN,201
+464,650,1610612750,115,115,MISS Gobert Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,28418.0,v,False,MIN,201
+465,651,1610612758,115,115,DeRozan REBOUND (Off:1 Def:7),Rebound,Unknown,28440.0,h,True,SAC,202
+466,652,1610612758,115,115,MISS Fox 18' Pullup Jump Shot,Missed Shot,Pullup Jump shot,28525.0,h,False,SAC,202
+467,653,0,115,115,Timberwolves Rebound,Rebound,Unknown,28543.0,v,True,MIN,203
+468,657,0,115,115,KINGS Timeout: Regular (Full 6 Short 0),Timeout,Regular,28543.0,h,False,MIN,203
+469,659,1610612750,115,115,SUB: Conley FOR Gobert,Substitution,,28543.0,v,False,MIN,203
+470,660,1610612750,115,115,SUB: Reid FOR Alexander-Walker,Substitution,,28543.0,v,False,MIN,203
+471,658,0,115,115,Instant Replay4th Period (12:28 AM EST),Instant Replay,Coach Challenge Ruling Stands,28543.0,,False,MIN,203
+472,664,1610612758,115,115,Sabonis S.FOUL (P4.PN) (J.Van Duyne),Foul,Shooting,28776.0,h,False,MIN,203
+473,666,1610612750,115,116,Edwards Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,28776.0,v,False,MIN,203
+474,667,1610612750,115,116,SUB: Gobert FOR Reid,Substitution,,28776.0,v,False,MIN,203
+475,669,1610612758,115,116,SUB: Len FOR Monk,Substitution,,28776.0,h,False,MIN,203
+476,671,1610612750,115,117,Edwards Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,28776.0,v,False,MIN,203
+477,672,0,115,117,KINGS Timeout: Regular (Full 7 Short 0),Timeout,Regular,28776.0,h,False,MIN,203
+478,673,1610612758,115,117,SUB: Monk FOR Len,Substitution,,28776.0,h,False,MIN,203
+479,674,1610612750,115,117,SUB: Reid FOR Gobert,Substitution,,28776.0,v,False,MIN,203
+480,675,1610612750,115,117,SUB: Alexander-Walker FOR Randle,Substitution,,28776.0,v,False,MIN,203
+481,679,1610612758,115,117,MISS Murray 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28800.0,h,True,SAC,204
+482,680,0,115,117,KINGS Rebound,Rebound,Unknown,28800.0,h,False,SAC,204
+483,681,0,115,117,End of 4th Period (12:34 AM EST),period,end,28800.0,,False,SAC,204

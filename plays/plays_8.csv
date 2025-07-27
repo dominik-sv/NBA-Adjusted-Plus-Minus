@@ -1,0 +1,521 @@
+,actionNumber,teamId,scoreHome,scoreAway,description,actionType,subType,time,location,newPossession,possession,possessionCount
+0,2,0,0,0,Start of 1st Period (7:45 PM EST),period,start,0.0,,False,,0
+1,4,1610612755,0,0,Jump Ball Drummond vs. Lopez: Tip to Maxey,Jump Ball,,0.0,h,True,PHI,1
+2,7,1610612755,0,0,MISS Oubre Jr. 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,270.0,h,False,PHI,1
+3,8,1610612749,0,0,Lopez REBOUND (Off:0 Def:1),Rebound,Unknown,300.0,v,True,MIL,2
+4,9,1610612755,0,0,Oubre Jr. S.FOUL (P1.T1) (S.Foster),Foul,Shooting,340.0,h,False,MIL,2
+5,11,1610612749,0,1,Antetokounmpo Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,340.0,v,False,MIL,2
+6,12,1610612749,0,2,Antetokounmpo Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,340.0,v,False,MIL,2
+7,13,1610612755,3,2,Maxey 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,560.0,h,True,PHI,3
+8,14,1610612749,3,2,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,740.0,v,True,MIL,4
+9,15,1610612755,3,2,Drummond REBOUND (Off:0 Def:1),Rebound,Unknown,760.0,h,True,PHI,5
+10,16,1610612755,3,2,MISS Maxey 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,810.0,h,False,PHI,5
+11,17,1610612749,3,2,Lillard REBOUND (Off:0 Def:1),Rebound,Unknown,840.0,v,True,MIL,6
+12,18,1610612755,3,2,K. Martin P.FOUL (P1.T2) (M.Kogut),Foul,Personal,880.0,h,False,MIL,6
+13,20,1610612749,3,2,MISS Lopez 7' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,980.0,v,False,MIL,6
+14,22,1610612755,3,2,Maxey REBOUND (Off:0 Def:1),Rebound,Unknown,1000.0,h,True,PHI,7
+15,23,1610612755,3,2,MISS Maxey 4' Running Layup,Missed Shot,Running Layup Shot,1060.0,h,False,PHI,7
+16,24,1610612755,3,2,Drummond REBOUND (Off:1 Def:1),Rebound,Unknown,1080.0,h,False,PHI,7
+17,25,1610612755,3,2,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,1130.0,h,False,PHI,7
+18,26,1610612749,3,2,Antetokounmpo REBOUND (Off:0 Def:1),Rebound,Unknown,1160.0,v,True,MIL,8
+19,27,1610612749,3,2,MISS Trent Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,1320.0,v,False,MIL,8
+20,28,1610612755,3,2,Drummond REBOUND (Off:1 Def:2),Rebound,Unknown,1360.0,h,True,PHI,9
+21,29,1610612749,3,2,Prince Violation:Kicked Ball (S.Foster),Violation,Kicked Ball,1420.0,v,False,PHI,9
+22,30,1610612755,3,2,MISS Maxey 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,1570.0,h,False,PHI,9
+23,31,1610612749,3,2,Antetokounmpo REBOUND (Off:0 Def:2),Rebound,Unknown,1590.0,v,True,MIL,10
+24,32,1610612749,3,4,Antetokounmpo 1' Cutting Dunk Shot (4 PTS) (Prince 1 AST),Made Shot,Cutting Dunk Shot,1670.0,v,False,MIL,10
+25,34,1610612749,3,4,Trent Jr. P.FOUL (P1.T1) (B.Forte),Foul,Personal,1740.0,v,True,PHI,11
+26,36,1610612755,3,4,MISS Oubre Jr. 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,1880.0,h,False,PHI,11
+27,36,1610612749,3,4,Lopez BLOCK (1 BLK),,,1880.0,v,False,PHI,11
+28,38,1610612749,3,4,Antetokounmpo REBOUND (Off:0 Def:3),Rebound,Unknown,1910.0,v,True,MIL,12
+29,39,1610612749,3,4,Antetokounmpo Out of Bounds Lost Ball Turnover (P1.T1),Turnover,Out of Bounds Lost Ball Turnover,1930.0,v,False,MIL,12
+30,40,1610612749,3,4,Antetokounmpo S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,2030.0,v,True,PHI,13
+31,42,1610612755,3,4,MISS K. Martin Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,2030.0,h,False,PHI,13
+32,43,0,3,4,76ERS Rebound,Rebound,Normal Rebound,2030.0,h,False,PHI,13
+33,44,1610612755,4,4,K. Martin Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,2030.0,h,False,PHI,13
+34,45,1610612749,4,4,MISS Antetokounmpo 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,2130.0,v,True,MIL,14
+35,46,1610612755,4,4,K. Martin REBOUND (Off:0 Def:1),Rebound,Unknown,2150.0,h,True,PHI,15
+36,47,1610612755,4,4,MISS K. Martin 2' Driving Hook Shot,Missed Shot,Driving Hook Shot,2220.0,h,False,PHI,15
+37,48,1610612755,4,4,Drummond REBOUND (Off:2 Def:2),Rebound,Unknown,2240.0,h,False,PHI,15
+38,49,1610612755,6,4,Drummond Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,2280.0,h,False,PHI,15
+39,50,1610612749,6,4,MISS Lillard 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,2380.0,v,True,MIL,16
+40,51,1610612755,6,4,Drummond REBOUND (Off:2 Def:3),Rebound,Unknown,2400.0,h,True,PHI,17
+41,52,1610612755,6,4,MISS Maxey 2' Driving Layup,Missed Shot,Driving Layup Shot,2470.0,h,False,PHI,17
+42,53,1610612755,6,4,K. Martin REBOUND (Off:1 Def:1),Rebound,Unknown,2480.0,h,False,PHI,17
+43,54,1610612755,8,4,K. Martin Tip Layup Shot (3 PTS),Made Shot,Tip Layup Shot,2490.0,h,False,PHI,17
+44,55,1610612755,8,4,K. Martin P.FOUL (P2.T3) (B.Forte),Foul,Personal,2610.0,h,True,MIL,18
+45,57,1610612755,8,4,SUB: C. Martin FOR K. Martin,Substitution,,2610.0,h,False,MIL,18
+46,59,1610612749,8,4,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,2690.0,v,False,MIL,18
+47,60,1610612755,8,4,Maxey REBOUND (Off:0 Def:2),Rebound,Unknown,2730.0,h,True,PHI,19
+48,61,1610612755,8,4,MISS Gordon 2' Driving Layup,Missed Shot,Driving Layup Shot,2800.0,h,False,PHI,19
+49,61,1610612749,8,4,Lopez BLOCK (2 BLK),,,2800.0,v,False,PHI,19
+50,63,1610612749,8,4,Antetokounmpo REBOUND (Off:0 Def:4),Rebound,Unknown,2830.0,v,True,MIL,20
+51,64,1610612755,8,4,Drummond S.FOUL (P1.T4) (S.Foster),Foul,Shooting,2840.0,h,False,MIL,20
+52,66,1610612749,8,5,Lillard Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,2840.0,v,False,MIL,20
+53,67,1610612749,8,6,Lillard Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,2840.0,v,False,MIL,20
+54,68,1610612755,8,6,MISS Oubre Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,2950.0,h,True,PHI,21
+55,69,1610612755,8,6,C. Martin REBOUND (Off:1 Def:0),Rebound,Unknown,2980.0,h,False,PHI,21
+56,70,1610612755,10,6,Oubre Jr. 2' Cutting Layup Shot (2 PTS) (C. Martin 1 AST),Made Shot,Cutting Layup Shot,3000.0,h,False,PHI,21
+57,72,1610612749,10,8,Lillard 7' Step Back Bank Jump Shot (4 PTS),Made Shot,Step Back Bank Jump Shot,3120.0,v,True,MIL,22
+58,73,1610612755,10,8,MISS Maxey 5' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,3240.0,h,True,PHI,23
+59,74,1610612749,10,8,Antetokounmpo REBOUND (Off:0 Def:5),Rebound,Unknown,3260.0,v,True,MIL,24
+60,75,1610612749,10,10,Antetokounmpo 17' Pullup Jump Shot (6 PTS),Made Shot,Pullup Jump shot,3370.0,v,False,MIL,24
+61,76,0,10,10,76ERS Timeout: Regular (Full 1 Short 0),Timeout,Regular,3480.0,h,True,PHI,25
+62,78,1610612755,10,10,SUB: Yabusele FOR Oubre Jr.,Substitution,,3480.0,h,False,PHI,25
+63,79,1610612749,10,10,SUB: Portis FOR Antetokounmpo,Substitution,,3480.0,v,False,PHI,25
+64,82,1610612755,12,10,Maxey 7' Driving Floating Jump Shot (5 PTS),Made Shot,Driving Floating Jump Shot,3690.0,h,False,PHI,25
+65,83,1610612749,12,10,MISS Portis 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,3880.0,v,True,MIL,26
+66,84,1610612755,12,10,Drummond REBOUND (Off:2 Def:4),Rebound,Unknown,3910.0,h,True,PHI,27
+67,85,1610612755,12,10,MISS Maxey 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,4020.0,h,False,PHI,27
+68,86,1610612749,12,10,Prince REBOUND (Off:0 Def:1),Rebound,Unknown,4060.0,v,True,MIL,28
+69,87,1610612749,12,12,Portis 1' Layup (2 PTS) (Prince 2 AST),Made Shot,Layup Shot,4130.0,v,False,MIL,28
+70,89,1610612755,12,12,MISS C. Martin 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,4310.0,h,True,PHI,29
+71,90,1610612755,12,12,Drummond REBOUND (Off:3 Def:4),Rebound,Unknown,4330.0,h,False,PHI,29
+72,114,1610612755,12,12,MISS Drummond 1' Tip Layup Shot,Missed Shot,Tip Layup Shot,4340.0,h,False,PHI,29
+73,115,1610612749,12,12,Lopez REBOUND (Off:0 Def:2),Rebound,Unknown,4350.0,v,True,MIL,30
+74,91,1610612749,12,12,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,4480.0,v,False,MIL,30
+75,92,1610612755,12,12,C. Martin REBOUND (Off:1 Def:1),Rebound,Unknown,4510.0,h,True,PHI,31
+76,93,1610612755,15,12,Yabusele 3PT Jump Shot (3 PTS) (C. Martin 2 AST),Made Shot,Jump Shot,4670.0,h,False,PHI,31
+77,96,1610612749,15,12,Portis Offensive Goaltending Turnover (P1.T2),Turnover,Offensive Goaltending,4940.0,v,True,MIL,32
+78,97,1610612755,15,12,SUB: Lowry FOR Drummond,Substitution,,4940.0,h,True,PHI,33
+79,98,1610612755,15,12,SUB: Oubre Jr. FOR Gordon,Substitution,,4940.0,h,False,PHI,33
+80,99,1610612749,15,12,SUB: Connaughton FOR Prince,Substitution,,4940.0,v,False,PHI,33
+81,104,1610612755,17,12,C. Martin 21' Step Back Jump Shot (2 PTS),Made Shot,Step Back Jump shot,5150.0,h,False,PHI,33
+82,105,1610612749,17,12,MISS Lopez 3' Hook Shot,Missed Shot,Hook Shot,5300.0,v,True,MIL,34
+83,106,1610612749,17,12,Portis REBOUND (Off:1 Def:0),Rebound,Unknown,5320.0,v,False,MIL,34
+84,107,1610612749,17,14,Portis 2' Layup (4 PTS),Made Shot,Layup Shot,5350.0,v,False,MIL,34
+85,108,1610612755,17,14,MISS Maxey 1' Driving Layup,Missed Shot,Driving Layup Shot,5470.0,h,True,PHI,35
+86,109,1610612749,17,14,Portis REBOUND (Off:1 Def:1),Rebound,Unknown,5490.0,v,True,MIL,36
+87,110,1610612749,17,14,Portis Lost Ball Turnover (P2.T3),Turnover,Lost Ball,5500.0,v,False,MIL,36
+88,112,1610612749,17,14,Portis L.B.FOUL (P1.T3) (S.Foster),Foul,Loose Ball,5510.0,v,True,PHI,37
+89,116,0,17,14,Bucks Timeout: Regular (Reg.1 Short 0),Timeout,Regular,5510.0,v,False,PHI,37
+90,117,1610612749,17,14,SUB: Antetokounmpo FOR Lopez,Substitution,,5510.0,v,False,PHI,37
+91,119,1610612755,17,14,MISS C. Martin 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,5570.0,h,False,PHI,37
+92,120,1610612755,17,14,Yabusele REBOUND (Off:1 Def:0),Rebound,Unknown,5590.0,h,False,PHI,37
+93,121,1610612755,17,14,MISS Yabusele 5' Driving Layup,Missed Shot,Driving Layup Shot,5600.0,h,False,PHI,37
+94,122,1610612749,17,14,Connaughton REBOUND (Off:0 Def:1),Rebound,Unknown,5620.0,v,True,MIL,38
+95,123,1610612749,17,16,Portis 1' Driving Layup (6 PTS) (Antetokounmpo 1 AST),Made Shot,Driving Layup Shot,5770.0,v,False,MIL,38
+96,125,1610612755,17,16,MISS Maxey 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,5880.0,h,True,PHI,39
+97,126,1610612749,17,16,Connaughton REBOUND (Off:0 Def:2),Rebound,Unknown,5930.0,v,True,MIL,40
+98,129,1610612749,17,16,MISS Lillard 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6040.0,v,False,MIL,40
+99,129,1610612755,17,16,Maxey BLOCK (1 BLK),,,6040.0,h,False,MIL,40
+100,131,1610612749,17,16,Antetokounmpo REBOUND (Off:1 Def:5),Rebound,Unknown,6050.0,v,False,MIL,40
+101,132,1610612749,17,19,Portis 3PT Jump Shot (9 PTS) (Antetokounmpo 2 AST),Made Shot,Jump Shot,6060.0,v,False,MIL,40
+102,134,1610612755,17,19,MISS Oubre Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6290.0,h,True,PHI,41
+103,135,1610612749,17,19,Antetokounmpo REBOUND (Off:1 Def:6),Rebound,Unknown,6320.0,v,True,MIL,42
+104,136,1610612755,17,19,Oubre Jr. S.FOUL (P2.PN) (S.Foster),Foul,Shooting,6360.0,h,False,MIL,42
+105,138,1610612749,17,19,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,6360.0,v,False,MIL,42
+106,139,0,17,19,Bucks Rebound,Rebound,Normal Rebound,6360.0,v,False,MIL,42
+107,140,1610612755,17,19,SUB: Gordon FOR Maxey,Substitution,,6360.0,h,False,MIL,42
+108,141,1610612749,17,19,SUB: Wright FOR Lillard,Substitution,,6360.0,v,False,MIL,42
+109,144,1610612749,17,19,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,6360.0,v,False,MIL,42
+110,145,1610612755,17,19,Yabusele REBOUND (Off:1 Def:1),Rebound,Unknown,6400.0,h,True,PHI,43
+111,146,1610612755,19,19,Lowry 21' Pullup Jump Shot (2 PTS) (Yabusele 1 AST),Made Shot,Pullup Jump shot,6600.0,h,False,PHI,43
+112,149,1610612749,19,19,SUB: Green FOR Trent Jr.,Substitution,,6727.0,v,True,MIL,44
+113,151,1610612749,19,21,Antetokounmpo 1' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,6764.0,v,False,MIL,44
+114,152,1610612755,19,21,Yabusele S.FOUL (P1.PN) (M.Kogut),Foul,Shooting,6764.0,h,False,MIL,44
+115,154,1610612749,19,22,Antetokounmpo Free Throw 1 of 1 (9 PTS),Free Throw,Free Throw 1 of 1,6764.0,v,False,MIL,44
+116,155,1610612755,21,22,Yabusele 1' Cutting Layup Shot (5 PTS) (Gordon 1 AST),Made Shot,Cutting Layup Shot,6889.0,h,True,PHI,45
+117,157,1610612749,21,22,MISS Connaughton 24' 3PT Jump Shot,Missed Shot,Jump Shot,6955.0,v,True,MIL,46
+118,158,1610612755,21,22,Lowry REBOUND (Off:0 Def:1),Rebound,Unknown,6985.0,h,True,PHI,47
+119,159,1610612749,21,22,Antetokounmpo P.FOUL (P2.T4) (B.Forte),Foul,Personal,7144.0,v,False,PHI,47
+120,161,1610612755,21,22,SUB: Maxey FOR C. Martin,Substitution,,7144.0,h,False,PHI,47
+121,162,1610612749,21,22,SUB: Prince FOR Antetokounmpo,Substitution,,7144.0,v,False,PHI,47
+122,165,1610612755,23,22,Maxey 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,7198.0,h,False,PHI,47
+123,166,0,23,22,Instant Replay1st Period (8:12 PM EST),Instant Replay,Support Ruling,7200.0,,True,MIL,48
+124,167,0,23,22,End of 1st Period (8:13 PM EST),period,end,7200.0,,False,MIL,48
+125,174,0,23,22,Start of 2nd Period (8:16 PM EST),period,start,7200.0,,True,MIL,49
+126,176,1610612749,23,22,MISS Portis 14' Jump Shot,Missed Shot,Jump Shot,7390.0,v,False,MIL,49
+127,177,1610612755,23,22,K. Martin REBOUND (Off:1 Def:2),Rebound,Unknown,7420.0,h,True,PHI,50
+128,178,1610612755,23,22,MISS Lowry 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,7460.0,h,False,PHI,50
+129,179,0,23,22,76ERS Rebound,Rebound,Unknown,7460.0,h,False,PHI,50
+130,180,1610612749,23,22,Connaughton L.B.FOUL (P1.T1) (M.Kogut),Foul,Loose Ball,7460.0,v,False,PHI,50
+131,182,1610612755,23,22,Yabusele OFF.Foul (P2) (B.Forte),Foul,Offensive,7510.0,h,False,PHI,50
+132,184,1610612755,23,22,Yabusele Offensive Foul Turnover (P1.T1),Turnover,Offensive Foul Turnover,7510.0,h,False,PHI,50
+133,185,1610612749,23,22,MISS Wright 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,7660.0,v,True,MIL,51
+134,186,1610612755,23,22,Yabusele REBOUND (Off:1 Def:2),Rebound,Unknown,7680.0,h,True,PHI,52
+135,187,1610612755,25,22,Oubre Jr. 6' Driving Floating Jump Shot (4 PTS) (Yabusele 2 AST),Made Shot,Driving Floating Jump Shot,7780.0,h,False,PHI,52
+136,190,1610612749,25,24,Portis 20' Jump Shot (11 PTS) (Green 1 AST),Made Shot,Jump Shot,8030.0,v,True,MIL,53
+137,192,1610612755,25,24,MISS Yabusele 26' 3PT Jump Shot,Missed Shot,Jump Shot,8240.0,h,True,PHI,54
+138,193,1610612749,25,24,Antetokounmpo REBOUND (Off:1 Def:7),Rebound,Unknown,8260.0,v,True,MIL,55
+139,194,1610612749,25,27,Connaughton 26' 3PT Jump Shot (3 PTS) (Antetokounmpo 3 AST),Made Shot,Jump Shot,8360.0,v,False,MIL,55
+140,196,1610612755,27,27,Oubre Jr. 4' Driving Floating Jump Shot (6 PTS),Made Shot,Driving Floating Jump Shot,8610.0,h,True,PHI,56
+141,197,1610612749,27,29,Connaughton 5' Driving Layup (5 PTS) (Antetokounmpo 4 AST),Made Shot,Driving Layup Shot,8850.0,v,True,MIL,57
+142,199,1610612755,27,29,Yabusele Bad Pass Turnover (P2.T2),Turnover,Bad Pass,9110.0,h,True,PHI,58
+143,199,1610612749,27,29,Green STEAL (1 STL),,,9110.0,v,True,MIL,59
+144,201,1610612749,27,31,Antetokounmpo 1' Running Dunk (11 PTS) (Connaughton 1 AST),Made Shot,Running Dunk Shot,9170.0,v,False,MIL,59
+145,203,0,27,31,76ERS Timeout: Regular (Full 2 Short 0),Timeout,Regular,9170.0,h,True,PHI,60
+146,204,1610612755,27,31,SUB: Maxey FOR Lowry,Substitution,,9170.0,h,False,PHI,60
+147,205,1610612755,27,31,SUB: Gordon FOR Oubre Jr.,Substitution,,9170.0,h,False,PHI,60
+148,206,1610612755,27,31,SUB: Drummond FOR Yabusele,Substitution,,9170.0,h,False,PHI,60
+149,207,1610612749,27,31,SUB: Trent Jr. FOR Green,Substitution,,9170.0,v,False,PHI,60
+150,212,1610612755,29,31,Maxey 8' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,9350.0,h,False,PHI,60
+151,213,1610612749,29,31,MISS Connaughton 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,9510.0,v,True,MIL,61
+152,214,1610612755,29,31,Drummond REBOUND (Off:3 Def:5),Rebound,Unknown,9530.0,h,True,PHI,62
+153,215,1610612755,31,31,Maxey 12' Fadeaway Jumper (11 PTS),Made Shot,Fadeaway Jump Shot,9620.0,h,False,PHI,62
+154,216,1610612755,31,31,Gordon P.FOUL (P1.T1) (S.Foster),Foul,Personal,9750.0,h,True,MIL,63
+155,218,1610612749,31,31,SUB: Lillard FOR Antetokounmpo,Substitution,,9750.0,v,False,MIL,63
+156,219,1610612749,31,31,SUB: Lopez FOR Wright,Substitution,,9750.0,v,False,MIL,63
+157,222,1610612749,31,33,Connaughton 2' Cutting Dunk Shot (7 PTS) (Portis 1 AST),Made Shot,Cutting Dunk Shot,9790.0,v,False,MIL,63
+158,224,1610612755,31,33,MISS Maxey 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,9900.0,h,True,PHI,64
+159,225,1610612755,31,33,C. Martin REBOUND (Off:2 Def:1),Rebound,Unknown,9930.0,h,False,PHI,64
+160,226,1610612755,31,33,MISS Gordon 29' 3PT Jump Shot,Missed Shot,Jump Shot,10000.0,h,False,PHI,64
+161,227,1610612749,31,33,Lillard REBOUND (Off:0 Def:2),Rebound,Unknown,10030.0,v,True,MIL,65
+162,228,1610612749,31,33,MISS Portis 3' Reverse Layup,Missed Shot,Reverse Layup Shot,10110.0,v,False,MIL,65
+163,229,1610612755,31,33,Maxey REBOUND (Off:0 Def:3),Rebound,Unknown,10130.0,h,True,PHI,66
+164,230,1610612755,31,33,MISS Gordon 2' Running Finger Roll Layup,Missed Shot,Running Finger Roll Layup Shot,10160.0,h,False,PHI,66
+165,230,1610612749,31,33,Connaughton BLOCK (1 BLK),,,10160.0,v,False,PHI,66
+166,231,1610612749,31,33,Trent Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,10160.0,v,True,MIL,67
+167,232,1610612749,31,33,MISS Trent Jr. 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,10230.0,v,False,MIL,67
+168,233,1610612755,31,33,Drummond REBOUND (Off:3 Def:6),Rebound,Unknown,10230.0,h,True,PHI,68
+169,234,1610612755,31,33,MISS Maxey Running Layup,Missed Shot,Running Layup Shot,10330.0,h,False,PHI,68
+170,235,1610612749,31,33,Lillard REBOUND (Off:0 Def:3),Rebound,Unknown,10360.0,v,True,MIL,69
+171,238,1610612749,31,33,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,10440.0,v,False,MIL,69
+172,239,1610612755,31,33,C. Martin REBOUND (Off:2 Def:2),Rebound,Unknown,10470.0,h,True,PHI,70
+173,240,1610612755,33,33,Gordon 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,10550.0,h,False,PHI,70
+174,241,1610612749,33,36,Lillard 3PT Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,10730.0,v,True,MIL,71
+175,243,1610612755,35,36,C. Martin 12' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,10820.0,h,True,PHI,72
+176,244,1610612749,35,36,Lopez OFF.Foul (P1) (M.Kogut),Foul,Offensive,10940.0,v,True,MIL,73
+177,246,1610612749,35,36,Lopez Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,10940.0,v,False,MIL,73
+178,247,1610612755,35,36,SUB: Oubre Jr. FOR C. Martin,Substitution,,10940.0,h,True,PHI,74
+179,248,1610612749,35,36,SUB: Prince FOR Connaughton,Substitution,,10940.0,v,False,PHI,74
+180,251,1610612755,35,36,MISS Maxey Driving Layup,Missed Shot,Driving Layup Shot,11090.0,h,False,PHI,74
+181,251,1610612749,35,36,Lopez BLOCK (3 BLK),,,11090.0,v,False,PHI,74
+182,253,1610612755,35,36,K. Martin REBOUND (Off:2 Def:2),Rebound,Unknown,11120.0,h,False,PHI,74
+183,254,1610612755,35,36,MISS K. Martin 3' Hook Shot,Missed Shot,Hook Shot,11130.0,h,False,PHI,74
+184,255,1610612749,35,36,Prince REBOUND (Off:0 Def:2),Rebound,Unknown,11150.0,v,True,MIL,75
+185,256,1610612749,35,36,MISS Lillard 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,11310.0,v,False,MIL,75
+186,257,1610612749,35,36,Lillard REBOUND (Off:1 Def:3),Rebound,Unknown,11310.0,v,False,MIL,75
+187,258,1610612749,35,36,MISS Lillard Tip Layup Shot,Missed Shot,Tip Layup Shot,11310.0,v,False,MIL,75
+188,259,1610612749,35,36,Lillard REBOUND (Off:2 Def:3),Rebound,Unknown,11310.0,v,False,MIL,75
+189,260,1610612755,35,36,Oubre Jr. P.FOUL (P3.T2) (B.Forte),Foul,Personal,11310.0,h,False,MIL,75
+190,262,1610612749,35,38,Trent Jr. 2' Cutting Layup Shot (2 PTS) (Portis 2 AST),Made Shot,Cutting Layup Shot,11350.0,v,False,MIL,75
+191,264,1610612755,35,38,Maxey S.FOUL (P1.T3) (S.Foster),Foul,Shooting,11350.0,h,False,MIL,75
+192,266,1610612749,35,39,Trent Jr. Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,11350.0,v,False,MIL,75
+193,267,1610612755,37,39,Oubre Jr. 5' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,11520.0,h,True,PHI,76
+194,268,1610612749,37,41,Lillard 1' Driving Reverse Layup (9 PTS),Made Shot,Driving Reverse Layup Shot,11640.0,v,True,MIL,77
+195,269,1610612755,37,41,MISS Oubre Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,11730.0,h,True,PHI,78
+196,270,1610612755,37,41,Oubre Jr. REBOUND (Off:1 Def:0),Rebound,Unknown,11760.0,h,False,PHI,78
+197,271,1610612755,37,41,MISS Oubre Jr. 2' Driving Layup,Missed Shot,Driving Layup Shot,11780.0,h,False,PHI,78
+198,271,1610612749,37,41,Portis BLOCK (1 BLK),,,11780.0,v,False,PHI,78
+199,272,1610612749,37,41,Portis REBOUND (Off:1 Def:2),Rebound,Unknown,11780.0,v,True,MIL,79
+200,273,1610612749,37,43,Prince 2' Layup (2 PTS) (Portis 3 AST),Made Shot,Layup Shot,11900.0,v,False,MIL,79
+201,275,1610612755,37,43,Oubre Jr. Bad Pass Turnover (P1.T3),Turnover,Bad Pass,12050.0,h,True,PHI,80
+202,275,1610612749,37,43,Portis STEAL (1 STL),,,12050.0,v,True,MIL,81
+203,277,1610612749,37,45,Portis 2' Running Layup (13 PTS),Made Shot,Running Layup Shot,12070.0,v,False,MIL,81
+204,278,0,37,45,76ERS Timeout: Regular (Full 3 Short 0),Timeout,Regular,12070.0,h,True,PHI,82
+205,280,1610612755,37,45,SUB: C. Martin FOR K. Martin,Substitution,,12070.0,h,False,PHI,82
+206,281,1610612755,37,45,SUB: Yabusele FOR Gordon,Substitution,,12070.0,h,False,PHI,82
+207,282,1610612755,37,45,SUB: Lowry FOR Oubre Jr.,Substitution,,12070.0,h,False,PHI,82
+208,286,1610612755,37,45,MISS Drummond 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,12260.0,h,False,PHI,82
+209,287,1610612749,37,45,Prince REBOUND (Off:0 Def:3),Rebound,Unknown,12280.0,v,True,MIL,83
+210,288,1610612749,37,48,Prince 25' 3PT Jump Shot (5 PTS) (Lillard 1 AST),Made Shot,Jump Shot,12350.0,v,False,MIL,83
+211,290,1610612755,39,48,Maxey 9' Driving Floating Jump Shot (13 PTS) (Lowry 1 AST),Made Shot,Driving Floating Jump Shot,12550.0,h,True,PHI,84
+212,292,1610612749,39,51,Prince 3PT Jump Shot (8 PTS) (Lopez 1 AST),Made Shot,Jump Shot,12710.0,v,True,MIL,85
+213,294,1610612755,42,51,Lowry 24' 3PT Jump Shot (5 PTS) (Maxey 1 AST),Made Shot,Jump Shot,12840.0,h,True,PHI,86
+214,296,1610612749,42,54,Lillard 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,12950.0,v,True,MIL,87
+215,297,1610612755,42,54,MISS Maxey 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,13060.0,h,True,PHI,88
+216,298,1610612749,42,54,Lopez REBOUND (Off:0 Def:3),Rebound,Unknown,13080.0,v,True,MIL,89
+217,299,1610612755,42,54,C. Martin P.FOUL (P1.T4) (S.Foster),Foul,Personal,13130.0,h,False,MIL,89
+218,301,1610612749,42,54,SUB: Antetokounmpo FOR Portis,Substitution,,13130.0,v,False,MIL,89
+219,303,1610612749,42,54,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,13190.0,v,False,MIL,89
+220,304,1610612755,42,54,Maxey REBOUND (Off:0 Def:4),Rebound,Unknown,13230.0,h,True,PHI,90
+221,305,1610612749,42,54,Prince S.FOUL (P1.T2) (S.Foster),Foul,Shooting,13260.0,v,False,PHI,90
+222,307,1610612755,43,54,Maxey Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,13260.0,h,False,PHI,90
+223,308,1610612755,44,54,Maxey Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,13260.0,h,False,PHI,90
+224,309,1610612755,44,54,Drummond P.FOUL (P2.PN) (B.Forte),Foul,Personal,13430.0,h,True,MIL,91
+225,311,1610612749,44,54,MISS Lopez Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,13430.0,v,False,MIL,91
+226,312,0,44,54,Bucks Rebound,Rebound,Normal Rebound,13430.0,v,False,MIL,91
+227,313,1610612749,44,55,Lopez Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,13430.0,v,False,MIL,91
+228,314,1610612755,44,55,MISS Yabusele 3PT Jump Shot,Missed Shot,Jump Shot,13530.0,h,True,PHI,92
+229,315,1610612755,44,55,C. Martin REBOUND (Off:3 Def:2),Rebound,Unknown,13550.0,h,False,PHI,92
+230,316,1610612755,44,55,MISS Drummond 3PT Jump Shot,Missed Shot,Jump Shot,13630.0,h,False,PHI,92
+231,317,1610612755,44,55,Yabusele REBOUND (Off:2 Def:2),Rebound,Unknown,13670.0,h,False,PHI,92
+232,318,1610612755,44,55,MISS Lowry 26' 3PT Jump Shot,Missed Shot,Jump Shot,13680.0,h,False,PHI,92
+233,319,1610612749,44,55,Lopez REBOUND (Off:0 Def:4),Rebound,Unknown,13710.0,v,True,MIL,93
+234,320,1610612749,44,55,Lopez Lost Ball Turnover (P2.T5),Turnover,Lost Ball,13730.0,v,False,MIL,93
+235,320,1610612755,44,55,Yabusele STEAL (1 STL),,,13730.0,h,True,PHI,94
+236,324,0,44,55,Bucks Timeout: Coach Challenge (Reg.1 Short 0),Timeout,Coach Challenge,13740.0,v,False,PHI,94
+237,325,0,44,55,Instant Replay2nd Period (8:40 PM EST),Instant Replay,Coach Challenge Overturn Ruling,13740.0,,False,PHI,94
+238,329,1610612755,44,55,Drummond OFF.Foul (P3) (S.Foster),Foul,Offensive,13740.0,h,False,PHI,94
+239,331,1610612755,44,55,Drummond Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,13740.0,h,False,PHI,94
+240,335,1610612755,44,55,SUB: K. Martin FOR Drummond,Substitution,,13740.0,h,True,MIL,95
+241,332,1610612755,44,55,K. Martin S.FOUL (P3.PN) (S.Foster),Foul,Shooting,13822.0,h,False,MIL,95
+242,334,1610612749,44,56,Lillard Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,13822.0,v,False,MIL,95
+243,337,1610612755,44,56,SUB: Gordon FOR K. Martin,Substitution,,13822.0,h,False,MIL,95
+244,339,1610612749,44,56,MISS Lillard Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,13822.0,v,False,MIL,95
+245,340,1610612755,44,56,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,13876.0,h,True,PHI,96
+246,342,1610612749,44,56,Trent Jr. P.FOUL (P2.PN) (S.Foster),Foul,Personal,13988.0,v,False,PHI,96
+247,344,1610612755,44,56,MISS Maxey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,13988.0,h,False,PHI,96
+248,345,0,44,56,76ERS Rebound,Rebound,Normal Rebound,13988.0,h,False,PHI,96
+249,346,1610612755,45,56,Maxey Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,13988.0,h,False,PHI,96
+250,347,1610612749,45,58,Lillard 1' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,14066.0,v,True,MIL,97
+251,348,1610612755,45,58,MISS Maxey 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,14123.0,h,True,PHI,98
+252,349,1610612749,45,58,Prince REBOUND (Off:0 Def:4),Rebound,Unknown,14148.0,v,True,MIL,99
+253,350,1610612749,45,58,MISS Lillard 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14308.0,v,False,MIL,99
+254,351,1610612755,45,58,C. Martin REBOUND (Off:3 Def:3),Rebound,Unknown,14336.0,h,True,PHI,100
+255,352,1610612755,47,58,Yabusele 16' Pullup Jump Shot (7 PTS) (Lowry 2 AST),Made Shot,Pullup Jump shot,14394.0,h,False,PHI,100
+256,357,0,47,58,End of 2nd Period (8:46 PM EST),period,end,14400.0,,False,PHI,100
+257,362,0,47,58,Start of 3rd Period (9:01 PM EST),period,start,14400.0,,True,MIL,101
+258,363,1610612749,47,61,Prince 25' 3PT Jump Shot (11 PTS) (Antetokounmpo 5 AST),Made Shot,Jump Shot,14550.0,v,False,MIL,101
+259,365,1610612749,47,61,Lopez S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,14740.0,v,True,PHI,102
+260,367,1610612755,48,61,Drummond Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,14740.0,h,False,PHI,102
+261,368,1610612755,49,61,Drummond Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,14740.0,h,False,PHI,102
+262,369,1610612755,49,61,C. Martin S.FOUL (P2.T1) (M.Kogut),Foul,Shooting,14870.0,h,True,MIL,103
+263,371,0,49,61,76ERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,14870.0,h,False,MIL,103
+264,372,0,49,61,Instant Replay3rd Period (9:03 PM EST),Instant Replay,Coach Challenge Support Ruling,14870.0,,False,MIL,103
+265,373,1610612749,49,61,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,14870.0,v,False,MIL,103
+266,374,0,49,61,Bucks Rebound,Rebound,Normal Rebound,14870.0,v,False,MIL,103
+267,375,1610612749,49,61,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,14870.0,v,False,MIL,103
+268,376,1610612755,49,61,C. Martin REBOUND (Off:3 Def:4),Rebound,Unknown,14910.0,h,True,PHI,104
+269,377,1610612749,49,61,Lopez S.FOUL (P3.T2) (S.Foster),Foul,Shooting,14950.0,v,False,PHI,104
+270,379,1610612755,50,61,C. Martin Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,14950.0,h,False,PHI,104
+271,380,1610612755,51,61,C. Martin Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,14950.0,h,False,PHI,104
+272,381,1610612749,51,64,Trent Jr. 25' 3PT Jump Shot (6 PTS) (Antetokounmpo 6 AST),Made Shot,Jump Shot,15110.0,v,True,MIL,105
+273,383,1610612755,53,64,Oubre Jr. 2' Driving Layup (10 PTS) (Maxey 2 AST),Made Shot,Driving Layup Shot,15220.0,h,True,PHI,106
+274,385,1610612749,53,67,Prince 24' 3PT Pullup Jump Shot (14 PTS) (Lillard 2 AST),Made Shot,Pullup Jump shot,15330.0,v,True,MIL,107
+275,387,1610612755,55,67,Drummond 2' Alley Oop Dunk (6 PTS) (Oubre Jr. 1 AST),Made Shot,Alley Oop Dunk Shot,15460.0,h,True,PHI,108
+276,389,1610612749,55,67,MISS Lopez 27' 3PT Jump Shot,Missed Shot,Jump Shot,15640.0,v,True,MIL,109
+277,390,1610612755,55,67,Maxey REBOUND (Off:0 Def:5),Rebound,Unknown,15670.0,h,True,PHI,110
+278,395,1610612755,55,67,MISS Maxey 26' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,15910.0,h,False,PHI,110
+279,396,1610612749,55,67,Antetokounmpo REBOUND (Off:1 Def:8),Rebound,Unknown,15930.0,v,True,MIL,111
+280,397,1610612755,55,67,Drummond P.FOUL (P4.T2) (S.Foster),Foul,Personal,15980.0,h,False,MIL,111
+281,399,1610612749,55,70,Trent Jr. 27' 3PT Step Back Jump Shot (9 PTS) (Lillard 3 AST),Made Shot,Step Back Jump shot,16130.0,v,False,MIL,111
+282,401,1610612749,55,70,Antetokounmpo S.FOUL (P3.T3) (S.Foster),Foul,Shooting,16230.0,v,True,PHI,112
+283,403,1610612755,56,70,Oubre Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,16230.0,h,False,PHI,112
+284,404,1610612755,57,70,Oubre Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,16230.0,h,False,PHI,112
+285,405,1610612749,57,72,Antetokounmpo 3' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,16400.0,v,True,MIL,113
+286,406,1610612755,57,72,MISS C. Martin 27' 3PT Jump Shot,Missed Shot,Jump Shot,16590.0,h,True,PHI,114
+287,407,1610612749,57,72,Lillard REBOUND (Off:2 Def:4),Rebound,Unknown,16610.0,v,True,MIL,115
+288,408,1610612749,57,72,Lillard Lost Ball Turnover (P1.T6),Turnover,Lost Ball,16660.0,v,False,MIL,115
+289,408,1610612755,57,72,Maxey STEAL (1 STL),,,16660.0,h,True,PHI,116
+290,410,1610612755,57,72,MISS Oubre Jr. 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,16720.0,h,False,PHI,116
+291,411,1610612755,57,72,Drummond REBOUND (Off:4 Def:6),Rebound,Unknown,16750.0,h,False,PHI,116
+292,412,1610612755,59,72,Drummond 1' Putback Layup (8 PTS),Made Shot,Putback Layup Shot,16760.0,h,False,PHI,116
+293,413,1610612749,59,72,MISS Antetokounmpo 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,16960.0,v,True,MIL,117
+294,414,1610612755,59,72,Drummond REBOUND (Off:4 Def:7),Rebound,Unknown,16980.0,h,True,PHI,118
+295,415,1610612755,59,72,MISS Maxey 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,17020.0,h,False,PHI,118
+296,416,1610612755,59,72,C. Martin REBOUND (Off:4 Def:4),Rebound,Unknown,17040.0,h,False,PHI,118
+297,417,1610612755,61,72,C. Martin Putback Layup (8 PTS),Made Shot,Putback Layup Shot,17040.0,h,False,PHI,118
+298,418,0,61,72,Bucks Timeout: Regular (Reg.2 Short 0),Timeout,Regular,17040.0,v,True,MIL,119
+299,419,1610612755,61,72,SUB: K. Martin FOR Gordon,Substitution,,17040.0,h,False,MIL,119
+300,420,1610612755,61,72,SUB: Yabusele FOR Drummond,Substitution,,17040.0,h,False,MIL,119
+301,423,1610612749,61,74,Antetokounmpo 2' Driving Layup (15 PTS) (Lillard 4 AST),Made Shot,Driving Layup Shot,17200.0,v,False,MIL,119
+302,425,1610612755,63,74,C. Martin 2' Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,17360.0,h,True,PHI,120
+303,426,1610612749,63,77,Lillard 26' 3PT Pullup Jump Shot (18 PTS),Made Shot,Pullup Jump shot,17480.0,v,True,MIL,121
+304,427,1610612749,63,77,Trent Jr. S.FOUL (P3.T4) (M.Kogut),Foul,Shooting,17600.0,v,True,PHI,122
+305,429,1610612755,63,77,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,17600.0,h,False,PHI,122
+306,430,0,63,77,76ERS Rebound,Rebound,Normal Rebound,17600.0,h,False,PHI,122
+307,431,1610612755,64,77,Oubre Jr. Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,17600.0,h,False,PHI,122
+308,432,1610612749,64,77,MISS Trent Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,17780.0,v,True,MIL,123
+309,434,1610612755,64,77,K. Martin REBOUND (Off:2 Def:3),Rebound,Unknown,17810.0,h,True,PHI,124
+310,435,1610612755,64,77,MISS Maxey 3' Driving Hook Shot,Missed Shot,Driving Hook Shot,17880.0,h,False,PHI,124
+311,436,1610612749,64,77,Prince REBOUND (Off:0 Def:5),Rebound,Unknown,17900.0,v,True,MIL,125
+312,437,1610612749,64,80,Lillard 27' 3PT Jump Shot (21 PTS) (Lopez 2 AST),Made Shot,Jump Shot,18010.0,v,False,MIL,125
+313,439,1610612755,64,80,MISS Yabusele 28' 3PT Jump Shot,Missed Shot,Jump Shot,18150.0,h,True,PHI,126
+314,440,1610612749,64,80,Antetokounmpo REBOUND (Off:1 Def:9),Rebound,Unknown,18180.0,v,True,MIL,127
+315,441,1610612749,64,82,Prince 3' Cutting Layup Shot (16 PTS) (Antetokounmpo 7 AST),Made Shot,Cutting Layup Shot,18250.0,v,False,MIL,127
+316,443,1610612755,64,82,MISS Oubre Jr. 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,18400.0,h,True,PHI,128
+317,444,1610612749,64,82,Antetokounmpo REBOUND (Off:1 Def:10),Rebound,Unknown,18420.0,v,True,MIL,129
+318,445,1610612749,64,82,Antetokounmpo Palming Turnover (P2.T7),Turnover,Palming Turnover,18450.0,v,False,MIL,129
+319,446,1610612749,64,82,SUB: Portis FOR Antetokounmpo,Substitution,,18450.0,v,True,PHI,130
+320,448,1610612749,64,82,Prince P.FOUL (P2.PN) (M.Kogut),Foul,Personal,18520.0,v,False,PHI,130
+321,450,1610612755,64,82,MISS Oubre Jr. Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,18520.0,h,False,PHI,130
+322,451,0,64,82,76ERS Rebound,Rebound,Normal Rebound,18520.0,h,False,PHI,130
+323,452,1610612755,64,82,SUB: Lowry FOR K. Martin,Substitution,,18520.0,h,False,PHI,130
+324,453,1610612755,64,82,SUB: Council IV FOR C. Martin,Substitution,,18520.0,h,False,PHI,130
+325,456,1610612755,65,82,Oubre Jr. Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,18520.0,h,False,PHI,130
+326,458,1610612749,65,82,Lopez 3 Second Violation Turnover (P3.T8),Turnover,3 Second Violation,18660.0,v,True,MIL,131
+327,459,1610612755,68,82,Maxey 27' 3PT Pullup Jump Shot (19 PTS),Made Shot,Pullup Jump shot,18730.0,h,True,PHI,132
+328,460,0,68,82,Bucks Timeout: Regular (Reg.3 Short 0),Timeout,Regular,18730.0,v,True,MIL,133
+329,461,1610612755,68,82,SUB: C. Martin FOR Oubre Jr.,Substitution,,18730.0,h,False,MIL,133
+330,463,1610612749,68,82,SUB: Connaughton FOR Prince,Substitution,,18730.0,v,False,MIL,133
+331,465,1610612749,68,82,Lillard Out of Bounds - Bad Pass Turnover Turnover (P2.T9),Turnover,Out of Bounds - Bad Pass Turnover,18820.0,v,False,MIL,133
+332,466,1610612749,68,82,Trent Jr. P.FOUL (P4.PN) (M.Kogut),Foul,Personal,18870.0,v,True,PHI,134
+333,468,1610612755,69,82,Lowry Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,18870.0,h,False,PHI,134
+334,469,1610612749,69,82,SUB: Wright FOR Trent Jr.,Substitution,,18870.0,v,False,PHI,134
+335,471,1610612755,69,82,MISS Lowry Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,18870.0,h,False,PHI,134
+336,472,1610612749,69,82,Lopez REBOUND (Off:0 Def:5),Rebound,Unknown,18890.0,v,True,MIL,135
+337,473,1610612749,69,82,MISS Lillard 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,19050.0,v,False,MIL,135
+338,474,1610612749,69,82,Lopez REBOUND (Off:1 Def:5),Rebound,Unknown,19090.0,v,False,MIL,135
+339,475,1610612749,69,84,Lopez Tip Dunk Shot (3 PTS),Made Shot,Tip Dunk Shot,19090.0,v,False,MIL,135
+340,476,1610612755,71,84,Yabusele 2' Cutting Layup Shot (9 PTS) (Lowry 3 AST),Made Shot,Cutting Layup Shot,19150.0,h,True,PHI,136
+341,478,1610612749,71,84,Portis S.FOUL (P2.PN) (B.Forte),Foul,Shooting,19150.0,v,False,PHI,136
+342,480,1610612755,72,84,Yabusele Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,19150.0,h,False,PHI,136
+343,481,1610612749,72,84,Portis Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,19320.0,v,True,MIL,137
+344,482,1610612755,72,84,MISS Maxey 1' Driving Layup,Missed Shot,Driving Layup Shot,19430.0,h,True,PHI,138
+345,482,1610612749,72,84,Lopez BLOCK (4 BLK),,,19430.0,v,False,PHI,138
+346,484,1610612749,72,84,Connaughton REBOUND (Off:0 Def:3),Rebound,Unknown,19450.0,v,True,MIL,139
+347,485,1610612755,72,84,Yabusele S.FOUL (P3.T3) (S.Foster),Foul,Shooting,19490.0,h,False,MIL,139
+348,487,1610612749,72,85,Lillard Free Throw 1 of 2 (22 PTS),Free Throw,Free Throw 1 of 2,19490.0,v,False,MIL,139
+349,488,1610612749,72,86,Lillard Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,19490.0,v,False,MIL,139
+350,489,1610612755,72,86,Yabusele OFF.Foul (P4) (B.Forte),Foul,Offensive,19530.0,h,False,MIL,139
+351,491,1610612755,72,86,Yabusele Offensive Foul Turnover (P3.T5),Turnover,Offensive Foul Turnover,19530.0,h,False,MIL,139
+352,492,1610612749,72,89,Lillard 25' 3PT Pullup Jump Shot (26 PTS),Made Shot,Pullup Jump shot,19610.0,v,True,PHI,140
+353,493,1610612749,72,89,Portis S.FOUL (P3.PN) (S.Foster),Foul,Shooting,19800.0,v,True,MIL,141
+354,495,1610612755,72,89,MISS Yabusele Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,19800.0,h,False,MIL,141
+355,496,0,72,89,76ERS Rebound,Rebound,Normal Rebound,19800.0,h,False,MIL,141
+356,497,1610612755,72,89,MISS Yabusele Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,19800.0,h,False,MIL,141
+357,498,0,72,89,76ERS Rebound,Rebound,Unknown,19800.0,h,False,MIL,141
+358,499,1610612749,72,89,Portis L.B.FOUL (P4.PN) (M.Kogut),Foul,Loose Ball,19800.0,v,False,MIL,141
+359,501,1610612755,72,89,MISS Lowry Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,19800.0,h,False,MIL,141
+360,502,0,72,89,76ERS Rebound,Rebound,Normal Rebound,19800.0,h,False,MIL,141
+361,503,1610612755,73,89,Lowry Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,19800.0,h,False,MIL,141
+362,504,1610612749,73,92,Lillard 28' 3PT Pullup Jump Shot (29 PTS),Made Shot,Pullup Jump shot,19890.0,v,True,PHI,142
+363,505,1610612755,76,92,Council IV 29' 3PT Jump Shot (3 PTS) (Yabusele 3 AST),Made Shot,Jump Shot,20060.0,h,True,MIL,143
+364,507,1610612749,76,92,MISS Connaughton 24' 3PT Jump Shot,Missed Shot,Jump Shot,20220.0,v,True,PHI,144
+365,508,1610612749,76,92,Lillard REBOUND (Off:3 Def:4),Rebound,Unknown,20270.0,v,False,PHI,144
+366,509,1610612749,76,94,Wright 2' Driving Finger Roll Layup (2 PTS) (Lopez 3 AST),Made Shot,Driving Finger Roll Layup Shot,20360.0,v,False,PHI,144
+367,511,1610612755,76,94,MISS C. Martin 22' Pullup Jump Shot,Missed Shot,Pullup Jump shot,20440.0,h,True,MIL,145
+368,512,1610612749,76,94,Lopez REBOUND (Off:1 Def:6),Rebound,Unknown,20460.0,v,True,PHI,146
+369,513,1610612749,76,94,Portis Out of Bounds - Bad Pass Turnover Turnover (P4.T11),Turnover,Out of Bounds - Bad Pass Turnover,20540.0,v,False,PHI,146
+370,514,1610612755,76,94,SUB: Drummond FOR Maxey,Substitution,,20540.0,h,True,MIL,147
+371,515,1610612755,76,94,SUB: Oubre Jr. FOR Yabusele,Substitution,,20540.0,h,False,MIL,147
+372,516,1610612749,76,94,SUB: Antetokounmpo FOR Portis,Substitution,,20540.0,v,False,MIL,147
+373,521,1610612755,78,94,Oubre Jr. 6' Fadeaway Jumper (16 PTS),Made Shot,Fadeaway Jump Shot,20770.0,h,False,MIL,147
+374,522,1610612755,78,94,Oubre Jr. P.FOUL (P4.T4) (M.Kogut),Foul,Personal,20960.0,h,True,PHI,148
+375,524,1610612755,78,94,76ERS T.Foul (Def. 3 Sec Drummond ) (B.Forte),Foul,Defense 3 Second,21036.0,h,False,PHI,148
+376,525,1610612749,78,95,Lillard Free Throw Technical (30 PTS),Free Throw,Free Throw Technical,21036.0,v,False,PHI,148
+377,526,1610612749,78,98,Lopez 26' 3PT Jump Shot (6 PTS) (Lillard 5 AST),Made Shot,Jump Shot,21055.0,v,False,PHI,148
+378,528,1610612755,78,98,MISS Drummond 22' Jump Shot,Missed Shot,Jump Shot,21305.0,h,True,MIL,149
+379,529,1610612749,78,98,Antetokounmpo REBOUND (Off:1 Def:11),Rebound,Unknown,21341.0,v,True,PHI,150
+380,530,1610612749,78,100,Antetokounmpo 1' Cutting Layup Shot (17 PTS) (Lopez 4 AST),Made Shot,Cutting Layup Shot,21546.0,v,False,PHI,150
+381,532,1610612755,81,100,Lowry 27' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,21590.0,h,True,MIL,151
+382,533,0,81,100,End of 3rd Period (9:34 PM EST),period,end,21600.0,,False,MIL,151
+383,542,0,81,100,Start of 4th Period (9:38 PM EST),period,start,21600.0,,True,PHI,152
+384,543,1610612755,81,100,C. Martin Bad Pass Turnover (P1.T6),Turnover,Bad Pass,21680.0,h,False,PHI,152
+385,543,1610612749,81,100,Wright STEAL (1 STL),,,21680.0,v,True,MIL,153
+386,545,1610612755,81,100,Drummond S.FOUL (P5.T1) (B.Forte),Foul,Shooting,21840.0,h,False,MIL,153
+387,547,1610612749,81,101,Antetokounmpo Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,21840.0,v,False,MIL,153
+388,548,1610612749,81,102,Antetokounmpo Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,21840.0,v,False,MIL,153
+389,549,1610612755,84,102,Lowry 25' 3PT Jump Shot (13 PTS) (C. Martin 3 AST),Made Shot,Jump Shot,22080.0,h,True,PHI,154
+390,551,1610612749,84,102,MISS Antetokounmpo 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,22360.0,v,True,MIL,155
+391,552,1610612755,84,102,Maxey REBOUND (Off:0 Def:6),Rebound,Unknown,22390.0,h,True,PHI,156
+392,553,1610612749,84,102,Antetokounmpo P.FOUL (P4.T1) (S.Foster),Foul,Personal,22430.0,v,False,PHI,156
+393,555,1610612755,84,102,SUB: Yabusele FOR Drummond,Substitution,,22430.0,h,False,PHI,156
+394,557,1610612755,84,102,MISS Gordon 3' Driving Layup,Missed Shot,Driving Layup Shot,22560.0,h,False,PHI,156
+395,557,1610612749,84,102,Antetokounmpo BLOCK (1 BLK),,,22560.0,v,False,PHI,156
+396,559,1610612749,84,102,Antetokounmpo REBOUND (Off:1 Def:12),Rebound,Unknown,22590.0,v,True,MIL,157
+397,560,1610612755,84,102,Yabusele S.FOUL (P5.T2) (B.Forte),Foul,Shooting,22650.0,h,False,MIL,157
+398,562,1610612749,84,102,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,22650.0,v,False,MIL,157
+399,563,0,84,102,Bucks Rebound,Rebound,Normal Rebound,22650.0,v,False,MIL,157
+400,564,1610612749,84,102,MISS Antetokounmpo Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22650.0,v,False,MIL,157
+401,565,1610612755,84,102,C. Martin REBOUND (Off:4 Def:5),Rebound,Unknown,22670.0,h,True,PHI,158
+402,566,1610612755,86,102,C. Martin 10' Turnaround Jump Shot (12 PTS),Made Shot,Turnaround Jump Shot,22840.0,h,False,PHI,158
+403,567,1610612749,86,102,MISS Prince 26' 3PT Jump Shot,Missed Shot,Jump Shot,23110.0,v,True,MIL,159
+404,568,1610612749,86,102,Connaughton REBOUND (Off:1 Def:3),Rebound,Unknown,23150.0,v,False,MIL,159
+405,569,1610612749,86,102,MISS Wright 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,23180.0,v,False,MIL,159
+406,570,0,86,102,Bucks Rebound,Rebound,Unknown,23190.0,v,False,MIL,159
+407,572,1610612755,86,102,SUB: Oubre Jr. FOR Gordon,Substitution,,23190.0,h,False,MIL,159
+408,574,1610612749,86,102,MISS Connaughton 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,23210.0,v,False,MIL,159
+409,575,1610612755,86,102,Lowry REBOUND (Off:0 Def:2),Rebound,Unknown,23250.0,h,True,PHI,160
+410,576,1610612755,88,102,Maxey 1' Driving Reverse Layup (21 PTS) (Lowry 4 AST),Made Shot,Driving Reverse Layup Shot,23320.0,h,False,PHI,160
+411,578,1610612749,88,104,Antetokounmpo 7' Driving Floating Bank Jump Shot (21 PTS),Made Shot,Driving Floating Bank Jump Shot,23370.0,v,True,MIL,161
+412,579,1610612755,88,104,C. Martin S.FOUL (P3.T3) (M.Kogut),Foul,Shooting,23370.0,h,False,MIL,161
+413,581,1610612749,88,104,SUB: Lillard FOR Wright,Substitution,,23370.0,v,False,MIL,161
+414,583,1610612749,88,105,Antetokounmpo Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,23370.0,v,False,MIL,161
+415,584,1610612755,88,105,C. Martin Lost Ball Turnover (P2.T7),Turnover,Lost Ball,23570.0,h,True,PHI,162
+416,584,1610612749,88,105,Portis STEAL (2 STL),,,23570.0,v,True,MIL,163
+417,586,1610612749,88,105,MISS Connaughton 26' 3PT Jump Shot,Missed Shot,Jump Shot,23670.0,v,False,MIL,163
+418,586,1610612755,88,105,C. Martin BLOCK (1 BLK),,,23670.0,h,False,MIL,163
+419,588,1610612755,88,105,Lowry REBOUND (Off:0 Def:3),Rebound,Unknown,23720.0,h,True,PHI,164
+420,589,1610612755,88,105,MISS Lowry 28' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,23750.0,h,False,PHI,164
+421,590,1610612749,88,105,Antetokounmpo REBOUND (Off:1 Def:13),Rebound,Unknown,23790.0,v,True,MIL,165
+422,591,1610612749,88,105,Lillard Lost Ball Turnover (P3.T12),Turnover,Lost Ball,23860.0,v,False,MIL,165
+423,591,1610612755,88,105,Yabusele STEAL (2 STL),,,23860.0,h,True,PHI,166
+424,593,1610612755,90,105,Maxey 1' Running Dunk (23 PTS) (Lowry 5 AST),Made Shot,Running Dunk Shot,23890.0,h,False,PHI,166
+425,595,1610612749,90,105,Antetokounmpo Lost Ball Turnover (P3.T13),Turnover,Lost Ball,24130.0,v,True,MIL,167
+426,595,1610612755,90,105,Yabusele STEAL (3 STL),,,24130.0,h,True,PHI,168
+427,597,1610612755,92,105,Oubre Jr. 2' Running Reverse Layup (18 PTS) (Maxey 3 AST),Made Shot,Running Reverse Layup Shot,24180.0,h,False,PHI,168
+428,599,0,92,105,Bucks Timeout: Regular (Reg.4 Short 0),Timeout,Regular,24180.0,v,True,MIL,169
+429,600,1610612749,92,105,SUB: Trent Jr. FOR Prince,Substitution,,24180.0,v,False,MIL,169
+430,604,1610612749,92,105,SUB: Lopez FOR Antetokounmpo,Substitution,,24180.0,v,False,MIL,169
+431,605,1610612749,92,107,Connaughton 1' Cutting Layup Shot (9 PTS) (Lopez 5 AST),Made Shot,Cutting Layup Shot,24280.0,v,False,MIL,169
+432,607,1610612755,92,107,MISS Maxey 28' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,24450.0,h,True,PHI,170
+433,608,0,92,107,76ERS Rebound,Rebound,Unknown,24460.0,h,False,PHI,170
+434,610,1610612755,92,107,MISS C. Martin 4' Driving Layup,Missed Shot,Driving Layup Shot,24530.0,h,False,PHI,170
+435,610,1610612749,92,107,Lopez BLOCK (5 BLK),,,24530.0,v,False,PHI,170
+436,612,0,92,107,76ERS Rebound,Rebound,Unknown,24530.0,h,False,PHI,170
+437,614,1610612755,92,107,MISS Maxey 17' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,24570.0,h,False,PHI,170
+438,615,1610612749,92,107,Lillard REBOUND (Off:3 Def:5),Rebound,Unknown,24600.0,v,True,MIL,171
+439,616,1610612749,92,107,MISS Lillard 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,24640.0,v,False,MIL,171
+440,617,1610612755,92,107,Lowry REBOUND (Off:0 Def:4),Rebound,Unknown,24670.0,h,True,PHI,172
+441,618,1610612755,92,107,MISS Oubre Jr. 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,24800.0,h,False,PHI,172
+442,618,1610612749,92,107,Lopez BLOCK (6 BLK),,,24800.0,v,False,PHI,172
+443,620,1610612749,92,107,Lillard REBOUND (Off:3 Def:6),Rebound,Unknown,24830.0,v,True,MIL,173
+444,621,1610612749,92,107,MISS Lopez 26' 3PT Jump Shot,Missed Shot,Jump Shot,24920.0,v,False,MIL,173
+445,622,1610612755,92,107,Oubre Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,24950.0,h,True,PHI,174
+446,623,1610612755,95,107,Oubre Jr. 26' 3PT Jump Shot (21 PTS) (Lowry 6 AST),Made Shot,Jump Shot,25080.0,h,False,PHI,174
+447,625,1610612749,95,109,Portis 1' Layup (15 PTS) (Lopez 6 AST),Made Shot,Layup Shot,25270.0,v,True,MIL,175
+448,627,1610612755,95,109,Lowry S.FOUL (P1.T4) (B.Forte),Foul,Shooting,25270.0,h,False,MIL,175
+449,629,1610612749,95,109,SUB: Prince FOR Connaughton,Substitution,,25270.0,v,False,MIL,175
+450,631,1610612749,95,110,Portis Free Throw 1 of 1 (16 PTS),Free Throw,Free Throw 1 of 1,25270.0,v,False,MIL,175
+451,632,1610612749,95,110,Trent Jr. P.FOUL (P5.T2) (S.Foster),Foul,Personal,25370.0,v,True,PHI,176
+452,634,1610612749,95,110,SUB: Antetokounmpo FOR Portis,Substitution,,25370.0,v,False,PHI,176
+453,636,1610612755,95,110,MISS Maxey 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25470.0,h,False,PHI,176
+454,637,1610612749,95,110,Trent Jr. REBOUND (Off:0 Def:2),Rebound,Unknown,25490.0,v,True,MIL,177
+455,639,1610612749,95,110,Lopez OFF.Foul (P4) (S.Foster),Foul,Offensive,25590.0,v,False,MIL,177
+456,641,1610612749,95,110,Lopez Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,25590.0,v,False,MIL,177
+457,642,1610612755,97,110,Maxey 2' Driving Finger Roll Layup (25 PTS),Made Shot,Driving Finger Roll Layup Shot,25760.0,h,True,PHI,178
+458,643,1610612749,97,112,Lopez Layup (8 PTS) (Prince 3 AST),Made Shot,Layup Shot,25920.0,v,True,MIL,179
+459,645,1610612755,97,112,C. Martin Out of Bounds Lost Ball Turnover (P3.T8),Turnover,Out of Bounds Lost Ball Turnover,26100.0,h,True,PHI,180
+460,647,1610612755,97,112,Yabusele S.FOUL (P6.PN) (M.Kogut),Foul,Shooting,26220.0,h,True,MIL,181
+461,649,1610612755,97,112,SUB: Drummond FOR Yabusele,Substitution,,26220.0,h,False,MIL,181
+462,651,1610612749,97,112,MISS Antetokounmpo Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26220.0,v,False,MIL,181
+463,652,0,97,112,Bucks Rebound,Rebound,Normal Rebound,26220.0,v,False,MIL,181
+464,653,1610612749,97,113,Antetokounmpo Free Throw 2 of 2 (23 PTS),Free Throw,Free Throw 2 of 2,26220.0,v,False,MIL,181
+465,655,1610612755,97,113,Maxey Traveling Turnover (P1.T9),Turnover,Traveling,26380.0,h,True,PHI,182
+466,656,1610612755,97,113,C. Martin S.FOUL (P4.PN) (B.Forte),Foul,Shooting,26480.0,h,True,MIL,183
+467,658,1610612749,97,114,Lopez Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,26480.0,v,False,MIL,183
+468,660,1610612755,97,114,SUB: Council IV FOR C. Martin,Substitution,,26480.0,h,False,MIL,183
+469,663,1610612755,97,114,SUB: McCain FOR Lowry,Substitution,,26480.0,h,False,MIL,183
+470,664,1610612749,97,115,Lopez Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,26480.0,v,False,MIL,183
+471,665,1610612755,97,115,MISS Maxey 4' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,26710.0,h,True,PHI,184
+472,666,1610612755,97,115,Drummond REBOUND (Off:5 Def:7),Rebound,Unknown,26740.0,h,False,PHI,184
+473,667,1610612755,99,115,Drummond Tip Dunk Shot (10 PTS),Made Shot,Tip Dunk Shot,26740.0,h,False,PHI,184
+474,668,1610612749,99,115,MISS Lopez 5' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,26960.0,v,True,MIL,185
+475,669,1610612755,99,115,Drummond REBOUND (Off:5 Def:8),Rebound,Unknown,26980.0,h,True,PHI,186
+476,670,1610612755,99,115,MISS Oubre Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,27120.0,h,False,PHI,186
+477,671,1610612749,99,115,Lopez REBOUND (Off:1 Def:7),Rebound,Unknown,27160.0,v,True,MIL,187
+478,672,1610612755,99,115,Oubre Jr. P.FOUL (P5.PN) (M.Kogut),Foul,Personal,27210.0,h,False,MIL,187
+479,674,0,99,115,76ERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,27210.0,h,False,MIL,187
+480,675,1610612755,99,115,SUB: Dowtin Jr. FOR Maxey,Substitution,,27210.0,h,False,MIL,187
+481,676,1610612755,99,115,SUB: Quinones FOR Oubre Jr.,Substitution,,27210.0,h,False,MIL,187
+482,677,1610612755,99,115,SUB: Bona FOR Drummond,Substitution,,27210.0,h,False,MIL,187
+483,681,1610612749,99,116,Antetokounmpo Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,27210.0,v,False,MIL,187
+484,682,1610612749,99,117,Antetokounmpo Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,27210.0,v,False,MIL,187
+485,683,1610612755,101,117,McCain 18' Pullup Jump Shot (2 PTS) (Quinones 1 AST),Made Shot,Pullup Jump shot,27330.0,h,True,PHI,188
+486,685,1610612749,101,117,MISS Lillard 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,27420.0,v,True,MIL,189
+487,686,1610612755,101,117,McCain REBOUND (Off:0 Def:1),Rebound,Unknown,27450.0,h,True,PHI,190
+488,687,1610612749,101,117,Lillard P.FOUL (P1.T3) (B.Forte),Foul,Personal,27470.0,v,False,PHI,190
+489,689,1610612749,101,117,SUB: Smith FOR Antetokounmpo,Substitution,,27470.0,v,False,PHI,190
+490,691,1610612755,101,117,MISS McCain 32' 3PT Jump Shot,Missed Shot,Jump Shot,27590.0,h,False,PHI,190
+491,692,1610612755,101,117,Quinones REBOUND (Off:1 Def:0),Rebound,Unknown,27630.0,h,False,PHI,190
+492,693,1610612755,101,117,MISS Quinones 26' 3PT Jump Shot,Missed Shot,Jump Shot,27650.0,h,False,PHI,190
+493,694,1610612755,101,117,McCain REBOUND (Off:1 Def:1),Rebound,Unknown,27680.0,h,False,PHI,190
+494,695,1610612755,103,117,McCain Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,27680.0,h,False,PHI,190
+495,696,1610612749,103,120,Smith 24' 3PT Jump Shot (3 PTS) (Lillard 6 AST),Made Shot,Jump Shot,27770.0,v,True,MIL,191
+496,698,1610612755,103,120,MISS Council IV 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,27930.0,h,True,PHI,192
+497,699,1610612755,103,120,Bona REBOUND (Off:1 Def:0),Rebound,Unknown,27940.0,h,False,PHI,192
+498,700,1610612755,105,120,Bona Putback Layup (2 PTS),Made Shot,Putback Layup Shot,27940.0,h,False,PHI,192
+499,701,1610612749,105,120,MISS Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,28060.0,v,True,MIL,193
+500,702,1610612755,105,120,Council IV REBOUND (Off:0 Def:1),Rebound,Unknown,28090.0,h,True,PHI,194
+501,705,1610612755,105,120,Council IV Offensive Charge Foul (P1) (B.Forte),Foul,Offensive Charge,28140.0,h,False,PHI,194
+502,707,1610612755,105,120,Council IV Offensive Foul Turnover (P1.T10),Turnover,Offensive Foul Turnover,28140.0,h,False,PHI,194
+503,708,1610612749,105,120,SUB: Jackson Jr. FOR Lillard,Substitution,,28140.0,v,True,MIL,195
+504,709,1610612749,105,120,SUB: Rollins FOR Lopez,Substitution,,28140.0,v,False,MIL,195
+505,710,1610612749,105,120,SUB: Johnson FOR Prince,Substitution,,28140.0,v,False,MIL,195
+506,714,1610612755,105,120,Bona S.FOUL (P1.PN) (S.Foster),Foul,Shooting,28355.0,h,False,MIL,195
+507,716,1610612749,105,121,Trent Jr. Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,28355.0,v,False,MIL,195
+508,717,1610612749,105,122,Trent Jr. Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,28355.0,v,False,MIL,195
+509,718,1610612749,105,122,Smith S.FOUL (P1.T4) (B.Forte),Foul,Shooting,28427.0,v,True,PHI,196
+510,720,1610612755,106,122,Council IV Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,28427.0,h,False,PHI,196
+511,721,1610612749,106,122,SUB: Beauchamp FOR Trent Jr.,Substitution,,28427.0,v,False,PHI,196
+512,723,1610612755,107,122,Council IV Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,28427.0,h,False,PHI,196
+513,724,1610612749,107,122,MISS Johnson 1' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,28569.0,v,True,MIL,197
+514,725,1610612749,107,122,Smith REBOUND (Off:1 Def:0),Rebound,Unknown,28569.0,v,False,MIL,197
+515,726,1610612749,107,124,Smith Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,28569.0,v,False,MIL,197
+516,727,1610612749,107,124,Rollins S.FOUL (P1.PN) (S.Foster),Foul,Shooting,28779.0,v,True,PHI,198
+517,729,1610612755,108,124,Council IV Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,28779.0,h,False,PHI,198
+518,730,1610612755,109,124,Council IV Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,28779.0,h,False,PHI,198
+519,731,0,109,124,End of 4th Period (10:11 PM EST),period,end,28800.0,,False,PHI,198

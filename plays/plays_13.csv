@@ -1,0 +1,507 @@
+,actionNumber,teamId,scoreHome,scoreAway,description,actionType,subType,time,location,newPossession,possession,possessionCount
+0,2,0,0,0,Start of 1st Period (7:45 PM EST),period,start,0.0,,False,,0
+1,4,1610612761,0,0,Jump Ball Pöltl vs. Allen: Tip to Garland,Jump Ball,,0.0,h,True,CLE,1
+2,7,1610612739,0,0,MISS Mobley 9' Driving Layup,Missed Shot,Driving Layup Shot,160.0,v,False,CLE,1
+3,8,1610612739,0,0,Mobley REBOUND (Off:1 Def:0),Rebound,Unknown,210.0,v,False,CLE,1
+4,9,1610612739,0,0,MISS Mobley Putback Layup,Missed Shot,Putback Layup Shot,210.0,v,False,CLE,1
+5,10,1610612739,0,0,Mobley REBOUND (Off:2 Def:0),Rebound,Unknown,220.0,v,False,CLE,1
+6,11,1610612739,0,2,Mobley Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,220.0,v,False,CLE,1
+7,12,1610612761,0,2,MISS Dick 31' 3PT Jump Shot,Missed Shot,Jump Shot,310.0,h,True,TOR,2
+8,13,1610612739,0,2,Wade REBOUND (Off:0 Def:1),Rebound,Unknown,380.0,v,True,CLE,3
+9,14,1610612739,0,2,MISS Wade 26' 3PT Jump Shot,Missed Shot,Jump Shot,500.0,v,False,CLE,3
+10,15,1610612761,0,2,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,530.0,h,True,TOR,4
+11,16,1610612761,3,2,Quickley 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,640.0,h,False,TOR,4
+12,17,1610612761,3,2,Agbaji P.FOUL (P1.T1) (S.Wright),Foul,Personal,850.0,h,True,CLE,5
+13,19,1610612739,3,2,MISS Garland 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,920.0,v,False,CLE,5
+14,20,1610612761,3,2,Pöltl REBOUND (Off:0 Def:1),Rebound,Unknown,950.0,h,True,TOR,6
+15,21,1610612761,5,2,Dick 11' Pullup Jump Shot (2 PTS) (Barnes 1 AST),Made Shot,Pullup Jump shot,1010.0,h,False,TOR,6
+16,23,1610612739,5,2,MISS Garland 20' Jump Shot,Missed Shot,Jump Shot,1150.0,v,True,CLE,7
+17,24,1610612739,5,2,Wade REBOUND (Off:1 Def:1),Rebound,Unknown,1210.0,v,False,CLE,7
+18,25,1610612739,5,4,Mobley 1' Cutting Dunk Shot (4 PTS) (Garland 1 AST),Made Shot,Cutting Dunk Shot,1260.0,v,False,CLE,7
+19,28,1610612761,7,4,Barnes 13' Jump Shot (2 PTS) (Quickley 1 AST),Made Shot,Jump Shot,1410.0,h,True,TOR,8
+20,30,1610612739,7,6,Allen 1' Alley Oop Dunk (2 PTS) (Garland 2 AST),Made Shot,Alley Oop Dunk Shot,1610.0,v,True,CLE,9
+21,32,1610612761,7,6,MISS Pöltl 2' Reverse Layup,Missed Shot,Reverse Layup Shot,1760.0,h,True,TOR,10
+22,33,1610612761,7,6,Agbaji REBOUND (Off:1 Def:0),Rebound,Unknown,1780.0,h,False,TOR,10
+23,34,1610612739,7,6,Mobley S.FOUL (P1.T1) (J.Ralls),Foul,Shooting,1800.0,v,False,TOR,10
+24,36,1610612761,8,6,Quickley Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,1800.0,h,False,TOR,10
+25,37,1610612761,9,6,Quickley Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,1800.0,h,False,TOR,10
+26,38,1610612739,9,9,Mitchell 27' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,1910.0,v,True,CLE,11
+27,39,1610612761,11,9,Barnes 9' Floating Jump Shot (4 PTS) (Quickley 2 AST),Made Shot,Floating Jump shot,2140.0,h,True,TOR,12
+28,41,1610612739,11,9,MISS Garland 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2250.0,v,True,CLE,13
+29,42,1610612739,11,9,Allen REBOUND (Off:1 Def:0),Rebound,Unknown,2300.0,v,False,CLE,13
+30,43,1610612739,11,11,Allen Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,2300.0,v,False,CLE,13
+31,44,1610612761,11,11,MISS Barnes 10' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,2470.0,h,True,TOR,14
+32,45,1610612739,11,11,Wade REBOUND (Off:1 Def:2),Rebound,Unknown,2510.0,v,True,CLE,15
+33,46,1610612739,11,11,MISS Mitchell 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,2580.0,v,False,CLE,15
+34,47,0,11,11,RAPTORS Rebound,Rebound,Unknown,2580.0,h,True,TOR,16
+35,49,1610612761,13,11,Quickley 3' Driving Layup (7 PTS) (Barnes 2 AST),Made Shot,Driving Layup Shot,2700.0,h,False,TOR,16
+36,51,1610612739,13,11,Mitchell Lost Ball Turnover (P1.T1),Turnover,Lost Ball,2840.0,v,True,CLE,17
+37,51,1610612761,13,11,Quickley STEAL (1 STL),,,2840.0,h,True,TOR,18
+38,53,1610612739,13,11,Garland S.FOUL (P1.T2) (S.Wright),Foul,Shooting,2860.0,v,False,TOR,18
+39,55,1610612761,14,11,Agbaji Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,2860.0,h,False,TOR,18
+40,56,1610612761,14,11,MISS Agbaji Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,2860.0,h,False,TOR,18
+41,57,1610612761,14,11,Agbaji REBOUND (Off:2 Def:0),Rebound,Unknown,2880.0,h,False,TOR,18
+42,58,1610612739,14,11,Wade S.FOUL (P1.T3) (M.Davis),Foul,Shooting,2950.0,v,False,TOR,18
+43,60,1610612761,15,11,Dick Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,2950.0,h,False,TOR,18
+44,61,1610612761,16,11,Dick Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,2950.0,h,False,TOR,18
+45,62,1610612739,16,11,Mobley Kicked Ball Violation Turnover (P1.T2),Turnover,Kicked Ball Violation,3000.0,v,True,CLE,19
+46,63,1610612761,16,11,MISS Barnes 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,3100.0,h,True,TOR,20
+47,64,1610612739,16,11,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,3150.0,v,True,CLE,21
+48,65,1610612739,16,11,MISS Mitchell 4' Driving Layup,Missed Shot,Driving Layup Shot,3250.0,v,False,CLE,21
+49,66,1610612761,16,11,Quickley REBOUND (Off:0 Def:1),Rebound,Unknown,3270.0,h,True,TOR,22
+50,67,1610612761,16,11,MISS Quickley 2' Driving Layup,Missed Shot,Driving Layup Shot,3300.0,h,False,TOR,22
+51,67,1610612739,16,11,Allen BLOCK (1 BLK),,,3300.0,v,False,TOR,22
+52,69,1610612761,16,11,Agbaji REBOUND (Off:3 Def:0),Rebound,Unknown,3300.0,h,False,TOR,22
+53,70,1610612739,16,11,Garland P.FOUL (P2.T4) (J.Ralls),Foul,Personal,3340.0,v,False,TOR,22
+54,72,0,16,11,RAPTORS Timeout: Regular (Full 1 Short 0),Timeout,Regular,3340.0,h,False,TOR,22
+55,73,1610612761,16,11,SUB: Boucher FOR Barnes,Substitution,,3340.0,h,False,TOR,22
+56,74,1610612739,16,11,SUB: LeVert FOR Mobley,Substitution,,3340.0,v,False,TOR,22
+57,75,1610612739,16,11,SUB: Merrill FOR Mitchell,Substitution,,3340.0,v,False,TOR,22
+58,79,1610612761,16,11,Quickley Bad Pass Turnover (P1.T1),Turnover,Bad Pass,3570.0,h,False,TOR,22
+59,79,1610612739,16,11,Wade STEAL (1 STL),,,3570.0,v,True,CLE,23
+60,81,1610612739,16,11,MISS Garland 24' 3PT Jump Shot,Missed Shot,Jump Shot,3660.0,v,False,CLE,23
+61,82,1610612761,16,11,Pöltl REBOUND (Off:0 Def:2),Rebound,Unknown,3690.0,h,True,TOR,24
+62,83,1610612761,16,11,MISS Dick 27' 3PT Jump Shot,Missed Shot,Jump Shot,3760.0,h,False,TOR,24
+63,84,0,16,11,RAPTORS Rebound,Rebound,Unknown,3800.0,h,False,TOR,24
+64,87,1610612739,16,11,Merrill L.B.FOUL (P1.PN) (S.Wright),Foul,Loose Ball,3800.0,v,False,TOR,24
+65,89,1610612761,16,11,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,3800.0,h,False,TOR,24
+66,90,0,16,11,RAPTORS Rebound,Rebound,Normal Rebound,3800.0,h,False,TOR,24
+67,91,1610612761,17,11,Boucher Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,3800.0,h,False,TOR,24
+68,92,1610612739,17,14,Garland 26' 3PT Step Back Jump Shot (3 PTS),Made Shot,Step Back Jump shot,3990.0,v,True,CLE,25
+69,93,1610612761,17,14,MISS Pöltl 7' Floating Jump Shot,Missed Shot,Floating Jump shot,4080.0,h,True,TOR,26
+70,94,1610612739,17,14,Allen REBOUND (Off:1 Def:1),Rebound,Unknown,4080.0,v,True,CLE,27
+71,95,1610612761,17,14,Quickley P.FOUL (P1.T2) (M.Davis),Foul,Personal,4180.0,h,False,CLE,27
+72,97,1610612761,17,14,SUB: Mitchell FOR Quickley,Substitution,,4180.0,h,False,CLE,27
+73,99,1610612739,17,17,Wade 26' 3PT Jump Shot (3 PTS) (Garland 3 AST),Made Shot,Jump Shot,4250.0,v,False,CLE,27
+74,101,1610612761,20,17,Boucher 26' 3PT Jump Shot (4 PTS) (Agbaji 1 AST),Made Shot,Jump Shot,4350.0,h,True,TOR,28
+75,103,1610612739,20,17,Allen Lost Ball Turnover (P1.T3),Turnover,Lost Ball,4500.0,v,True,CLE,29
+76,103,1610612761,20,17,Mitchell STEAL (1 STL),,,4500.0,h,True,TOR,30
+77,105,1610612761,20,17,MISS Mitchell 24' 3PT Jump Shot,Missed Shot,Jump Shot,4580.0,h,False,TOR,30
+78,106,1610612739,20,17,Wade REBOUND (Off:1 Def:3),Rebound,Unknown,4610.0,v,True,CLE,31
+79,107,1610612739,20,17,Garland Bad Pass Turnover (P1.T4),Turnover,Bad Pass,4730.0,v,False,CLE,31
+80,107,1610612761,20,17,Boucher STEAL (1 STL),,,4730.0,h,True,TOR,32
+81,109,1610612761,22,17,Agbaji 5' Driving Finger Roll Layup (3 PTS) (Dick 1 AST),Made Shot,Driving Finger Roll Layup Shot,4840.0,h,False,TOR,32
+82,111,1610612739,22,20,Merrill 26' 3PT Jump Shot (3 PTS) (LeVert 1 AST),Made Shot,Jump Shot,5020.0,v,True,CLE,33
+83,113,1610612739,22,20,Garland P.FOUL (P3.PN) (M.Davis),Foul,Personal,5150.0,v,True,TOR,34
+84,115,1610612761,23,20,Dick Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,5150.0,h,False,TOR,34
+85,116,1610612761,23,20,SUB: Shead FOR Pöltl,Substitution,,5150.0,h,False,TOR,34
+86,117,1610612761,23,20,SUB: Fernando FOR Agbaji,Substitution,,5150.0,h,False,TOR,34
+87,118,1610612739,23,20,SUB: Niang FOR Garland,Substitution,,5150.0,v,False,TOR,34
+88,119,1610612739,23,20,SUB: Mitchell FOR Wade,Substitution,,5150.0,v,False,TOR,34
+89,124,1610612761,24,20,Dick Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,5150.0,h,False,TOR,34
+90,125,1610612739,24,20,MISS Mitchell 26' 3PT Jump Shot,Missed Shot,Jump Shot,5250.0,v,True,CLE,35
+91,126,1610612761,24,20,Fernando REBOUND (Off:0 Def:1),Rebound,Unknown,5300.0,h,True,TOR,36
+92,127,1610612761,27,20,Dick 24' 3PT Pullup Jump Shot (9 PTS) (Mitchell 1 AST),Made Shot,Pullup Jump shot,5380.0,h,False,TOR,36
+93,129,1610612739,27,22,Mitchell 5' Driving Finger Roll Layup (5 PTS),Made Shot,Driving Finger Roll Layup Shot,5550.0,v,True,CLE,37
+94,130,1610612761,27,22,Fernando Inbound Turnover (P1.T2),Turnover,Inbound Turnover,5550.0,h,True,TOR,38
+95,131,0,27,22,Cavaliers Timeout: Regular (Reg.1 Short 0),Timeout,Regular,5550.0,v,True,CLE,39
+96,132,1610612761,27,22,SUB: Barnes FOR Dick,Substitution,,5550.0,h,False,CLE,39
+97,133,1610612739,27,22,SUB: Mobley FOR Allen,Substitution,,5550.0,v,False,CLE,39
+98,136,1610612739,27,25,Niang 27' 3PT Jump Shot (3 PTS) (Merrill 1 AST),Made Shot,Jump Shot,5580.0,v,False,CLE,39
+99,138,1610612761,27,25,MISS Barnes 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,5770.0,h,True,TOR,40
+100,139,1610612739,27,25,Mitchell REBOUND (Off:0 Def:2),Rebound,Unknown,5810.0,v,True,CLE,41
+101,140,1610612761,27,25,Fernando S.FOUL (P1.T3) (M.Davis),Foul,Shooting,5890.0,h,False,CLE,41
+102,142,1610612739,27,26,Mitchell Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,5890.0,v,False,CLE,41
+103,143,1610612739,27,26,MISS Mitchell Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,5890.0,v,False,CLE,41
+104,144,1610612761,27,26,Fernando REBOUND (Off:0 Def:2),Rebound,Unknown,5920.0,h,True,TOR,42
+105,145,1610612761,27,26,MISS Mitchell 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,5990.0,h,False,TOR,42
+106,146,0,27,26,Cavaliers Rebound,Rebound,Unknown,6000.0,v,True,CLE,43
+107,147,1610612761,27,26,Fernando L.B.FOUL (P2.T4) (M.Davis),Foul,Loose Ball,6000.0,h,False,CLE,43
+108,149,1610612761,27,26,Shead P.FOUL (P1.PN) (M.Davis),Foul,Personal,6080.0,h,False,CLE,43
+109,151,1610612739,27,27,Merrill Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,6080.0,v,False,CLE,43
+110,152,1610612739,27,28,Merrill Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,6080.0,v,False,CLE,43
+111,153,1610612761,27,28,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,6280.0,h,True,TOR,44
+112,154,1610612739,27,28,LeVert REBOUND (Off:0 Def:1),Rebound,Unknown,6320.0,v,True,CLE,45
+113,155,1610612739,27,28,MISS Mobley 3' Layup,Missed Shot,Layup Shot,6440.0,v,False,CLE,45
+114,155,1610612761,27,28,Boucher BLOCK (1 BLK),,,6440.0,h,False,CLE,45
+115,157,0,27,28,Cavaliers Rebound,Rebound,Unknown,6440.0,v,False,CLE,45
+116,159,1610612739,27,28,MISS Mobley 26' 3PT Jump Shot,Missed Shot,Jump Shot,6520.0,v,False,CLE,45
+117,160,1610612761,27,28,Shead REBOUND (Off:0 Def:1),Rebound,Unknown,6560.0,h,True,TOR,46
+118,161,1610612761,29,28,Shead 12' Floating Jump Shot (2 PTS) (Fernando 1 AST),Made Shot,Floating Jump shot,6625.0,h,False,TOR,46
+119,163,1610612739,29,31,Mobley 24' 3PT Jump Shot (7 PTS) (LeVert 2 AST),Made Shot,Jump Shot,6748.0,v,True,CLE,47
+120,165,1610612761,32,31,Boucher 24' 3PT Jump Shot (7 PTS) (Barnes 3 AST),Made Shot,Jump Shot,6981.0,h,True,TOR,48
+121,167,1610612761,32,31,Barnes S.FOUL (P1.PN) (M.Davis),Foul,Shooting,7194.0,h,True,CLE,49
+122,169,1610612739,32,32,Mitchell Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,7194.0,v,False,CLE,49
+123,170,1610612739,32,33,Mitchell Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,7194.0,v,False,CLE,49
+124,171,0,32,33,End of 1st Period (8:13 PM EST),period,end,7200.0,,False,CLE,49
+125,174,0,32,33,Start of 2nd Period (8:15 PM EST),period,start,7200.0,,True,TOR,50
+126,175,1610612761,32,33,MISS Shead 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7410.0,h,False,TOR,50
+127,176,1610612739,32,33,Mobley REBOUND (Off:2 Def:1),Rebound,Unknown,7430.0,v,True,CLE,51
+128,177,1610612739,32,35,Mobley Cutting Dunk Shot (9 PTS) (Mitchell 1 AST),Made Shot,Cutting Dunk Shot,7500.0,v,False,CLE,51
+129,179,1610612739,32,35,Merrill P.FOUL (P2.T1) (J.Ralls),Foul,Personal,7550.0,v,True,TOR,52
+130,181,1610612761,32,35,MISS Mitchell 25' 3PT Jump Shot,Missed Shot,Jump Shot,7660.0,h,False,TOR,52
+131,182,1610612739,32,35,Mobley REBOUND (Off:2 Def:2),Rebound,Unknown,7690.0,v,True,CLE,53
+132,183,1610612739,32,37,Mobley 6' Driving Layup (11 PTS),Made Shot,Driving Layup Shot,7770.0,v,False,CLE,53
+133,184,1610612761,32,37,Barnes Out of Bounds Lost Ball Turnover (P1.T3),Turnover,Out of Bounds Lost Ball Turnover,7930.0,h,True,TOR,54
+134,185,1610612739,32,39,Merrill 1' Running Layup (7 PTS) (Mitchell 2 AST),Made Shot,Running Layup Shot,7980.0,v,True,CLE,55
+135,187,0,32,39,RAPTORS Timeout: Regular (Full 2 Short 0),Timeout,Regular,7980.0,h,True,TOR,56
+136,188,1610612761,32,39,SUB: Dick FOR Shead,Substitution,,7980.0,h,False,TOR,56
+137,189,1610612761,32,39,SUB: Mogbo FOR Fernando,Substitution,,7980.0,h,False,TOR,56
+138,192,1610612761,32,39,MISS Boucher 24' 3PT Jump Shot,Missed Shot,Jump Shot,8100.0,h,False,TOR,56
+139,193,1610612739,32,39,Okoro REBOUND (Off:0 Def:1),Rebound,Unknown,8130.0,v,True,CLE,57
+140,194,1610612739,32,39,MISS Merrill 3PT Jump Shot,Missed Shot,Jump Shot,8270.0,v,False,CLE,57
+141,195,0,32,39,Cavaliers Rebound,Rebound,Unknown,8280.0,v,False,CLE,57
+142,198,1610612739,32,39,Okoro OFF.Foul (P1) (M.Davis),Foul,Offensive,8280.0,v,False,CLE,57
+143,200,1610612739,32,39,Okoro Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,8280.0,v,False,CLE,57
+144,201,1610612761,32,39,MISS Dick 12' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,8490.0,h,True,TOR,58
+145,202,1610612739,32,39,Mobley REBOUND (Off:2 Def:3),Rebound,Unknown,8510.0,v,True,CLE,59
+146,203,1610612761,32,39,Mogbo S.FOUL (P1.T1) (S.Wright),Foul,Shooting,8600.0,h,False,CLE,59
+147,205,1610612739,32,40,Mobley Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,8600.0,v,False,CLE,59
+148,206,1610612761,32,40,SUB: Quickley FOR Mitchell,Substitution,,8600.0,h,False,CLE,59
+149,208,1610612739,32,41,Mobley Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,8600.0,v,False,CLE,59
+150,209,1610612761,35,41,Quickley 29' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,8700.0,h,True,TOR,60
+151,210,1610612739,35,43,Mitchell Driving Finger Roll Layup (10 PTS),Made Shot,Driving Finger Roll Layup Shot,8880.0,v,True,CLE,61
+152,211,1610612739,35,43,Merrill P.FOUL (P3.T2) (M.Davis),Foul,Personal,8960.0,v,True,TOR,62
+153,213,1610612761,35,43,SUB: Pöltl FOR Boucher,Substitution,,8960.0,h,False,TOR,62
+154,214,1610612739,35,43,SUB: Jerome FOR Merrill,Substitution,,8960.0,v,False,TOR,62
+155,217,1610612761,35,43,MISS Quickley 4' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,9110.0,h,False,TOR,62
+156,217,1610612739,35,43,Mobley BLOCK (1 BLK),,,9110.0,v,False,TOR,62
+157,219,1610612739,35,43,Mobley REBOUND (Off:2 Def:4),Rebound,Unknown,9130.0,v,True,CLE,63
+158,220,1610612761,35,43,Barnes P.FOUL (P2.T2) (S.Wright),Foul,Personal,9140.0,h,False,CLE,63
+159,222,1610612739,35,45,Mitchell 19' Jump Shot (12 PTS),Made Shot,Jump Shot,9230.0,v,False,CLE,63
+160,223,1610612761,37,45,Pöltl 1' Cutting Layup Shot (2 PTS) (Barnes 4 AST),Made Shot,Cutting Layup Shot,9330.0,h,True,TOR,64
+161,225,1610612761,37,45,Pöltl S.FOUL (P1.T3) (M.Davis),Foul,Shooting,9430.0,h,True,CLE,65
+162,227,1610612739,37,46,Mobley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,9430.0,v,False,CLE,65
+163,228,1610612761,37,46,SUB: Agbaji FOR Mogbo,Substitution,,9430.0,h,False,CLE,65
+164,229,1610612761,37,46,SUB: Mitchell FOR Barnes,Substitution,,9430.0,h,False,CLE,65
+165,230,1610612739,37,46,SUB: Wade FOR Niang,Substitution,,9430.0,v,False,CLE,65
+166,235,1610612761,37,46,Lane,Violation,Lane,9430.0,h,False,CLE,65
+167,234,1610612739,37,47,Mobley Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,9430.0,v,False,CLE,65
+168,237,1610612761,39,47,Dick 5' Driving Finger Roll Layup (11 PTS) (Quickley 3 AST),Made Shot,Driving Finger Roll Layup Shot,9560.0,h,True,TOR,66
+169,239,1610612739,39,49,Mobley 7' Driving Floating Jump Shot (17 PTS) (Jerome 1 AST),Made Shot,Driving Floating Jump Shot,9670.0,v,True,CLE,67
+170,241,1610612739,39,49,Jerome S.FOUL (P1.T3) (M.Davis),Foul,Shooting,9850.0,v,True,TOR,68
+171,243,1610612761,39,49,MISS Pöltl Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,9850.0,h,False,TOR,68
+172,244,0,39,49,RAPTORS Rebound,Rebound,Normal Rebound,9850.0,h,False,TOR,68
+173,245,1610612739,39,49,SUB: Allen FOR Mobley,Substitution,,9850.0,v,False,TOR,68
+174,247,1610612761,39,49,MISS Pöltl Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,9850.0,h,False,TOR,68
+175,248,1610612739,39,49,Jerome REBOUND (Off:0 Def:1),Rebound,Unknown,9870.0,v,True,CLE,69
+176,249,1610612739,39,49,MISS Mitchell 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,10000.0,v,False,CLE,69
+177,250,1610612761,39,49,Pöltl REBOUND (Off:0 Def:3),Rebound,Unknown,10000.0,h,True,TOR,70
+178,251,1610612739,39,49,Mitchell P.FOUL (P1.T4) (S.Wright),Foul,Personal,10000.0,v,False,TOR,70
+179,253,1610612739,39,49,Wade P.FOUL (P2.PN) (J.Ralls),Foul,Personal,10130.0,v,False,TOR,70
+180,255,1610612761,40,49,Pöltl Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,10130.0,h,False,TOR,70
+181,256,1610612761,41,49,Pöltl Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,10130.0,h,False,TOR,70
+182,257,1610612739,41,49,MISS Wade 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,10320.0,v,True,CLE,71
+183,258,1610612761,41,49,Pöltl REBOUND (Off:0 Def:4),Rebound,Unknown,10350.0,h,True,TOR,72
+184,259,1610612761,41,49,MISS Quickley 29' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,10390.0,h,False,TOR,72
+185,260,1610612739,41,49,Allen REBOUND (Off:1 Def:2),Rebound,Unknown,10420.0,v,True,CLE,73
+186,261,1610612739,41,49,Jerome Bad Pass Turnover (P1.T6),Turnover,Bad Pass,10510.0,v,False,CLE,73
+187,261,1610612761,41,49,Agbaji STEAL (1 STL),,,10510.0,h,True,TOR,74
+188,263,1610612761,41,49,MISS Dick 5' Running Jump Shot,Missed Shot,Running Jump Shot,10540.0,h,False,TOR,74
+189,263,1610612739,41,49,Mitchell BLOCK (1 BLK),,,10540.0,v,False,TOR,74
+190,265,0,41,49,RAPTORS Rebound,Rebound,Unknown,10540.0,h,False,TOR,74
+191,267,1610612739,41,49,SUB: Garland FOR Mitchell,Substitution,,10540.0,v,False,TOR,74
+192,269,0,41,49,RAPTORS Timeout: Regular (Full 3 Short 0),Timeout,Regular,10540.0,h,False,TOR,74
+193,271,1610612761,43,49,Pöltl 6' Floating Jump Shot (6 PTS) (Quickley 4 AST),Made Shot,Floating Jump shot,10590.0,h,False,TOR,74
+194,273,1610612739,43,49,MISS Garland 24' 3PT Jump Shot,Missed Shot,Jump Shot,10760.0,v,True,CLE,75
+195,274,1610612761,43,49,Agbaji REBOUND (Off:3 Def:1),Rebound,Unknown,10790.0,h,True,TOR,76
+196,275,1610612761,43,49,Quickley Out of Bounds Lost Ball Turnover (P2.T4),Turnover,Out of Bounds Lost Ball Turnover,10820.0,h,False,TOR,76
+197,276,1610612739,43,49,MISS Allen 11' Jump Shot,Missed Shot,Jump Shot,10950.0,v,True,CLE,77
+198,277,1610612761,43,49,Agbaji REBOUND (Off:3 Def:2),Rebound,Unknown,10970.0,h,True,TOR,78
+199,278,1610612761,43,49,MISS Pöltl 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,11030.0,h,False,TOR,78
+200,278,1610612739,43,49,Allen BLOCK (2 BLK),,,11030.0,v,False,TOR,78
+201,280,0,43,49,RAPTORS Rebound,Rebound,Unknown,11030.0,h,False,TOR,78
+202,282,1610612761,45,49,Quickley 12' Driving Floating Jump Shot (12 PTS) (Pöltl 1 AST),Made Shot,Driving Floating Jump Shot,11080.0,h,False,TOR,78
+203,284,1610612739,45,51,Allen Cutting Dunk Shot (6 PTS) (Jerome 2 AST),Made Shot,Cutting Dunk Shot,11310.0,v,True,CLE,79
+204,286,1610612761,45,51,Pöltl OFF.Foul (P2) (J.Ralls),Foul,Offensive,11420.0,h,True,TOR,80
+205,288,1610612761,45,51,Pöltl Offensive Foul Turnover (P1.T5),Turnover,Offensive Foul Turnover,11420.0,h,False,TOR,80
+206,289,1610612761,45,51,SUB: Barnes FOR Mitchell,Substitution,,11420.0,h,True,CLE,81
+207,290,1610612739,45,51,SUB: LeVert FOR Okoro,Substitution,,11420.0,v,False,CLE,81
+208,293,1610612739,45,53,Jerome 8' Driving Floating Bank Jump Shot (2 PTS),Made Shot,Driving Floating Bank Jump Shot,11630.0,v,False,CLE,81
+209,294,1610612761,45,53,Pöltl Bad Pass Turnover (P2.T6),Turnover,Bad Pass,11770.0,h,True,TOR,82
+210,294,1610612739,45,53,Allen STEAL (1 STL),,,11770.0,v,True,CLE,83
+211,296,1610612739,45,53,MISS Allen 4' Running Layup,Missed Shot,Running Layup Shot,11800.0,v,False,CLE,83
+212,297,0,45,53,RAPTORS Rebound,Rebound,Unknown,11810.0,h,True,TOR,84
+213,298,1610612739,45,53,Garland L.B.FOUL (P4.PN) (J.Ralls),Foul,Loose Ball,11810.0,v,False,TOR,84
+214,300,1610612761,45,53,MISS Quickley Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,11810.0,h,False,TOR,84
+215,301,0,45,53,RAPTORS Rebound,Rebound,Normal Rebound,11810.0,h,False,TOR,84
+216,302,1610612739,45,53,SUB: Mitchell FOR Garland,Substitution,,11810.0,v,False,TOR,84
+217,304,1610612761,46,53,Quickley Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,11810.0,h,False,TOR,84
+218,305,1610612761,46,53,Quickley P.FOUL (P2.T4) (M.Davis),Foul,Personal,11910.0,h,True,CLE,85
+219,307,1610612739,46,55,Jerome 8' Driving Floating Jump Shot (4 PTS),Made Shot,Driving Floating Jump Shot,11980.0,v,False,CLE,85
+220,308,1610612761,46,55,MISS Barnes 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12130.0,h,True,TOR,86
+221,309,1610612761,46,55,Barnes REBOUND (Off:1 Def:1),Rebound,Unknown,12160.0,h,False,TOR,86
+222,310,1610612761,46,55,MISS Quickley 26' 3PT Jump Shot,Missed Shot,Jump Shot,12180.0,h,False,TOR,86
+223,311,1610612739,46,55,Wade REBOUND (Off:1 Def:4),Rebound,Unknown,12230.0,v,True,CLE,87
+224,312,1610612739,46,57,Wade 1' Running Dunk (5 PTS) (LeVert 3 AST),Made Shot,Running Dunk Shot,12260.0,v,False,CLE,87
+225,314,1610612761,46,57,Pöltl Bad Pass Turnover (P3.T7),Turnover,Bad Pass,12320.0,h,True,TOR,88
+226,314,1610612739,46,57,Wade STEAL (2 STL),,,12320.0,v,True,CLE,89
+227,316,1610612739,46,60,Mitchell 28' 3PT Jump Shot (15 PTS) (Wade 1 AST),Made Shot,Jump Shot,12350.0,v,False,CLE,89
+228,318,1610612761,46,60,MISS Quickley 4' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,12500.0,h,True,TOR,90
+229,318,1610612739,46,60,Allen BLOCK (3 BLK),,,12500.0,v,False,TOR,90
+230,320,1610612739,46,60,Allen REBOUND (Off:1 Def:3),Rebound,Unknown,12530.0,v,True,CLE,91
+231,321,1610612739,46,60,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T7),Turnover,Out of Bounds - Bad Pass Turnover,12550.0,v,False,CLE,91
+232,322,1610612739,46,60,SUB: Mobley FOR Wade,Substitution,,12550.0,v,True,TOR,92
+233,324,1610612761,46,60,Pöltl Lost Ball Turnover (P4.T8),Turnover,Lost Ball,12750.0,h,False,TOR,92
+234,324,1610612739,46,60,Mobley STEAL (1 STL),,,12750.0,v,True,CLE,93
+235,326,1610612739,46,60,MISS Mitchell 2' Reverse Layup,Missed Shot,Reverse Layup Shot,12810.0,v,False,CLE,93
+236,327,1610612761,46,60,Quickley REBOUND (Off:0 Def:2),Rebound,Unknown,12830.0,h,True,TOR,94
+237,328,1610612761,46,60,MISS Dick 23' Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,12860.0,h,False,TOR,94
+238,329,0,46,60,Cavaliers Rebound,Rebound,Unknown,12860.0,v,True,CLE,95
+239,332,1610612761,46,60,SUB: Shead FOR Quickley,Substitution,,12960.0,h,False,CLE,95
+240,334,1610612739,46,62,Allen 1' Alley Oop Dunk (8 PTS) (Jerome 3 AST),Made Shot,Alley Oop Dunk Shot,13140.0,v,False,CLE,95
+241,336,1610612761,49,62,Shead 25' 3PT Jump Shot (5 PTS) (Barnes 5 AST),Made Shot,Jump Shot,13310.0,h,True,TOR,96
+242,338,1610612739,49,62,MISS Mitchell 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13510.0,v,True,CLE,97
+243,339,1610612761,49,62,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,13540.0,h,True,TOR,98
+244,340,1610612761,49,62,MISS Barnes 5' Driving Layup,Missed Shot,Driving Layup Shot,13760.0,h,False,TOR,98
+245,340,1610612739,49,62,Mobley BLOCK (2 BLK),,,13760.0,v,False,TOR,98
+246,342,1610612761,49,62,Barnes REBOUND (Off:2 Def:2),Rebound,Unknown,13770.0,h,False,TOR,98
+247,343,0,49,62,RAPTORS Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,13770.0,h,False,TOR,98
+248,344,1610612739,49,64,Allen Cutting Dunk Shot (10 PTS) (Jerome 4 AST),Made Shot,Cutting Dunk Shot,13876.0,v,True,CLE,99
+249,346,1610612761,49,64,Barnes S.FOUL (P3.PN) (J.Ralls),Foul,Shooting,13876.0,h,False,CLE,99
+250,348,1610612739,49,65,Allen Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,13876.0,v,False,CLE,99
+251,349,1610612761,49,65,MISS Barnes 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,14100.0,h,True,TOR,100
+252,349,1610612739,49,65,Mobley BLOCK (3 BLK),,,14100.0,v,False,TOR,100
+253,351,1610612739,49,65,Allen REBOUND (Off:1 Def:4),Rebound,Unknown,14135.0,v,True,CLE,101
+254,352,1610612739,49,67,LeVert 2' Running Dunk (2 PTS) (Allen 1 AST),Made Shot,Running Dunk Shot,14135.0,v,False,CLE,101
+255,354,1610612761,49,67,Barnes Bad Pass Turnover (P2.T10),Turnover,Bad Pass,14352.0,h,True,TOR,102
+256,354,1610612739,49,67,Mitchell STEAL (1 STL),,,14352.0,v,True,CLE,103
+257,356,1610612739,49,69,Mobley 1' Running Dunk (19 PTS) (LeVert 4 AST),Made Shot,Running Dunk Shot,14391.0,v,False,CLE,103
+258,358,1610612761,49,69,MISS Dick 83' 3PT Jump Shot,Missed Shot,Jump Shot,14395.0,h,True,TOR,104
+259,359,0,49,69,RAPTORS Rebound,Rebound,Unknown,14399.0,h,False,TOR,104
+260,360,0,49,69,End of 2nd Period (8:46 PM EST),period,end,14400.0,,False,TOR,104
+261,367,0,49,69,Start of 3rd Period (9:01 PM EST),period,start,14400.0,,True,TOR,105
+262,368,1610612761,51,69,Barnes 6' Turnaround Jump Shot (6 PTS),Made Shot,Turnaround Jump Shot,14570.0,h,False,TOR,105
+263,369,1610612739,51,71,Garland 10' Driving Floating Jump Shot (5 PTS) (Mobley 1 AST),Made Shot,Driving Floating Jump Shot,14800.0,v,True,CLE,106
+264,371,1610612761,51,71,MISS Barnes 4' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,14910.0,h,True,TOR,107
+265,372,1610612761,51,71,Pöltl REBOUND (Off:1 Def:4),Rebound,Unknown,14940.0,h,False,TOR,107
+266,373,1610612761,53,71,Mitchell 20' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,15020.0,h,False,TOR,107
+267,374,1610612761,53,71,Agbaji P.FOUL (P2.T1) (S.Wright),Foul,Personal,15040.0,h,True,CLE,108
+268,376,1610612739,53,71,MISS Garland 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,15200.0,v,False,CLE,108
+269,376,1610612761,53,71,Dick BLOCK (1 BLK),,,15200.0,h,False,CLE,108
+270,378,0,53,71,Cavaliers Rebound,Rebound,Unknown,15200.0,v,False,CLE,108
+271,380,1610612739,53,73,Mobley 10' Turnaround Fadeaway (21 PTS),Made Shot,Turnaround Fadeaway shot,15300.0,v,False,CLE,108
+272,381,1610612761,53,73,Pöltl Lost Ball Turnover (P5.T11),Turnover,Lost Ball,15460.0,h,True,TOR,109
+273,381,1610612739,53,73,Mitchell STEAL (2 STL),,,15460.0,v,True,CLE,110
+274,383,1610612739,53,75,Mitchell 2' Running Layup (17 PTS),Made Shot,Running Layup Shot,15480.0,v,False,CLE,110
+275,384,1610612761,53,75,Barnes S.FOUL (P4.T2) (M.Davis),Foul,Shooting,15480.0,h,False,CLE,110
+276,386,1610612739,53,75,MISS Mitchell Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,15480.0,v,False,CLE,110
+277,387,1610612761,53,75,Dick REBOUND (Off:0 Def:1),Rebound,Unknown,15500.0,h,True,TOR,111
+278,388,1610612761,56,75,Dick 26' 3PT Jump Shot (14 PTS) (Pöltl 2 AST),Made Shot,Jump Shot,15610.0,h,False,TOR,111
+279,390,1610612739,56,75,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,15810.0,v,True,CLE,112
+280,391,1610612761,56,75,Pöltl REBOUND (Off:1 Def:5),Rebound,Unknown,15830.0,h,True,TOR,113
+281,392,1610612739,56,75,Wade P.FOUL (P3.T1) (J.Ralls),Foul,Personal,15830.0,v,False,TOR,113
+282,394,1610612761,56,75,Mitchell Bad Pass Turnover (P1.T12),Turnover,Bad Pass,15950.0,h,False,TOR,113
+283,394,1610612739,56,75,Mobley STEAL (2 STL),,,15950.0,v,True,CLE,114
+284,396,1610612739,56,75,MISS Mitchell 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,16010.0,v,False,CLE,114
+285,397,1610612739,56,75,Allen REBOUND (Off:2 Def:4),Rebound,Unknown,16050.0,v,False,CLE,114
+286,398,1610612739,56,75,MISS Wade 3PT Jump Shot,Missed Shot,Jump Shot,16110.0,v,False,CLE,114
+287,399,1610612739,56,75,Mobley REBOUND (Off:3 Def:4),Rebound,Unknown,16140.0,v,False,CLE,114
+288,400,1610612739,56,75,MISS Garland 26' 3PT Jump Shot,Missed Shot,Jump Shot,16240.0,v,False,CLE,114
+289,401,1610612761,56,75,Barnes REBOUND (Off:2 Def:3),Rebound,Unknown,16280.0,h,True,TOR,115
+290,402,1610612761,56,75,MISS Barnes 4' Running Layup,Missed Shot,Running Layup Shot,16330.0,h,False,TOR,115
+291,403,1610612739,56,75,Wade REBOUND (Off:1 Def:5),Rebound,Unknown,16360.0,v,True,CLE,116
+292,404,1610612761,56,75,Pöltl S.FOUL (P3.T3) (S.Wright),Foul,Shooting,16410.0,h,False,CLE,116
+293,406,1610612739,56,76,Allen Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,16410.0,v,False,CLE,116
+294,407,1610612739,56,77,Allen Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,16410.0,v,False,CLE,116
+295,408,0,56,77,RAPTORS Timeout: Regular (Full 4 Short 0),Timeout,Regular,16450.0,h,False,CLE,116
+296,409,1610612761,56,77,SUB: Shead FOR Dick,Substitution,,16450.0,h,False,CLE,116
+297,411,1610612761,56,77,MISS Mitchell 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,16640.0,h,True,TOR,117
+298,412,1610612739,56,77,Allen REBOUND (Off:2 Def:5),Rebound,Unknown,16660.0,v,True,CLE,118
+299,413,1610612739,56,79,Mobley Cutting Dunk Shot (23 PTS) (Mitchell 3 AST),Made Shot,Cutting Dunk Shot,16830.0,v,False,CLE,118
+300,415,1610612761,56,79,MISS Pöltl 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,17060.0,h,True,TOR,119
+301,415,1610612739,56,79,Allen BLOCK (4 BLK),,,17060.0,v,False,TOR,119
+302,417,1610612739,56,79,Wade REBOUND (Off:1 Def:6),Rebound,Unknown,17090.0,v,True,CLE,120
+303,418,1610612739,56,81,Garland 3' Running Finger Roll Layup (7 PTS),Made Shot,Running Finger Roll Layup Shot,17120.0,v,False,CLE,120
+304,420,1610612761,56,81,MISS Shead 26' 3PT Jump Shot,Missed Shot,Jump Shot,17210.0,h,True,TOR,121
+305,421,1610612739,56,81,Wade REBOUND (Off:1 Def:7),Rebound,Unknown,17210.0,v,True,CLE,122
+306,422,1610612761,56,81,Pöltl S.FOUL (P4.T4) (S.Wright),Foul,Shooting,17330.0,h,False,CLE,122
+307,424,1610612739,56,82,Mitchell Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,17330.0,v,False,CLE,122
+308,425,1610612761,56,82,SUB: Battle FOR Agbaji,Substitution,,17330.0,h,False,CLE,122
+309,426,1610612761,56,82,SUB: Boucher FOR Mitchell,Substitution,,17330.0,h,False,CLE,122
+310,427,1610612739,56,82,SUB: LeVert FOR Mobley,Substitution,,17330.0,v,False,CLE,122
+311,431,1610612739,56,83,Mitchell Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,17330.0,v,False,CLE,122
+312,432,1610612761,56,83,MISS Boucher 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17520.0,h,True,TOR,123
+313,433,1610612761,56,83,Pöltl REBOUND (Off:2 Def:5),Rebound,Unknown,17540.0,h,False,TOR,123
+314,434,1610612761,56,83,MISS Battle 26' 3PT Jump Shot,Missed Shot,Jump Shot,17570.0,h,False,TOR,123
+315,435,1610612761,56,83,Barnes REBOUND (Off:3 Def:3),Rebound,Unknown,17570.0,h,False,TOR,123
+316,436,1610612739,56,83,Mitchell S.FOUL (P2.T2) (S.Wright),Foul,Shooting,17580.0,v,False,TOR,123
+317,438,1610612761,56,83,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,17580.0,h,False,TOR,123
+318,439,0,56,83,RAPTORS Rebound,Rebound,Normal Rebound,17580.0,h,False,TOR,123
+319,440,1610612739,56,83,SUB: Merrill FOR Mitchell,Substitution,,17580.0,v,False,TOR,123
+320,442,1610612761,57,83,Barnes Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,17580.0,h,False,TOR,123
+321,443,1610612739,57,85,LeVert 5' Pullup Jump Shot (4 PTS),Made Shot,Pullup Jump shot,17770.0,v,True,CLE,124
+322,444,1610612761,57,85,MISS Barnes 20' Step Back Jump Shot,Missed Shot,Step Back Jump shot,17890.0,h,True,TOR,125
+323,445,1610612739,57,85,Garland REBOUND (Off:0 Def:1),Rebound,Unknown,17920.0,v,True,CLE,126
+324,446,1610612739,57,85,Garland Out of Bounds - Bad Pass Turnover Turnover (P2.T8),Turnover,Out of Bounds - Bad Pass Turnover,17950.0,v,False,CLE,126
+325,447,1610612739,57,85,SUB: Niang FOR Wade,Substitution,,17950.0,v,True,TOR,127
+326,449,1610612739,57,85,Allen S.FOUL (P1.T3) (M.Davis),Foul,Shooting,18060.0,v,False,TOR,127
+327,451,1610612761,58,85,Shead Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,18060.0,h,False,TOR,127
+328,452,1610612761,58,85,SUB: Dick FOR Barnes,Substitution,,18060.0,h,False,TOR,127
+329,454,0,58,85,Cavaliers Timeout: Regular (Reg.2 Short 0),Timeout,Regular,18060.0,v,False,TOR,127
+330,455,1610612761,59,85,Shead Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,18060.0,h,False,TOR,127
+331,457,1610612739,59,87,LeVert Cutting Dunk Shot (6 PTS) (Garland 4 AST),Made Shot,Cutting Dunk Shot,18210.0,v,True,CLE,128
+332,459,1610612761,61,87,Shead 4' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,18390.0,h,True,TOR,129
+333,460,1610612739,61,87,Merrill S.FOUL (P4.T4) (S.Wright),Foul,Shooting,18390.0,v,False,TOR,129
+334,462,1610612761,62,87,Shead Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,18390.0,h,False,TOR,129
+335,463,1610612739,62,87,MISS Merrill 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,18640.0,v,True,CLE,130
+336,464,1610612761,62,87,Pöltl REBOUND (Off:2 Def:6),Rebound,Unknown,18640.0,h,True,TOR,131
+337,465,1610612761,62,87,MISS Dick 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,18750.0,h,False,TOR,131
+338,466,1610612761,62,87,Pöltl REBOUND (Off:3 Def:6),Rebound,Unknown,18760.0,h,False,TOR,131
+339,467,1610612761,62,87,MISS Shead 26' 3PT Jump Shot,Missed Shot,Jump Shot,18780.0,h,False,TOR,131
+340,468,1610612761,62,87,Dick REBOUND (Off:1 Def:1),Rebound,Unknown,18780.0,h,False,TOR,131
+341,469,1610612761,64,87,Dick Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,18820.0,h,False,TOR,131
+342,470,0,64,87,Cavaliers Timeout: Regular (Reg.3 Short 0),Timeout,Regular,18820.0,v,True,CLE,132
+343,471,1610612739,64,90,LeVert 25' 3PT Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,18920.0,v,False,CLE,132
+344,472,1610612761,64,90,MISS Boucher 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,19130.0,h,True,TOR,133
+345,473,1610612739,64,90,Niang REBOUND (Off:0 Def:1),Rebound,Unknown,19150.0,v,True,CLE,134
+346,474,1610612739,64,92,LeVert 4' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,19240.0,v,False,CLE,134
+347,475,1610612761,67,92,Boucher 27' 3PT Jump Shot (10 PTS) (Shead 1 AST),Made Shot,Jump Shot,19340.0,h,True,TOR,135
+348,477,1610612739,67,92,Niang Bad Pass Turnover (P1.T9),Turnover,Bad Pass,19420.0,v,True,CLE,136
+349,477,1610612761,67,92,Shead STEAL (1 STL),,,19420.0,h,True,TOR,137
+350,479,1610612761,67,92,Boucher Step Out of Bounds Turnover (P1.T13),Turnover,Step Out of Bounds Turnover,19500.0,h,False,TOR,137
+351,480,1610612761,67,92,SUB: Fernando FOR Pöltl,Substitution,,19500.0,h,True,CLE,138
+352,483,1610612761,67,92,Fernando S.FOUL (P3.PN) (S.Wright),Foul,Shooting,19640.0,h,False,CLE,138
+353,485,1610612739,67,93,Allen Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,19640.0,v,False,CLE,138
+354,486,1610612739,67,93,MISS Allen Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,19640.0,v,False,CLE,138
+355,487,1610612761,67,93,Fernando REBOUND (Off:0 Def:3),Rebound,Unknown,19660.0,h,True,TOR,139
+356,488,1610612761,69,93,Fernando 1' Alley Oop Dunk (2 PTS) (Shead 2 AST),Made Shot,Alley Oop Dunk Shot,19750.0,h,False,TOR,139
+357,490,1610612739,69,93,MISS Garland 15' Floating Jump Shot,Missed Shot,Floating Jump shot,19950.0,v,True,CLE,140
+358,491,0,69,93,RAPTORS Rebound,Rebound,Unknown,19950.0,h,True,TOR,141
+359,492,1610612739,69,93,Niang L.B.FOUL (P1.PN) (J.Ralls),Foul,Loose Ball,19950.0,v,False,TOR,141
+360,494,1610612761,69,93,MISS Boucher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,19950.0,h,False,TOR,141
+361,495,0,69,93,RAPTORS Rebound,Rebound,Normal Rebound,19950.0,h,False,TOR,141
+362,496,1610612739,69,93,SUB: Mobley FOR Allen,Substitution,,19950.0,v,False,TOR,141
+363,498,1610612761,69,93,SUB: Barnes FOR Battle,Substitution,,19950.0,h,False,TOR,141
+364,500,1610612761,70,93,Boucher Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,19950.0,h,False,TOR,141
+365,501,1610612739,70,95,LeVert 19' Step Back Jump Shot (13 PTS),Made Shot,Step Back Jump shot,20080.0,v,True,CLE,142
+366,502,1610612761,70,95,MISS Fernando 1' Finger Roll Layup,Missed Shot,Finger Roll Layup Shot,20280.0,h,True,TOR,143
+367,503,1610612761,70,95,Fernando REBOUND (Off:1 Def:3),Rebound,Unknown,20300.0,h,False,TOR,143
+368,504,1610612761,70,95,MISS Fernando Tip Layup Shot,Missed Shot,Tip Layup Shot,20300.0,h,False,TOR,143
+369,505,1610612761,70,95,Fernando REBOUND (Off:2 Def:3),Rebound,Unknown,20330.0,h,False,TOR,143
+370,506,1610612761,72,95,Fernando Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,20330.0,h,False,TOR,143
+371,507,0,72,95,Cavaliers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,20400.0,v,True,CLE,144
+372,508,1610612739,72,95,MISS Niang 25' 3PT Jump Shot,Missed Shot,Jump Shot,20550.0,v,False,CLE,144
+373,508,1610612761,72,95,Dick BLOCK (2 BLK),,,20550.0,h,False,CLE,144
+374,510,1610612761,72,95,Fernando REBOUND (Off:2 Def:4),Rebound,Unknown,20590.0,h,True,TOR,145
+375,511,1610612761,75,95,Boucher 26' 3PT Jump Shot (14 PTS) (Shead 3 AST),Made Shot,Jump Shot,20630.0,h,False,TOR,145
+376,513,1610612739,75,98,Niang 3PT Jump Shot (6 PTS) (Garland 5 AST),Made Shot,Jump Shot,20780.0,v,True,CLE,146
+377,515,1610612761,75,98,Shead Out of Bounds - Bad Pass Turnover Turnover (P1.T14),Turnover,Out of Bounds - Bad Pass Turnover,20910.0,h,True,TOR,147
+378,516,1610612739,75,101,Niang 3PT Jump Shot (9 PTS) (Garland 6 AST),Made Shot,Jump Shot,21072.0,v,True,CLE,148
+379,518,1610612761,75,101,MISS Dick 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,21130.0,h,True,TOR,149
+380,519,0,75,101,RAPTORS Rebound,Rebound,Unknown,21141.0,h,False,TOR,149
+381,520,1610612739,75,101,LeVert L.B.FOUL (P1.PN) (S.Wright),Foul,Loose Ball,21141.0,v,False,TOR,149
+382,522,1610612761,76,101,Barnes Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,21141.0,h,False,TOR,149
+383,523,1610612761,77,101,Barnes Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,21141.0,h,False,TOR,149
+384,524,1610612761,77,101,Barnes S.FOUL (P5.PN) (J.Ralls),Foul,Shooting,21256.0,h,True,CLE,150
+385,526,0,77,101,RAPTORS Timeout: Regular (Full 5 Short 0),Timeout,Regular,21256.0,h,False,CLE,150
+386,528,0,77,101,Instant Replay3rd Period (9:31 PM EST),Instant Replay,Coach Challenge Support Ruling,21256.0,,False,CLE,150
+387,529,1610612739,77,101,MISS LeVert Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,21256.0,v,False,CLE,150
+388,530,0,77,101,Cavaliers Rebound,Rebound,Normal Rebound,21256.0,v,False,CLE,150
+389,531,1610612739,77,102,LeVert Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,21256.0,v,False,CLE,150
+390,532,1610612761,77,102,MISS Barnes 21' Jump Shot,Missed Shot,Jump Shot,21402.0,h,True,TOR,151
+391,533,1610612761,77,102,Boucher REBOUND (Off:1 Def:0),Rebound,Unknown,21417.0,h,False,TOR,151
+392,534,1610612761,79,102,Boucher Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,21417.0,h,False,TOR,151
+393,535,1610612739,79,105,LeVert 26' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,21597.0,v,True,CLE,152
+394,536,0,79,105,Instant Replay3rd Period (9:35 PM EST),Instant Replay,Support Ruling,21600.0,,True,TOR,153
+395,537,0,79,105,End of 3rd Period (9:35 PM EST),period,end,21600.0,,False,TOR,153
+396,548,0,79,105,Start of 4th Period (9:37 PM EST),period,start,21600.0,,True,CLE,154
+397,549,1610612761,79,105,Boucher P.FOUL (P1.T1) (M.Davis),Foul,Personal,21710.0,h,False,CLE,154
+398,551,1610612739,79,107,LeVert 5' Driving Bank Hook Shot (19 PTS) (Okoro 1 AST),Made Shot,Driving Bank Hook Shot,21790.0,v,False,CLE,154
+399,553,1610612761,79,107,MISS Mitchell 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,22000.0,h,True,TOR,155
+400,553,1610612739,79,107,Okoro BLOCK (1 BLK),,,22000.0,v,False,TOR,155
+401,555,1610612761,79,107,Agbaji REBOUND (Off:4 Def:2),Rebound,Unknown,22040.0,h,False,TOR,155
+402,556,1610612761,79,107,MISS Fernando 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,22060.0,h,False,TOR,155
+403,557,1610612739,79,107,Mobley REBOUND (Off:3 Def:5),Rebound,Unknown,22080.0,v,True,CLE,156
+404,558,1610612739,79,109,Mitchell 5' Driving Hook Shot (21 PTS),Made Shot,Driving Hook Shot,22160.0,v,False,CLE,156
+405,559,1610612761,81,109,Mitchell 2' Driving Finger Roll Layup (4 PTS),Made Shot,Driving Finger Roll Layup Shot,22300.0,h,True,TOR,157
+406,560,1610612739,81,109,MISS Okoro 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22480.0,v,True,CLE,158
+407,560,1610612761,81,109,Battle BLOCK (1 BLK),,,22480.0,h,False,CLE,158
+408,562,1610612761,81,109,Battle REBOUND (Off:0 Def:1),Rebound,Unknown,22510.0,h,True,TOR,159
+409,563,1610612761,83,109,Mitchell 1' Running Layup (6 PTS) (Boucher 1 AST),Made Shot,Running Layup Shot,22530.0,h,False,TOR,159
+410,565,1610612739,83,109,MISS LeVert 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22710.0,v,True,CLE,160
+411,566,0,83,109,RAPTORS Rebound,Rebound,Unknown,22710.0,h,True,TOR,161
+412,568,1610612761,83,109,MISS Battle 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,22870.0,h,False,TOR,161
+413,569,0,83,109,RAPTORS Rebound,Rebound,Unknown,22870.0,h,False,TOR,161
+414,571,1610612739,83,109,SUB: Jerome FOR LeVert,Substitution,,22870.0,v,False,TOR,161
+415,573,1610612739,83,109,Mobley S.FOUL (P2.T1) (J.Ralls),Foul,Shooting,22950.0,v,False,TOR,161
+416,575,1610612761,84,109,Boucher Free Throw 1 of 2 (17 PTS),Free Throw,Free Throw 1 of 2,22950.0,h,False,TOR,161
+417,576,1610612761,85,109,Boucher Free Throw 2 of 2 (18 PTS),Free Throw,Free Throw 2 of 2,22950.0,h,False,TOR,161
+418,577,1610612739,85,112,Jerome 28' 3PT Pullup Jump Shot (7 PTS) (Mobley 2 AST),Made Shot,Pullup Jump shot,23080.0,v,True,CLE,162
+419,579,1610612761,85,112,Mitchell Bad Pass Turnover (P2.T15),Turnover,Bad Pass,23250.0,h,True,TOR,163
+420,579,1610612739,85,112,Jerome STEAL (1 STL),,,23250.0,v,True,CLE,164
+421,581,1610612739,85,112,MISS Jerome 2' Running Layup,Missed Shot,Running Layup Shot,23310.0,v,False,CLE,164
+422,581,1610612761,85,112,Agbaji BLOCK (1 BLK),,,23310.0,h,False,CLE,164
+423,583,1610612761,85,112,Boucher REBOUND (Off:1 Def:1),Rebound,Unknown,23340.0,h,True,TOR,165
+424,584,1610612761,85,112,MISS Boucher 4' Running Jump Shot,Missed Shot,Running Jump Shot,23360.0,h,False,TOR,165
+425,585,0,85,112,Cavaliers Rebound,Rebound,Unknown,23360.0,v,True,CLE,166
+426,587,1610612739,85,112,MISS Mobley 6' Driving Bank Hook Shot,Missed Shot,Driving Bank Hook Shot,23520.0,v,False,CLE,166
+427,588,1610612739,85,112,Mobley REBOUND (Off:4 Def:5),Rebound,Unknown,23520.0,v,False,CLE,166
+428,589,1610612761,85,112,Fernando S.FOUL (P4.T2) (J.Ralls),Foul,Shooting,23520.0,h,False,CLE,166
+429,591,1610612739,85,113,Mobley Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,23520.0,v,False,CLE,166
+430,592,1610612761,85,113,SUB: Mogbo FOR Fernando,Substitution,,23520.0,h,False,CLE,166
+431,594,1610612739,85,114,Mobley Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,23520.0,v,False,CLE,166
+432,595,1610612761,85,114,Mitchell Bad Pass Turnover (P3.T16),Turnover,Bad Pass,23640.0,h,True,TOR,167
+433,595,1610612739,85,114,Mitchell STEAL (3 STL),,,23640.0,v,True,CLE,168
+434,597,1610612739,85,116,Niang 1' Running Reverse Layup (11 PTS) (Mobley 3 AST),Made Shot,Running Reverse Layup Shot,23700.0,v,False,CLE,168
+435,599,0,85,116,RAPTORS Timeout: Regular (Full 6 Short 0),Timeout,Regular,23700.0,h,True,TOR,169
+436,600,1610612761,85,116,SUB: Shead FOR Boucher,Substitution,,23700.0,h,False,TOR,169
+437,601,1610612761,85,116,SUB: Fernando FOR Agbaji,Substitution,,23700.0,h,False,TOR,169
+438,602,1610612761,85,116,SUB: Temple FOR Mitchell,Substitution,,23700.0,h,False,TOR,169
+439,603,1610612739,85,116,SUB: Porter Jr. FOR Mobley,Substitution,,23700.0,v,False,TOR,169
+440,604,1610612739,85,116,SUB: Thompson FOR Mitchell,Substitution,,23700.0,v,False,TOR,169
+441,611,1610612761,87,116,Fernando 8' Turnaround Hook Shot (6 PTS) (Battle 1 AST),Made Shot,Turnaround Hook Shot,23880.0,h,False,TOR,169
+442,613,1610612739,87,116,MISS Porter Jr. 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,24060.0,v,True,CLE,170
+443,614,1610612761,87,116,Battle REBOUND (Off:0 Def:2),Rebound,Unknown,24100.0,h,True,TOR,171
+444,615,1610612761,87,116,MISS Temple 25' 3PT Jump Shot,Missed Shot,Jump Shot,24190.0,h,False,TOR,171
+445,616,0,87,116,Cavaliers Rebound,Rebound,Unknown,24210.0,v,True,CLE,172
+446,618,1610612761,87,116,Battle P.FOUL (P1.T3) (M.Davis),Foul,Personal,24330.0,h,False,CLE,172
+447,697,1610612739,87,116,MISS Porter Jr. 4' Driving Layup,Missed Shot,Driving Layup Shot,24370.0,v,False,CLE,172
+448,697,1610612761,87,116,Shead BLOCK (1 BLK),,,24370.0,h,False,CLE,172
+449,699,1610612761,87,116,Fernando REBOUND (Off:2 Def:5),Rebound,Unknown,24380.0,h,True,TOR,173
+450,622,1610612761,90,116,Battle 26' 3PT Running Jump Shot (3 PTS) (Shead 4 AST),Made Shot,Running Jump Shot,24420.0,h,False,TOR,173
+451,624,1610612739,90,118,Jerome 10' Pullup Jump Shot (9 PTS),Made Shot,Pullup Jump shot,24680.0,v,True,CLE,174
+452,625,1610612761,90,118,Shead Offensive Charge Foul (P2) (M.Davis),Foul,Offensive Charge,24800.0,h,True,TOR,175
+453,627,1610612761,90,118,Shead Offensive Foul Turnover (P2.T17),Turnover,Offensive Foul Turnover,24800.0,h,False,TOR,175
+454,628,1610612739,90,118,SUB: Tyson FOR Niang,Substitution,,24800.0,v,True,CLE,176
+455,630,1610612739,90,121,Jerome 27' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,25050.0,v,False,CLE,176
+456,631,1610612761,90,121,MISS Shead 27' 3PT Jump Shot,Missed Shot,Jump Shot,25270.0,h,True,TOR,177
+457,632,1610612739,90,121,Okoro REBOUND (Off:0 Def:2),Rebound,Unknown,25300.0,v,True,CLE,178
+458,633,1610612739,90,123,Porter Jr. 2' Turnaround Bank Hook Shot (2 PTS) (Okoro 2 AST),Made Shot,Turnaround Bank Hook Shot,25370.0,v,False,CLE,178
+459,635,1610612761,93,123,Battle 25' 3PT Jump Shot (6 PTS) (Temple 1 AST),Made Shot,Jump Shot,25490.0,h,True,TOR,179
+460,637,0,93,123,Cavaliers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,25510.0,v,True,CLE,180
+461,638,1610612761,93,123,SUB: Mitchell FOR Shead,Substitution,,25510.0,h,False,CLE,180
+462,640,1610612739,93,123,Tyson Lost Ball Turnover (P1.T10),Turnover,Lost Ball,25640.0,v,False,CLE,180
+463,640,1610612761,93,123,Temple STEAL (1 STL),,,25640.0,h,True,TOR,181
+464,642,1610612761,96,123,Mogbo 26' 3PT Jump Shot (3 PTS) (Mitchell 2 AST),Made Shot,Jump Shot,25760.0,h,False,TOR,181
+465,644,1610612739,96,123,Tyson Bad Pass Turnover (P2.T11),Turnover,Bad Pass,25910.0,v,True,CLE,182
+466,644,1610612761,96,123,Mogbo STEAL (1 STL),,,25910.0,h,True,TOR,183
+467,646,1610612739,96,123,Tyson S.FOUL (P1.T2) (S.Wright),Foul,Shooting,25950.0,v,False,TOR,183
+468,648,1610612761,97,123,Mogbo Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,25950.0,h,False,TOR,183
+469,649,1610612761,98,123,Mogbo Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,25950.0,h,False,TOR,183
+470,650,1610612761,98,123,Temple S.FOUL (P1.T4) (J.Ralls),Foul,Shooting,26100.0,h,True,CLE,184
+471,652,1610612739,98,123,MISS Tyson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26100.0,v,False,CLE,184
+472,653,0,98,123,Cavaliers Rebound,Rebound,Normal Rebound,26100.0,v,False,CLE,184
+473,654,1610612761,98,123,SUB: Chomche FOR Fernando,Substitution,,26100.0,h,False,CLE,184
+474,656,1610612739,98,124,Tyson Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,26100.0,v,False,CLE,184
+475,657,1610612761,100,124,Mogbo 1' Cutting Layup Shot (7 PTS) (Temple 2 AST),Made Shot,Cutting Layup Shot,26230.0,h,True,TOR,185
+476,659,1610612739,100,127,Tyson 28' 3PT Jump Shot (4 PTS) (Porter Jr. 1 AST),Made Shot,Jump Shot,26380.0,v,True,CLE,186
+477,661,1610612761,102,127,Chomche 11' Jump Shot (2 PTS) (Mitchell 3 AST),Made Shot,Jump Shot,26500.0,h,True,TOR,187
+478,663,1610612761,102,127,Temple S.FOUL (P2.PN) (S.Wright),Foul,Shooting,26580.0,h,True,CLE,188
+479,665,1610612739,102,127,MISS Okoro Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26580.0,v,False,CLE,188
+480,666,0,102,127,Cavaliers Rebound,Rebound,Normal Rebound,26580.0,v,False,CLE,188
+481,667,1610612739,102,128,Okoro Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,26580.0,v,False,CLE,188
+482,668,1610612739,102,128,Tyson P.FOUL (P2.T3) (J.Ralls),Foul,Personal,26660.0,v,True,TOR,189
+483,670,1610612761,102,128,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P4.T18),Turnover,Out of Bounds - Bad Pass Turnover,26750.0,h,False,TOR,189
+484,671,1610612739,102,128,MISS Porter Jr. 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,26890.0,v,True,CLE,190
+485,672,1610612739,102,128,Jerome REBOUND (Off:1 Def:1),Rebound,Unknown,26920.0,v,False,CLE,190
+486,673,1610612739,102,130,Porter Jr. 2' Driving Finger Roll Layup (4 PTS) (Tyson 1 AST),Made Shot,Driving Finger Roll Layup Shot,26980.0,v,False,CLE,190
+487,675,1610612761,102,130,MISS Mitchell 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,27120.0,h,True,TOR,191
+488,676,1610612739,102,130,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,27150.0,v,True,CLE,192
+489,677,1610612739,102,130,Jerome Bad Pass Turnover (P2.T12),Turnover,Bad Pass,27210.0,v,False,CLE,192
+490,677,1610612761,102,130,Mitchell STEAL (2 STL),,,27210.0,h,True,TOR,193
+491,679,1610612761,104,130,Mitchell Running Layup (8 PTS),Made Shot,Running Layup Shot,27260.0,h,False,TOR,193
+492,680,1610612739,104,130,MISS Thompson 8' Hook Shot,Missed Shot,Hook Shot,27520.0,v,True,CLE,194
+493,681,1610612761,104,130,Chomche REBOUND (Off:0 Def:1),Rebound,Unknown,27550.0,h,True,TOR,195
+494,682,1610612761,104,130,MISS Mogbo 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,27650.0,h,False,TOR,195
+495,683,1610612739,104,130,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,27680.0,v,True,CLE,196
+496,684,1610612739,104,132,Jerome 5' Driving Floating Bank Jump Shot (14 PTS),Made Shot,Driving Floating Bank Jump Shot,27780.0,v,False,CLE,196
+497,685,1610612761,104,132,MISS Mogbo 26' 3PT Jump Shot,Missed Shot,Jump Shot,27940.0,h,True,TOR,197
+498,686,1610612739,104,132,Tyson REBOUND (Off:0 Def:2),Rebound,Unknown,27970.0,v,True,CLE,198
+499,687,1610612739,104,134,Thompson 3' Hook Shot (2 PTS) (Jerome 5 AST),Made Shot,Hook Shot,28070.0,v,False,CLE,198
+500,689,1610612761,104,134,Mitchell Bad Pass Turnover (P5.T19),Turnover,Bad Pass,28237.0,h,True,TOR,199
+501,689,1610612739,104,134,Jerome STEAL (2 STL),,,28237.0,v,True,CLE,200
+502,691,1610612739,104,136,Okoro 1' Running Dunk (3 PTS) (Jerome 6 AST),Made Shot,Running Dunk Shot,28270.0,v,False,CLE,200
+503,693,1610612761,106,136,Temple 10' Driving Floating Jump Shot (2 PTS),Made Shot,Driving Floating Jump Shot,28383.0,h,True,TOR,201
+504,694,0,106,136,Cavaliers Turnover: Shot Clock (T#13),Turnover,Shot Clock Turnover,28623.0,v,True,CLE,202
+505,695,0,106,136,End of 4th Period (10:03 PM EST),period,end,28800.0,,False,CLE,202

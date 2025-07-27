@@ -1,0 +1,555 @@
+,actionNumber,teamId,scoreHome,scoreAway,description,actionType,subType,time,location,newPossession,possession,possessionCount
+0,2,0,0,0,Start of 1st Period (7:45 PM EST),period,start,0.0,,False,,0
+1,4,1610612737,0,0,Jump Ball Capela vs. Simmons: Tip to Johnson,Jump Ball,,0.0,h,True,ATL,1
+2,7,1610612737,3,0,Hunter 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,190.0,h,False,ATL,1
+3,8,1610612751,3,0,Simmons Bad Pass Turnover (P1.T1),Turnover,Bad Pass,340.0,v,True,BKN,2
+4,8,1610612737,3,0,Capela STEAL (1 STL),,,340.0,h,True,ATL,3
+5,10,1610612737,6,0,Daniels 25' 3PT Jump Shot (3 PTS) (Capela 1 AST),Made Shot,Jump Shot,420.0,h,False,ATL,3
+6,12,1610612751,6,0,MISS Thomas 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,560.0,v,True,BKN,4
+7,13,1610612751,6,0,Simmons REBOUND (Off:1 Def:0),Rebound,Unknown,590.0,v,False,BKN,4
+8,14,1610612751,6,2,C. Johnson 1' Cutting Dunk Shot (2 PTS) (Simmons 1 AST),Made Shot,Cutting Dunk Shot,650.0,v,False,BKN,4
+9,16,1610612737,8,2,Capela 1' Alley Oop Dunk (2 PTS) (Young 1 AST),Made Shot,Alley Oop Dunk Shot,720.0,h,True,ATL,5
+10,18,1610612751,8,4,Simmons 4' Driving Hook Shot (2 PTS),Made Shot,Driving Hook Shot,860.0,v,True,BKN,6
+11,19,1610612737,8,4,MISS Young 3' Driving Layup,Missed Shot,Driving Layup Shot,1080.0,h,True,ATL,7
+12,20,1610612737,8,4,Daniels REBOUND (Off:1 Def:0),Rebound,Unknown,1120.0,h,False,ATL,7
+13,21,1610612737,10,4,Daniels Tip Layup Shot (5 PTS),Made Shot,Tip Layup Shot,1120.0,h,False,ATL,7
+14,22,1610612751,10,4,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,1240.0,v,True,BKN,8
+15,23,1610612737,10,4,Capela REBOUND (Off:0 Def:1),Rebound,Unknown,1270.0,h,True,ATL,9
+16,24,1610612737,12,4,Hunter 15' Pullup Jump Shot (5 PTS) (Young 2 AST),Made Shot,Pullup Jump shot,1340.0,h,False,ATL,9
+17,26,1610612751,12,4,Finney-Smith S.FOUL (P1.T1) (A.Nagy),Foul,Shooting,1340.0,v,False,ATL,9
+18,28,1610612737,13,4,Hunter Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,1340.0,h,False,ATL,9
+19,29,1610612751,13,4,MISS Thomas 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1490.0,v,True,BKN,10
+20,30,1610612751,13,4,Simmons REBOUND (Off:2 Def:0),Rebound,Unknown,1510.0,v,False,BKN,10
+21,31,1610612751,13,4,MISS Thomas 1' Driving Layup,Missed Shot,Driving Layup Shot,1550.0,v,False,BKN,10
+22,32,1610612737,13,4,Capela REBOUND (Off:0 Def:2),Rebound,Unknown,1600.0,h,True,ATL,11
+23,33,1610612751,13,4,C. Johnson P.FOUL (P1.T2) (D.Guthrie),Foul,Personal,1630.0,v,False,ATL,11
+24,35,1610612737,13,4,MISS Hunter 7' Driving Layup,Missed Shot,Driving Layup Shot,1710.0,h,False,ATL,11
+25,35,1610612751,13,4,Simmons BLOCK (1 BLK),,,1710.0,v,False,ATL,11
+26,37,0,13,4,HAWKS Rebound,Rebound,Unknown,1720.0,h,False,ATL,11
+27,40,1610612737,13,4,MISS Daniels 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1780.0,h,False,ATL,11
+28,41,1610612751,13,4,Simmons REBOUND (Off:2 Def:1),Rebound,Unknown,1820.0,v,True,BKN,12
+29,42,1610612751,13,6,Simmons 2' Running Layup (4 PTS),Made Shot,Running Layup Shot,1870.0,v,False,BKN,12
+30,43,1610612751,13,6,Thomas P.FOUL (P1.T3) (S.Corbin),Foul,Personal,1910.0,v,True,ATL,13
+31,45,1610612737,13,6,MISS Hunter 2' Driving Layup,Missed Shot,Driving Layup Shot,1990.0,h,False,ATL,13
+32,45,1610612751,13,6,Finney-Smith BLOCK (1 BLK),,,1990.0,v,False,ATL,13
+33,47,1610612751,13,6,Finney-Smith REBOUND (Off:0 Def:1),Rebound,Unknown,2030.0,v,True,BKN,14
+34,48,1610612751,13,6,Simmons Out of Bounds - Bad Pass Turnover Turnover (P2.T2),Turnover,Out of Bounds - Bad Pass Turnover,2170.0,v,False,BKN,14
+35,49,1610612737,13,6,MISS Young 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,2210.0,h,True,ATL,15
+36,50,1610612751,13,6,Schröder REBOUND (Off:0 Def:1),Rebound,Unknown,2250.0,v,True,BKN,16
+37,51,1610612751,13,6,MISS Finney-Smith 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,2290.0,v,False,BKN,16
+38,52,1610612737,13,6,Hunter REBOUND (Off:0 Def:1),Rebound,Unknown,2330.0,h,True,ATL,17
+39,53,1610612737,13,6,Capela Lost Ball Turnover (P1.T1),Turnover,Lost Ball,2510.0,h,False,ATL,17
+40,53,1610612751,13,6,Thomas STEAL (1 STL),,,2510.0,v,True,BKN,18
+41,55,1610612751,13,6,MISS Thomas 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,2540.0,v,False,BKN,18
+42,56,1610612737,13,6,Capela REBOUND (Off:0 Def:3),Rebound,Unknown,2570.0,h,True,ATL,19
+43,57,1610612737,13,6,Johnson Traveling Turnover (P1.T2),Turnover,Traveling,2730.0,h,False,ATL,19
+44,58,1610612737,13,6,Daniels Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,2820.0,h,True,BKN,20
+45,59,1610612751,13,8,Schröder 17' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,2920.0,v,False,BKN,20
+46,60,1610612751,13,8,Schröder P.FOUL (P1.T4) (D.Guthrie),Foul,Personal,2970.0,v,True,ATL,21
+47,62,0,13,8,HAWKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,2970.0,h,False,ATL,21
+48,64,1610612737,13,8,SUB: Bogdanović FOR Johnson,Substitution,,2970.0,h,False,ATL,21
+49,65,1610612751,13,8,SUB: Wilson FOR Schröder,Substitution,,2970.0,v,False,ATL,21
+50,68,1610612737,13,8,MISS Young 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,3040.0,h,False,ATL,21
+51,69,1610612737,13,8,Capela REBOUND (Off:1 Def:3),Rebound,Unknown,3080.0,h,False,ATL,21
+52,168,1610612737,13,8,MISS Capela 4' Putback Layup,Missed Shot,Putback Layup Shot,3100.0,h,False,ATL,21
+53,169,1610612751,13,8,Finney-Smith REBOUND (Off:0 Def:2),Rebound,Unknown,3100.0,v,True,BKN,22
+54,72,1610612737,13,8,Hunter P.FOUL (P1.T1) (D.Guthrie),Foul,Personal,3150.0,h,False,BKN,22
+55,74,1610612751,13,11,Thomas 25' 3PT Jump Shot (3 PTS) (Simmons 2 AST),Made Shot,Jump Shot,3200.0,v,False,BKN,22
+56,76,1610612737,13,11,MISS Bogdanović 24' 3PT Jump Shot,Missed Shot,Jump Shot,3290.0,h,True,ATL,23
+57,77,1610612751,13,11,Thomas REBOUND (Off:0 Def:1),Rebound,Unknown,3310.0,v,True,BKN,24
+58,78,1610612751,13,13,C. Johnson 1' Driving Layup (4 PTS) (Simmons 3 AST),Made Shot,Driving Layup Shot,3390.0,v,False,BKN,24
+59,80,1610612737,13,13,MISS Daniels 26' 3PT Jump Shot,Missed Shot,Jump Shot,3530.0,h,True,ATL,25
+60,81,1610612751,13,13,Finney-Smith REBOUND (Off:0 Def:3),Rebound,Unknown,3560.0,v,True,BKN,26
+61,82,1610612751,13,13,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,3710.0,v,False,BKN,26
+62,83,0,13,13,Nets Rebound,Rebound,Unknown,3720.0,v,False,BKN,26
+63,84,1610612737,13,13,Daniels L.B.FOUL (P1.T2) (A.Nagy),Foul,Loose Ball,3720.0,h,False,BKN,26
+64,86,1610612737,13,13,SUB: Okongwu FOR Capela,Substitution,,3720.0,h,False,BKN,26
+65,87,1610612751,13,13,SUB: Clowney FOR Finney-Smith,Substitution,,3720.0,v,False,BKN,26
+66,90,1610612751,13,13,MISS Clowney 24' 3PT Jump Shot,Missed Shot,Jump Shot,3880.0,v,False,BKN,26
+67,91,1610612737,13,13,Young REBOUND (Off:0 Def:1),Rebound,Unknown,3910.0,h,True,ATL,27
+68,92,1610612737,15,13,Okongwu 2' Running Alley Oop Layup Shot (2 PTS) (Young 3 AST),Made Shot,Running Alley Oop Layup Shot,3970.0,h,False,ATL,27
+69,94,1610612751,15,13,MISS Thomas 26' 3PT Jump Shot,Missed Shot,Jump Shot,4100.0,v,True,BKN,28
+70,95,1610612737,15,13,Hunter REBOUND (Off:0 Def:2),Rebound,Unknown,4140.0,h,True,ATL,29
+71,96,1610612737,15,13,Young Bad Pass Turnover (P1.T3),Turnover,Bad Pass,4240.0,h,False,ATL,29
+72,96,1610612751,15,13,Thomas STEAL (2 STL),,,4240.0,v,True,BKN,30
+73,98,1610612737,15,13,Hunter S.FOUL (P2.T3) (D.Guthrie),Foul,Shooting,4290.0,h,False,BKN,30
+74,100,1610612751,15,14,Clowney Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,4290.0,v,False,BKN,30
+75,101,1610612737,15,14,SUB: Johnson FOR Hunter,Substitution,,4290.0,h,False,BKN,30
+76,103,1610612751,15,15,Clowney Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,4290.0,v,False,BKN,30
+77,105,1610612737,17,15,Okongwu 3' Hook Shot (4 PTS) (Young 4 AST),Made Shot,Hook Shot,4460.0,h,True,ATL,31
+78,107,1610612751,17,15,Wilson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),Turnover,Out of Bounds - Bad Pass Turnover,4630.0,v,True,BKN,32
+79,108,1610612751,17,15,SUB: Schröder FOR C. Johnson,Substitution,,4630.0,v,True,ATL,33
+80,110,1610612737,17,15,MISS Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,4760.0,h,False,ATL,33
+81,111,1610612751,17,15,Clowney REBOUND (Off:0 Def:1),Rebound,Unknown,4800.0,v,True,BKN,34
+82,113,1610612751,17,15,MISS Thomas 3' Driving Layup,Missed Shot,Driving Layup Shot,4960.0,v,False,BKN,34
+83,113,1610612737,17,15,Bogdanović BLOCK (1 BLK),,,4960.0,h,False,BKN,34
+84,115,0,17,15,Nets Rebound,Rebound,Unknown,4970.0,v,False,BKN,34
+85,117,1610612737,17,15,SUB: Risacher FOR Daniels,Substitution,,4970.0,h,False,BKN,34
+86,118,1610612751,17,15,SUB: Claxton FOR Simmons,Substitution,,4970.0,v,False,BKN,34
+87,119,1610612751,17,15,SUB: Williams FOR Thomas,Substitution,,4970.0,v,False,BKN,34
+88,123,1610612751,17,15,MISS Schröder 3PT Jump Shot,Missed Shot,Jump Shot,5020.0,v,False,BKN,34
+89,124,1610612737,17,15,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,5050.0,h,True,ATL,35
+90,125,1610612737,20,15,Risacher 26' 3PT Running Jump Shot (3 PTS) (Young 5 AST),Made Shot,Running Jump Shot,5090.0,h,False,ATL,35
+91,127,1610612737,20,15,Risacher S.FOUL (P1.T4) (A.Nagy),Foul,Shooting,5260.0,h,True,BKN,36
+92,129,1610612751,20,16,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,5260.0,v,False,BKN,36
+93,130,1610612751,20,16,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,5260.0,v,False,BKN,36
+94,131,1610612737,20,16,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,5300.0,h,True,ATL,37
+95,132,1610612737,22,16,Johnson 2' Layup (2 PTS) (Young 6 AST),Made Shot,Layup Shot,5410.0,h,False,ATL,37
+96,134,1610612751,22,16,MISS Schröder 9' Layup,Missed Shot,Layup Shot,5600.0,v,True,BKN,38
+97,134,1610612737,22,16,Johnson BLOCK (1 BLK),,,5600.0,h,False,BKN,38
+98,136,1610612751,22,16,Clowney REBOUND (Off:1 Def:1),Rebound,Unknown,5630.0,v,False,BKN,38
+99,137,1610612751,22,19,Clowney 25' 3PT Jump Shot (5 PTS),Made Shot,Jump Shot,5640.0,v,False,BKN,38
+100,138,1610612751,22,19,Clowney S.FOUL (P1.PN) (S.Corbin),Foul,Shooting,5700.0,v,True,ATL,39
+101,248,0,22,19,Nets Timeout: Regular (Reg.1 Short 0),Timeout,Regular,5700.0,v,False,ATL,39
+102,140,1610612737,23,19,Young Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,5700.0,h,False,ATL,39
+103,141,1610612737,24,19,Young Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,5700.0,h,False,ATL,39
+104,142,1610612751,24,21,Schröder 9' Turnaround Jump Shot (4 PTS),Made Shot,Turnaround Jump Shot,5930.0,v,True,BKN,40
+105,143,1610612737,24,21,MISS Bogdanović 26' 3PT Jump Shot,Missed Shot,Jump Shot,6100.0,h,True,ATL,41
+106,144,1610612751,24,21,Claxton REBOUND (Off:0 Def:1),Rebound,Unknown,6130.0,v,True,BKN,42
+107,145,1610612751,24,21,MISS Schröder 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,6200.0,v,False,BKN,42
+108,146,1610612737,24,21,Okongwu REBOUND (Off:0 Def:1),Rebound,Unknown,6250.0,h,True,ATL,43
+109,147,1610612737,26,21,Okongwu 1' Alley Oop Dunk (6 PTS) (Johnson 1 AST),Made Shot,Alley Oop Dunk Shot,6400.0,h,False,ATL,43
+110,149,1610612751,26,21,Williams Bad Pass Turnover (P1.T4),Turnover,Bad Pass,6570.0,v,True,BKN,44
+111,149,1610612737,26,21,Johnson STEAL (1 STL),,,6570.0,h,True,ATL,45
+112,151,1610612737,26,21,MISS Risacher 3' Running Layup,Missed Shot,Running Layup Shot,6610.0,h,False,ATL,45
+113,152,1610612751,26,21,Claxton REBOUND (Off:0 Def:2),Rebound,Unknown,6634.0,v,True,BKN,46
+114,153,1610612751,26,21,MISS Claxton 7' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,6716.0,v,False,BKN,46
+115,154,1610612751,26,21,Clowney REBOUND (Off:2 Def:1),Rebound,Unknown,6750.0,v,False,BKN,46
+116,155,1610612751,26,24,Schröder 26' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,6852.0,v,False,BKN,46
+117,156,1610612751,26,24,Claxton P.FOUL (P1.PN) (D.Guthrie),Foul,Personal,6900.0,v,True,ATL,47
+118,158,1610612737,27,24,Young Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,6900.0,h,False,ATL,47
+119,159,1610612737,28,24,Young Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,6900.0,h,False,ATL,47
+120,166,1610612751,28,24,MISS Clowney 2' Driving Layup,Missed Shot,Driving Layup Shot,7142.0,v,True,BKN,48
+121,166,1610612737,28,24,Bogdanović BLOCK (2 BLK),,,7142.0,h,False,BKN,48
+122,167,0,28,24,Nets Rebound,Rebound,Unknown,7152.0,v,False,BKN,48
+123,160,0,28,24,Nets Turnover: Shot Clock (T#5),Turnover,Shot Clock Turnover,7152.0,v,False,BKN,48
+124,161,1610612737,30,24,Johnson 1' Driving Dunk (4 PTS) (Okongwu 1 AST),Made Shot,Driving Dunk Shot,7183.0,h,True,ATL,49
+125,163,1610612751,30,24,MISS Schröder 74' 3PT Jump Shot,Missed Shot,Jump Shot,7200.0,v,True,BKN,50
+126,164,0,30,24,Nets Rebound,Rebound,Unknown,7200.0,v,False,BKN,50
+127,165,0,30,24,End of 1st Period (8:12 PM EST),period,end,7200.0,,False,BKN,50
+128,174,0,30,24,Start of 2nd Period (8:15 PM EST),period,start,7200.0,,True,BKN,51
+129,175,1610612751,30,26,Claxton 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,7370.0,v,False,BKN,51
+130,176,1610612737,32,26,Okongwu 1' Alley Oop Dunk (8 PTS) (Johnson 2 AST),Made Shot,Alley Oop Dunk Shot,7470.0,h,True,ATL,52
+131,178,1610612751,32,28,Schröder 10' Driving Floating Bank Jump Shot (9 PTS),Made Shot,Driving Floating Bank Jump Shot,7640.0,v,True,BKN,53
+132,179,1610612737,32,28,MISS Risacher 25' 3PT Jump Shot,Missed Shot,Jump Shot,7760.0,h,True,ATL,54
+133,180,1610612751,32,28,Claxton REBOUND (Off:0 Def:3),Rebound,Unknown,7790.0,v,True,BKN,55
+134,181,1610612751,32,28,Schröder Bad Pass Turnover (P1.T6),Turnover,Bad Pass,7850.0,v,False,BKN,55
+135,181,1610612737,32,28,Johnson STEAL (2 STL),,,7850.0,h,True,ATL,56
+136,183,1610612751,32,28,Wilson S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,7880.0,v,False,ATL,56
+137,185,1610612737,33,28,Risacher Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,7880.0,h,False,ATL,56
+138,186,1610612737,33,28,MISS Risacher Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,7880.0,h,False,ATL,56
+139,187,1610612751,33,28,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,7900.0,v,True,BKN,57
+140,188,1610612751,33,31,Wilson 25' 3PT Jump Shot (3 PTS) (Williams 1 AST),Made Shot,Jump Shot,8080.0,v,False,BKN,57
+141,190,1610612737,33,31,MISS Risacher 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,8340.0,h,True,ATL,58
+142,191,1610612751,33,31,Claxton REBOUND (Off:0 Def:4),Rebound,Unknown,8370.0,v,True,BKN,59
+143,192,1610612751,33,31,MISS Schröder 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,8460.0,v,False,BKN,59
+144,193,1610612737,33,31,Okongwu REBOUND (Off:0 Def:2),Rebound,Unknown,8490.0,h,True,ATL,60
+145,194,1610612737,35,31,Okongwu 1' Running Dunk (10 PTS) (Krejčí 1 AST),Made Shot,Running Dunk Shot,8530.0,h,False,ATL,60
+146,196,1610612751,35,33,Claxton Cutting Layup Shot (4 PTS) (Schröder 1 AST),Made Shot,Cutting Layup Shot,8670.0,v,True,BKN,61
+147,198,1610612737,35,33,Okongwu Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,8870.0,h,True,ATL,62
+148,199,1610612751,35,33,SUB: Simmons FOR Schröder,Substitution,,8870.0,v,True,BKN,63
+149,201,1610612751,35,36,Williams 3PT Jump Shot (4 PTS) (Simmons 4 AST),Made Shot,Jump Shot,9010.0,v,False,BKN,63
+150,203,1610612737,35,36,MISS Bogdanović 3PT Jump Shot,Missed Shot,Jump Shot,9180.0,h,True,ATL,64
+151,204,1610612751,35,36,Claxton REBOUND (Off:0 Def:5),Rebound,Unknown,9230.0,v,True,BKN,65
+152,205,1610612751,35,39,Wilson 24' 3PT Running Jump Shot (6 PTS) (Simmons 5 AST),Made Shot,Running Jump Shot,9280.0,v,False,BKN,65
+153,207,1610612751,35,39,Williams S.FOUL (P1.T2) (S.Corbin),Foul,Shooting,9420.0,v,True,ATL,66
+154,209,1610612737,35,39,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,9420.0,h,False,ATL,66
+155,210,0,35,39,HAWKS Rebound,Rebound,Normal Rebound,9420.0,h,False,ATL,66
+156,211,1610612737,35,39,SUB: Daniels FOR Bogdanović,Substitution,,9420.0,h,False,ATL,66
+157,212,1610612751,35,39,SUB: Finney-Smith FOR Claxton,Substitution,,9420.0,v,False,ATL,66
+158,215,1610612737,35,39,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,9420.0,h,False,ATL,66
+159,216,1610612751,35,39,Simmons REBOUND (Off:2 Def:2),Rebound,Unknown,9440.0,v,True,BKN,67
+160,217,1610612751,35,39,MISS Wilson 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,9490.0,v,False,BKN,67
+161,218,1610612737,35,39,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,9500.0,h,True,ATL,68
+162,219,1610612737,35,39,Johnson Traveling Turnover (P2.T5),Turnover,Traveling,9600.0,h,False,ATL,68
+163,220,1610612737,35,39,SUB: Hunter FOR Johnson,Substitution,,9600.0,h,True,BKN,69
+164,221,1610612751,35,39,SUB: C. Johnson FOR Williams,Substitution,,9600.0,v,False,BKN,69
+165,222,1610612751,35,39,SUB: Thomas FOR Wilson,Substitution,,9600.0,v,False,BKN,69
+166,226,1610612751,35,39,MISS Finney-Smith 19' Jump Shot,Missed Shot,Jump Shot,9850.0,v,False,BKN,69
+167,227,1610612751,35,39,Finney-Smith REBOUND (Off:1 Def:3),Rebound,Unknown,9880.0,v,False,BKN,69
+168,228,1610612751,35,41,Finney-Smith 3' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,9880.0,v,False,BKN,69
+169,229,1610612737,35,41,Risacher Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,10040.0,h,True,ATL,70
+170,230,1610612751,35,41,MISS Milton 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,10180.0,v,True,BKN,71
+171,231,1610612737,35,41,Okongwu REBOUND (Off:0 Def:3),Rebound,Unknown,10210.0,h,True,ATL,72
+172,232,1610612737,35,41,MISS Risacher 8' Driving Layup,Missed Shot,Driving Layup Shot,10350.0,h,False,ATL,72
+173,233,1610612737,35,41,Okongwu REBOUND (Off:1 Def:3),Rebound,Unknown,10400.0,h,False,ATL,72
+174,234,1610612737,37,41,Okongwu Putback Layup (12 PTS),Made Shot,Putback Layup Shot,10400.0,h,False,ATL,72
+175,235,1610612751,37,41,MISS Finney-Smith 5' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10530.0,v,True,BKN,73
+176,235,1610612737,37,41,Okongwu BLOCK (1 BLK),,,10530.0,h,False,BKN,73
+177,237,1610612737,37,41,Hunter REBOUND (Off:0 Def:3),Rebound,Unknown,10550.0,h,True,ATL,74
+178,238,1610612737,37,41,MISS Krejčí 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,10570.0,h,False,ATL,74
+179,239,1610612751,37,41,Simmons REBOUND (Off:2 Def:3),Rebound,Unknown,10600.0,v,True,BKN,75
+180,240,1610612751,37,41,MISS Simmons 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10720.0,v,False,BKN,75
+181,241,1610612737,37,41,Krejčí REBOUND (Off:0 Def:1),Rebound,Unknown,10740.0,h,True,ATL,76
+182,242,1610612737,37,41,MISS Risacher 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,10770.0,h,False,ATL,76
+183,243,1610612737,37,41,Okongwu REBOUND (Off:2 Def:3),Rebound,Unknown,10820.0,h,False,ATL,76
+184,244,1610612737,39,41,Okongwu Putback Dunk (14 PTS),Made Shot,Putback Dunk Shot,10820.0,h,False,ATL,76
+185,245,1610612737,39,41,Hunter P.FOUL (P3.T1) (S.Corbin),Foul,Personal,11000.0,h,True,BKN,77
+186,247,0,39,41,HAWKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,11000.0,h,False,BKN,77
+187,249,1610612737,39,41,SUB: Johnson FOR Okongwu,Substitution,,11000.0,h,False,BKN,77
+188,250,1610612737,39,41,SUB: Young FOR Krejčí,Substitution,,11000.0,h,False,BKN,77
+189,251,1610612737,39,41,SUB: Capela FOR Hunter,Substitution,,11000.0,h,False,BKN,77
+190,252,1610612751,39,41,SUB: Wilson FOR Milton,Substitution,,11000.0,v,False,BKN,77
+191,257,1610612751,39,43,Simmons 2' Alley Oop Layup (6 PTS) (Thomas 1 AST),Made Shot,Alley Oop Layup shot,11100.0,v,False,BKN,77
+192,259,1610612751,39,43,Simmons P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,11280.0,v,True,ATL,78
+193,262,1610612737,42,43,Young 26' 3PT Step Back Jump Shot (7 PTS),Made Shot,Step Back Jump shot,11410.0,h,False,ATL,78
+194,263,1610612751,42,43,Finney-Smith OFF.Foul (P2) (S.Corbin),Foul,Offensive,11620.0,v,True,BKN,79
+195,265,1610612751,42,43,Finney-Smith Offensive Foul Turnover (P1.T7),Turnover,Offensive Foul Turnover,11620.0,v,False,BKN,79
+196,266,1610612751,42,43,SUB: Schröder FOR Simmons,Substitution,,11620.0,v,True,ATL,80
+197,268,1610612737,44,43,Capela 1' Alley Oop Dunk (4 PTS) (Young 7 AST),Made Shot,Alley Oop Dunk Shot,11750.0,h,False,ATL,80
+198,270,1610612751,44,43,MISS C. Johnson 24' 3PT Jump Shot,Missed Shot,Jump Shot,11980.0,v,True,BKN,81
+199,271,1610612751,44,43,Finney-Smith REBOUND (Off:2 Def:3),Rebound,Unknown,12010.0,v,False,BKN,81
+200,272,1610612751,44,46,Thomas 25' 3PT Jump Shot (6 PTS) (Finney-Smith 1 AST),Made Shot,Jump Shot,12020.0,v,False,BKN,81
+201,274,1610612737,44,46,MISS Young 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,12110.0,h,True,ATL,82
+202,275,1610612737,44,46,Risacher REBOUND (Off:1 Def:0),Rebound,Unknown,12130.0,h,False,ATL,82
+203,276,1610612737,44,46,MISS Daniels 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,12180.0,h,False,ATL,82
+204,276,1610612751,44,46,C. Johnson BLOCK (1 BLK),,,12180.0,v,False,ATL,82
+205,278,1610612737,44,46,Johnson REBOUND (Off:1 Def:3),Rebound,Unknown,12220.0,h,False,ATL,82
+206,279,1610612737,46,46,Capela 3' Alley Oop Layup (6 PTS) (Johnson 3 AST),Made Shot,Alley Oop Layup shot,12230.0,h,False,ATL,82
+207,281,1610612751,46,46,MISS Schröder 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12470.0,v,True,BKN,83
+208,282,1610612737,46,46,Young REBOUND (Off:0 Def:2),Rebound,Unknown,12510.0,h,True,ATL,84
+209,283,1610612737,46,46,Young Bad Pass Turnover (P2.T7),Turnover,Bad Pass,12530.0,h,False,ATL,84
+210,283,1610612751,46,46,Schröder STEAL (1 STL),,,12530.0,v,True,BKN,85
+211,285,1610612751,46,46,Schröder Bad Pass Turnover (P2.T8),Turnover,Bad Pass,12610.0,v,False,BKN,85
+212,285,1610612737,46,46,Daniels STEAL (1 STL),,,12610.0,h,True,ATL,86
+213,287,1610612737,46,46,Johnson OFF.Foul (P1) (D.Guthrie),Foul,Offensive,12740.0,h,False,ATL,86
+214,289,1610612737,46,46,Johnson Offensive Foul Turnover (P3.T8),Turnover,Offensive Foul Turnover,12740.0,h,False,ATL,86
+215,290,0,46,46,Nets Timeout: Regular (Reg.2 Short 0),Timeout,Regular,12740.0,v,True,BKN,87
+216,291,1610612737,46,46,SUB: Bogdanović FOR Risacher,Substitution,,12740.0,h,False,BKN,87
+217,293,1610612751,46,48,C. Johnson 1' Driving Finger Roll Layup (6 PTS) (Schröder 2 AST),Made Shot,Driving Finger Roll Layup Shot,12890.0,v,False,BKN,87
+218,295,1610612737,46,48,Johnson S.FOUL (P2.T2) (D.Guthrie),Foul,Shooting,12890.0,h,False,BKN,87
+219,297,1610612751,46,48,MISS C. Johnson Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,12890.0,v,False,BKN,87
+220,298,1610612737,46,48,Capela REBOUND (Off:1 Def:4),Rebound,Unknown,12910.0,h,True,ATL,88
+221,299,1610612737,48,48,Young 22' Step Back Jump Shot (9 PTS),Made Shot,Step Back Jump shot,13010.0,h,False,ATL,88
+222,300,1610612751,48,51,Finney-Smith 3PT Jump Shot (5 PTS) (Thomas 2 AST),Made Shot,Jump Shot,13170.0,v,True,BKN,89
+223,302,1610612737,48,51,MISS Bogdanović 26' 3PT Jump Shot,Missed Shot,Jump Shot,13270.0,h,True,ATL,90
+224,303,1610612751,48,51,C. Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,13300.0,v,True,BKN,91
+225,304,1610612751,48,51,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,13430.0,v,False,BKN,91
+226,305,1610612751,48,51,Finney-Smith REBOUND (Off:3 Def:3),Rebound,Unknown,13470.0,v,False,BKN,91
+227,306,1610612751,48,51,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,13480.0,v,False,BKN,91
+228,307,1610612737,48,51,Young REBOUND (Off:0 Def:3),Rebound,Unknown,13520.0,h,True,ATL,92
+229,308,1610612737,50,51,Johnson 6' Driving Floating Bank Jump Shot (6 PTS) (Young 8 AST),Made Shot,Driving Floating Bank Jump Shot,13570.0,h,False,ATL,92
+230,310,1610612751,50,53,Thomas 10' Driving Floating Jump Shot (8 PTS),Made Shot,Driving Floating Jump Shot,13780.0,v,True,BKN,93
+231,311,1610612737,50,53,MISS Capela 1' Layup,Missed Shot,Layup Shot,13897.0,h,True,ATL,94
+232,313,1610612751,50,53,Wilson REBOUND (Off:0 Def:1),Rebound,Unknown,13927.0,v,True,BKN,95
+233,314,1610612751,50,55,Thomas 1' Running Layup (10 PTS) (Schröder 3 AST),Made Shot,Running Layup Shot,13963.0,v,False,BKN,95
+234,316,1610612737,50,55,MISS Johnson 1' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,14058.0,h,True,ATL,96
+235,317,1610612751,50,55,Thomas REBOUND (Off:0 Def:2),Rebound,Unknown,14083.0,v,True,BKN,97
+236,318,1610612751,50,55,MISS Thomas 24' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,14108.0,v,False,BKN,97
+237,319,0,50,55,HAWKS Rebound,Rebound,Unknown,14137.0,h,True,ATL,98
+238,320,1610612751,50,55,Finney-Smith L.B.FOUL (P3.T4) (A.Nagy),Foul,Loose Ball,14137.0,v,False,ATL,98
+239,322,1610612751,50,55,SUB: Williams FOR Thomas,Substitution,,14137.0,v,False,ATL,98
+240,325,1610612751,50,55,Finney-Smith S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,14316.0,v,False,ATL,98
+241,327,1610612737,50,55,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,14316.0,h,False,ATL,98
+242,328,0,50,55,HAWKS Rebound,Rebound,Normal Rebound,14316.0,h,False,ATL,98
+243,329,1610612751,50,55,SUB: Thomas FOR Finney-Smith,Substitution,,14316.0,v,False,ATL,98
+244,331,1610612737,51,55,Johnson Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,14316.0,h,False,ATL,98
+245,332,1610612751,51,55,MISS Williams 3PT Jump Shot,Missed Shot,Jump Shot,14386.0,v,True,BKN,99
+246,333,1610612751,51,55,Thomas REBOUND (Off:1 Def:2),Rebound,Unknown,14394.0,v,False,BKN,99
+247,334,1610612751,51,55,MISS Thomas Tip Layup Shot,Missed Shot,Tip Layup Shot,14394.0,v,False,BKN,99
+248,335,0,51,55,Nets Rebound,Rebound,Unknown,14399.0,v,False,BKN,99
+249,336,0,51,55,End of 2nd Period (8:40 PM EST),period,end,14400.0,,False,BKN,99
+250,343,0,51,55,Start of 3rd Period (8:55 PM EST),period,start,14400.0,,True,BKN,100
+251,344,1610612751,51,58,C. Johnson 32' 3PT Jump Shot (9 PTS) (Thomas 3 AST),Made Shot,Jump Shot,14560.0,v,False,BKN,100
+252,346,1610612737,51,58,MISS Hunter 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,14700.0,h,True,ATL,101
+253,347,1610612751,51,58,C. Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,14740.0,v,True,BKN,102
+254,348,1610612751,51,58,MISS C. Johnson 3PT Jump Shot,Missed Shot,Jump Shot,14940.0,v,False,BKN,102
+255,349,1610612737,51,58,Capela REBOUND (Off:1 Def:5),Rebound,Unknown,14970.0,h,True,ATL,103
+256,350,1610612737,53,58,Daniels Cutting Layup Shot (7 PTS) (Johnson 4 AST),Made Shot,Cutting Layup Shot,15040.0,h,False,ATL,103
+257,352,1610612751,53,61,Schröder 26' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,15230.0,v,True,BKN,104
+258,353,1610612737,56,61,Young 25' 3PT Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,15340.0,h,True,ATL,105
+259,354,1610612751,56,61,Simmons Lost Ball Turnover (P3.T9),Turnover,Lost Ball,15480.0,v,True,BKN,106
+260,354,1610612737,56,61,Daniels STEAL (2 STL),,,15480.0,h,True,ATL,107
+261,356,1610612751,56,61,C. Johnson S.FOUL (P2.T1) (A.Nagy),Foul,Shooting,15510.0,v,False,ATL,107
+262,358,1610612737,56,61,MISS Daniels Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,15510.0,h,False,ATL,107
+263,359,0,56,61,HAWKS Rebound,Rebound,Normal Rebound,15510.0,h,False,ATL,107
+264,360,1610612737,57,61,Daniels Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,15510.0,h,False,ATL,107
+265,362,1610612751,57,61,MISS Finney-Smith 26' 3PT Jump Shot,Missed Shot,Jump Shot,15750.0,v,True,BKN,108
+266,363,1610612737,57,61,Capela REBOUND (Off:1 Def:6),Rebound,Unknown,15780.0,h,True,ATL,109
+267,364,1610612737,59,61,Daniels 2' Layup (10 PTS),Made Shot,Layup Shot,15900.0,h,False,ATL,109
+268,365,1610612751,59,61,Simmons Bad Pass Turnover (P4.T10),Turnover,Bad Pass,16040.0,v,True,BKN,110
+269,365,1610612737,59,61,Hunter STEAL (1 STL),,,16040.0,h,True,ATL,111
+270,367,1610612737,59,61,Young Bad Pass Turnover (P3.T9),Turnover,Bad Pass,16110.0,h,False,ATL,111
+271,367,1610612751,59,61,C. Johnson STEAL (1 STL),,,16110.0,v,True,BKN,112
+272,369,1610612751,59,61,MISS Schröder 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,16170.0,v,False,BKN,112
+273,370,1610612737,59,61,Hunter REBOUND (Off:0 Def:4),Rebound,Unknown,16200.0,h,True,ATL,113
+274,371,1610612751,59,61,Simmons Violation:Kicked Ball (A.Nagy),Violation,Kicked Ball,16260.0,v,False,ATL,113
+275,372,1610612751,59,61,Simmons P.FOUL (P2.T2) (S.Corbin),Foul,Personal,16290.0,v,False,ATL,113
+276,374,1610612737,59,61,MISS Young 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,16380.0,h,False,ATL,113
+277,375,1610612737,59,61,Young REBOUND (Off:1 Def:3),Rebound,Unknown,16390.0,h,False,ATL,113
+278,376,1610612751,59,61,Simmons S.FOUL (P3.T3) (A.Nagy),Foul,Shooting,16390.0,v,False,ATL,113
+279,378,1610612737,60,61,Young Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,16390.0,h,False,ATL,113
+280,379,1610612737,61,61,Young Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,16390.0,h,False,ATL,113
+281,380,1610612737,61,61,Daniels P.FOUL (P2.T1) (D.Guthrie),Foul,Personal,16490.0,h,True,BKN,114
+282,382,1610612751,61,64,Thomas 26' 3PT Pullup Jump Shot (13 PTS) (Simmons 6 AST),Made Shot,Pullup Jump shot,16590.0,v,False,BKN,114
+283,384,1610612737,61,64,MISS Hunter 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16760.0,h,True,ATL,115
+284,385,1610612751,61,64,C. Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,16780.0,v,True,BKN,116
+285,386,1610612751,61,64,Schröder Out of Bounds - Bad Pass Turnover Turnover (P3.T11),Turnover,Out of Bounds - Bad Pass Turnover,16800.0,v,False,BKN,116
+286,387,1610612737,63,64,Johnson 19' Jump Shot (9 PTS) (Young 9 AST),Made Shot,Jump Shot,16980.0,h,True,ATL,117
+287,389,1610612751,63,64,MISS Thomas 8' Driving Layup,Missed Shot,Driving Layup Shot,17190.0,v,True,BKN,118
+288,389,1610612737,63,64,Daniels BLOCK (1 BLK),,,17190.0,h,False,BKN,118
+289,391,1610612751,63,64,Thomas REBOUND (Off:2 Def:2),Rebound,Unknown,17230.0,v,False,BKN,118
+290,392,0,63,64,Nets Turnover: Shot Clock (T#12),Turnover,Shot Clock Turnover,17250.0,v,False,BKN,118
+291,393,1610612751,63,64,Simmons P.FOUL (P4.T4) (A.Nagy),Foul,Personal,17410.0,v,True,ATL,119
+292,395,0,63,64,HAWKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,17410.0,h,False,ATL,119
+293,396,1610612737,63,64,SUB: Bogdanović FOR Johnson,Substitution,,17410.0,h,False,ATL,119
+294,397,1610612751,63,64,SUB: Wilson FOR Simmons,Substitution,,17410.0,v,False,ATL,119
+295,398,1610612751,63,64,SUB: Clowney FOR Finney-Smith,Substitution,,17410.0,v,False,ATL,119
+296,402,1610612737,65,64,Young 1' Driving Finger Roll Layup (16 PTS),Made Shot,Driving Finger Roll Layup Shot,17480.0,h,False,ATL,119
+297,403,1610612751,65,64,Clowney Bad Pass Turnover (P1.T13),Turnover,Bad Pass,17660.0,v,True,BKN,120
+298,403,1610612737,65,64,Daniels STEAL (3 STL),,,17660.0,h,True,ATL,121
+299,405,1610612737,65,64,MISS Daniels Running Layup,Missed Shot,Running Layup Shot,17690.0,h,False,ATL,121
+300,406,1610612751,65,64,Schröder REBOUND (Off:0 Def:2),Rebound,Unknown,17720.0,v,True,BKN,122
+301,407,1610612751,65,64,MISS Clowney 3' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,17820.0,v,False,BKN,122
+302,407,1610612737,65,64,Capela BLOCK (1 BLK),,,17820.0,h,False,BKN,122
+303,409,1610612751,65,64,Clowney REBOUND (Off:3 Def:1),Rebound,Unknown,17880.0,v,False,BKN,122
+304,410,1610612751,65,66,Clowney Putback Layup (7 PTS),Made Shot,Putback Layup Shot,17880.0,v,False,BKN,122
+305,411,1610612751,65,66,Schröder P.FOUL (P2.PN) (S.Corbin),Foul,Personal,17950.0,v,True,ATL,123
+306,413,1610612737,65,66,MISS Hunter Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,17950.0,h,False,ATL,123
+307,414,0,65,66,HAWKS Rebound,Rebound,Normal Rebound,17950.0,h,False,ATL,123
+308,415,1610612737,65,66,SUB: Okongwu FOR Capela,Substitution,,17950.0,h,False,ATL,123
+309,417,1610612737,66,66,Hunter Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,17950.0,h,False,ATL,123
+310,418,1610612751,66,66,Thomas Lost Ball Turnover (P1.T14),Turnover,Lost Ball,18080.0,v,True,BKN,124
+311,418,1610612737,66,66,Daniels STEAL (4 STL),,,18080.0,h,True,ATL,125
+312,420,1610612737,66,66,MISS Hunter 1' Driving Layup,Missed Shot,Driving Layup Shot,18130.0,h,False,ATL,125
+313,420,1610612751,66,66,Clowney BLOCK (1 BLK),,,18130.0,v,False,ATL,125
+314,422,1610612751,66,66,Clowney REBOUND (Off:3 Def:2),Rebound,Unknown,18160.0,v,True,BKN,126
+315,423,1610612751,66,66,MISS Thomas 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,18190.0,v,False,BKN,126
+316,424,0,66,66,HAWKS Rebound,Rebound,Unknown,18200.0,h,True,ATL,127
+317,426,1610612737,69,66,Daniels 26' 3PT Pullup Jump Shot (13 PTS),Made Shot,Pullup Jump shot,18340.0,h,False,ATL,127
+318,427,1610612751,69,66,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,18520.0,v,True,BKN,128
+319,428,1610612737,69,66,Hunter REBOUND (Off:0 Def:5),Rebound,Unknown,18550.0,h,True,ATL,129
+320,429,1610612737,69,66,MISS Okongwu 1' Layup,Missed Shot,Layup Shot,18630.0,h,False,ATL,129
+321,430,1610612751,69,66,Clowney REBOUND (Off:3 Def:3),Rebound,Unknown,18660.0,v,True,BKN,130
+322,431,1610612751,69,69,Thomas 26' 3PT Jump Shot (16 PTS) (Schröder 4 AST),Made Shot,Jump Shot,18740.0,v,False,BKN,130
+323,433,1610612737,71,69,Young 7' Driving Floating Jump Shot (18 PTS),Made Shot,Driving Floating Jump Shot,18940.0,h,True,ATL,131
+324,434,1610612751,71,69,MISS Thomas 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,19080.0,v,True,BKN,132
+325,435,1610612737,71,69,Daniels REBOUND (Off:1 Def:1),Rebound,Unknown,19110.0,h,True,ATL,133
+326,436,1610612751,71,69,Thomas P.FOUL (P2.PN) (D.Guthrie),Foul,Personal,19170.0,v,False,ATL,133
+327,438,1610612737,72,69,Okongwu Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,19170.0,h,False,ATL,133
+328,439,1610612737,72,69,SUB: Johnson FOR Hunter,Substitution,,19170.0,h,False,ATL,133
+329,440,1610612751,72,69,SUB: Williams FOR C. Johnson,Substitution,,19170.0,v,False,ATL,133
+330,441,1610612751,72,69,SUB: Claxton FOR Thomas,Substitution,,19170.0,v,False,ATL,133
+331,445,1610612737,73,69,Okongwu Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,19170.0,h,False,ATL,133
+332,446,1610612737,73,69,Young S.FOUL (P1.T2) (D.Guthrie),Foul,Shooting,19300.0,h,True,BKN,134
+333,449,0,73,69,Nets Timeout: Regular (Reg.3 Short 0),Timeout,Regular,19300.0,v,False,BKN,134
+334,450,0,73,69,Instant Replay3rd Period (9:13 PM EST),Instant Replay,Coach Challenge Overturn Ruling,19300.0,,False,BKN,134
+335,451,1610612737,73,69,SUB: Risacher FOR Daniels,Substitution,,19300.0,h,False,BKN,134
+336,452,1610612751,73,69,SUB: Simmons FOR Schröder,Substitution,,19300.0,v,False,BKN,134
+337,455,1610612751,73,70,Wilson Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,19300.0,v,False,BKN,134
+338,456,1610612737,73,70,SUB: Krejčí FOR Young,Substitution,,19300.0,h,False,BKN,134
+339,458,1610612751,73,71,Wilson Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,19300.0,v,False,BKN,134
+340,459,1610612737,75,71,Okongwu 1' Driving Dunk (18 PTS) (Bogdanović 1 AST),Made Shot,Driving Dunk Shot,19430.0,h,True,ATL,135
+341,461,1610612737,75,71,Bogdanović P.FOUL (P1.T3) (D.Guthrie),Foul,Personal,19520.0,h,True,BKN,136
+342,463,1610612737,75,71,Johnson S.FOUL (P3.T4) (A.Nagy),Foul,Shooting,19600.0,h,False,BKN,136
+343,465,1610612751,75,72,Wilson Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,19600.0,v,False,BKN,136
+344,466,1610612751,75,73,Wilson Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,19600.0,v,False,BKN,136
+345,467,1610612737,75,73,Johnson Out of Bounds - Bad Pass Turnover Turnover (P4.T10),Turnover,Out of Bounds - Bad Pass Turnover,19750.0,h,True,ATL,137
+346,468,1610612737,75,73,Krejčí P.FOUL (P1.PN) (A.Nagy),Foul,Personal,19850.0,h,True,BKN,138
+347,470,1610612751,75,74,Wilson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,19850.0,v,False,BKN,138
+348,471,1610612751,75,75,Wilson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,19850.0,v,False,BKN,138
+349,472,1610612751,75,75,Wilson P.FOUL (P2.PN) (S.Corbin),Foul,Personal,19920.0,v,True,ATL,139
+350,474,1610612737,76,75,Okongwu Free Throw 1 of 2 (19 PTS),Free Throw,Free Throw 1 of 2,19920.0,h,False,ATL,139
+351,475,1610612737,77,75,Okongwu Free Throw 2 of 2 (20 PTS),Free Throw,Free Throw 2 of 2,19920.0,h,False,ATL,139
+352,476,1610612751,77,77,Williams 2' Cutting Layup Shot (6 PTS) (Wilson 1 AST),Made Shot,Cutting Layup Shot,20060.0,v,True,BKN,140
+353,478,1610612737,77,77,Okongwu Step Out of Bounds Turnover (P2.T11),Turnover,Step Out of Bounds Turnover,20180.0,h,True,ATL,141
+354,479,1610612751,77,77,MISS Clowney 3PT Jump Shot,Missed Shot,Jump Shot,20340.0,v,True,BKN,142
+355,480,0,77,77,HAWKS Rebound,Rebound,Unknown,20380.0,h,True,ATL,143
+356,482,1610612737,80,77,Bogdanović 26' 3PT Jump Shot (3 PTS) (Krejčí 2 AST),Made Shot,Jump Shot,20480.0,h,False,ATL,143
+357,484,1610612751,80,79,Claxton 2' Alley Oop Layup (6 PTS) (Simmons 7 AST),Made Shot,Alley Oop Layup shot,20630.0,v,True,BKN,144
+358,486,1610612751,80,79,Williams P.FOUL (P2.PN) (A.Nagy),Foul,Personal,20730.0,v,True,ATL,145
+359,488,1610612737,81,79,Bogdanović Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,20730.0,h,False,ATL,145
+360,489,1610612737,82,79,Bogdanović Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,20730.0,h,False,ATL,145
+361,490,1610612751,82,82,Williams 3PT Jump Shot (9 PTS) (Simmons 8 AST),Made Shot,Jump Shot,20840.0,v,True,BKN,146
+362,492,1610612751,82,82,Simmons P.FOUL (P5.PN) (S.Corbin),Foul,Personal,20930.0,v,True,ATL,147
+363,494,1610612737,82,82,MISS Risacher Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,20930.0,h,False,ATL,147
+364,495,0,82,82,HAWKS Rebound,Rebound,Normal Rebound,20930.0,h,False,ATL,147
+365,496,1610612751,82,82,SUB: Schröder FOR Simmons,Substitution,,20930.0,v,False,ATL,147
+366,498,1610612737,83,82,Risacher Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,20930.0,h,False,ATL,147
+367,499,1610612737,83,82,Risacher P.FOUL (P2.PN) (A.Nagy),Foul,Personal,21013.0,h,True,BKN,148
+368,501,1610612751,83,83,Schröder Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,21013.0,v,False,BKN,148
+369,502,1610612737,83,83,SUB: Young FOR Krejčí,Substitution,,21013.0,h,False,BKN,148
+370,504,1610612751,83,83,MISS Schröder Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,21013.0,v,False,BKN,148
+371,505,1610612737,83,83,Johnson REBOUND (Off:1 Def:4),Rebound,Unknown,21030.0,h,True,ATL,149
+372,506,1610612737,83,83,MISS Risacher 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,21189.0,h,False,ATL,149
+373,506,1610612751,83,83,Claxton BLOCK (1 BLK),,,21189.0,v,False,ATL,149
+374,508,1610612751,83,83,Wilson REBOUND (Off:0 Def:2),Rebound,Unknown,21237.0,v,True,BKN,150
+375,509,1610612751,83,83,MISS Schröder 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,21270.0,v,False,BKN,150
+376,510,1610612751,83,83,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,21304.0,v,False,BKN,150
+377,511,1610612751,83,83,MISS Williams 4' Layup,Missed Shot,Layup Shot,21335.0,v,False,BKN,150
+378,511,1610612737,83,83,Okongwu BLOCK (2 BLK),,,21335.0,h,False,BKN,150
+379,513,1610612737,83,83,Young REBOUND (Off:1 Def:4),Rebound,Unknown,21335.0,h,True,ATL,151
+380,514,1610612737,83,83,Johnson Bad Pass Turnover (P5.T12),Turnover,Bad Pass,21416.0,h,False,ATL,151
+381,514,1610612751,83,83,Clowney STEAL (1 STL),,,21416.0,v,True,BKN,152
+382,516,1610612751,83,83,Schröder Lost Ball Turnover (P4.T15),Turnover,Lost Ball,21573.0,v,False,BKN,152
+383,516,1610612737,83,83,Young STEAL (1 STL),,,21573.0,h,True,ATL,153
+384,518,1610612737,83,83,MISS Young 6' Running Layup,Missed Shot,Running Layup Shot,21592.0,h,False,ATL,153
+385,519,0,83,83,HAWKS Rebound,Rebound,Unknown,21599.0,h,False,ATL,153
+386,520,0,83,83,End of 3rd Period (9:26 PM EST),period,end,21600.0,,False,ATL,153
+387,521,0,83,83,Start of 4th Period (9:29 PM EST),period,start,21600.0,,True,ATL,154
+388,522,1610612737,86,83,Bogdanović 3PT Jump Shot (8 PTS) (Young 10 AST),Made Shot,Jump Shot,21730.0,h,False,ATL,154
+389,524,1610612751,86,85,Wilson 2' Driving Layup (14 PTS),Made Shot,Driving Layup Shot,21970.0,v,True,BKN,155
+390,525,1610612751,86,85,Wilson S.FOUL (P3.T1) (S.Corbin),Foul,Shooting,22070.0,v,True,ATL,156
+391,527,1610612737,87,85,Johnson Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,22070.0,h,False,ATL,156
+392,528,1610612737,88,85,Johnson Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,22070.0,h,False,ATL,156
+393,529,1610612737,88,85,Okongwu S.FOUL (P1.T1) (S.Corbin),Foul,Shooting,22180.0,h,True,BKN,157
+394,531,1610612751,88,85,MISS Claxton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,22180.0,v,False,BKN,157
+395,532,0,88,85,Nets Rebound,Rebound,Normal Rebound,22180.0,v,False,BKN,157
+396,533,1610612751,88,85,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22180.0,v,False,BKN,157
+397,534,0,88,85,HAWKS Rebound,Rebound,Unknown,22180.0,h,True,ATL,158
+398,536,1610612737,88,85,MISS Young 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22330.0,h,False,ATL,158
+399,537,0,88,85,Nets Rebound,Rebound,Unknown,22340.0,v,True,BKN,159
+400,538,1610612737,88,85,Bogdanović L.B.FOUL (P2.T2) (S.Corbin),Foul,Loose Ball,22340.0,h,False,BKN,159
+401,540,1610612751,88,85,MISS Schröder 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,22470.0,v,False,BKN,159
+402,541,1610612737,88,85,Okongwu REBOUND (Off:2 Def:4),Rebound,Unknown,22510.0,h,True,ATL,160
+403,542,1610612737,88,85,MISS Johnson 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,22550.0,h,False,ATL,160
+404,543,1610612751,88,85,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,22580.0,v,True,BKN,161
+405,544,1610612751,88,85,MISS Williams 2' Driving Layup,Missed Shot,Driving Layup Shot,22650.0,v,False,BKN,161
+406,545,1610612737,88,85,Johnson REBOUND (Off:1 Def:5),Rebound,Unknown,22680.0,h,True,ATL,162
+407,546,1610612751,88,85,Schröder S.FOUL (P3.T2) (S.Corbin),Foul,Shooting,22690.0,v,False,ATL,162
+408,548,1610612737,88,85,MISS Johnson Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,22690.0,h,False,ATL,162
+409,549,0,88,85,HAWKS Rebound,Rebound,Normal Rebound,22690.0,h,False,ATL,162
+410,550,1610612751,88,85,SUB: Finney-Smith FOR Schröder,Substitution,,22690.0,v,False,ATL,162
+411,551,1610612751,88,85,SUB: Simmons FOR Clowney,Substitution,,22690.0,v,False,ATL,162
+412,554,1610612737,88,85,MISS Johnson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22690.0,h,False,ATL,162
+413,555,1610612751,88,85,Finney-Smith REBOUND (Off:3 Def:4),Rebound,Unknown,22720.0,v,True,BKN,163
+414,556,1610612751,88,85,MISS Wilson 3PT Jump Shot,Missed Shot,Jump Shot,22850.0,v,False,BKN,163
+415,557,1610612737,88,85,Johnson REBOUND (Off:1 Def:6),Rebound,Unknown,22880.0,h,True,ATL,164
+416,558,1610612737,90,85,Risacher 1' Running Dunk (7 PTS) (Young 11 AST),Made Shot,Running Dunk Shot,22910.0,h,False,ATL,164
+417,560,0,90,85,Nets Timeout: Regular (Reg.4 Short 0),Timeout,Regular,22930.0,v,True,BKN,165
+418,561,1610612737,90,85,SUB: Daniels FOR Risacher,Substitution,,22930.0,h,False,BKN,165
+419,562,1610612737,90,85,SUB: Krejčí FOR Young,Substitution,,22930.0,h,False,BKN,165
+420,563,1610612737,90,85,SUB: Capela FOR Okongwu,Substitution,,22930.0,h,False,BKN,165
+421,564,1610612751,90,85,SUB: Thomas FOR Wilson,Substitution,,22930.0,v,False,BKN,165
+422,569,1610612751,90,87,Thomas 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,23160.0,v,False,BKN,165
+423,570,1610612737,90,87,Daniels S.FOUL (P3.T3) (S.Corbin),Foul,Shooting,23160.0,h,False,BKN,165
+424,572,1610612751,90,88,Thomas Free Throw 1 of 1 (19 PTS),Free Throw,Free Throw 1 of 1,23160.0,v,False,BKN,165
+425,573,1610612737,90,88,Bogdanović Bad Pass Turnover (P1.T13),Turnover,Bad Pass,23310.0,h,True,ATL,166
+426,573,1610612751,90,88,Claxton STEAL (1 STL),,,23310.0,v,True,BKN,167
+427,575,1610612737,90,88,Bogdanović S.FOUL (P3.T4) (A.Nagy),Foul,Shooting,23330.0,h,False,BKN,167
+428,577,1610612751,90,89,Claxton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,23330.0,v,False,BKN,167
+429,578,1610612751,90,89,MISS Claxton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,23330.0,v,False,BKN,167
+430,579,1610612737,90,89,Johnson REBOUND (Off:1 Def:7),Rebound,Unknown,23360.0,h,True,ATL,168
+431,580,1610612737,90,89,Bogdanović Out of Bounds - Bad Pass Turnover Turnover (P2.T14),Turnover,Out of Bounds - Bad Pass Turnover,23560.0,h,False,ATL,168
+432,581,1610612751,90,89,MISS Thomas 3PT Jump Shot,Missed Shot,Jump Shot,23740.0,v,True,BKN,169
+433,582,1610612737,90,89,Bogdanović REBOUND (Off:0 Def:1),Rebound,Unknown,23770.0,h,True,ATL,170
+434,583,1610612737,92,89,Krejčí 1' Running Layup (2 PTS) (Bogdanović 2 AST),Made Shot,Running Layup Shot,23790.0,h,False,ATL,170
+435,585,1610612751,92,89,Claxton S.FOUL (P2.T3) (A.Nagy),Foul,Shooting,23790.0,v,False,ATL,170
+436,587,1610612737,92,89,SUB: Hunter FOR Johnson,Substitution,,23790.0,h,False,ATL,170
+437,588,1610612751,92,89,SUB: C. Johnson FOR Williams,Substitution,,23790.0,v,False,ATL,170
+438,591,1610612737,93,89,Krejčí Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,23790.0,h,False,ATL,170
+439,592,1610612751,93,89,Thomas Lost Ball Turnover (P2.T16),Turnover,Lost Ball,23930.0,v,True,BKN,171
+440,592,1610612737,93,89,Daniels STEAL (5 STL),,,23930.0,h,True,ATL,172
+441,594,1610612751,93,89,Claxton FLAGRANT.FOUL.TYPE2 (P3.T4) (D.Guthrie),Foul,Flagrant Type 2,23970.0,v,False,ATL,172
+442,596,0,93,89,Instant Replay4th Period (9:43 PM EST),Instant Replay,Overturn Ruling,23970.0,,False,ATL,172
+443,597,1610612751,93,89,Claxton Ejection:Other,Ejection,Other,23970.0,v,False,ATL,172
+444,598,1610612737,93,89,Daniels T.FOUL (P3.T4) (D.Guthrie),Foul,Technical,23970.0,h,False,ATL,172
+445,599,1610612751,93,90,C. Johnson Free Throw Technical (10 PTS),Free Throw,Free Throw Technical,23970.0,v,False,ATL,172
+446,600,1610612737,93,90,SUB: Okongwu FOR Capela,Substitution,,23970.0,h,False,ATL,172
+447,601,1610612751,93,90,SUB: Wilson FOR Claxton,Substitution,,23970.0,v,False,ATL,172
+448,604,1610612737,93,90,MISS Daniels Free Throw Flagrant 1 of 2,Free Throw,Free Throw Flagrant 1 of 2,23970.0,h,False,ATL,172
+449,605,0,93,90,HAWKS Rebound,Rebound,Normal Rebound,23970.0,h,False,ATL,172
+450,606,1610612737,93,90,MISS Daniels Free Throw Flagrant 2 of 2,Free Throw,Free Throw Flagrant 2 of 2,23970.0,h,False,ATL,172
+451,608,0,93,90,HAWKS Rebound,Rebound,Normal Rebound,23970.0,h,False,ATL,172
+452,609,1610612737,95,90,Daniels 1' Driving Layup (15 PTS),Made Shot,Driving Layup Shot,24070.0,h,False,ATL,172
+453,611,1610612751,95,90,Simmons Bad Pass Turnover (P5.T17),Turnover,Bad Pass,24190.0,v,True,BKN,173
+454,611,1610612737,95,90,Hunter STEAL (2 STL),,,24190.0,h,True,ATL,174
+455,613,1610612751,95,90,Thomas S.FOUL (P3.PN) (D.Guthrie),Foul,Shooting,24210.0,v,False,ATL,174
+456,615,0,95,90,Instant Replay4th Period (9:48 PM EST),Instant Replay,Support Ruling,24210.0,,False,ATL,174
+457,616,1610612737,95,90,"Double Technical - Okongwu, Thomas (D.Guthrie)",Foul,Double Technical,24210.0,,False,ATL,174
+458,618,1610612737,96,90,Hunter Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,24210.0,h,False,ATL,174
+459,619,1610612737,96,90,SUB: Young FOR Krejčí,Substitution,,24210.0,h,False,ATL,174
+460,621,1610612737,97,90,Hunter Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,24210.0,h,False,ATL,174
+461,622,1610612737,97,90,Hunter P.FOUL (P4.PN) (A.Nagy),Foul,Personal,24290.0,h,True,BKN,175
+462,624,1610612751,97,91,C. Johnson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,24290.0,v,False,BKN,175
+463,625,1610612751,97,92,C. Johnson Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,24290.0,v,False,BKN,175
+464,626,1610612737,99,92,Young 9' Driving Floating Jump Shot (20 PTS) (Hunter 1 AST),Made Shot,Driving Floating Jump Shot,24420.0,h,True,ATL,176
+465,628,1610612751,99,92,MISS Wilson 3' Driving Layup,Missed Shot,Driving Layup Shot,24600.0,v,True,BKN,177
+466,629,1610612737,99,92,Bogdanović REBOUND (Off:0 Def:2),Rebound,Unknown,24620.0,h,True,ATL,178
+467,630,1610612737,99,92,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,24670.0,h,False,ATL,178
+468,631,1610612737,99,92,Daniels REBOUND (Off:2 Def:1),Rebound,Unknown,24720.0,h,False,ATL,178
+469,632,1610612737,99,92,MISS Daniels Tip Layup Shot,Missed Shot,Tip Layup Shot,24720.0,h,False,ATL,178
+470,633,1610612737,99,92,Daniels REBOUND (Off:3 Def:1),Rebound,Unknown,24730.0,h,False,ATL,178
+471,634,1610612737,102,92,Hunter 25' 3PT Jump Shot (12 PTS) (Daniels 1 AST),Made Shot,Jump Shot,24740.0,h,False,ATL,178
+472,636,1610612751,102,92,Simmons Out of Bounds - Bad Pass Turnover Turnover (P6.T18),Turnover,Out of Bounds - Bad Pass Turnover,24850.0,v,True,BKN,179
+473,637,1610612751,102,92,SUB: Schröder FOR Simmons,Substitution,,24850.0,v,True,ATL,180
+474,640,1610612737,102,92,MISS Young 28' 3PT Jump Shot,Missed Shot,Jump Shot,25040.0,h,False,ATL,180
+475,641,1610612751,102,92,Schröder REBOUND (Off:0 Def:3),Rebound,Unknown,25080.0,v,True,BKN,181
+476,642,1610612751,102,95,Finney-Smith 26' 3PT Running Jump Shot (8 PTS) (Schröder 5 AST),Made Shot,Running Jump Shot,25110.0,v,False,BKN,181
+477,644,1610612737,104,95,Okongwu 1' Cutting Dunk Shot (22 PTS) (Daniels 2 AST),Made Shot,Cutting Dunk Shot,25270.0,h,True,ATL,182
+478,646,1610612751,104,95,MISS Finney-Smith 24' 3PT Jump Shot,Missed Shot,Jump Shot,25530.0,v,True,BKN,183
+479,647,1610612737,104,95,Daniels REBOUND (Off:3 Def:2),Rebound,Unknown,25560.0,h,True,ATL,184
+480,648,1610612737,104,95,MISS Hunter 24' 3PT Jump Shot,Missed Shot,Jump Shot,25730.0,h,False,ATL,184
+481,649,1610612751,104,95,Thomas REBOUND (Off:2 Def:3),Rebound,Unknown,25780.0,v,True,BKN,185
+482,650,1610612751,104,97,Thomas 2' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,25880.0,v,False,BKN,185
+483,651,1610612751,104,97,Thomas S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,26000.0,v,True,ATL,186
+484,653,1610612737,105,97,Young Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,26000.0,h,False,ATL,186
+485,654,1610612737,105,97,SUB: Johnson FOR Bogdanović,Substitution,,26000.0,h,False,ATL,186
+486,656,1610612737,106,97,Young Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,26000.0,h,False,ATL,186
+487,657,1610612751,106,97,MISS C. Johnson 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26190.0,v,True,BKN,187
+488,658,1610612737,106,97,Johnson REBOUND (Off:1 Def:8),Rebound,Unknown,26230.0,h,True,ATL,188
+489,659,1610612737,106,97,Daniels Bad Pass Turnover (P1.T15),Turnover,Bad Pass,26280.0,h,False,ATL,188
+490,659,1610612751,106,97,Finney-Smith STEAL (1 STL),,,26280.0,v,True,BKN,189
+491,661,1610612751,106,100,Thomas 26' 3PT Running Pull-Up Jump Shot (24 PTS),Made Shot,Running Pull-Up Jump Shot,26330.0,v,False,BKN,189
+492,662,0,106,100,HAWKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,26360.0,h,True,ATL,190
+493,663,1610612737,108,100,Young 5' Driving Floating Jump Shot (24 PTS),Made Shot,Driving Floating Jump Shot,26540.0,h,False,ATL,190
+494,664,1610612751,108,102,Thomas 9' Pullup Jump Shot (26 PTS) (Schröder 6 AST),Made Shot,Pullup Jump shot,26690.0,v,True,BKN,191
+495,666,1610612737,108,102,MISS Young 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,26840.0,h,True,ATL,192
+496,667,1610612737,108,102,Okongwu REBOUND (Off:3 Def:4),Rebound,Unknown,26860.0,h,False,ATL,192
+497,668,1610612737,110,102,Okongwu 1' Putback Layup (24 PTS),Made Shot,Putback Layup Shot,26880.0,h,False,ATL,192
+498,669,1610612751,110,102,MISS Schröder 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,26990.0,v,True,BKN,193
+499,670,1610612751,110,102,Wilson REBOUND (Off:1 Def:2),Rebound,Unknown,27010.0,v,False,BKN,193
+500,671,1610612737,110,102,Daniels S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,27010.0,h,False,BKN,193
+501,673,1610612751,110,103,Wilson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,27010.0,v,False,BKN,193
+502,674,1610612751,110,104,Wilson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,27010.0,v,False,BKN,193
+503,675,1610612737,110,104,MISS Johnson 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,27240.0,h,True,ATL,194
+504,675,1610612751,110,104,Finney-Smith BLOCK (2 BLK),,,27240.0,v,False,ATL,194
+505,677,1610612751,110,104,Finney-Smith REBOUND (Off:3 Def:5),Rebound,Unknown,27250.0,v,True,BKN,195
+506,678,1610612751,110,106,Thomas 1' Driving Layup (28 PTS) (Schröder 7 AST),Made Shot,Driving Layup Shot,27380.0,v,False,BKN,195
+507,680,1610612737,110,106,MISS Daniels 25' 3PT Jump Shot,Missed Shot,Jump Shot,27590.0,h,True,ATL,196
+508,681,1610612751,110,106,Wilson REBOUND (Off:1 Def:3),Rebound,Unknown,27610.0,v,True,BKN,197
+509,683,1610612751,110,106,MISS C. Johnson 26' 3PT Jump Shot,Missed Shot,Jump Shot,27760.0,v,False,BKN,197
+510,684,0,110,106,Nets Rebound,Rebound,Unknown,27790.0,v,False,BKN,197
+511,686,1610612751,110,106,MISS Thomas 2' Driving Layup,Missed Shot,Driving Layup Shot,27860.0,v,False,BKN,197
+512,686,1610612737,110,106,Okongwu BLOCK (3 BLK),,,27860.0,h,False,BKN,197
+513,688,1610612737,110,106,Johnson REBOUND (Off:1 Def:9),Rebound,Unknown,27890.0,h,True,ATL,198
+514,689,1610612737,110,106,MISS Johnson 25' 3PT Jump Shot,Missed Shot,Jump Shot,27980.0,h,False,ATL,198
+515,690,1610612737,110,106,Okongwu REBOUND (Off:4 Def:4),Rebound,Unknown,28000.0,h,False,ATL,198
+516,691,1610612751,110,106,Schröder S.FOUL (P4.PN) (S.Corbin),Foul,Shooting,28000.0,v,False,ATL,198
+517,693,1610612737,111,106,Okongwu Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,28000.0,h,False,ATL,198
+518,694,1610612737,112,106,Okongwu Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,28000.0,h,False,ATL,198
+519,695,1610612737,112,106,Hunter P.FOUL (P5.PN) (D.Guthrie),Foul,Personal,28070.0,h,True,BKN,199
+520,697,1610612751,112,107,C. Johnson Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,28070.0,v,False,BKN,199
+521,698,1610612751,112,108,C. Johnson Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,28070.0,v,False,BKN,199
+522,699,1610612751,112,108,C. Johnson P.FOUL (P3.PN) (S.Corbin),Foul,Personal,28237.0,v,True,ATL,200
+523,701,0,112,108,Nets Timeout: Regular (Reg.5 Short 0),Timeout,Regular,28237.0,v,False,ATL,200
+524,702,0,112,108,Instant Replay4th Period (10:08 PM EST),Instant Replay,Coach Challenge Support Ruling,28237.0,,False,ATL,200
+525,703,1610612737,113,108,Young Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,28237.0,h,False,ATL,200
+526,704,1610612737,113,108,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,28237.0,h,False,ATL,200
+527,705,1610612751,113,108,C. Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,28256.0,v,True,BKN,201
+528,706,1610612751,113,108,MISS Schröder 3' Driving Layup,Missed Shot,Driving Layup Shot,28336.0,v,False,BKN,201
+529,706,1610612737,113,108,Young BLOCK (1 BLK),,,28336.0,h,False,BKN,201
+530,708,0,113,108,HAWKS Rebound,Rebound,Unknown,28336.0,h,True,ATL,202
+531,710,1610612751,113,108,Wilson Personal Take Foul (P4.PN) (S.Corbin),Foul,Personal Take,28407.0,v,False,ATL,202
+532,712,1610612737,114,108,Young Free Throw 1 of 2 (26 PTS),Free Throw,Free Throw 1 of 2,28407.0,h,False,ATL,202
+533,713,1610612737,114,108,MISS Young Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,28407.0,h,False,ATL,202
+534,714,1610612737,114,108,Hunter REBOUND (Off:1 Def:5),Rebound,Unknown,28436.0,h,False,ATL,202
+535,715,1610612737,116,108,Okongwu 1' Dunk (28 PTS) (Young 12 AST),Made Shot,Dunk Shot,28527.0,h,False,ATL,202
+536,717,1610612751,116,110,Thomas 2' Driving Layup (30 PTS),Made Shot,Driving Layup Shot,28584.0,v,True,BKN,203
+537,718,1610612751,116,110,Wilson Personal Take Foul (P5.PN) (S.Corbin),Foul,Personal Take,28591.0,v,True,ATL,204
+538,720,1610612737,117,110,Young Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,28591.0,h,False,ATL,204
+539,721,1610612737,118,110,Young Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,28591.0,h,False,ATL,204
+540,722,1610612751,118,113,Thomas 26' 3PT Pullup Jump Shot (33 PTS),Made Shot,Pullup Jump shot,28664.0,v,True,BKN,205
+541,723,0,118,113,HAWKS Timeout: Regular (Full 5 Short 0),Timeout,Regular,28672.0,h,True,ATL,206
+542,724,1610612737,118,113,Johnson Bad Pass Turnover (P6.T16),Turnover,Bad Pass,28705.0,h,False,ATL,206
+543,724,1610612751,118,113,Thomas STEAL (3 STL),,,28705.0,v,True,BKN,207
+544,726,1610612751,118,116,Thomas 25' 3PT Step Back Jump Shot (36 PTS),Made Shot,Step Back Jump shot,28762.0,v,False,BKN,207
+545,727,1610612751,118,116,Finney-Smith Personal Take Foul (P5.PN) (S.Corbin),Foul,Personal Take,28780.0,v,True,ATL,208
+546,729,1610612737,119,116,Young Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,28780.0,h,False,ATL,208
+547,730,1610612751,119,116,SUB: Clowney FOR Schröder,Substitution,,28780.0,v,False,ATL,208
+548,732,1610612737,120,116,Young Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,28780.0,h,False,ATL,208
+549,733,0,120,116,Nets Timeout: Regular (Reg.6 Short 0),Timeout,Regular,28780.0,v,False,ATL,208
+550,734,1610612751,120,116,SUB: Schröder FOR Clowney,Substitution,,28780.0,v,False,ATL,208
+551,736,1610612751,120,116,Schröder Bad Pass Turnover (P5.T19),Turnover,Bad Pass,28790.0,v,True,BKN,209
+552,736,1610612737,120,116,Johnson STEAL (3 STL),,,28790.0,h,True,ATL,210
+553,738,0,120,116,End of 4th Period (10:18 PM EST),period,end,28800.0,,False,ATL,210

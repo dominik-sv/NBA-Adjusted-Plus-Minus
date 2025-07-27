@@ -1,0 +1,523 @@
+,actionNumber,teamId,scoreHome,scoreAway,description,actionType,subType,time,location,newPossession,possession,possessionCount
+0,2,0,0,0,Start of 1st Period (7:37 PM EST),period,start,0.0,,False,,0
+1,4,1610612742,0,0,Jump Ball Gafford vs. Wembanyama: Tip to Barnes,Jump Ball,,0.0,h,True,SAS,1
+2,7,1610612759,0,0,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,220.0,v,False,SAS,1
+3,8,1610612742,0,0,Thompson REBOUND (Off:0 Def:1),Rebound,Unknown,250.0,h,True,DAL,2
+4,9,1610612742,0,0,MISS Irving 24' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,310.0,h,False,DAL,2
+5,10,1610612759,0,0,Champagnie REBOUND (Off:0 Def:1),Rebound,Unknown,340.0,v,True,SAS,3
+6,11,1610612759,0,3,Champagnie 25' 3PT Jump Shot (3 PTS) (Paul 1 AST),Made Shot,Jump Shot,400.0,v,False,SAS,3
+7,13,1610612742,0,3,MISS Dončić 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,580.0,h,True,DAL,4
+8,14,1610612759,0,3,Paul REBOUND (Off:0 Def:1),Rebound,Unknown,600.0,v,True,SAS,5
+9,15,1610612742,0,3,Irving P.FOUL (P1.T1) (R.Mott),Foul,Personal,600.0,h,False,SAS,5
+10,17,1610612759,0,6,Sochan 26' 3PT Jump Shot (3 PTS) (Barnes 1 AST),Made Shot,Jump Shot,830.0,v,False,SAS,5
+11,19,1610612742,2,6,Gafford 4' Hook Shot (2 PTS) (Irving 1 AST),Made Shot,Hook Shot,960.0,h,True,DAL,6
+12,21,1610612759,2,6,MISS Champagnie 6' Driving Layup,Missed Shot,Driving Layup Shot,1080.0,v,True,SAS,7
+13,21,1610612742,2,6,Irving BLOCK (1 BLK),,,1080.0,h,False,SAS,7
+14,23,0,2,6,MAVERICKS Rebound,Rebound,Unknown,1080.0,h,True,DAL,8
+15,25,1610612742,2,6,MISS Irving 22' Jump Shot,Missed Shot,Jump Shot,1190.0,h,False,DAL,8
+16,26,1610612742,2,6,Thompson REBOUND (Off:1 Def:1),Rebound,Unknown,1220.0,h,False,DAL,8
+17,27,1610612742,2,6,MISS Dončić 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,1280.0,h,False,DAL,8
+18,28,1610612759,2,6,Wembanyama REBOUND (Off:0 Def:1),Rebound,Unknown,1330.0,v,True,SAS,9
+19,29,1610612759,2,6,MISS Wembanyama 28' 3PT Jump Shot,Missed Shot,Jump Shot,1390.0,v,False,SAS,9
+20,30,1610612742,2,6,Dončić REBOUND (Off:0 Def:1),Rebound,Unknown,1430.0,h,True,DAL,10
+21,31,1610612742,2,6,Dončić Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1430.0,h,False,DAL,10
+22,31,1610612759,2,6,Barnes STEAL (1 STL),,,1430.0,v,True,SAS,11
+23,33,1610612742,2,6,Washington P.FOUL (P1.T2) (R.Mott),Foul,Personal,1430.0,h,False,SAS,11
+24,35,1610612759,2,6,MISS Sochan 3PT Jump Shot,Missed Shot,Jump Shot,1490.0,v,False,SAS,11
+25,36,1610612742,2,6,Dončić REBOUND (Off:0 Def:2),Rebound,Unknown,1530.0,h,True,DAL,12
+26,37,1610612742,4,6,Thompson 19' Pullup Jump Shot (2 PTS) (Dončić 1 AST),Made Shot,Pullup Jump shot,1640.0,h,False,DAL,12
+27,39,1610612742,4,6,Dončić Violation:Kicked Ball (J.Goldenberg),Violation,Kicked Ball,1710.0,h,True,SAS,13
+28,40,1610612759,4,6,Wembanyama Bad Pass Turnover (P1.T1),Turnover,Bad Pass,1760.0,v,False,SAS,13
+29,40,1610612742,4,6,Thompson STEAL (1 STL),,,1760.0,h,True,DAL,14
+30,42,1610612742,4,6,MISS Irving 20' Pullup Jump Shot,Missed Shot,Pullup Jump shot,1880.0,h,False,DAL,14
+31,43,1610612759,4,6,Barnes REBOUND (Off:0 Def:1),Rebound,Unknown,1900.0,v,True,SAS,15
+32,44,1610612759,4,6,MISS Wembanyama 2' Running Alley Oop Dunk Shot,Missed Shot,Running Alley Oop Dunk Shot,1940.0,v,False,SAS,15
+33,45,1610612742,4,6,Thompson REBOUND (Off:1 Def:2),Rebound,Unknown,1960.0,h,True,DAL,16
+34,46,1610612742,4,6,MISS Washington 26' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,2000.0,h,False,DAL,16
+35,47,0,4,6,Spurs Rebound,Rebound,Unknown,2010.0,v,True,SAS,17
+36,49,1610612759,4,8,Barnes 5' Floating Jump Shot (2 PTS),Made Shot,Floating Jump shot,2230.0,v,False,SAS,17
+37,51,1610612742,7,8,Irving 25' 3PT Pullup Jump Shot (3 PTS),Made Shot,Pullup Jump shot,2350.0,h,True,DAL,18
+38,52,1610612759,7,10,Champagnie 3' Cutting Layup Shot (5 PTS) (Paul 2 AST),Made Shot,Cutting Layup Shot,2470.0,v,True,SAS,19
+39,54,1610612742,7,10,MISS Washington 2' Driving Layup,Missed Shot,Driving Layup Shot,2620.0,h,True,DAL,20
+40,55,1610612742,7,10,Washington REBOUND (Off:1 Def:0),Rebound,Unknown,2660.0,h,False,DAL,20
+41,56,1610612742,9,10,Washington Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,2660.0,h,False,DAL,20
+42,57,1610612759,9,10,Wembanyama Lost Ball Turnover (P2.T2),Turnover,Lost Ball,2810.0,v,True,SAS,21
+43,57,1610612742,9,10,Thompson STEAL (2 STL),,,2810.0,h,True,DAL,22
+44,59,1610612742,9,10,MISS Dončić 4' Running Layup,Missed Shot,Running Layup Shot,2840.0,h,False,DAL,22
+45,59,1610612759,9,10,Champagnie BLOCK (1 BLK),,,2840.0,v,False,DAL,22
+46,61,0,9,10,MAVERICKS Rebound,Rebound,Unknown,2840.0,h,False,DAL,22
+47,63,1610612742,9,10,SUB: Grimes FOR Irving,Substitution,,2840.0,h,False,DAL,22
+48,64,1610612759,9,10,SUB: Collins FOR Wembanyama,Substitution,,2840.0,v,False,DAL,22
+49,67,1610612742,12,10,Thompson 3PT Jump Shot (5 PTS) (Dončić 2 AST),Made Shot,Jump Shot,2880.0,h,False,DAL,22
+50,69,1610612759,12,12,Barnes 1' Driving Layup (4 PTS),Made Shot,Driving Layup Shot,3020.0,v,True,SAS,23
+51,70,1610612742,12,12,MISS Gafford 8' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,3160.0,h,True,DAL,24
+52,71,1610612759,12,12,Champagnie REBOUND (Off:0 Def:2),Rebound,Unknown,3180.0,v,True,SAS,25
+53,72,1610612759,12,12,MISS Paul 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,3250.0,v,False,SAS,25
+54,73,1610612742,12,12,Dončić REBOUND (Off:0 Def:3),Rebound,Unknown,3290.0,h,True,DAL,26
+55,74,1610612759,12,12,Paul S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,3310.0,v,False,DAL,26
+56,76,0,12,12,MAVERICKS Timeout: Regular (Full 1 Short 0),Timeout,Regular,3310.0,h,False,DAL,26
+57,77,1610612759,12,12,SUB: Johnson FOR Paul,Substitution,,3310.0,v,False,DAL,26
+58,87,1610612759,12,12,SUB: Jones FOR Champagnie,Substitution,,3310.0,v,False,DAL,26
+59,79,1610612742,12,12,MISS Gafford Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,3310.0,h,False,DAL,26
+60,80,0,12,12,MAVERICKS Rebound,Rebound,Normal Rebound,3310.0,h,False,DAL,26
+61,81,1610612742,13,12,Gafford Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,3310.0,h,False,DAL,26
+62,82,1610612759,13,12,Sochan Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,3430.0,v,True,SAS,27
+63,85,1610612742,13,12,SUB: Lively II FOR Gafford,Substitution,,3430.0,h,True,DAL,28
+64,89,1610612742,13,12,MISS Thompson 25' 3PT Jump Shot,Missed Shot,Jump Shot,3570.0,h,False,DAL,28
+65,90,1610612742,13,12,Lively II REBOUND (Off:1 Def:0),Rebound,Unknown,3590.0,h,False,DAL,28
+66,91,1610612742,13,12,MISS Washington 24' 3PT Jump Shot,Missed Shot,Jump Shot,3610.0,h,False,DAL,28
+67,92,1610612742,13,12,Lively II REBOUND (Off:2 Def:0),Rebound,Unknown,3630.0,h,False,DAL,28
+68,93,1610612742,13,12,MISS Dončić 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,3670.0,h,False,DAL,28
+69,94,1610612759,13,12,Sochan REBOUND (Off:0 Def:1),Rebound,Unknown,3670.0,v,True,SAS,29
+70,95,1610612759,13,15,Barnes 25' 3PT Jump Shot (7 PTS) (Jones 1 AST),Made Shot,Jump Shot,3900.0,v,False,SAS,29
+71,97,1610612742,13,15,MISS Thompson 5' Driving Layup,Missed Shot,Driving Layup Shot,4030.0,h,True,DAL,30
+72,98,1610612759,13,15,Collins REBOUND (Off:0 Def:1),Rebound,Unknown,4060.0,v,True,SAS,31
+73,99,1610612759,13,18,Barnes 26' 3PT Running Jump Shot (10 PTS) (Sochan 1 AST),Made Shot,Running Jump Shot,4110.0,v,False,SAS,31
+74,101,1610612742,15,18,Dončić 2' Driving Finger Roll Layup (2 PTS),Made Shot,Driving Finger Roll Layup Shot,4210.0,h,True,DAL,32
+75,102,1610612759,15,20,Barnes 13' Pullup Jump Shot (12 PTS) (Jones 2 AST),Made Shot,Pullup Jump shot,4390.0,v,True,SAS,33
+76,104,1610612759,15,20,Collins P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,4480.0,v,True,DAL,34
+77,106,1610612742,15,20,SUB: Kleber FOR Washington,Substitution,,4480.0,h,False,DAL,34
+78,107,1610612742,15,20,SUB: Marshall FOR Thompson,Substitution,,4480.0,h,False,DAL,34
+79,110,1610612759,15,20,Sochan S.FOUL (P1.T3) (R.Mott),Foul,Shooting,4570.0,v,False,DAL,34
+80,112,1610612742,15,20,MISS Dončić Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,4570.0,h,False,DAL,34
+81,113,0,15,20,MAVERICKS Rebound,Rebound,Normal Rebound,4570.0,h,False,DAL,34
+82,114,1610612742,16,20,Dončić Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,4570.0,h,False,DAL,34
+83,115,1610612759,16,20,Johnson Out of Bounds Lost Ball Turnover (P1.T4),Turnover,Out of Bounds Lost Ball Turnover,4690.0,v,True,SAS,35
+84,116,1610612742,16,20,SUB: Irving FOR Dončić,Substitution,,4690.0,h,True,DAL,36
+85,118,1610612742,18,20,Irving 12' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,4860.0,h,False,DAL,36
+86,119,1610612759,18,20,MISS Collins 15' Jump Shot,Missed Shot,Jump Shot,5020.0,v,True,SAS,37
+87,120,1610612742,18,20,Kleber REBOUND (Off:0 Def:1),Rebound,Unknown,5050.0,h,True,DAL,38
+88,121,1610612742,18,20,MISS Grimes 25' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,5100.0,h,False,DAL,38
+89,122,1610612759,18,20,Barnes REBOUND (Off:0 Def:2),Rebound,Unknown,5130.0,v,True,SAS,39
+90,123,1610612759,18,20,Johnson Step Out of Bounds Turnover (P2.T5),Turnover,Step Out of Bounds Turnover,5200.0,v,False,SAS,39
+91,124,1610612759,18,20,SUB: Castle FOR Sochan,Substitution,,5200.0,v,True,DAL,40
+92,126,1610612742,18,20,Lively II Traveling Turnover (P1.T2),Turnover,Traveling,5330.0,h,False,DAL,40
+93,127,1610612759,18,20,Collins OFF.Foul (P2) (J.Tiven),Foul,Offensive,5460.0,v,True,SAS,41
+94,129,1610612759,18,20,Collins Offensive Foul Turnover (P1.T6),Turnover,Offensive Foul Turnover,5460.0,v,False,SAS,41
+95,130,0,18,20,Spurs Timeout: Regular (Reg.1 Short 0),Timeout,Regular,5460.0,v,True,DAL,42
+96,131,1610612759,18,20,SUB: Wembanyama FOR Collins,Substitution,,5460.0,v,False,DAL,42
+97,133,1610612742,20,20,Lively II 2' Cutting Dunk Shot (2 PTS) (Kleber 1 AST),Made Shot,Cutting Dunk Shot,5580.0,h,False,DAL,42
+98,135,1610612759,20,22,Wembanyama 1' Driving Layup (2 PTS),Made Shot,Driving Layup Shot,5820.0,v,True,SAS,43
+99,136,1610612742,20,22,MISS Grimes 7' Driving Layup,Missed Shot,Driving Layup Shot,5990.0,h,True,DAL,44
+100,137,1610612759,20,22,Wembanyama REBOUND (Off:0 Def:2),Rebound,Unknown,6010.0,v,True,SAS,45
+101,138,1610612759,20,22,Castle Out of Bounds - Bad Pass Turnover Turnover (P1.T7),Turnover,Out of Bounds - Bad Pass Turnover,6070.0,v,False,SAS,45
+102,139,1610612759,20,22,SUB: Paul FOR Barnes,Substitution,,6070.0,v,True,DAL,46
+103,141,1610612742,20,22,MISS Marshall 25' 3PT Jump Shot,Missed Shot,Jump Shot,6270.0,h,False,DAL,46
+104,142,1610612742,20,22,Irving REBOUND (Off:1 Def:0),Rebound,Unknown,6290.0,h,False,DAL,46
+105,143,1610612742,20,22,MISS Kleber 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,6370.0,h,False,DAL,46
+106,144,0,20,22,Spurs Rebound,Rebound,Unknown,6380.0,v,True,SAS,47
+107,146,1610612759,20,22,Wembanyama Traveling Turnover (P3.T8),Turnover,Traveling,6570.0,v,False,SAS,47
+108,147,1610612742,20,22,MISS Irving 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,6711.0,h,True,DAL,48
+109,148,1610612759,20,22,Paul REBOUND (Off:0 Def:2),Rebound,Unknown,6732.0,v,True,SAS,49
+110,149,1610612759,20,22,MISS Paul 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,6797.0,v,False,SAS,49
+111,150,1610612759,20,22,Jones REBOUND (Off:1 Def:0),Rebound,Unknown,6820.0,v,False,SAS,49
+112,151,1610612759,20,22,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,6910.0,v,False,SAS,49
+113,152,1610612742,20,22,Kleber REBOUND (Off:0 Def:2),Rebound,Unknown,6965.0,h,True,DAL,50
+114,153,1610612742,20,22,MISS Marshall 3PT Jump Shot,Missed Shot,Jump Shot,7173.0,h,False,DAL,50
+115,154,1610612759,20,22,Castle REBOUND (Off:0 Def:1),Rebound,Unknown,7173.0,v,True,SAS,51
+116,155,0,20,22,End of 1st Period (8:02 PM EST),period,end,7200.0,,False,SAS,51
+117,166,0,20,22,Start of 2nd Period (8:06 PM EST),period,start,7200.0,,True,DAL,52
+118,167,1610612742,20,22,MISS Dončić 9' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,7360.0,h,False,DAL,52
+119,168,1610612759,20,22,Wembanyama REBOUND (Off:0 Def:3),Rebound,Unknown,7380.0,v,True,SAS,53
+120,169,1610612759,20,22,MISS Wembanyama 4' Layup,Missed Shot,Layup Shot,7500.0,v,False,SAS,53
+121,169,1610612742,20,22,Dončić BLOCK (1 BLK),,,7500.0,h,False,SAS,53
+122,171,0,20,22,Spurs Rebound,Rebound,Unknown,7500.0,v,False,SAS,53
+123,287,1610612759,20,22,MISS Wembanyama 9' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,7550.0,v,False,SAS,53
+124,287,1610612742,20,22,Hardy BLOCK (1 BLK),,,7550.0,h,False,SAS,53
+125,289,1610612742,20,22,Thompson REBOUND (Off:1 Def:3),Rebound,Unknown,7550.0,h,True,DAL,54
+126,175,1610612742,20,22,MISS Gafford 4' Running Layup,Missed Shot,Running Layup Shot,7600.0,h,False,DAL,54
+127,176,1610612742,20,22,Gafford REBOUND (Off:1 Def:0),Rebound,Unknown,7640.0,h,False,DAL,54
+128,177,1610612742,22,22,Gafford Tip Dunk Shot (5 PTS),Made Shot,Tip Dunk Shot,7640.0,h,False,DAL,54
+129,178,1610612759,22,22,MISS Castle 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,7770.0,v,True,SAS,55
+130,179,1610612742,22,22,Gafford REBOUND (Off:1 Def:1),Rebound,Unknown,7790.0,h,True,DAL,56
+131,180,1610612742,22,22,MISS Thompson 28' 3PT Jump Shot,Missed Shot,Jump Shot,7850.0,h,False,DAL,56
+132,181,1610612742,22,22,Gafford REBOUND (Off:2 Def:1),Rebound,Unknown,7870.0,h,False,DAL,56
+133,182,1610612742,22,22,MISS Thompson 24' 3PT Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,7930.0,h,False,DAL,56
+134,183,0,22,22,Spurs Rebound,Rebound,Unknown,7950.0,v,True,SAS,57
+135,185,1610612759,22,22,SUB: Sochan FOR Castle,Substitution,,7950.0,v,False,SAS,57
+136,187,1610612759,22,22,MISS Wembanyama 16' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,8200.0,v,False,SAS,57
+137,188,1610612742,22,22,Dončić REBOUND (Off:0 Def:4),Rebound,Unknown,8230.0,h,True,DAL,58
+138,189,1610612742,22,22,MISS Kleber 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,8430.0,h,False,DAL,58
+139,189,1610612759,22,22,Champagnie BLOCK (2 BLK),,,8430.0,v,False,DAL,58
+140,191,1610612759,22,22,Paul REBOUND (Off:0 Def:3),Rebound,Unknown,8470.0,v,True,SAS,59
+141,194,1610612742,22,22,Thompson S.FOUL (P1.T1) (J.Tiven),Foul,Shooting,8500.0,h,False,SAS,59
+142,196,1610612759,22,23,Sochan Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,8500.0,v,False,SAS,59
+143,197,1610612742,22,23,SUB: Washington FOR Kleber,Substitution,,8500.0,h,False,SAS,59
+144,198,1610612759,22,23,SUB: Wesley FOR Johnson,Substitution,,8500.0,v,False,SAS,59
+145,201,1610612759,22,24,Sochan Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,8500.0,v,False,SAS,59
+146,202,1610612742,22,24,MISS Dončić 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,8620.0,h,True,DAL,60
+147,203,1610612759,22,24,Champagnie REBOUND (Off:0 Def:3),Rebound,Unknown,8660.0,v,True,SAS,61
+148,204,1610612759,22,24,Paul Bad Pass Turnover (P1.T9),Turnover,Bad Pass,8740.0,v,False,SAS,61
+149,204,1610612742,22,24,Gafford STEAL (1 STL),,,8740.0,h,True,DAL,62
+150,206,1610612742,22,24,Gafford Bad Pass Turnover (P1.T3),Turnover,Bad Pass,8770.0,h,False,DAL,62
+151,206,1610612759,22,24,Paul STEAL (1 STL),,,8770.0,v,True,SAS,63
+152,208,1610612759,22,26,Sochan 1' Cutting Layup Shot (7 PTS) (Champagnie 1 AST),Made Shot,Cutting Layup Shot,8820.0,v,False,SAS,63
+153,210,1610612742,22,26,MISS Washington 25' 3PT Jump Shot,Missed Shot,Jump Shot,8920.0,h,True,DAL,64
+154,211,1610612759,22,26,Sochan REBOUND (Off:0 Def:2),Rebound,Unknown,8950.0,v,True,SAS,65
+155,212,1610612759,22,26,MISS Sochan 6' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,9100.0,v,False,SAS,65
+156,213,1610612759,22,26,Champagnie REBOUND (Off:1 Def:3),Rebound,Unknown,9120.0,v,False,SAS,65
+157,214,1610612759,22,26,MISS Wembanyama 29' 3PT Jump Shot,Missed Shot,Jump Shot,9150.0,v,False,SAS,65
+158,215,1610612742,22,26,Gafford REBOUND (Off:2 Def:2),Rebound,Unknown,9190.0,h,True,DAL,66
+159,216,1610612742,22,26,MISS Dončić 2' Driving Layup,Missed Shot,Driving Layup Shot,9270.0,h,False,DAL,66
+160,217,1610612742,22,26,Thompson REBOUND (Off:2 Def:3),Rebound,Unknown,9310.0,h,False,DAL,66
+161,220,1610612742,25,26,Thompson 25' 3PT Jump Shot (8 PTS),Made Shot,Jump Shot,9340.0,h,False,DAL,66
+162,221,1610612742,25,26,Gafford S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,9450.0,h,True,SAS,67
+163,223,1610612759,25,27,Wembanyama Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,9450.0,v,False,SAS,67
+164,225,1610612759,25,28,Wembanyama Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,9450.0,v,False,SAS,67
+165,226,1610612742,27,28,Dončić 8' Driving Floating Bank Jump Shot (5 PTS),Made Shot,Driving Floating Bank Jump Shot,9550.0,h,True,DAL,68
+166,227,1610612742,27,28,Hardy P.FOUL (P1.T3) (J.Goldenberg),Foul,Personal,9590.0,h,True,SAS,69
+167,229,1610612742,27,28,SUB: Irving FOR Hardy,Substitution,,9590.0,h,False,SAS,69
+168,230,1610612759,27,28,SUB: Collins FOR Wembanyama,Substitution,,9590.0,v,False,SAS,69
+169,233,1610612759,27,30,Champagnie 11' Pullup Jump Shot (7 PTS) (Wesley 1 AST),Made Shot,Pullup Jump shot,9680.0,v,False,SAS,69
+170,235,1610612742,27,30,MISS Washington 3PT Jump Shot,Missed Shot,Jump Shot,9940.0,h,True,DAL,70
+171,236,1610612742,27,30,Thompson REBOUND (Off:3 Def:3),Rebound,Unknown,9960.0,h,False,DAL,70
+172,237,1610612759,27,30,Paul S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,10010.0,v,False,DAL,70
+173,239,1610612742,27,30,MISS Washington Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,10010.0,h,False,DAL,70
+174,240,0,27,30,MAVERICKS Rebound,Rebound,Normal Rebound,10010.0,h,False,DAL,70
+175,241,1610612759,27,30,SUB: Jones FOR Paul,Substitution,,10010.0,v,False,DAL,70
+176,243,1610612742,28,30,Washington Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,10010.0,h,False,DAL,70
+177,244,1610612759,28,33,Collins 25' 3PT Jump Shot (3 PTS) (Sochan 2 AST),Made Shot,Jump Shot,10160.0,v,True,SAS,71
+178,246,1610612759,28,33,Sochan P.FOUL (P2.T2) (R.Mott),Foul,Personal,10230.0,v,True,DAL,72
+179,248,0,28,33,MAVERICKS Timeout: Regular (Full 2 Short 0),Timeout,Regular,10230.0,h,False,DAL,72
+180,249,1610612742,28,33,SUB: Lively II FOR Gafford,Substitution,,10230.0,h,False,DAL,72
+181,250,1610612759,28,33,SUB: Johnson FOR Wesley,Substitution,,10230.0,v,False,DAL,72
+182,253,1610612742,30,33,Dončić 19' Fadeaway Jumper (7 PTS) (Lively II 1 AST),Made Shot,Fadeaway Jump Shot,10330.0,h,False,DAL,72
+183,255,1610612759,30,36,Champagnie 24' 3PT Jump Shot (10 PTS) (Johnson 1 AST),Made Shot,Jump Shot,10530.0,v,True,SAS,73
+184,257,1610612742,30,36,MISS Dončić 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,10660.0,h,True,DAL,74
+185,258,1610612742,30,36,Lively II REBOUND (Off:3 Def:0),Rebound,Unknown,10720.0,h,False,DAL,74
+186,259,1610612742,32,36,Lively II Tip Layup Shot (4 PTS),Made Shot,Tip Layup Shot,10720.0,h,False,DAL,74
+187,260,1610612759,32,36,MISS Johnson 3PT Jump Shot,Missed Shot,Jump Shot,10800.0,v,True,SAS,75
+188,261,0,32,36,MAVERICKS Rebound,Rebound,Unknown,10810.0,h,True,DAL,76
+189,263,1610612742,32,36,SUB: Hardy FOR Thompson,Substitution,,10810.0,h,False,DAL,76
+190,264,1610612742,32,36,SUB: Marshall FOR Dončić,Substitution,,10810.0,h,False,DAL,76
+191,265,1610612759,32,36,SUB: Barnes FOR Sochan,Substitution,,10810.0,v,False,DAL,76
+192,269,1610612742,32,36,Hardy Lost Ball Turnover (P1.T4),Turnover,Lost Ball,10960.0,h,False,DAL,76
+193,269,1610612759,32,36,Collins STEAL (1 STL),,,10960.0,v,True,SAS,77
+194,271,1610612759,32,36,MISS Barnes 26' 3PT Jump Shot,Missed Shot,Jump Shot,11020.0,v,False,SAS,77
+195,272,1610612759,32,36,Champagnie REBOUND (Off:2 Def:3),Rebound,Unknown,11040.0,v,False,SAS,77
+196,273,1610612759,32,36,MISS Johnson 3' Driving Layup,Missed Shot,Driving Layup Shot,11110.0,v,False,SAS,77
+197,274,1610612759,32,36,Barnes REBOUND (Off:1 Def:2),Rebound,Unknown,11130.0,v,False,SAS,77
+198,275,1610612759,32,36,MISS Jones 11' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11190.0,v,False,SAS,77
+199,276,1610612742,32,36,Washington REBOUND (Off:1 Def:1),Rebound,Unknown,11210.0,h,True,DAL,78
+200,277,1610612742,35,36,Hardy 3PT Running Pull-Up Jump Shot (3 PTS) (Irving 2 AST),Made Shot,Running Pull-Up Jump Shot,11260.0,h,False,DAL,78
+201,279,1610612759,35,36,MISS Champagnie 26' 3PT Jump Shot,Missed Shot,Jump Shot,11450.0,v,True,SAS,79
+202,280,1610612759,35,36,Collins REBOUND (Off:1 Def:1),Rebound,Unknown,11470.0,v,False,SAS,79
+203,281,1610612759,35,38,Champagnie 1' Driving Dunk (12 PTS),Made Shot,Driving Dunk Shot,11540.0,v,False,SAS,79
+204,282,1610612742,35,38,Lively II Bad Pass Turnover (P2.T5),Turnover,Bad Pass,11580.0,h,True,DAL,80
+205,282,1610612759,35,38,Jones STEAL (1 STL),,,11580.0,v,True,SAS,81
+206,284,1610612759,35,38,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,11640.0,v,False,SAS,81
+207,285,1610612742,35,38,Lively II REBOUND (Off:3 Def:1),Rebound,Unknown,11650.0,h,True,DAL,82
+208,286,0,35,38,MAVERICKS Timeout: Regular (Full 3 Short 0),Timeout,Regular,11650.0,h,False,DAL,82
+209,290,1610612742,35,38,SUB: Dončić FOR Washington,Substitution,,11650.0,h,False,DAL,82
+210,291,1610612759,35,38,SUB: Castle FOR Champagnie,Substitution,,11650.0,v,False,DAL,82
+211,294,1610612742,38,38,Hardy 24' 3PT Jump Shot (6 PTS) (Dončić 3 AST),Made Shot,Jump Shot,11760.0,h,False,DAL,82
+212,296,1610612759,38,40,Collins 3' Cutting Layup Shot (5 PTS) (Castle 1 AST),Made Shot,Cutting Layup Shot,11990.0,v,True,SAS,83
+213,298,1610612742,40,40,Dončić 3' Driving Finger Roll Layup (9 PTS),Made Shot,Driving Finger Roll Layup Shot,12150.0,h,True,DAL,84
+214,299,1610612759,40,42,Barnes 12' Driving Floating Bank Jump Shot (14 PTS) (Jones 3 AST),Made Shot,Driving Floating Bank Jump Shot,12340.0,v,True,SAS,85
+215,301,1610612742,40,42,MISS Irving 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,12500.0,h,True,DAL,86
+216,302,1610612759,40,42,Collins REBOUND (Off:1 Def:2),Rebound,Unknown,12530.0,v,True,SAS,87
+217,303,1610612759,40,42,Castle Traveling Turnover (P2.T10),Turnover,Traveling,12720.0,v,False,SAS,87
+218,304,1610612759,40,42,SUB: Paul FOR Collins,Substitution,,12720.0,v,True,DAL,88
+219,305,1610612759,40,42,SUB: Wembanyama FOR Jones,Substitution,,12720.0,v,False,DAL,88
+220,306,1610612759,40,42,SUB: Sochan FOR Castle,Substitution,,12720.0,v,False,DAL,88
+221,310,1610612742,40,42,MISS Hardy 24' 3PT Jump Shot,Missed Shot,Jump Shot,12860.0,h,False,DAL,88
+222,311,1610612759,40,42,Johnson REBOUND (Off:0 Def:1),Rebound,Unknown,12890.0,v,True,SAS,89
+223,312,1610612759,40,42,Wembanyama Lost Ball Turnover (P4.T11),Turnover,Lost Ball,12960.0,v,False,SAS,89
+224,312,1610612742,40,42,Dončić STEAL (1 STL),,,12960.0,h,True,DAL,90
+225,314,1610612742,42,42,Lively II 1' Running Dunk (6 PTS) (Hardy 1 AST),Made Shot,Running Dunk Shot,12990.0,h,False,DAL,90
+226,316,1610612759,42,42,Barnes S.FOUL (P1.T3) (J.Goldenberg),Foul,Shooting,12990.0,v,False,DAL,90
+227,318,1610612742,42,42,MISS Lively II Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,12990.0,h,False,DAL,90
+228,319,1610612759,42,42,Wembanyama REBOUND (Off:0 Def:4),Rebound,Unknown,13010.0,v,True,SAS,91
+229,320,1610612759,42,45,Johnson 3PT Jump Shot (3 PTS) (Paul 3 AST),Made Shot,Jump Shot,13140.0,v,False,SAS,91
+230,322,1610612742,42,45,MISS Dončić 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,13240.0,h,True,DAL,92
+231,323,1610612759,42,45,Johnson REBOUND (Off:0 Def:2),Rebound,Unknown,13270.0,v,True,SAS,93
+232,324,1610612759,42,47,Wembanyama 1' Alley Oop Dunk (6 PTS) (Paul 4 AST),Made Shot,Alley Oop Dunk Shot,13330.0,v,False,SAS,93
+233,326,1610612742,44,47,Irving 16' Pullup Jump Shot (7 PTS),Made Shot,Pullup Jump shot,13500.0,h,True,DAL,94
+234,327,1610612759,44,49,Sochan 1' Alley Oop Layup (9 PTS) (Wembanyama 1 AST),Made Shot,Alley Oop Layup shot,13640.0,v,True,SAS,95
+235,329,1610612742,47,49,Hardy 3PT Jump Shot (9 PTS) (Dončić 4 AST),Made Shot,Jump Shot,13710.0,h,True,DAL,96
+236,331,1610612742,47,49,Dončić L.B.FOUL (P1.T4) (R.Mott),Foul,Loose Ball,13790.0,h,True,SAS,97
+237,333,1610612759,47,49,MISS Johnson 5' Driving Layup,Missed Shot,Driving Layup Shot,13895.0,v,False,SAS,97
+238,334,1610612742,47,49,Lively II REBOUND (Off:3 Def:2),Rebound,Unknown,13914.0,h,True,DAL,98
+239,335,1610612742,47,49,MISS Lively II 4' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,14014.0,h,False,DAL,98
+240,335,1610612759,47,49,Wembanyama BLOCK (1 BLK),,,14014.0,v,False,DAL,98
+241,337,1610612759,47,49,Paul REBOUND (Off:0 Def:4),Rebound,Unknown,14039.0,v,True,SAS,99
+242,338,1610612759,47,49,Paul Lost Ball Turnover (P2.T12),Turnover,Lost Ball,14056.0,v,False,SAS,99
+243,338,1610612742,47,49,Lively II STEAL (1 STL),,,14056.0,h,True,DAL,100
+244,340,1610612742,47,49,MISS Dončić 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,14182.0,h,False,DAL,100
+245,341,1610612759,47,49,Sochan REBOUND (Off:0 Def:3),Rebound,Unknown,14211.0,v,True,SAS,101
+246,342,1610612759,47,49,MISS Paul 19' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,14400.0,v,False,SAS,101
+247,343,0,47,49,Spurs Rebound,Rebound,Unknown,14400.0,v,False,SAS,101
+248,344,0,47,49,End of 2nd Period (8:31 PM EST),period,end,14400.0,,False,SAS,101
+249,353,0,47,49,Start of 3rd Period (8:47 PM EST),period,start,14400.0,,True,DAL,102
+250,354,1610612742,47,49,MISS Dončić 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,14530.0,h,False,DAL,102
+251,355,1610612759,47,49,Champagnie REBOUND (Off:2 Def:4),Rebound,Unknown,14560.0,v,True,SAS,103
+252,356,1610612759,47,49,MISS Paul 25' 3PT Jump Shot,Missed Shot,Jump Shot,14660.0,v,False,SAS,103
+253,357,1610612742,47,49,Washington REBOUND (Off:1 Def:2),Rebound,Unknown,14690.0,h,True,DAL,104
+254,358,1610612742,47,49,MISS Irving 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,14740.0,h,False,DAL,104
+255,359,1610612759,47,49,Wembanyama REBOUND (Off:0 Def:5),Rebound,Unknown,14770.0,v,True,SAS,105
+256,360,1610612759,47,49,MISS Wembanyama 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14840.0,v,False,SAS,105
+257,361,1610612742,47,49,Irving REBOUND (Off:1 Def:1),Rebound,Unknown,14900.0,h,True,DAL,106
+258,362,1610612742,50,49,Thompson 3PT Jump Shot (11 PTS) (Washington 1 AST),Made Shot,Jump Shot,14960.0,h,False,DAL,106
+259,364,1610612742,50,49,Gafford S.FOUL (P2.T1) (J.Goldenberg),Foul,Shooting,15070.0,h,True,SAS,107
+260,366,1610612759,50,50,Sochan Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,15070.0,v,False,SAS,107
+261,367,1610612759,50,51,Sochan Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,15070.0,v,False,SAS,107
+262,368,1610612759,50,51,Wembanyama P.FOUL (P1.T1) (J.Tiven),Foul,Personal,15210.0,v,True,DAL,108
+263,370,1610612742,53,51,Irving 26' 3PT Step Back Jump Shot (10 PTS) (Gafford 1 AST),Made Shot,Step Back Jump shot,15290.0,h,False,DAL,108
+264,372,1610612759,53,51,MISS Wembanyama 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,15560.0,v,True,SAS,109
+265,373,1610612742,53,51,Thompson REBOUND (Off:3 Def:4),Rebound,Unknown,15600.0,h,True,DAL,110
+266,374,1610612742,56,51,Thompson 26' 3PT Running Jump Shot (14 PTS) (Dončić 5 AST),Made Shot,Running Jump Shot,15640.0,h,False,DAL,110
+267,376,1610612742,56,51,Gafford S.FOUL (P3.T2) (J.Tiven),Foul,Shooting,15750.0,h,True,SAS,111
+268,378,1610612759,56,52,Wembanyama Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,15750.0,v,False,SAS,111
+269,379,1610612759,56,53,Wembanyama Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,15750.0,v,False,SAS,111
+270,380,1610612742,56,53,MISS Irving 28' 3PT Jump Shot,Missed Shot,Jump Shot,15910.0,h,True,DAL,112
+271,381,1610612759,56,53,Wembanyama REBOUND (Off:0 Def:6),Rebound,Unknown,15950.0,v,True,SAS,113
+272,382,1610612759,56,53,Sochan Bad Pass Turnover (P2.T13),Turnover,Bad Pass,16050.0,v,False,SAS,113
+273,382,1610612742,56,53,Washington STEAL (1 STL),,,16050.0,h,True,DAL,114
+274,384,1610612742,56,53,MISS Irving 6' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,16100.0,h,False,DAL,114
+275,385,1610612742,56,53,Gafford REBOUND (Off:3 Def:2),Rebound,Unknown,16130.0,h,False,DAL,114
+276,386,1610612742,56,53,MISS Gafford Tip Layup Shot,Missed Shot,Tip Layup Shot,16130.0,h,False,DAL,114
+277,387,1610612742,56,53,Gafford REBOUND (Off:4 Def:2),Rebound,Unknown,16150.0,h,False,DAL,114
+278,388,1610612742,58,53,Gafford Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,16150.0,h,False,DAL,114
+279,389,1610612759,58,53,MISS Wembanyama 24' 3PT Jump Shot,Missed Shot,Jump Shot,16280.0,v,True,SAS,115
+280,390,1610612742,58,53,Dončić REBOUND (Off:0 Def:5),Rebound,Unknown,16300.0,h,True,DAL,116
+281,391,1610612742,61,53,Dončić 27' 3PT Step Back Jump Shot (12 PTS),Made Shot,Step Back Jump shot,16440.0,h,False,DAL,116
+282,392,0,61,53,Spurs Timeout: Regular (Reg.2 Short 0),Timeout,Regular,16440.0,v,True,SAS,117
+283,393,1610612759,61,53,Champagnie Bad Pass Turnover (P1.T14),Turnover,Bad Pass,16460.0,v,False,SAS,117
+284,393,1610612742,61,53,Thompson STEAL (3 STL),,,16460.0,h,True,DAL,118
+285,396,1610612742,61,53,MISS Dončić 2' Layup,Missed Shot,Layup Shot,16490.0,h,False,DAL,118
+286,397,1610612759,61,53,Sochan REBOUND (Off:0 Def:4),Rebound,Unknown,16510.0,v,True,SAS,119
+287,398,1610612759,61,53,Champagnie Lost Ball Turnover (P2.T15),Turnover,Lost Ball,16590.0,v,False,SAS,119
+288,398,1610612742,61,53,Irving STEAL (1 STL),,,16590.0,h,True,DAL,120
+289,400,1610612759,61,53,Champagnie S.FOUL (P1.T2) (J.Goldenberg),Foul,Shooting,16620.0,v,False,DAL,120
+290,402,1610612742,62,53,Thompson Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,16620.0,h,False,DAL,120
+291,405,1610612742,63,53,Thompson Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,16620.0,h,False,DAL,120
+292,406,1610612759,63,53,Sochan Lost Ball Turnover (P3.T16),Turnover,Lost Ball,16700.0,v,True,SAS,121
+293,406,1610612742,63,53,Irving STEAL (2 STL),,,16700.0,h,True,DAL,122
+294,409,1610612742,63,53,Dončić Bad Pass Turnover (P2.T6),Turnover,Bad Pass,16830.0,h,False,DAL,122
+295,409,1610612759,63,53,Champagnie STEAL (1 STL),,,16830.0,v,True,SAS,123
+296,411,1610612759,63,55,Barnes 9' Driving Floating Jump Shot (16 PTS) (Paul 5 AST),Made Shot,Driving Floating Jump Shot,16890.0,v,False,SAS,123
+297,413,1610612742,66,55,Irving 26' 3PT Jump Shot (13 PTS) (Thompson 1 AST),Made Shot,Jump Shot,17040.0,h,True,DAL,124
+298,415,1610612759,66,55,MISS Wembanyama 25' 3PT Jump Shot,Missed Shot,Jump Shot,17200.0,v,True,SAS,125
+299,416,1610612742,66,55,Dončić REBOUND (Off:0 Def:6),Rebound,Unknown,17220.0,h,True,DAL,126
+300,417,1610612742,69,55,Washington 3PT Jump Shot (6 PTS) (Dončić 6 AST),Made Shot,Jump Shot,17290.0,h,False,DAL,126
+301,419,0,69,55,Spurs Timeout: Regular (Reg.3 Short 0),Timeout,Regular,17300.0,v,True,SAS,127
+302,420,1610612759,69,57,Sochan 2' Layup (13 PTS) (Champagnie 2 AST),Made Shot,Layup Shot,17490.0,v,False,SAS,127
+303,422,1610612742,69,57,Gafford Violation:Defensive Goaltending (J.Tiven),Violation,Defensive Goaltending,17490.0,h,True,DAL,128
+304,423,1610612759,69,57,Sochan P.FOUL (P3.T3) (J.Tiven),Foul,Personal,17520.0,v,False,DAL,128
+305,425,1610612742,69,57,MISS Dončić 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,17650.0,h,False,DAL,128
+306,426,1610612759,69,57,Paul REBOUND (Off:0 Def:5),Rebound,Unknown,17680.0,v,True,SAS,129
+307,427,1610612759,69,59,Sochan 1' Running Dunk (15 PTS) (Paul 6 AST),Made Shot,Running Dunk Shot,17720.0,v,False,SAS,129
+308,429,1610612742,69,59,MISS Washington 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,17800.0,h,True,DAL,130
+309,430,1610612759,69,59,Paul REBOUND (Off:0 Def:6),Rebound,Unknown,17840.0,v,True,SAS,131
+310,431,1610612759,69,62,Champagnie 3PT Jump Shot (15 PTS) (Paul 7 AST),Made Shot,Jump Shot,17920.0,v,False,SAS,131
+311,433,1610612742,69,62,MISS Thompson 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,18080.0,h,True,DAL,132
+312,434,1610612759,69,62,Champagnie REBOUND (Off:2 Def:5),Rebound,Unknown,18100.0,v,True,SAS,133
+313,435,1610612759,69,62,MISS Wembanyama 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,18150.0,v,False,SAS,133
+314,436,1610612742,69,62,Irving REBOUND (Off:1 Def:2),Rebound,Unknown,18180.0,h,True,DAL,134
+315,437,1610612742,69,62,MISS Irving 4' Driving Layup,Missed Shot,Driving Layup Shot,18250.0,h,False,DAL,134
+316,438,1610612759,69,62,Paul REBOUND (Off:0 Def:7),Rebound,Unknown,18280.0,v,True,SAS,135
+317,439,1610612742,69,62,Gafford S.FOUL (P4.T3) (J.Goldenberg),Foul,Shooting,18350.0,h,False,SAS,135
+318,441,1610612759,69,62,MISS Sochan Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,18350.0,v,False,SAS,135
+319,442,0,69,62,Spurs Rebound,Rebound,Normal Rebound,18350.0,v,False,SAS,135
+320,443,1610612742,69,62,SUB: Lively II FOR Gafford,Substitution,,18350.0,h,False,SAS,135
+321,444,1610612742,69,62,SUB: Hardy FOR Thompson,Substitution,,18350.0,h,False,SAS,135
+322,447,1610612759,69,62,MISS Sochan Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,18350.0,v,False,SAS,135
+323,448,1610612742,69,62,Washington REBOUND (Off:1 Def:3),Rebound,Unknown,18370.0,h,True,DAL,136
+324,449,1610612759,69,62,Paul S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,18490.0,v,False,DAL,136
+325,451,1610612742,70,62,Lively II Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,18490.0,h,False,DAL,136
+326,452,1610612759,70,62,SUB: Johnson FOR Sochan,Substitution,,18490.0,v,False,DAL,136
+327,454,1610612742,71,62,Lively II Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,18490.0,h,False,DAL,136
+328,455,1610612742,71,62,Hardy P.FOUL (P2.T4) (J.Tiven),Foul,Personal,18660.0,h,True,SAS,137
+329,457,1610612742,71,62,SUB: Marshall FOR Irving,Substitution,,18660.0,h,False,SAS,137
+330,459,1610612759,71,65,Wembanyama 24' 3PT Jump Shot (11 PTS) (Paul 8 AST),Made Shot,Jump Shot,18680.0,v,False,SAS,137
+331,461,1610612742,71,65,Hardy Step Out of Bounds Turnover (P2.T7),Turnover,Step Out of Bounds Turnover,18820.0,h,True,DAL,138
+332,462,1610612759,71,65,SUB: Jones FOR Champagnie,Substitution,,18820.0,v,True,SAS,139
+333,464,1610612759,71,68,Paul 25' 3PT Pullup Jump Shot (3 PTS) (Johnson 2 AST),Made Shot,Pullup Jump shot,19030.0,v,False,SAS,139
+334,466,1610612759,71,68,Barnes P.FOUL (P2.PN) (R.Mott),Foul,Personal,19120.0,v,True,DAL,140
+335,469,1610612742,72,68,Dončić Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,19120.0,h,False,DAL,140
+336,470,1610612742,72,68,SUB: Kleber FOR Washington,Substitution,,19120.0,h,False,DAL,140
+337,471,1610612759,72,68,SUB: Castle FOR Paul,Substitution,,19120.0,v,False,DAL,140
+338,474,1610612742,72,68,MISS Dončić Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,19120.0,h,False,DAL,140
+339,475,0,72,68,Spurs Rebound,Rebound,Unknown,19140.0,v,True,SAS,141
+340,476,1610612742,72,68,Lively II L.B.FOUL (P1.PN) (J.Goldenberg),Foul,Loose Ball,19140.0,h,False,SAS,141
+341,478,1610612759,72,69,Wembanyama Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,19140.0,v,False,SAS,141
+342,479,1610612759,72,70,Wembanyama Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,19140.0,v,False,SAS,141
+343,480,1610612759,72,70,Castle S.FOUL (P1.PN) (R.Mott),Foul,Shooting,19220.0,v,True,DAL,142
+344,482,1610612742,73,70,Dončić Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,19220.0,h,False,DAL,142
+345,483,1610612759,73,70,SUB: Collins FOR Wembanyama,Substitution,,19220.0,v,False,DAL,142
+346,485,1610612742,74,70,Dončić Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,19220.0,h,False,DAL,142
+347,486,1610612759,74,72,Johnson 10' Driving Floating Jump Shot (5 PTS) (Collins 1 AST),Made Shot,Driving Floating Jump Shot,19400.0,v,True,SAS,143
+348,488,1610612742,76,72,Dončić 3' Driving Finger Roll Layup (17 PTS) (Lively II 2 AST),Made Shot,Driving Finger Roll Layup Shot,19540.0,h,True,DAL,144
+349,490,1610612742,76,72,Marshall S.FOUL (P1.PN) (R.Mott),Foul,Shooting,19580.0,h,True,SAS,145
+350,492,1610612759,76,72,MISS Barnes Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,19580.0,v,False,SAS,145
+351,493,0,76,72,Spurs Rebound,Rebound,Normal Rebound,19580.0,v,False,SAS,145
+352,494,1610612742,76,72,SUB: Irving FOR Dončić,Substitution,,19580.0,h,False,SAS,145
+353,496,1610612759,76,73,Barnes Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,19580.0,v,False,SAS,145
+354,497,1610612742,78,73,Lively II 1' Cutting Layup Shot (10 PTS) (Hardy 2 AST),Made Shot,Cutting Layup Shot,19770.0,h,True,DAL,146
+355,499,1610612742,78,73,Hardy P.FOUL (P3.PN) (J.Goldenberg),Foul,Personal,19820.0,h,True,SAS,147
+356,501,1610612759,78,74,Jones Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,19820.0,v,False,SAS,147
+357,502,1610612759,78,74,SUB: Champagnie FOR Barnes,Substitution,,19820.0,v,False,SAS,147
+358,504,1610612759,78,75,Jones Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,19820.0,v,False,SAS,147
+359,505,1610612759,78,75,Collins P.FOUL (P3.PN) (J.Tiven),Foul,Personal,19970.0,v,True,DAL,148
+360,507,1610612742,79,75,Hardy Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,19970.0,h,False,DAL,148
+361,508,1610612742,80,75,Hardy Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,19970.0,h,False,DAL,148
+362,509,1610612759,80,75,MISS Jones 5' Driving Layup,Missed Shot,Driving Layup Shot,20080.0,v,True,SAS,149
+363,510,1610612742,80,75,Kleber REBOUND (Off:0 Def:3),Rebound,Unknown,20090.0,h,True,DAL,150
+364,511,1610612742,83,75,Kleber 3PT Running Jump Shot (3 PTS) (Marshall 1 AST),Made Shot,Running Jump Shot,20140.0,h,False,DAL,150
+365,513,1610612759,83,77,Johnson 6' Driving Floating Bank Jump Shot (7 PTS) (Castle 2 AST),Made Shot,Driving Floating Bank Jump Shot,20300.0,v,True,SAS,151
+366,515,1610612742,85,77,Marshall 1' Cutting Layup Shot (2 PTS) (Lively II 3 AST),Made Shot,Cutting Layup Shot,20440.0,h,True,DAL,152
+367,517,1610612759,85,79,Castle 15' Pullup Jump Shot (2 PTS),Made Shot,Pullup Jump shot,20530.0,v,True,SAS,153
+368,518,1610612742,85,79,MISS Irving 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,20650.0,h,True,DAL,154
+369,519,1610612759,85,79,Johnson REBOUND (Off:0 Def:3),Rebound,Unknown,20670.0,v,True,SAS,155
+370,520,1610612759,85,79,MISS Champagnie 3PT Jump Shot,Missed Shot,Jump Shot,20760.0,v,False,SAS,155
+371,521,1610612742,85,79,Lively II REBOUND (Off:3 Def:3),Rebound,Unknown,20790.0,h,True,DAL,156
+372,522,1610612742,85,79,MISS Lively II 6' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,20920.0,h,False,DAL,156
+373,523,1610612759,85,79,Johnson REBOUND (Off:0 Def:4),Rebound,Unknown,20940.0,v,True,SAS,157
+374,524,1610612759,85,79,MISS Castle 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21000.0,v,False,SAS,157
+375,525,1610612759,85,79,Collins REBOUND (Off:2 Def:2),Rebound,Unknown,21008.0,v,False,SAS,157
+376,526,1610612759,85,79,MISS Champagnie 25' 3PT Jump Shot,Missed Shot,Jump Shot,21030.0,v,False,SAS,157
+377,527,1610612742,85,79,Marshall REBOUND (Off:0 Def:1),Rebound,Unknown,21050.0,h,True,DAL,158
+378,528,1610612742,87,79,Irving 1' Running Layup (15 PTS) (Marshall 2 AST),Made Shot,Running Layup Shot,21083.0,h,False,DAL,158
+379,530,1610612759,87,79,MISS Johnson 7' Driving Hook Shot,Missed Shot,Driving Hook Shot,21279.0,v,True,SAS,159
+380,531,1610612742,87,79,Lively II REBOUND (Off:3 Def:4),Rebound,Unknown,21299.0,h,True,DAL,160
+381,532,1610612742,87,79,MISS Marshall 2' Driving Layup,Missed Shot,Driving Layup Shot,21467.0,h,False,DAL,160
+382,533,1610612759,87,79,Collins REBOUND (Off:2 Def:3),Rebound,Unknown,21486.0,v,True,SAS,161
+383,534,1610612742,87,79,Lively II L.B.FOUL (P2.PN) (J.Goldenberg),Foul,Loose Ball,21493.0,h,False,SAS,161
+384,537,1610612759,87,79,MISS Jones Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,21493.0,v,False,SAS,161
+385,538,0,87,79,Spurs Rebound,Rebound,Normal Rebound,21493.0,v,False,SAS,161
+386,539,1610612742,87,79,SUB: Gafford FOR Lively II,Substitution,,21493.0,h,False,SAS,161
+387,540,1610612742,87,79,SUB: Dončić FOR Marshall,Substitution,,21493.0,h,False,SAS,161
+388,544,1610612759,87,80,Jones Free Throw 2 of 2 (3 PTS),Free Throw,Free Throw 2 of 2,21493.0,v,False,SAS,161
+389,545,1610612742,87,80,MISS Irving 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,21600.0,h,True,DAL,162
+390,546,0,87,80,MAVERICKS Rebound,Rebound,Unknown,21600.0,h,False,DAL,162
+391,547,0,87,80,End of 3rd Period (9:20 PM EST),period,end,21600.0,,False,DAL,162
+392,558,0,87,80,Start of 4th Period (9:24 PM EST),period,start,21600.0,,True,SAS,163
+393,559,1610612759,87,80,MISS Sochan 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21780.0,v,False,SAS,163
+394,559,1610612742,87,80,Gafford BLOCK (1 BLK),,,21780.0,h,False,SAS,163
+395,560,1610612759,87,80,Wembanyama REBOUND (Off:1 Def:6),Rebound,Unknown,21790.0,v,False,SAS,163
+396,561,1610612759,87,80,MISS Wembanyama 5' Putback Layup,Missed Shot,Putback Layup Shot,21800.0,v,False,SAS,163
+397,566,1610612759,87,80,Sochan REBOUND (Off:1 Def:4),Rebound,Unknown,21820.0,v,False,SAS,163
+398,562,1610612759,87,80,Sochan FLAGRANT.FOUL.TYPE1 (P4.T1) (J.Goldenberg),Foul,Flagrant Type 1,21850.0,v,False,SAS,163
+399,564,1610612759,87,80,Sochan Offensive Foul Turnover (P4.T17),Turnover,Offensive Foul Turnover,21850.0,v,False,SAS,163
+400,565,0,87,80,Instant Replay4th Period (9:25 PM EST),Instant Replay,Overturn Ruling,21850.0,,True,DAL,164
+401,569,1610612742,88,80,Gafford Free Throw Flagrant 1 of 2 (8 PTS),Free Throw,Free Throw Flagrant 1 of 2,21850.0,h,False,DAL,164
+402,570,1610612742,89,80,Gafford Free Throw Flagrant 2 of 2 (9 PTS),Free Throw,Free Throw Flagrant 2 of 2,21850.0,h,False,DAL,164
+403,571,1610612742,91,80,Grimes 1' Cutting Dunk Shot (2 PTS) (Gafford 2 AST),Made Shot,Cutting Dunk Shot,21910.0,h,False,DAL,164
+404,573,1610612759,91,80,MISS Castle 3' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22170.0,v,True,SAS,165
+405,574,1610612759,91,80,Sochan REBOUND (Off:2 Def:4),Rebound,Unknown,22200.0,v,False,SAS,165
+406,577,1610612759,91,82,Sochan 2' Putback Dunk (17 PTS),Made Shot,Putback Dunk Shot,22200.0,v,False,SAS,165
+407,578,1610612742,91,82,Gafford S.FOUL (P5.T1) (R.Mott),Foul,Shooting,22200.0,h,False,SAS,165
+408,580,1610612742,91,82,SUB: Lively II FOR Gafford,Substitution,,22200.0,h,False,SAS,165
+409,582,1610612759,91,83,Sochan Free Throw 1 of 1 (18 PTS),Free Throw,Free Throw 1 of 1,22200.0,v,False,SAS,165
+410,583,1610612742,94,83,Dončić 26' 3PT Step Back Jump Shot (20 PTS) (Lively II 4 AST),Made Shot,Step Back Jump shot,22290.0,h,True,DAL,166
+411,585,1610612759,94,83,MISS Sochan 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,22380.0,v,True,SAS,167
+412,585,1610612742,94,83,Kleber BLOCK (1 BLK),,,22380.0,h,False,SAS,167
+413,587,1610612742,94,83,Dončić REBOUND (Off:0 Def:7),Rebound,Unknown,22390.0,h,True,DAL,168
+414,588,1610612759,94,83,Castle P.FOUL (P2.T2) (J.Goldenberg),Foul,Personal,22390.0,v,False,DAL,168
+415,590,1610612742,97,83,Thompson 26' 3PT Jump Shot (19 PTS) (Dončić 7 AST),Made Shot,Jump Shot,22510.0,h,False,DAL,168
+416,592,1610612759,97,83,MISS Sochan 2' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,22770.0,v,True,SAS,169
+417,593,1610612759,97,83,Wembanyama REBOUND (Off:2 Def:6),Rebound,Unknown,22780.0,v,False,SAS,169
+418,594,1610612742,97,83,Kleber P.FOUL (P1.T2) (J.Goldenberg),Foul,Personal,22780.0,h,False,SAS,169
+419,596,1610612759,97,83,SUB: Barnes FOR Castle,Substitution,,22780.0,v,False,SAS,169
+420,597,1610612759,97,83,SUB: Champagnie FOR Sochan,Substitution,,22780.0,v,False,SAS,169
+421,600,1610612759,97,83,MISS Barnes 3PT Jump Shot,Missed Shot,Jump Shot,22890.0,v,False,SAS,169
+422,601,1610612742,97,83,Dončić REBOUND (Off:0 Def:8),Rebound,Unknown,22920.0,h,True,DAL,170
+423,602,1610612742,100,83,Dončić 26' 3PT Running Pull-Up Jump Shot (23 PTS),Made Shot,Running Pull-Up Jump Shot,22960.0,h,False,DAL,170
+424,603,0,100,83,Spurs Timeout: Regular (Reg.4 Short 0),Timeout,Regular,22970.0,v,True,SAS,171
+425,604,1610612759,100,83,MISS Johnson 7' Driving Layup,Missed Shot,Driving Layup Shot,23140.0,v,False,SAS,171
+426,605,1610612742,100,83,Kleber REBOUND (Off:0 Def:4),Rebound,Unknown,23160.0,h,True,DAL,172
+427,606,1610612742,100,83,Dončić Out of Bounds - Bad Pass Turnover Turnover (P3.T8),Turnover,Out of Bounds - Bad Pass Turnover,23200.0,h,False,DAL,172
+428,607,1610612759,100,83,MISS Paul 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,23300.0,v,True,SAS,173
+429,608,1610612742,100,83,Lively II REBOUND (Off:3 Def:5),Rebound,Unknown,23330.0,h,True,DAL,174
+430,609,1610612742,103,83,Dončić 25' 3PT Step Back Jump Shot (26 PTS) (Lively II 5 AST),Made Shot,Step Back Jump shot,23510.0,h,False,DAL,174
+431,611,1610612759,103,85,Wembanyama 13' Turnaround Fadeaway (15 PTS) (Champagnie 3 AST),Made Shot,Turnaround Fadeaway shot,23720.0,v,True,SAS,175
+432,613,1610612742,106,85,Thompson 26' 3PT Jump Shot (22 PTS) (Dončić 8 AST),Made Shot,Jump Shot,23860.0,h,True,DAL,176
+433,615,1610612742,106,85,Grimes P.FOUL (P1.T3) (R.Mott),Foul,Personal,24000.0,h,True,SAS,177
+434,617,1610612759,106,85,SUB: Sochan FOR Johnson,Substitution,,24000.0,v,False,SAS,177
+435,619,1610612759,106,87,Wembanyama 20' Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,24090.0,v,False,SAS,177
+436,620,1610612742,106,87,MISS Dončić 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,24290.0,h,True,DAL,178
+437,621,1610612759,106,87,Barnes REBOUND (Off:1 Def:3),Rebound,Unknown,24320.0,v,True,SAS,179
+438,622,1610612742,106,87,Dončić P.FOUL (P2.T4) (J.Goldenberg),Foul,Personal,24340.0,h,False,SAS,179
+439,624,1610612742,106,87,SUB: Washington FOR Kleber,Substitution,,24340.0,h,False,SAS,179
+440,626,1610612759,106,87,MISS Wembanyama 28' 3PT Jump Shot,Missed Shot,Jump Shot,24400.0,v,False,SAS,179
+441,627,1610612742,106,87,Dončić REBOUND (Off:0 Def:9),Rebound,Unknown,24440.0,h,True,DAL,180
+442,628,1610612742,106,87,MISS Grimes 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,24510.0,h,False,DAL,180
+443,629,1610612759,106,87,Wembanyama REBOUND (Off:2 Def:7),Rebound,Unknown,24530.0,v,True,SAS,181
+444,630,1610612759,106,87,Champagnie Out of Bounds - Bad Pass Turnover Turnover (P3.T18),Turnover,Out of Bounds - Bad Pass Turnover,24570.0,v,False,SAS,181
+445,631,1610612742,106,87,MISS Dončić 7' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,24700.0,h,True,DAL,182
+446,632,1610612742,106,87,Dončić REBOUND (Off:1 Def:9),Rebound,Unknown,24730.0,h,False,DAL,182
+447,633,1610612742,108,87,Lively II 1' Cutting Dunk Shot (12 PTS) (Washington 2 AST),Made Shot,Cutting Dunk Shot,24830.0,h,False,DAL,182
+448,635,1610612759,108,90,Champagnie 25' 3PT Jump Shot (18 PTS) (Barnes 2 AST),Made Shot,Jump Shot,25040.0,v,True,SAS,183
+449,637,1610612742,108,90,MISS Thompson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,25160.0,h,True,DAL,184
+450,638,1610612742,108,90,Lively II REBOUND (Off:4 Def:5),Rebound,Unknown,25180.0,h,False,DAL,184
+451,639,1610612742,111,90,Washington 26' 3PT Jump Shot (9 PTS) (Lively II 6 AST),Made Shot,Jump Shot,25190.0,h,False,DAL,184
+452,641,0,111,90,Spurs Timeout: Regular (Reg.5 Short 0),Timeout,Regular,25210.0,v,True,SAS,185
+453,642,1610612742,111,90,SUB: Hardy FOR Grimes,Substitution,,25210.0,h,False,SAS,185
+454,643,1610612742,111,90,SUB: Marshall FOR Thompson,Substitution,,25210.0,h,False,SAS,185
+455,644,1610612759,111,90,SUB: Mamukelashvili FOR Wembanyama,Substitution,,25210.0,v,False,SAS,185
+456,645,1610612759,111,90,SUB: Castle FOR Paul,Substitution,,25210.0,v,False,SAS,185
+457,646,1610612759,111,90,SUB: Wesley FOR Sochan,Substitution,,25210.0,v,False,SAS,185
+458,647,1610612759,111,90,SUB: Bassey FOR Champagnie,Substitution,,25210.0,v,False,SAS,185
+459,648,1610612759,111,90,SUB: Branham FOR Barnes,Substitution,,25210.0,v,False,SAS,185
+460,656,1610612742,111,90,Dončić S.FOUL (P3.PN) (J.Tiven),Foul,Shooting,25400.0,h,False,SAS,185
+461,658,1610612759,111,91,Wesley Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,25400.0,v,False,SAS,185
+462,659,1610612759,111,92,Wesley Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,25400.0,v,False,SAS,185
+463,660,1610612759,111,92,Mamukelashvili S.FOUL (P1.T3) (R.Mott),Foul,Shooting,25530.0,v,True,DAL,186
+464,662,1610612742,112,92,Lively II Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,25530.0,h,False,DAL,186
+465,663,1610612742,112,92,MISS Lively II Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,25530.0,h,False,DAL,186
+466,664,1610612759,112,92,Mamukelashvili REBOUND (Off:0 Def:1),Rebound,Unknown,25560.0,v,True,SAS,187
+467,665,1610612759,112,94,Castle 5' Driving Floating Bank Jump Shot (4 PTS),Made Shot,Driving Floating Bank Jump Shot,25610.0,v,False,SAS,187
+468,666,1610612742,112,94,Lively II S.FOUL (P3.PN) (R.Mott),Foul,Shooting,25610.0,h,False,SAS,187
+469,668,1610612759,112,95,Castle Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,25610.0,v,False,SAS,187
+470,669,1610612742,114,95,Lively II 2' Alley Oop Dunk (15 PTS) (Marshall 3 AST),Made Shot,Alley Oop Dunk Shot,25700.0,h,True,DAL,188
+471,671,1610612759,114,95,MISS Branham 3PT Jump Shot,Missed Shot,Jump Shot,25850.0,v,True,SAS,189
+472,672,1610612759,114,95,Castle REBOUND (Off:1 Def:1),Rebound,Unknown,25870.0,v,False,SAS,189
+473,673,1610612759,114,98,Branham 3PT Jump Shot (3 PTS) (Castle 3 AST),Made Shot,Jump Shot,26000.0,v,False,SAS,189
+474,675,1610612759,114,98,Castle S.FOUL (P3.T4) (J.Goldenberg),Foul,Shooting,26140.0,v,True,DAL,190
+475,677,1610612742,115,98,Dončić Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,26140.0,h,False,DAL,190
+476,678,1610612742,116,98,Dončić Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,26140.0,h,False,DAL,190
+477,679,1610612742,116,98,Lively II S.FOUL (P4.PN) (J.Goldenberg),Foul,Shooting,26310.0,h,True,SAS,191
+478,681,1610612759,116,99,Castle Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,26310.0,v,False,SAS,191
+479,682,1610612759,116,99,MISS Castle Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26310.0,v,False,SAS,191
+480,683,1610612742,116,99,Lively II REBOUND (Off:4 Def:6),Rebound,Unknown,26330.0,h,True,DAL,192
+481,684,1610612742,116,99,MISS Marshall 2' Running Layup,Missed Shot,Running Layup Shot,26380.0,h,False,DAL,192
+482,684,1610612759,116,99,Bassey BLOCK (1 BLK),,,26380.0,v,False,DAL,192
+483,686,1610612759,116,99,Mamukelashvili REBOUND (Off:0 Def:2),Rebound,Unknown,26410.0,v,True,SAS,193
+484,687,1610612759,116,101,Branham 14' Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,26510.0,v,False,SAS,193
+485,689,1610612742,116,101,Dončić Bad Pass Turnover (P4.T9),Turnover,Bad Pass,26670.0,h,True,DAL,194
+486,689,1610612759,116,101,Bassey STEAL (1 STL),,,26670.0,v,True,SAS,195
+487,691,1610612759,116,103,Wesley 2' Running Reverse Layup (4 PTS) (Castle 4 AST),Made Shot,Running Reverse Layup Shot,26710.0,v,False,SAS,195
+488,693,1610612742,116,103,MISS Dončić 27' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,26910.0,h,True,DAL,196
+489,694,1610612759,116,103,Mamukelashvili REBOUND (Off:0 Def:3),Rebound,Unknown,26910.0,v,True,SAS,197
+490,695,1610612759,116,103,Mamukelashvili Traveling Turnover (P1.T19),Turnover,Traveling,27030.0,v,False,SAS,197
+491,696,1610612742,116,103,SUB: Dinwiddie FOR Dončić,Substitution,,27030.0,h,True,DAL,198
+492,698,1610612742,116,103,MISS Hardy 28' 3PT Jump Shot,Missed Shot,Jump Shot,27150.0,h,False,DAL,198
+493,699,1610612759,116,103,Branham REBOUND (Off:0 Def:1),Rebound,Unknown,27220.0,v,True,SAS,199
+494,700,1610612759,116,105,Wesley Layup (6 PTS) (Bassey 1 AST),Made Shot,Layup Shot,27320.0,v,False,SAS,199
+495,702,1610612742,116,105,MISS Hardy 12' Step Back Jump Shot,Missed Shot,Step Back Jump shot,27550.0,h,True,DAL,200
+496,703,1610612742,116,105,Hardy REBOUND (Off:1 Def:0),Rebound,Unknown,27590.0,h,False,DAL,200
+497,704,1610612742,116,105,MISS Washington 2' Driving Layup,Missed Shot,Driving Layup Shot,27610.0,h,False,DAL,200
+498,705,1610612742,116,105,Washington REBOUND (Off:2 Def:3),Rebound,Unknown,27610.0,h,False,DAL,200
+499,706,1610612742,118,105,Washington Tip Dunk Shot (11 PTS),Made Shot,Tip Dunk Shot,27610.0,h,False,DAL,200
+500,707,1610612759,118,105,MISS Castle 27' 3PT Jump Shot,Missed Shot,Jump Shot,27720.0,v,True,SAS,201
+501,708,1610612742,118,105,Lively II REBOUND (Off:4 Def:7),Rebound,Unknown,27750.0,h,True,DAL,202
+502,709,0,118,105,MAVERICKS Timeout: Regular (Full 4 Short 0),Timeout,Regular,27780.0,h,False,DAL,202
+503,710,1610612742,118,105,SUB: Powell FOR Hardy,Substitution,,27780.0,h,False,DAL,202
+504,711,1610612742,118,105,SUB: Grimes FOR Lively II,Substitution,,27780.0,h,False,DAL,202
+505,712,1610612742,118,105,SUB: Prosper FOR Washington,Substitution,,27780.0,h,False,DAL,202
+506,716,1610612742,118,105,MISS Grimes 3' Driving Layup,Missed Shot,Driving Layup Shot,27960.0,h,False,DAL,202
+507,717,1610612759,118,105,Bassey REBOUND (Off:0 Def:1),Rebound,Unknown,27980.0,v,True,SAS,203
+508,718,1610612759,118,107,Castle 1' Running Alley Oop Layup Shot (8 PTS) (Wesley 2 AST),Made Shot,Running Alley Oop Layup Shot,28010.0,v,False,SAS,203
+509,720,1610612742,118,107,MISS Marshall 4' Driving Layup,Missed Shot,Driving Layup Shot,28080.0,h,True,DAL,204
+510,721,1610612742,118,107,Powell REBOUND (Off:1 Def:0),Rebound,Unknown,28090.0,h,False,DAL,204
+511,722,1610612742,120,107,Powell Tip Layup Shot (2 PTS),Made Shot,Tip Layup Shot,28090.0,h,False,DAL,204
+512,723,1610612759,120,107,MISS Branham 24' 3PT Jump Shot,Missed Shot,Jump Shot,28209.0,v,True,SAS,205
+513,724,1610612759,120,107,Castle REBOUND (Off:2 Def:1),Rebound,Unknown,28236.0,v,False,SAS,205
+514,725,1610612759,120,109,Branham 1' Cutting Layup Shot (7 PTS) (Castle 5 AST),Made Shot,Cutting Layup Shot,28252.0,v,False,SAS,205
+515,727,1610612742,120,109,MISS Grimes 2' Driving Layup,Missed Shot,Driving Layup Shot,28475.0,h,True,DAL,206
+516,727,1610612759,120,109,Mamukelashvili BLOCK (1 BLK),,,28475.0,v,False,DAL,206
+517,729,1610612759,120,109,Branham REBOUND (Off:0 Def:2),Rebound,Unknown,28509.0,v,True,SAS,207
+518,730,1610612759,120,109,MISS Wesley 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,28532.0,v,False,SAS,207
+519,731,1610612742,120,109,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,28559.0,h,True,DAL,208
+520,732,0,120,109,MAVERICKS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,28778.0,h,False,DAL,208
+521,733,0,120,109,End of 4th Period (9:55 PM EST),period,end,28800.0,,False,DAL,208
