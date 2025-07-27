@@ -245,311 +245,311 @@
 243,330,1610612744,44,51,Green T.FOUL (P1.PN) (T.Maddox),Foul,Technical,13000.0,v,False,POR,101
 244,331,0,44,51,Warriors Timeout: Regular (Reg.2 Short 0),Timeout,Regular,13000.0,v,False,POR,101
 245,332,1610612757,45,51,Simons Free Throw Technical (8 PTS),Free Throw,Free Throw Technical,13000.0,h,False,POR,101
-246,334,1610612744,45,54,Wiggins 26' 3PT Jump Shot (5 PTS) (Curry 6 AST),Made Shot,Jump Shot,13110.0,v,False,POR,101
-247,336,1610612757,48,54,Camara 25' 3PT Jump Shot (6 PTS) (Avdija 2 AST),Made Shot,Jump Shot,13310.0,h,True,GSW,102
-248,338,1610612744,48,56,Wiggins 1' Driving Finger Roll Layup (7 PTS) (Curry 7 AST),Made Shot,Driving Finger Roll Layup Shot,13380.0,v,True,POR,103
-249,349,1610612757,48,56,Defensive Goaltending,Violation,Defensive Goaltending,13380.0,h,True,GSW,104
-250,341,1610612757,48,56,MISS Ayton 20' Jump Shot,Missed Shot,Jump Shot,13510.0,h,False,GSW,104
-251,342,1610612757,48,56,Camara REBOUND (Off:1 Def:1),Rebound,Unknown,13520.0,h,False,GSW,104
-252,343,1610612757,48,56,MISS Camara Tip Layup Shot,Missed Shot,Tip Layup Shot,13520.0,h,False,GSW,104
-253,344,1610612744,48,56,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,13540.0,v,True,POR,105
-254,345,1610612744,48,56,MISS Podziemski 24' 3PT Jump Shot,Missed Shot,Jump Shot,13630.0,v,False,POR,105
-255,346,0,48,56,Warriors Rebound,Rebound,Unknown,13650.0,v,False,POR,105
-256,347,1610612757,48,56,Avdija L.B.FOUL (P2.T2) (T.Ford),Foul,Loose Ball,13650.0,h,False,POR,105
-257,350,1610612757,48,56,Camara P.FOUL (P2.PN) (T.Ford),Foul,Personal,13710.0,h,False,POR,105
-258,352,1610612744,48,57,Curry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,13710.0,v,False,POR,105
-259,353,1610612744,48,58,Curry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,13710.0,v,False,POR,105
-260,354,1610612757,50,58,Ayton 1' Driving Layup (10 PTS) (Simons 3 AST),Made Shot,Driving Layup Shot,13820.0,h,True,GSW,106
-261,358,1610612744,50,61,Wiggins 29' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,13927.0,v,True,POR,107
-262,359,1610612757,50,61,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,14086.0,h,True,GSW,108
-263,360,1610612744,50,61,Green REBOUND (Off:0 Def:5),Rebound,Unknown,14096.0,v,True,POR,109
-264,361,1610612757,50,61,Camara P.FOUL (P3.PN) (T.Ford),Foul,Personal,14300.0,h,False,POR,109
-265,363,1610612744,50,62,Green Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,14300.0,v,False,POR,109
-266,364,1610612757,50,62,SUB: Henderson FOR Camara,Substitution,,14300.0,h,False,POR,109
-267,365,1610612744,50,62,SUB: Looney FOR Curry,Substitution,,14300.0,v,False,POR,109
-268,368,1610612744,50,62,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,14300.0,v,False,POR,109
-269,374,1610612744,50,62,Podziemski REBOUND (Off:2 Def:1),Rebound,Unknown,14337.0,v,False,POR,109
-270,369,1610612744,50,62,SUB: Curry FOR Looney,Substitution,,14337.0,v,False,POR,109
-271,371,1610612757,50,62,Jump Ball Avdija vs. Podziemski: Tip to Wiggins,Jump Ball,,14337.0,h,False,POR,109
-272,375,1610612744,50,62,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,14370.0,v,False,POR,109
-273,376,1610612744,50,62,Podziemski REBOUND (Off:3 Def:1),Rebound,Unknown,14394.0,v,False,POR,109
-274,377,1610612744,50,62,MISS Podziemski Tip Layup Shot,Missed Shot,Tip Layup Shot,14394.0,v,False,POR,109
-275,378,0,50,62,Warriors Rebound,Rebound,Unknown,14399.0,v,False,POR,109
-276,379,0,50,62,End of 2nd Period (11:18 PM EST),period,end,14400.0,,False,POR,109
-277,386,0,50,62,Start of 3rd Period (11:33 PM EST),period,start,14400.0,,True,GSW,110
-278,387,1610612744,50,65,Curry 25' 3PT Jump Shot (11 PTS) (Green 1 AST),Made Shot,Jump Shot,14530.0,v,False,GSW,110
-279,389,1610612757,53,65,Grant 3PT Jump Shot (11 PTS) (Camara 1 AST),Made Shot,Jump Shot,14670.0,h,True,POR,111
-280,391,1610612744,53,65,MISS Wiggins 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,14830.0,v,True,GSW,112
-281,392,1610612757,53,65,Avdija REBOUND (Off:0 Def:5),Rebound,Unknown,14850.0,h,True,POR,113
-282,393,1610612757,53,65,MISS Grant 1' Driving Layup,Missed Shot,Driving Layup Shot,14940.0,h,False,POR,113
-283,393,1610612744,53,65,Green BLOCK (2 BLK),,,14940.0,v,False,POR,113
-284,395,1610612744,53,65,Green REBOUND (Off:0 Def:6),Rebound,Unknown,14970.0,v,True,GSW,114
-285,396,1610612757,53,65,Ayton S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,15000.0,h,False,GSW,114
-286,398,1610612744,53,66,Kuminga Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,15000.0,v,False,GSW,114
-287,399,1610612744,53,66,MISS Kuminga Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,15000.0,v,False,GSW,114
-288,400,1610612757,53,66,Camara REBOUND (Off:1 Def:2),Rebound,Unknown,15020.0,h,True,POR,115
-289,401,1610612757,55,66,Avdija 4' Driving Floating Jump Shot (9 PTS) (Camara 2 AST),Made Shot,Driving Floating Jump Shot,15160.0,h,False,POR,115
-290,403,1610612744,55,66,Green Bad Pass Turnover (P2.T9),Turnover,Bad Pass,15310.0,v,True,GSW,116
-291,403,1610612757,55,66,Ayton STEAL (1 STL),,,15310.0,h,True,POR,117
-292,405,1610612757,55,66,MISS Simons 27' 3PT Jump Shot,Missed Shot,Jump Shot,15380.0,h,False,POR,117
-293,406,1610612744,55,66,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,15420.0,v,True,GSW,118
-294,407,1610612744,55,68,Wiggins 3' Driving Bank Hook Shot (12 PTS) (Curry 8 AST),Made Shot,Driving Bank Hook Shot,15460.0,v,False,GSW,118
-295,409,1610612757,55,68,MISS Simons 3' Driving Layup,Missed Shot,Driving Layup Shot,15580.0,h,True,POR,119
-296,410,1610612744,55,68,Curry REBOUND (Off:0 Def:6),Rebound,Unknown,15600.0,v,True,GSW,120
-297,411,1610612744,55,70,Kuminga 1' Running Layup (8 PTS) (Curry 9 AST),Made Shot,Running Layup Shot,15660.0,v,False,GSW,120
-298,413,1610612757,55,70,Avdija Bad Pass Turnover (P4.T9),Turnover,Bad Pass,15760.0,h,True,POR,121
-299,413,1610612744,55,70,Green STEAL (1 STL),,,15760.0,v,True,GSW,122
-300,415,1610612744,55,70,Curry Bad Pass Turnover (P1.T10),Turnover,Bad Pass,15830.0,v,False,GSW,122
-301,415,1610612757,55,70,Camara STEAL (2 STL),,,15830.0,h,True,POR,123
-302,417,1610612757,55,70,MISS Camara 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,15880.0,h,False,POR,123
-303,418,1610612744,55,70,Jackson-Davis REBOUND (Off:1 Def:3),Rebound,Unknown,15910.0,v,True,GSW,124
-304,419,1610612744,55,70,Curry Bad Pass Turnover (P2.T11),Turnover,Bad Pass,16040.0,v,False,GSW,124
-305,419,1610612757,55,70,Ayton STEAL (2 STL),,,16040.0,h,True,POR,125
-306,421,1610612757,57,70,Avdija 2' Running Layup (11 PTS),Made Shot,Running Layup Shot,16070.0,h,False,POR,125
-307,422,1610612744,57,70,Green S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,16070.0,v,False,POR,125
-308,424,0,57,70,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,16070.0,v,False,POR,125
-309,425,1610612757,58,70,Avdija Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,16070.0,h,False,POR,125
-310,426,1610612744,58,70,Wiggins OFF.Foul (P1) (D.Collins),Foul,Offensive,16220.0,v,False,POR,125
-311,428,1610612744,58,70,Wiggins Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,16220.0,v,False,POR,125
-312,429,1610612744,58,70,Wiggins S.FOUL (P2.T2) (T.Ford),Foul,Shooting,16350.0,v,True,GSW,126
-313,431,1610612757,59,70,Grant Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,16350.0,h,False,GSW,126
-314,432,1610612757,60,70,Grant Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,16350.0,h,False,GSW,126
-315,433,1610612744,60,70,MISS Wiggins 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,16600.0,v,True,POR,127
-316,434,1610612757,60,70,Ayton REBOUND (Off:2 Def:6),Rebound,Unknown,16630.0,h,True,GSW,128
-317,435,1610612757,60,70,MISS Simons 29' 3PT Jump Shot,Missed Shot,Jump Shot,16720.0,h,False,GSW,128
-318,436,1610612744,60,70,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,16740.0,v,True,POR,129
-319,439,1610612744,60,70,Kuminga Out of Bounds Lost Ball Turnover (P4.T13),Turnover,Out of Bounds Lost Ball Turnover,16810.0,v,False,POR,129
-320,440,1610612757,60,70,MISS Ayton 11' Jump Shot,Missed Shot,Jump Shot,16940.0,h,True,GSW,130
-321,441,1610612744,60,70,Curry REBOUND (Off:0 Def:7),Rebound,Unknown,16960.0,v,True,POR,131
-322,442,1610612757,60,70,Grant P.FOUL (P2.T2) (D.Collins),Foul,Personal,17010.0,h,False,POR,131
-323,444,1610612744,60,72,Kuminga 1' Cutting Dunk Shot (10 PTS) (Wiggins 2 AST),Made Shot,Cutting Dunk Shot,17080.0,v,False,POR,131
-324,446,1610612757,60,72,MISS Avdija 26' 3PT Jump Shot,Missed Shot,Jump Shot,17220.0,h,True,GSW,132
-325,447,0,60,72,Warriors Rebound,Rebound,Unknown,17230.0,v,True,POR,133
-326,449,1610612744,60,74,Green 1' Layup (8 PTS) (Jackson-Davis 2 AST),Made Shot,Layup Shot,17390.0,v,False,POR,133
-327,451,1610612757,63,74,Grant 3PT Jump Shot (16 PTS) (Camara 3 AST),Made Shot,Jump Shot,17520.0,h,True,GSW,134
-328,453,1610612744,63,77,Curry 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,17640.0,v,True,POR,135
-329,454,1610612757,63,77,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,17780.0,h,True,GSW,136
-330,455,1610612744,63,77,Curry REBOUND (Off:0 Def:8),Rebound,Unknown,17800.0,v,True,POR,137
-331,456,1610612744,63,77,MISS Kuminga 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,17840.0,v,False,POR,137
-332,457,1610612744,63,77,Wiggins REBOUND (Off:2 Def:2),Rebound,Unknown,17850.0,v,False,POR,137
-333,458,1610612744,63,80,Wiggins 3PT Jump Shot (15 PTS) (Green 2 AST),Made Shot,Jump Shot,17930.0,v,False,POR,137
-334,460,0,63,80,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,17940.0,h,True,GSW,138
-335,461,1610612757,63,80,SUB: Henderson FOR Avdija,Substitution,,17940.0,h,False,GSW,138
-336,462,1610612744,63,80,SUB: Hield FOR Kuminga,Substitution,,17940.0,v,False,GSW,138
-337,463,1610612744,63,80,SUB: Payton II FOR Jackson-Davis,Substitution,,17940.0,v,False,GSW,138
-338,467,1610612757,63,80,MISS Henderson 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,18130.0,h,False,GSW,138
-339,468,1610612744,63,80,Hield REBOUND (Off:0 Def:3),Rebound,Unknown,18150.0,v,True,POR,139
-340,469,1610612744,63,83,Curry 3PT Jump Shot (17 PTS) (Green 3 AST),Made Shot,Jump Shot,18240.0,v,False,POR,139
-341,471,1610612744,63,83,Green P.FOUL (P3.T3) (T.Maddox),Foul,Personal,18490.0,v,True,GSW,140
-342,473,1610612757,63,83,MISS Henderson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,18510.0,h,False,GSW,140
-343,474,1610612744,63,83,Payton II REBOUND (Off:0 Def:1),Rebound,Unknown,18530.0,v,True,POR,141
-344,475,1610612744,63,83,Green Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,18630.0,v,False,POR,141
-345,476,1610612744,63,83,SUB: Podziemski FOR Wiggins,Substitution,,18630.0,v,True,GSW,142
-346,477,1610612744,63,83,SUB: Looney FOR Green,Substitution,,18630.0,v,False,GSW,142
-347,480,1610612757,63,83,MISS Ayton 3PT Jump Shot,Missed Shot,Jump Shot,18740.0,h,False,GSW,142
-348,481,1610612744,63,83,Hield REBOUND (Off:0 Def:4),Rebound,Unknown,18760.0,v,True,POR,143
-349,482,1610612744,63,83,Podziemski Bad Pass Turnover (P1.T15),Turnover,Bad Pass,18880.0,v,False,POR,143
-350,482,1610612757,63,83,Simons STEAL (1 STL),,,18880.0,h,True,GSW,144
-351,484,1610612757,63,83,Simons Out of Bounds Lost Ball Turnover (P3.T10),Turnover,Out of Bounds Lost Ball Turnover,18910.0,h,False,GSW,144
-352,485,1610612744,63,83,MISS Podziemski 3PT Jump Shot,Missed Shot,Jump Shot,18960.0,v,True,POR,145
-353,486,1610612744,63,83,Hield REBOUND (Off:1 Def:4),Rebound,Unknown,18980.0,v,False,POR,145
-354,487,1610612744,63,86,Hield 28' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,19020.0,v,False,POR,145
-355,488,1610612757,63,86,MISS Ayton 16' Jump Shot,Missed Shot,Jump Shot,19150.0,h,True,GSW,146
-356,489,1610612744,63,86,Curry REBOUND (Off:0 Def:9),Rebound,Unknown,19180.0,v,True,POR,147
-357,490,1610612744,63,88,Hield 2' Running Layup (19 PTS) (Curry 10 AST),Made Shot,Running Layup Shot,19200.0,v,False,POR,147
-358,492,1610612757,63,88,Henderson S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,19200.0,h,False,POR,147
-359,494,1610612757,63,88,SUB: Murray FOR Ayton,Substitution,,19200.0,h,False,POR,147
-360,495,1610612757,63,88,SUB: Rupert FOR Grant,Substitution,,19200.0,h,False,POR,147
-361,496,1610612757,63,88,SUB: Clingan FOR Camara,Substitution,,19200.0,h,False,POR,147
-362,497,1610612744,63,88,SUB: Melton FOR Curry,Substitution,,19200.0,v,False,POR,147
-363,502,1610612744,63,89,Hield Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,19200.0,v,False,POR,147
-364,504,1610612757,63,89,MISS Henderson 3PT Jump Shot,Missed Shot,Jump Shot,19380.0,h,True,GSW,148
-365,505,1610612757,63,89,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,19430.0,h,False,GSW,148
-366,506,1610612757,63,89,Simons Offensive Charge Foul (P3) (T.Maddox),Foul,Offensive Charge,19480.0,h,False,GSW,148
-367,508,1610612757,63,89,Simons Offensive Foul Turnover (P4.T11),Turnover,Offensive Foul Turnover,19480.0,h,False,GSW,148
-368,509,1610612757,63,89,SUB: Banton FOR Simons,Substitution,,19480.0,h,True,POR,149
-369,511,1610612744,63,89,MISS Podziemski 25' 3PT Jump Shot,Missed Shot,Jump Shot,19670.0,v,False,POR,149
-370,512,1610612757,63,89,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,19700.0,h,True,GSW,150
-371,513,1610612757,65,89,Henderson 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,19790.0,h,False,GSW,150
-372,515,1610612744,65,89,MISS Melton 29' 3PT Jump Shot,Missed Shot,Jump Shot,19930.0,v,True,POR,151
-373,516,0,65,89,TRAIL BLAZERS Rebound,Rebound,Unknown,19940.0,h,True,GSW,152
-374,517,1610612744,65,89,Podziemski L.B.FOUL (P2.T4) (D.Collins),Foul,Loose Ball,19940.0,v,False,GSW,152
-375,519,1610612744,65,89,SUB: Anderson FOR Payton II,Substitution,,19940.0,v,False,GSW,152
-376,521,1610612757,67,89,Rupert 2' Driving Finger Roll Layup (2 PTS) (Henderson 3 AST),Made Shot,Driving Finger Roll Layup Shot,20080.0,h,False,GSW,152
-377,523,1610612744,67,91,Hield 2' Driving Layup (22 PTS) (Melton 2 AST),Made Shot,Driving Layup Shot,20170.0,v,True,POR,153
-378,525,1610612757,67,91,MISS Banton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20330.0,h,True,GSW,154
-379,526,1610612744,67,91,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,20360.0,v,True,POR,155
-380,527,1610612757,67,91,Rupert S.FOUL (P1.T4) (T.Ford),Foul,Shooting,20400.0,h,False,POR,155
-381,529,1610612744,67,92,Melton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,20400.0,v,False,POR,155
-382,531,1610612744,67,92,SUB: Moody FOR Hield,Substitution,,20400.0,v,False,POR,155
-383,533,1610612744,67,92,MISS Melton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,20400.0,v,False,POR,155
-384,534,1610612744,67,92,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,20430.0,v,False,POR,155
-385,535,1610612744,67,92,MISS Podziemski 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,20460.0,v,False,POR,155
-386,536,1610612744,67,92,Anderson REBOUND (Off:2 Def:0),Rebound,Unknown,20470.0,v,False,POR,155
-387,537,1610612744,67,94,Anderson Putback Layup (2 PTS),Made Shot,Putback Layup Shot,20480.0,v,False,POR,155
-388,538,1610612757,67,94,Clingan Bad Pass Turnover (P1.T12),Turnover,Bad Pass,20570.0,h,True,GSW,156
-389,538,1610612744,67,94,Melton STEAL (1 STL),,,20570.0,v,True,POR,157
-390,540,1610612744,67,96,Melton 3' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,20610.0,v,False,POR,157
-391,541,0,67,96,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,20610.0,h,True,GSW,158
-392,542,1610612757,67,96,SUB: Walker FOR Murray,Substitution,,20610.0,h,False,GSW,158
-393,544,1610612744,67,96,Podziemski P.FOUL (P3.PN) (T.Maddox),Foul,Personal,20790.0,v,False,GSW,158
-394,546,1610612757,68,96,Henderson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,20790.0,h,False,GSW,158
-395,547,1610612757,68,96,MISS Henderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,20790.0,h,False,GSW,158
-396,548,1610612744,68,96,Looney REBOUND (Off:2 Def:3),Rebound,Unknown,20810.0,v,True,POR,159
-397,549,1610612744,68,96,MISS Moody 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20910.0,v,False,POR,159
-398,550,1610612757,68,96,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,20930.0,h,True,GSW,160
-399,551,1610612757,68,96,Henderson Lost Ball Turnover (P2.T13),Turnover,Lost Ball,21000.0,h,False,GSW,160
-400,551,1610612744,68,96,Anderson STEAL (1 STL),,,21000.0,v,True,POR,161
-401,553,1610612744,68,98,Melton 1' Running Dunk (11 PTS) (Anderson 2 AST),Made Shot,Running Dunk Shot,21007.0,v,False,POR,161
-402,555,1610612757,70,98,Rupert 2' Cutting Layup Shot (4 PTS) (Henderson 4 AST),Made Shot,Cutting Layup Shot,21163.0,h,True,GSW,162
-403,557,1610612744,70,98,MISS Melton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,21284.0,v,True,POR,163
-404,558,1610612744,70,98,Looney REBOUND (Off:3 Def:3),Rebound,Unknown,21317.0,v,False,POR,163
-405,559,1610612757,70,98,Henderson P.FOUL (P2.PN) (T.Maddox),Foul,Personal,21336.0,h,False,POR,163
-406,561,1610612744,70,99,Looney Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,21336.0,v,False,POR,163
-407,562,1610612744,70,100,Looney Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,21336.0,v,False,POR,163
-408,563,1610612744,70,100,Melton P.FOUL (P1.PN) (D.Collins),Foul,Personal,21538.0,v,True,GSW,164
-409,565,1610612757,71,100,Henderson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,21538.0,h,False,GSW,164
-410,566,1610612757,72,100,Henderson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,21538.0,h,False,GSW,164
-411,567,0,72,100,End of 3rd Period (12:02 AM EST),period,end,21600.0,,False,GSW,164
-412,578,0,72,100,Start of 4th Period (12:05 AM EST),period,start,21600.0,,True,POR,165
-413,579,1610612757,72,100,MISS Camara 24' 3PT Jump Shot,Missed Shot,Jump Shot,21840.0,h,False,POR,165
-414,580,0,72,100,TRAIL BLAZERS Rebound,Rebound,Unknown,21850.0,h,False,POR,165
-415,582,1610612757,72,100,Camara Bad Pass Turnover (P1.T14),Turnover,Bad Pass,21950.0,h,False,POR,165
-416,582,1610612744,72,100,Anderson STEAL (2 STL),,,21950.0,v,True,GSW,166
-417,584,1610612744,72,100,Podziemski Lost Ball Turnover (P2.T16),Turnover,Lost Ball,22000.0,v,False,GSW,166
-418,584,1610612757,72,100,Avdija STEAL (2 STL),,,22000.0,h,True,POR,167
-419,586,1610612757,72,100,MISS Avdija 3' Running Layup,Missed Shot,Running Layup Shot,22040.0,h,False,POR,167
-420,587,1610612757,72,100,Camara REBOUND (Off:2 Def:2),Rebound,Unknown,22050.0,h,False,POR,167
-421,588,1610612757,74,100,Camara Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,22050.0,h,False,POR,167
-422,589,1610612744,74,102,Moody 1' Driving Layup (5 PTS) (Looney 2 AST),Made Shot,Driving Layup Shot,22300.0,v,True,GSW,168
-423,591,1610612744,74,102,Melton P.FOUL (P2.T1) (T.Ford),Foul,Personal,22370.0,v,True,POR,169
-424,593,1610612757,74,102,MISS Avdija 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22440.0,h,False,POR,169
-425,594,1610612757,74,102,Avdija REBOUND (Off:1 Def:5),Rebound,Unknown,22450.0,h,False,POR,169
-426,596,1610612744,74,102,Looney S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,22500.0,v,False,POR,169
-427,598,1610612757,75,102,Camara Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,22500.0,h,False,POR,169
-428,599,1610612757,76,102,Camara Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,22500.0,h,False,POR,169
-429,600,1610612744,76,102,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,22610.0,v,True,GSW,170
-430,601,1610612757,76,102,Simons REBOUND (Off:0 Def:2),Rebound,Unknown,22630.0,h,True,POR,171
-431,602,1610612757,76,102,MISS Avdija 3PT Jump Shot,Missed Shot,Jump Shot,22720.0,h,False,POR,171
-432,603,1610612757,76,102,Camara REBOUND (Off:3 Def:2),Rebound,Unknown,22740.0,h,False,POR,171
-433,604,1610612757,76,102,MISS Camara 2' Putback Layup,Missed Shot,Putback Layup Shot,22750.0,h,False,POR,171
-434,605,1610612757,76,102,Avdija REBOUND (Off:2 Def:5),Rebound,Unknown,22770.0,h,False,POR,171
-435,606,1610612744,76,102,Looney S.FOUL (P3.T3) (D.Collins),Foul,Shooting,22800.0,v,False,POR,171
-436,608,1610612757,77,102,Avdija Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,22800.0,h,False,POR,171
-437,609,1610612744,77,102,SUB: Jackson-Davis FOR Looney,Substitution,,22800.0,v,False,POR,171
-438,611,1610612757,78,102,Avdija Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,22800.0,h,False,POR,171
-439,612,1610612744,78,104,Jackson-Davis 1' Alley Oop Dunk (8 PTS) (Melton 3 AST),Made Shot,Alley Oop Dunk Shot,22950.0,v,True,GSW,172
-440,614,1610612757,80,104,Simons 2' Driving Hook Shot (10 PTS),Made Shot,Driving Hook Shot,23070.0,h,True,POR,173
-441,615,1610612757,80,104,Ayton S.FOUL (P2.T1) (D.Collins),Foul,Shooting,23320.0,h,True,GSW,174
-442,617,1610612744,80,105,Moody Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,23320.0,v,False,GSW,174
-443,618,1610612744,80,105,SUB: Wiggins FOR Podziemski,Substitution,,23320.0,v,False,GSW,174
-444,620,1610612744,80,106,Moody Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,23320.0,v,False,GSW,174
-445,621,1610612744,80,106,Jackson-Davis S.FOUL (P1.T4) (D.Collins),Foul,Shooting,23460.0,v,True,POR,175
-446,623,1610612757,80,106,MISS Avdija Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,23460.0,h,False,POR,175
-447,624,0,80,106,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,23460.0,h,False,POR,175
-448,625,1610612757,81,106,Avdija Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,23460.0,h,False,POR,175
-449,626,1610612744,81,106,MISS Melton 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,23710.0,v,True,GSW,176
-450,627,1610612744,81,106,Anderson REBOUND (Off:3 Def:0),Rebound,Unknown,23750.0,v,False,GSW,176
-451,628,1610612744,81,106,Anderson Out of Bounds - Bad Pass Turnover Turnover (P1.T17),Turnover,Out of Bounds - Bad Pass Turnover,23770.0,v,False,GSW,176
-452,629,1610612757,81,106,Camara Bad Pass Turnover (P2.T15),Turnover,Bad Pass,23890.0,h,True,POR,177
-453,629,1610612744,81,106,Melton STEAL (2 STL),,,23890.0,v,True,GSW,178
-454,631,1610612744,81,109,Wiggins 25' 3PT Running Jump Shot (18 PTS) (Melton 4 AST),Made Shot,Running Jump Shot,23950.0,v,False,GSW,178
-455,633,1610612744,81,109,Anderson S.FOUL (P1.PN) (D.Collins),Foul,Shooting,24100.0,v,True,POR,179
-456,635,1610612757,82,109,Simons Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,24100.0,h,False,POR,179
-457,636,1610612757,83,109,Simons Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,24100.0,h,False,POR,179
-458,637,1610612744,83,109,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,24240.0,v,True,GSW,180
-459,638,1610612757,83,109,Ayton REBOUND (Off:2 Def:7),Rebound,Unknown,24260.0,h,True,POR,181
-460,639,1610612757,83,109,Simons Lost Ball Turnover (P5.T16),Turnover,Lost Ball,24330.0,h,False,POR,181
-461,639,1610612744,83,109,Melton STEAL (3 STL),,,24330.0,v,True,GSW,182
-462,641,1610612757,83,109,Camara S.FOUL (P4.T2) (D.Collins),Foul,Shooting,24360.0,h,False,GSW,182
-463,643,1610612744,83,109,MISS Jackson-Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,24360.0,v,False,GSW,182
-464,644,0,83,109,Warriors Rebound,Rebound,Normal Rebound,24360.0,v,False,GSW,182
-465,645,1610612757,83,109,SUB: Henderson FOR Avdija,Substitution,,24360.0,h,False,GSW,182
-466,646,1610612744,83,109,SUB: Kuminga FOR Moody,Substitution,,24360.0,v,False,GSW,182
-467,649,1610612744,83,110,Jackson-Davis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,24360.0,v,False,GSW,182
-468,650,1610612757,83,110,MISS Camara 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,24470.0,h,True,POR,183
-469,651,1610612744,83,110,Anderson REBOUND (Off:3 Def:1),Rebound,Unknown,24490.0,v,True,GSW,184
-470,652,1610612744,83,110,MISS Melton 28' 3PT Jump Shot,Missed Shot,Jump Shot,24580.0,v,False,GSW,184
-471,653,1610612757,83,110,Ayton REBOUND (Off:2 Def:8),Rebound,Unknown,24610.0,h,True,POR,185
-472,654,1610612757,86,110,Simons 31' 3PT Jump Shot (15 PTS) (Camara 4 AST),Made Shot,Jump Shot,24710.0,h,False,POR,185
-473,656,1610612744,86,110,MISS Wiggins 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,24840.0,v,True,GSW,186
-474,657,1610612757,86,110,Ayton REBOUND (Off:2 Def:9),Rebound,Unknown,24860.0,h,True,POR,187
-475,658,1610612757,86,110,MISS Grant 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,25030.0,h,False,POR,187
-476,659,1610612744,86,110,Anderson REBOUND (Off:3 Def:2),Rebound,Unknown,25050.0,v,True,GSW,188
-477,660,1610612744,86,112,Wiggins 1' Running Finger Roll Layup (20 PTS) (Anderson 3 AST),Made Shot,Running Finger Roll Layup Shot,25100.0,v,False,GSW,188
-478,662,1610612757,86,112,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,25200.0,h,True,POR,189
-479,663,1610612757,86,112,Camara REBOUND (Off:4 Def:2),Rebound,Unknown,25230.0,h,False,POR,189
-480,664,1610612744,86,112,Melton S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,25240.0,v,False,POR,189
-481,666,0,86,112,TRAIL BLAZERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,25240.0,h,False,POR,189
-482,667,1610612757,86,112,SUB: Clingan FOR Simons,Substitution,,25240.0,h,False,POR,189
-483,668,1610612757,86,112,SUB: Rupert FOR Ayton,Substitution,,25240.0,h,False,POR,189
-484,669,1610612757,86,112,SUB: Murray FOR Grant,Substitution,,25240.0,h,False,POR,189
-485,670,1610612744,86,112,SUB: Podziemski FOR Melton,Substitution,,25240.0,v,False,POR,189
-486,675,1610612757,86,112,MISS Camara Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,25240.0,h,False,POR,189
-487,676,0,86,112,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,25240.0,h,False,POR,189
-488,677,1610612757,87,112,Camara Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,25240.0,h,False,POR,189
-489,678,1610612744,87,114,Jackson-Davis 1' Dunk (11 PTS),Made Shot,Dunk Shot,25420.0,v,True,GSW,190
-490,679,1610612757,87,114,Rupert S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,25420.0,h,False,GSW,190
-491,681,1610612757,87,114,SUB: Walker FOR Camara,Substitution,,25420.0,h,False,GSW,190
-492,683,1610612744,87,115,Jackson-Davis Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,25420.0,v,False,GSW,190
-493,684,1610612757,87,115,Murray Bad Pass Turnover (P1.T17),Turnover,Bad Pass,25630.0,h,True,POR,191
-494,684,1610612744,87,115,Jackson-Davis STEAL (1 STL),,,25630.0,v,True,GSW,192
-495,686,1610612744,87,115,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,25700.0,v,False,GSW,192
-496,687,0,87,115,Warriors Rebound,Rebound,Unknown,25730.0,v,False,GSW,192
-497,689,1610612744,87,115,SUB: Waters III FOR Anderson,Substitution,,25730.0,v,False,GSW,192
-498,690,1610612744,87,115,SUB: Santos FOR Wiggins,Substitution,,25730.0,v,False,GSW,192
-499,693,1610612744,87,117,Jackson-Davis 1' Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,25840.0,v,False,GSW,192
-500,694,1610612744,87,117,Waters III S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,25960.0,v,True,POR,193
-501,696,1610612757,88,117,Henderson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,25960.0,h,False,POR,193
-502,697,1610612744,88,117,SUB: Moody FOR Kuminga,Substitution,,25960.0,v,False,POR,193
-503,698,1610612744,88,117,SUB: Payton II FOR Jackson-Davis,Substitution,,25960.0,v,False,POR,193
-504,701,1610612757,89,117,Henderson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,25960.0,h,False,POR,193
-505,702,1610612757,89,117,Walker P.FOUL (P1.T4) (T.Maddox),Foul,Personal,26120.0,h,True,GSW,194
-506,704,1610612757,89,117,SUB: Banton FOR Clingan,Substitution,,26120.0,h,False,GSW,194
-507,706,1610612757,89,117,Walker P.FOUL (P2.PN) (T.Maddox),Foul,Personal,26140.0,h,False,GSW,194
-508,708,1610612744,89,118,Santos Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,26140.0,v,False,GSW,194
-509,709,1610612744,89,118,MISS Santos Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26140.0,v,False,GSW,194
-510,710,1610612757,89,118,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,26160.0,h,True,POR,195
-511,711,1610612757,91,118,Henderson 2' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,26310.0,h,False,POR,195
-512,712,1610612744,91,121,Moody 3PT Pullup Jump Shot (10 PTS) (Payton II 1 AST),Made Shot,Pullup Jump shot,26420.0,v,True,GSW,196
-513,714,1610612744,91,121,Santos S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,26520.0,v,True,POR,197
-514,716,1610612757,91,121,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26520.0,h,False,POR,197
-515,717,0,91,121,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,26520.0,h,False,POR,197
-516,718,1610612757,91,121,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26520.0,h,False,POR,197
-517,719,1610612757,91,121,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,26540.0,h,False,POR,197
-518,720,1610612757,91,121,MISS Banton 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,26620.0,h,False,POR,197
-519,721,1610612744,91,121,Podziemski REBOUND (Off:3 Def:2),Rebound,Unknown,26640.0,v,True,GSW,198
-520,722,1610612744,91,124,Moody 27' 3PT Jump Shot (13 PTS) (Payton II 2 AST),Made Shot,Jump Shot,26750.0,v,False,GSW,198
-521,724,1610612757,91,124,SUB: Reath FOR Murray,Substitution,,26840.0,h,True,POR,199
-522,726,1610612757,93,124,Henderson 15' Turnaround Jump Shot (19 PTS),Made Shot,Turnaround Jump Shot,26920.0,h,False,POR,199
-523,727,1610612744,93,126,Moody 2' Driving Finger Roll Layup (15 PTS) (Payton II 3 AST),Made Shot,Driving Finger Roll Layup Shot,27060.0,v,True,GSW,200
-524,729,1610612757,93,126,MISS Henderson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,27160.0,h,True,POR,201
-525,730,1610612744,93,126,Podziemski REBOUND (Off:3 Def:3),Rebound,Unknown,27180.0,v,True,GSW,202
-526,731,1610612744,93,128,Santos 1' Running Dunk (3 PTS) (Podziemski 4 AST),Made Shot,Running Dunk Shot,27230.0,v,False,GSW,202
-527,733,1610612757,93,128,MISS Henderson 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,27390.0,h,True,POR,203
-528,734,1610612744,93,128,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,27420.0,v,True,GSW,204
-529,735,1610612744,93,131,Waters III 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,27460.0,v,False,GSW,204
-530,736,0,93,131,TRAIL BLAZERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,27480.0,h,True,POR,205
-531,739,1610612757,95,131,Henderson 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,27660.0,h,False,POR,205
-532,740,1610612744,95,131,Waters III S.FOUL (P2.PN) (D.Collins),Foul,Shooting,27660.0,v,False,POR,205
-533,742,1610612757,96,131,Henderson Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,27660.0,h,False,POR,205
-534,743,1610612744,96,131,Podziemski Bad Pass Turnover (P3.T18),Turnover,Bad Pass,27670.0,v,True,GSW,206
-535,743,1610612757,96,131,Rupert STEAL (1 STL),,,27670.0,h,True,POR,207
-536,745,1610612757,98,131,Rupert 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,27690.0,h,False,POR,207
-537,746,1610612757,98,131,Henderson P.FOUL (P3.PN) (T.Maddox),Foul,Personal,27790.0,h,True,GSW,208
-538,748,1610612744,98,132,Payton II Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,27790.0,v,False,GSW,208
-539,749,1610612744,98,133,Payton II Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,27790.0,v,False,GSW,208
-540,750,1610612757,98,133,MISS Banton 24' 3PT Jump Shot,Missed Shot,Jump Shot,27950.0,h,True,POR,209
-541,751,1610612744,98,133,Santos REBOUND (Off:0 Def:1),Rebound,Unknown,27970.0,v,True,GSW,210
-542,752,1610612744,98,135,Waters III 1' Running Dunk (5 PTS) (Moody 1 AST),Made Shot,Running Dunk Shot,28010.0,v,False,GSW,210
-543,754,1610612757,101,135,Reath 3PT Jump Shot (3 PTS) (Banton 1 AST),Made Shot,Jump Shot,28200.0,h,True,POR,211
-544,756,1610612744,101,137,Payton II 1' Cutting Layup Shot (8 PTS) (Santos 1 AST),Made Shot,Cutting Layup Shot,28226.0,v,True,GSW,212
-545,758,1610612757,104,137,Banton 27' 3PT Step Back Jump Shot (3 PTS) (Reath 1 AST),Made Shot,Step Back Jump shot,28339.0,h,True,POR,213
-546,760,1610612744,104,137,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,28446.0,v,True,GSW,214
-547,761,1610612744,104,137,Podziemski REBOUND (Off:4 Def:3),Rebound,Unknown,28479.0,v,False,GSW,214
-548,762,1610612744,104,140,Waters III 3PT Jump Shot (8 PTS) (Moody 2 AST),Made Shot,Jump Shot,28555.0,v,False,GSW,214
-549,765,1610612757,104,140,MISS Reath 5' Hook Shot,Missed Shot,Hook Shot,28640.0,h,True,POR,215
-550,766,1610612757,104,140,Reath REBOUND (Off:1 Def:0),Rebound,Unknown,28651.0,h,False,POR,215
-551,769,1610612757,104,140,Reath Lost Ball Turnover (P1.T18),Turnover,Lost Ball,28665.0,h,False,POR,215
-552,769,1610612744,104,140,Payton II STEAL (2 STL),,,28665.0,v,True,GSW,216
-553,767,0,104,140,End of 4th Period (12:35 AM EST),period,end,28800.0,,False,GSW,216
+246,334,1610612744,45,54,Wiggins 26' 3PT Jump Shot (5 PTS) (Curry 6 AST),Made Shot,Jump Shot,13110.0,v,True,GSW,102
+247,336,1610612757,48,54,Camara 25' 3PT Jump Shot (6 PTS) (Avdija 2 AST),Made Shot,Jump Shot,13310.0,h,True,POR,103
+248,338,1610612744,48,56,Wiggins 1' Driving Finger Roll Layup (7 PTS) (Curry 7 AST),Made Shot,Driving Finger Roll Layup Shot,13380.0,v,True,GSW,104
+249,349,1610612757,48,56,Defensive Goaltending,Violation,Defensive Goaltending,13380.0,h,True,POR,105
+250,341,1610612757,48,56,MISS Ayton 20' Jump Shot,Missed Shot,Jump Shot,13510.0,h,False,POR,105
+251,342,1610612757,48,56,Camara REBOUND (Off:1 Def:1),Rebound,Unknown,13520.0,h,False,POR,105
+252,343,1610612757,48,56,MISS Camara Tip Layup Shot,Missed Shot,Tip Layup Shot,13520.0,h,False,POR,105
+253,344,1610612744,48,56,Wiggins REBOUND (Off:1 Def:1),Rebound,Unknown,13540.0,v,True,GSW,106
+254,345,1610612744,48,56,MISS Podziemski 24' 3PT Jump Shot,Missed Shot,Jump Shot,13630.0,v,False,GSW,106
+255,346,0,48,56,Warriors Rebound,Rebound,Unknown,13650.0,v,False,GSW,106
+256,347,1610612757,48,56,Avdija L.B.FOUL (P2.T2) (T.Ford),Foul,Loose Ball,13650.0,h,False,GSW,106
+257,350,1610612757,48,56,Camara P.FOUL (P2.PN) (T.Ford),Foul,Personal,13710.0,h,False,GSW,106
+258,352,1610612744,48,57,Curry Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,13710.0,v,False,GSW,106
+259,353,1610612744,48,58,Curry Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,13710.0,v,False,GSW,106
+260,354,1610612757,50,58,Ayton 1' Driving Layup (10 PTS) (Simons 3 AST),Made Shot,Driving Layup Shot,13820.0,h,True,POR,107
+261,358,1610612744,50,61,Wiggins 29' 3PT Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,13927.0,v,True,GSW,108
+262,359,1610612757,50,61,MISS Grant 26' 3PT Jump Shot,Missed Shot,Jump Shot,14086.0,h,True,POR,109
+263,360,1610612744,50,61,Green REBOUND (Off:0 Def:5),Rebound,Unknown,14096.0,v,True,GSW,110
+264,361,1610612757,50,61,Camara P.FOUL (P3.PN) (T.Ford),Foul,Personal,14300.0,h,False,GSW,110
+265,363,1610612744,50,62,Green Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,14300.0,v,False,GSW,110
+266,364,1610612757,50,62,SUB: Henderson FOR Camara,Substitution,,14300.0,h,False,GSW,110
+267,365,1610612744,50,62,SUB: Looney FOR Curry,Substitution,,14300.0,v,False,GSW,110
+268,368,1610612744,50,62,MISS Green Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,14300.0,v,False,GSW,110
+269,374,1610612744,50,62,Podziemski REBOUND (Off:2 Def:1),Rebound,Unknown,14337.0,v,False,GSW,110
+270,369,1610612744,50,62,SUB: Curry FOR Looney,Substitution,,14337.0,v,False,GSW,110
+271,371,1610612757,50,62,Jump Ball Avdija vs. Podziemski: Tip to Wiggins,Jump Ball,,14337.0,h,False,GSW,110
+272,375,1610612744,50,62,MISS Curry 25' 3PT Jump Shot,Missed Shot,Jump Shot,14370.0,v,False,GSW,110
+273,376,1610612744,50,62,Podziemski REBOUND (Off:3 Def:1),Rebound,Unknown,14394.0,v,False,GSW,110
+274,377,1610612744,50,62,MISS Podziemski Tip Layup Shot,Missed Shot,Tip Layup Shot,14394.0,v,False,GSW,110
+275,378,0,50,62,Warriors Rebound,Rebound,Unknown,14399.0,v,False,GSW,110
+276,379,0,50,62,End of 2nd Period (11:18 PM EST),period,end,14400.0,,False,GSW,110
+277,386,0,50,62,Start of 3rd Period (11:33 PM EST),period,start,14400.0,,True,GSW,111
+278,387,1610612744,50,65,Curry 25' 3PT Jump Shot (11 PTS) (Green 1 AST),Made Shot,Jump Shot,14530.0,v,False,GSW,111
+279,389,1610612757,53,65,Grant 3PT Jump Shot (11 PTS) (Camara 1 AST),Made Shot,Jump Shot,14670.0,h,True,POR,112
+280,391,1610612744,53,65,MISS Wiggins 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,14830.0,v,True,GSW,113
+281,392,1610612757,53,65,Avdija REBOUND (Off:0 Def:5),Rebound,Unknown,14850.0,h,True,POR,114
+282,393,1610612757,53,65,MISS Grant 1' Driving Layup,Missed Shot,Driving Layup Shot,14940.0,h,False,POR,114
+283,393,1610612744,53,65,Green BLOCK (2 BLK),,,14940.0,v,False,POR,114
+284,395,1610612744,53,65,Green REBOUND (Off:0 Def:6),Rebound,Unknown,14970.0,v,True,GSW,115
+285,396,1610612757,53,65,Ayton S.FOUL (P1.T1) (T.Maddox),Foul,Shooting,15000.0,h,False,GSW,115
+286,398,1610612744,53,66,Kuminga Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,15000.0,v,False,GSW,115
+287,399,1610612744,53,66,MISS Kuminga Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,15000.0,v,False,GSW,115
+288,400,1610612757,53,66,Camara REBOUND (Off:1 Def:2),Rebound,Unknown,15020.0,h,True,POR,116
+289,401,1610612757,55,66,Avdija 4' Driving Floating Jump Shot (9 PTS) (Camara 2 AST),Made Shot,Driving Floating Jump Shot,15160.0,h,False,POR,116
+290,403,1610612744,55,66,Green Bad Pass Turnover (P2.T9),Turnover,Bad Pass,15310.0,v,True,GSW,117
+291,403,1610612757,55,66,Ayton STEAL (1 STL),,,15310.0,h,True,POR,118
+292,405,1610612757,55,66,MISS Simons 27' 3PT Jump Shot,Missed Shot,Jump Shot,15380.0,h,False,POR,118
+293,406,1610612744,55,66,Curry REBOUND (Off:0 Def:5),Rebound,Unknown,15420.0,v,True,GSW,119
+294,407,1610612744,55,68,Wiggins 3' Driving Bank Hook Shot (12 PTS) (Curry 8 AST),Made Shot,Driving Bank Hook Shot,15460.0,v,False,GSW,119
+295,409,1610612757,55,68,MISS Simons 3' Driving Layup,Missed Shot,Driving Layup Shot,15580.0,h,True,POR,120
+296,410,1610612744,55,68,Curry REBOUND (Off:0 Def:6),Rebound,Unknown,15600.0,v,True,GSW,121
+297,411,1610612744,55,70,Kuminga 1' Running Layup (8 PTS) (Curry 9 AST),Made Shot,Running Layup Shot,15660.0,v,False,GSW,121
+298,413,1610612757,55,70,Avdija Bad Pass Turnover (P4.T9),Turnover,Bad Pass,15760.0,h,True,POR,122
+299,413,1610612744,55,70,Green STEAL (1 STL),,,15760.0,v,True,GSW,123
+300,415,1610612744,55,70,Curry Bad Pass Turnover (P1.T10),Turnover,Bad Pass,15830.0,v,False,GSW,123
+301,415,1610612757,55,70,Camara STEAL (2 STL),,,15830.0,h,True,POR,124
+302,417,1610612757,55,70,MISS Camara 7' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,15880.0,h,False,POR,124
+303,418,1610612744,55,70,Jackson-Davis REBOUND (Off:1 Def:3),Rebound,Unknown,15910.0,v,True,GSW,125
+304,419,1610612744,55,70,Curry Bad Pass Turnover (P2.T11),Turnover,Bad Pass,16040.0,v,False,GSW,125
+305,419,1610612757,55,70,Ayton STEAL (2 STL),,,16040.0,h,True,POR,126
+306,421,1610612757,57,70,Avdija 2' Running Layup (11 PTS),Made Shot,Running Layup Shot,16070.0,h,False,POR,126
+307,422,1610612744,57,70,Green S.FOUL (P2.T1) (T.Maddox),Foul,Shooting,16070.0,v,False,POR,126
+308,424,0,57,70,Warriors Timeout: Regular (Reg.3 Short 0),Timeout,Regular,16070.0,v,False,POR,126
+309,425,1610612757,58,70,Avdija Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,16070.0,h,False,POR,126
+310,426,1610612744,58,70,Wiggins OFF.Foul (P1) (D.Collins),Foul,Offensive,16220.0,v,False,POR,126
+311,428,1610612744,58,70,Wiggins Offensive Foul Turnover (P1.T12),Turnover,Offensive Foul Turnover,16220.0,v,False,POR,126
+312,429,1610612744,58,70,Wiggins S.FOUL (P2.T2) (T.Ford),Foul,Shooting,16350.0,v,True,GSW,127
+313,431,1610612757,59,70,Grant Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,16350.0,h,False,GSW,127
+314,432,1610612757,60,70,Grant Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,16350.0,h,False,GSW,127
+315,433,1610612744,60,70,MISS Wiggins 21' Step Back Jump Shot,Missed Shot,Step Back Jump shot,16600.0,v,True,POR,128
+316,434,1610612757,60,70,Ayton REBOUND (Off:2 Def:6),Rebound,Unknown,16630.0,h,True,GSW,129
+317,435,1610612757,60,70,MISS Simons 29' 3PT Jump Shot,Missed Shot,Jump Shot,16720.0,h,False,GSW,129
+318,436,1610612744,60,70,Wiggins REBOUND (Off:1 Def:2),Rebound,Unknown,16740.0,v,True,POR,130
+319,439,1610612744,60,70,Kuminga Out of Bounds Lost Ball Turnover (P4.T13),Turnover,Out of Bounds Lost Ball Turnover,16810.0,v,False,POR,130
+320,440,1610612757,60,70,MISS Ayton 11' Jump Shot,Missed Shot,Jump Shot,16940.0,h,True,GSW,131
+321,441,1610612744,60,70,Curry REBOUND (Off:0 Def:7),Rebound,Unknown,16960.0,v,True,POR,132
+322,442,1610612757,60,70,Grant P.FOUL (P2.T2) (D.Collins),Foul,Personal,17010.0,h,False,POR,132
+323,444,1610612744,60,72,Kuminga 1' Cutting Dunk Shot (10 PTS) (Wiggins 2 AST),Made Shot,Cutting Dunk Shot,17080.0,v,False,POR,132
+324,446,1610612757,60,72,MISS Avdija 26' 3PT Jump Shot,Missed Shot,Jump Shot,17220.0,h,True,GSW,133
+325,447,0,60,72,Warriors Rebound,Rebound,Unknown,17230.0,v,True,POR,134
+326,449,1610612744,60,74,Green 1' Layup (8 PTS) (Jackson-Davis 2 AST),Made Shot,Layup Shot,17390.0,v,False,POR,134
+327,451,1610612757,63,74,Grant 3PT Jump Shot (16 PTS) (Camara 3 AST),Made Shot,Jump Shot,17520.0,h,True,GSW,135
+328,453,1610612744,63,77,Curry 27' 3PT Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,17640.0,v,True,POR,136
+329,454,1610612757,63,77,MISS Grant 3PT Jump Shot,Missed Shot,Jump Shot,17780.0,h,True,GSW,137
+330,455,1610612744,63,77,Curry REBOUND (Off:0 Def:8),Rebound,Unknown,17800.0,v,True,POR,138
+331,456,1610612744,63,77,MISS Kuminga 1' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,17840.0,v,False,POR,138
+332,457,1610612744,63,77,Wiggins REBOUND (Off:2 Def:2),Rebound,Unknown,17850.0,v,False,POR,138
+333,458,1610612744,63,80,Wiggins 3PT Jump Shot (15 PTS) (Green 2 AST),Made Shot,Jump Shot,17930.0,v,False,POR,138
+334,460,0,63,80,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),Timeout,Regular,17940.0,h,True,GSW,139
+335,461,1610612757,63,80,SUB: Henderson FOR Avdija,Substitution,,17940.0,h,False,GSW,139
+336,462,1610612744,63,80,SUB: Hield FOR Kuminga,Substitution,,17940.0,v,False,GSW,139
+337,463,1610612744,63,80,SUB: Payton II FOR Jackson-Davis,Substitution,,17940.0,v,False,GSW,139
+338,467,1610612757,63,80,MISS Henderson 4' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,18130.0,h,False,GSW,139
+339,468,1610612744,63,80,Hield REBOUND (Off:0 Def:3),Rebound,Unknown,18150.0,v,True,POR,140
+340,469,1610612744,63,83,Curry 3PT Jump Shot (17 PTS) (Green 3 AST),Made Shot,Jump Shot,18240.0,v,False,POR,140
+341,471,1610612744,63,83,Green P.FOUL (P3.T3) (T.Maddox),Foul,Personal,18490.0,v,True,GSW,141
+342,473,1610612757,63,83,MISS Henderson 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,18510.0,h,False,GSW,141
+343,474,1610612744,63,83,Payton II REBOUND (Off:0 Def:1),Rebound,Unknown,18530.0,v,True,POR,142
+344,475,1610612744,63,83,Green Out of Bounds - Bad Pass Turnover Turnover (P3.T14),Turnover,Out of Bounds - Bad Pass Turnover,18630.0,v,False,POR,142
+345,476,1610612744,63,83,SUB: Podziemski FOR Wiggins,Substitution,,18630.0,v,True,GSW,143
+346,477,1610612744,63,83,SUB: Looney FOR Green,Substitution,,18630.0,v,False,GSW,143
+347,480,1610612757,63,83,MISS Ayton 3PT Jump Shot,Missed Shot,Jump Shot,18740.0,h,False,GSW,143
+348,481,1610612744,63,83,Hield REBOUND (Off:0 Def:4),Rebound,Unknown,18760.0,v,True,POR,144
+349,482,1610612744,63,83,Podziemski Bad Pass Turnover (P1.T15),Turnover,Bad Pass,18880.0,v,False,POR,144
+350,482,1610612757,63,83,Simons STEAL (1 STL),,,18880.0,h,True,GSW,145
+351,484,1610612757,63,83,Simons Out of Bounds Lost Ball Turnover (P3.T10),Turnover,Out of Bounds Lost Ball Turnover,18910.0,h,False,GSW,145
+352,485,1610612744,63,83,MISS Podziemski 3PT Jump Shot,Missed Shot,Jump Shot,18960.0,v,True,POR,146
+353,486,1610612744,63,83,Hield REBOUND (Off:1 Def:4),Rebound,Unknown,18980.0,v,False,POR,146
+354,487,1610612744,63,86,Hield 28' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,19020.0,v,False,POR,146
+355,488,1610612757,63,86,MISS Ayton 16' Jump Shot,Missed Shot,Jump Shot,19150.0,h,True,GSW,147
+356,489,1610612744,63,86,Curry REBOUND (Off:0 Def:9),Rebound,Unknown,19180.0,v,True,POR,148
+357,490,1610612744,63,88,Hield 2' Running Layup (19 PTS) (Curry 10 AST),Made Shot,Running Layup Shot,19200.0,v,False,POR,148
+358,492,1610612757,63,88,Henderson S.FOUL (P1.T3) (T.Maddox),Foul,Shooting,19200.0,h,False,POR,148
+359,494,1610612757,63,88,SUB: Murray FOR Ayton,Substitution,,19200.0,h,False,POR,148
+360,495,1610612757,63,88,SUB: Rupert FOR Grant,Substitution,,19200.0,h,False,POR,148
+361,496,1610612757,63,88,SUB: Clingan FOR Camara,Substitution,,19200.0,h,False,POR,148
+362,497,1610612744,63,88,SUB: Melton FOR Curry,Substitution,,19200.0,v,False,POR,148
+363,502,1610612744,63,89,Hield Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,19200.0,v,False,POR,148
+364,504,1610612757,63,89,MISS Henderson 3PT Jump Shot,Missed Shot,Jump Shot,19380.0,h,True,GSW,149
+365,505,1610612757,63,89,Rupert REBOUND (Off:1 Def:1),Rebound,Unknown,19430.0,h,False,GSW,149
+366,506,1610612757,63,89,Simons Offensive Charge Foul (P3) (T.Maddox),Foul,Offensive Charge,19480.0,h,False,GSW,149
+367,508,1610612757,63,89,Simons Offensive Foul Turnover (P4.T11),Turnover,Offensive Foul Turnover,19480.0,h,False,GSW,149
+368,509,1610612757,63,89,SUB: Banton FOR Simons,Substitution,,19480.0,h,True,POR,150
+369,511,1610612744,63,89,MISS Podziemski 25' 3PT Jump Shot,Missed Shot,Jump Shot,19670.0,v,False,POR,150
+370,512,1610612757,63,89,Banton REBOUND (Off:0 Def:1),Rebound,Unknown,19700.0,h,True,GSW,151
+371,513,1610612757,65,89,Henderson 1' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,19790.0,h,False,GSW,151
+372,515,1610612744,65,89,MISS Melton 29' 3PT Jump Shot,Missed Shot,Jump Shot,19930.0,v,True,POR,152
+373,516,0,65,89,TRAIL BLAZERS Rebound,Rebound,Unknown,19940.0,h,True,GSW,153
+374,517,1610612744,65,89,Podziemski L.B.FOUL (P2.T4) (D.Collins),Foul,Loose Ball,19940.0,v,False,GSW,153
+375,519,1610612744,65,89,SUB: Anderson FOR Payton II,Substitution,,19940.0,v,False,GSW,153
+376,521,1610612757,67,89,Rupert 2' Driving Finger Roll Layup (2 PTS) (Henderson 3 AST),Made Shot,Driving Finger Roll Layup Shot,20080.0,h,False,GSW,153
+377,523,1610612744,67,91,Hield 2' Driving Layup (22 PTS) (Melton 2 AST),Made Shot,Driving Layup Shot,20170.0,v,True,POR,154
+378,525,1610612757,67,91,MISS Banton 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20330.0,h,True,GSW,155
+379,526,1610612744,67,91,Looney REBOUND (Off:2 Def:2),Rebound,Unknown,20360.0,v,True,POR,156
+380,527,1610612757,67,91,Rupert S.FOUL (P1.T4) (T.Ford),Foul,Shooting,20400.0,h,False,POR,156
+381,529,1610612744,67,92,Melton Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,20400.0,v,False,POR,156
+382,531,1610612744,67,92,SUB: Moody FOR Hield,Substitution,,20400.0,v,False,POR,156
+383,533,1610612744,67,92,MISS Melton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,20400.0,v,False,POR,156
+384,534,1610612744,67,92,Anderson REBOUND (Off:1 Def:0),Rebound,Unknown,20430.0,v,False,POR,156
+385,535,1610612744,67,92,MISS Podziemski 27' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,20460.0,v,False,POR,156
+386,536,1610612744,67,92,Anderson REBOUND (Off:2 Def:0),Rebound,Unknown,20470.0,v,False,POR,156
+387,537,1610612744,67,94,Anderson Putback Layup (2 PTS),Made Shot,Putback Layup Shot,20480.0,v,False,POR,156
+388,538,1610612757,67,94,Clingan Bad Pass Turnover (P1.T12),Turnover,Bad Pass,20570.0,h,True,GSW,157
+389,538,1610612744,67,94,Melton STEAL (1 STL),,,20570.0,v,True,POR,158
+390,540,1610612744,67,96,Melton 3' Driving Dunk (9 PTS),Made Shot,Driving Dunk Shot,20610.0,v,False,POR,158
+391,541,0,67,96,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),Timeout,Regular,20610.0,h,True,GSW,159
+392,542,1610612757,67,96,SUB: Walker FOR Murray,Substitution,,20610.0,h,False,GSW,159
+393,544,1610612744,67,96,Podziemski P.FOUL (P3.PN) (T.Maddox),Foul,Personal,20790.0,v,False,GSW,159
+394,546,1610612757,68,96,Henderson Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,20790.0,h,False,GSW,159
+395,547,1610612757,68,96,MISS Henderson Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,20790.0,h,False,GSW,159
+396,548,1610612744,68,96,Looney REBOUND (Off:2 Def:3),Rebound,Unknown,20810.0,v,True,POR,160
+397,549,1610612744,68,96,MISS Moody 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,20910.0,v,False,POR,160
+398,550,1610612757,68,96,Walker REBOUND (Off:0 Def:1),Rebound,Unknown,20930.0,h,True,GSW,161
+399,551,1610612757,68,96,Henderson Lost Ball Turnover (P2.T13),Turnover,Lost Ball,21000.0,h,False,GSW,161
+400,551,1610612744,68,96,Anderson STEAL (1 STL),,,21000.0,v,True,POR,162
+401,553,1610612744,68,98,Melton 1' Running Dunk (11 PTS) (Anderson 2 AST),Made Shot,Running Dunk Shot,21007.0,v,False,POR,162
+402,555,1610612757,70,98,Rupert 2' Cutting Layup Shot (4 PTS) (Henderson 4 AST),Made Shot,Cutting Layup Shot,21163.0,h,True,GSW,163
+403,557,1610612744,70,98,MISS Melton 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,21284.0,v,True,POR,164
+404,558,1610612744,70,98,Looney REBOUND (Off:3 Def:3),Rebound,Unknown,21317.0,v,False,POR,164
+405,559,1610612757,70,98,Henderson P.FOUL (P2.PN) (T.Maddox),Foul,Personal,21336.0,h,False,POR,164
+406,561,1610612744,70,99,Looney Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,21336.0,v,False,POR,164
+407,562,1610612744,70,100,Looney Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,21336.0,v,False,POR,164
+408,563,1610612744,70,100,Melton P.FOUL (P1.PN) (D.Collins),Foul,Personal,21538.0,v,True,GSW,165
+409,565,1610612757,71,100,Henderson Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,21538.0,h,False,GSW,165
+410,566,1610612757,72,100,Henderson Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,21538.0,h,False,GSW,165
+411,567,0,72,100,End of 3rd Period (12:02 AM EST),period,end,21600.0,,False,GSW,165
+412,578,0,72,100,Start of 4th Period (12:05 AM EST),period,start,21600.0,,True,POR,166
+413,579,1610612757,72,100,MISS Camara 24' 3PT Jump Shot,Missed Shot,Jump Shot,21840.0,h,False,POR,166
+414,580,0,72,100,TRAIL BLAZERS Rebound,Rebound,Unknown,21850.0,h,False,POR,166
+415,582,1610612757,72,100,Camara Bad Pass Turnover (P1.T14),Turnover,Bad Pass,21950.0,h,False,POR,166
+416,582,1610612744,72,100,Anderson STEAL (2 STL),,,21950.0,v,True,GSW,167
+417,584,1610612744,72,100,Podziemski Lost Ball Turnover (P2.T16),Turnover,Lost Ball,22000.0,v,False,GSW,167
+418,584,1610612757,72,100,Avdija STEAL (2 STL),,,22000.0,h,True,POR,168
+419,586,1610612757,72,100,MISS Avdija 3' Running Layup,Missed Shot,Running Layup Shot,22040.0,h,False,POR,168
+420,587,1610612757,72,100,Camara REBOUND (Off:2 Def:2),Rebound,Unknown,22050.0,h,False,POR,168
+421,588,1610612757,74,100,Camara Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,22050.0,h,False,POR,168
+422,589,1610612744,74,102,Moody 1' Driving Layup (5 PTS) (Looney 2 AST),Made Shot,Driving Layup Shot,22300.0,v,True,GSW,169
+423,591,1610612744,74,102,Melton P.FOUL (P2.T1) (T.Ford),Foul,Personal,22370.0,v,True,POR,170
+424,593,1610612757,74,102,MISS Avdija 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,22440.0,h,False,POR,170
+425,594,1610612757,74,102,Avdija REBOUND (Off:1 Def:5),Rebound,Unknown,22450.0,h,False,POR,170
+426,596,1610612744,74,102,Looney S.FOUL (P2.T2) (T.Maddox),Foul,Shooting,22500.0,v,False,POR,170
+427,598,1610612757,75,102,Camara Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,22500.0,h,False,POR,170
+428,599,1610612757,76,102,Camara Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,22500.0,h,False,POR,170
+429,600,1610612744,76,102,MISS Moody 25' 3PT Jump Shot,Missed Shot,Jump Shot,22610.0,v,True,GSW,171
+430,601,1610612757,76,102,Simons REBOUND (Off:0 Def:2),Rebound,Unknown,22630.0,h,True,POR,172
+431,602,1610612757,76,102,MISS Avdija 3PT Jump Shot,Missed Shot,Jump Shot,22720.0,h,False,POR,172
+432,603,1610612757,76,102,Camara REBOUND (Off:3 Def:2),Rebound,Unknown,22740.0,h,False,POR,172
+433,604,1610612757,76,102,MISS Camara 2' Putback Layup,Missed Shot,Putback Layup Shot,22750.0,h,False,POR,172
+434,605,1610612757,76,102,Avdija REBOUND (Off:2 Def:5),Rebound,Unknown,22770.0,h,False,POR,172
+435,606,1610612744,76,102,Looney S.FOUL (P3.T3) (D.Collins),Foul,Shooting,22800.0,v,False,POR,172
+436,608,1610612757,77,102,Avdija Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,22800.0,h,False,POR,172
+437,609,1610612744,77,102,SUB: Jackson-Davis FOR Looney,Substitution,,22800.0,v,False,POR,172
+438,611,1610612757,78,102,Avdija Free Throw 2 of 2 (14 PTS),Free Throw,Free Throw 2 of 2,22800.0,h,False,POR,172
+439,612,1610612744,78,104,Jackson-Davis 1' Alley Oop Dunk (8 PTS) (Melton 3 AST),Made Shot,Alley Oop Dunk Shot,22950.0,v,True,GSW,173
+440,614,1610612757,80,104,Simons 2' Driving Hook Shot (10 PTS),Made Shot,Driving Hook Shot,23070.0,h,True,POR,174
+441,615,1610612757,80,104,Ayton S.FOUL (P2.T1) (D.Collins),Foul,Shooting,23320.0,h,True,GSW,175
+442,617,1610612744,80,105,Moody Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,23320.0,v,False,GSW,175
+443,618,1610612744,80,105,SUB: Wiggins FOR Podziemski,Substitution,,23320.0,v,False,GSW,175
+444,620,1610612744,80,106,Moody Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,23320.0,v,False,GSW,175
+445,621,1610612744,80,106,Jackson-Davis S.FOUL (P1.T4) (D.Collins),Foul,Shooting,23460.0,v,True,POR,176
+446,623,1610612757,80,106,MISS Avdija Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,23460.0,h,False,POR,176
+447,624,0,80,106,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,23460.0,h,False,POR,176
+448,625,1610612757,81,106,Avdija Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,23460.0,h,False,POR,176
+449,626,1610612744,81,106,MISS Melton 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,23710.0,v,True,GSW,177
+450,627,1610612744,81,106,Anderson REBOUND (Off:3 Def:0),Rebound,Unknown,23750.0,v,False,GSW,177
+451,628,1610612744,81,106,Anderson Out of Bounds - Bad Pass Turnover Turnover (P1.T17),Turnover,Out of Bounds - Bad Pass Turnover,23770.0,v,False,GSW,177
+452,629,1610612757,81,106,Camara Bad Pass Turnover (P2.T15),Turnover,Bad Pass,23890.0,h,True,POR,178
+453,629,1610612744,81,106,Melton STEAL (2 STL),,,23890.0,v,True,GSW,179
+454,631,1610612744,81,109,Wiggins 25' 3PT Running Jump Shot (18 PTS) (Melton 4 AST),Made Shot,Running Jump Shot,23950.0,v,False,GSW,179
+455,633,1610612744,81,109,Anderson S.FOUL (P1.PN) (D.Collins),Foul,Shooting,24100.0,v,True,POR,180
+456,635,1610612757,82,109,Simons Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,24100.0,h,False,POR,180
+457,636,1610612757,83,109,Simons Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,24100.0,h,False,POR,180
+458,637,1610612744,83,109,MISS Moody 28' 3PT Jump Shot,Missed Shot,Jump Shot,24240.0,v,True,GSW,181
+459,638,1610612757,83,109,Ayton REBOUND (Off:2 Def:7),Rebound,Unknown,24260.0,h,True,POR,182
+460,639,1610612757,83,109,Simons Lost Ball Turnover (P5.T16),Turnover,Lost Ball,24330.0,h,False,POR,182
+461,639,1610612744,83,109,Melton STEAL (3 STL),,,24330.0,v,True,GSW,183
+462,641,1610612757,83,109,Camara S.FOUL (P4.T2) (D.Collins),Foul,Shooting,24360.0,h,False,GSW,183
+463,643,1610612744,83,109,MISS Jackson-Davis Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,24360.0,v,False,GSW,183
+464,644,0,83,109,Warriors Rebound,Rebound,Normal Rebound,24360.0,v,False,GSW,183
+465,645,1610612757,83,109,SUB: Henderson FOR Avdija,Substitution,,24360.0,h,False,GSW,183
+466,646,1610612744,83,109,SUB: Kuminga FOR Moody,Substitution,,24360.0,v,False,GSW,183
+467,649,1610612744,83,110,Jackson-Davis Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,24360.0,v,False,GSW,183
+468,650,1610612757,83,110,MISS Camara 26' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,24470.0,h,True,POR,184
+469,651,1610612744,83,110,Anderson REBOUND (Off:3 Def:1),Rebound,Unknown,24490.0,v,True,GSW,185
+470,652,1610612744,83,110,MISS Melton 28' 3PT Jump Shot,Missed Shot,Jump Shot,24580.0,v,False,GSW,185
+471,653,1610612757,83,110,Ayton REBOUND (Off:2 Def:8),Rebound,Unknown,24610.0,h,True,POR,186
+472,654,1610612757,86,110,Simons 31' 3PT Jump Shot (15 PTS) (Camara 4 AST),Made Shot,Jump Shot,24710.0,h,False,POR,186
+473,656,1610612744,86,110,MISS Wiggins 16' Step Back Jump Shot,Missed Shot,Step Back Jump shot,24840.0,v,True,GSW,187
+474,657,1610612757,86,110,Ayton REBOUND (Off:2 Def:9),Rebound,Unknown,24860.0,h,True,POR,188
+475,658,1610612757,86,110,MISS Grant 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,25030.0,h,False,POR,188
+476,659,1610612744,86,110,Anderson REBOUND (Off:3 Def:2),Rebound,Unknown,25050.0,v,True,GSW,189
+477,660,1610612744,86,112,Wiggins 1' Running Finger Roll Layup (20 PTS) (Anderson 3 AST),Made Shot,Running Finger Roll Layup Shot,25100.0,v,False,GSW,189
+478,662,1610612757,86,112,MISS Grant 25' 3PT Jump Shot,Missed Shot,Jump Shot,25200.0,h,True,POR,190
+479,663,1610612757,86,112,Camara REBOUND (Off:4 Def:2),Rebound,Unknown,25230.0,h,False,POR,190
+480,664,1610612744,86,112,Melton S.FOUL (P3.PN) (T.Maddox),Foul,Shooting,25240.0,v,False,POR,190
+481,666,0,86,112,TRAIL BLAZERS Timeout: Regular (Full 6 Short 0),Timeout,Regular,25240.0,h,False,POR,190
+482,667,1610612757,86,112,SUB: Clingan FOR Simons,Substitution,,25240.0,h,False,POR,190
+483,668,1610612757,86,112,SUB: Rupert FOR Ayton,Substitution,,25240.0,h,False,POR,190
+484,669,1610612757,86,112,SUB: Murray FOR Grant,Substitution,,25240.0,h,False,POR,190
+485,670,1610612744,86,112,SUB: Podziemski FOR Melton,Substitution,,25240.0,v,False,POR,190
+486,675,1610612757,86,112,MISS Camara Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,25240.0,h,False,POR,190
+487,676,0,86,112,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,25240.0,h,False,POR,190
+488,677,1610612757,87,112,Camara Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,25240.0,h,False,POR,190
+489,678,1610612744,87,114,Jackson-Davis 1' Dunk (11 PTS),Made Shot,Dunk Shot,25420.0,v,True,GSW,191
+490,679,1610612757,87,114,Rupert S.FOUL (P2.T3) (T.Maddox),Foul,Shooting,25420.0,h,False,GSW,191
+491,681,1610612757,87,114,SUB: Walker FOR Camara,Substitution,,25420.0,h,False,GSW,191
+492,683,1610612744,87,115,Jackson-Davis Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,25420.0,v,False,GSW,191
+493,684,1610612757,87,115,Murray Bad Pass Turnover (P1.T17),Turnover,Bad Pass,25630.0,h,True,POR,192
+494,684,1610612744,87,115,Jackson-Davis STEAL (1 STL),,,25630.0,v,True,GSW,193
+495,686,1610612744,87,115,MISS Anderson 27' 3PT Jump Shot,Missed Shot,Jump Shot,25700.0,v,False,GSW,193
+496,687,0,87,115,Warriors Rebound,Rebound,Unknown,25730.0,v,False,GSW,193
+497,689,1610612744,87,115,SUB: Waters III FOR Anderson,Substitution,,25730.0,v,False,GSW,193
+498,690,1610612744,87,115,SUB: Santos FOR Wiggins,Substitution,,25730.0,v,False,GSW,193
+499,693,1610612744,87,117,Jackson-Davis 1' Driving Dunk (14 PTS),Made Shot,Driving Dunk Shot,25840.0,v,False,GSW,193
+500,694,1610612744,87,117,Waters III S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,25960.0,v,True,POR,194
+501,696,1610612757,88,117,Henderson Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,25960.0,h,False,POR,194
+502,697,1610612744,88,117,SUB: Moody FOR Kuminga,Substitution,,25960.0,v,False,POR,194
+503,698,1610612744,88,117,SUB: Payton II FOR Jackson-Davis,Substitution,,25960.0,v,False,POR,194
+504,701,1610612757,89,117,Henderson Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,25960.0,h,False,POR,194
+505,702,1610612757,89,117,Walker P.FOUL (P1.T4) (T.Maddox),Foul,Personal,26120.0,h,True,GSW,195
+506,704,1610612757,89,117,SUB: Banton FOR Clingan,Substitution,,26120.0,h,False,GSW,195
+507,706,1610612757,89,117,Walker P.FOUL (P2.PN) (T.Maddox),Foul,Personal,26140.0,h,False,GSW,195
+508,708,1610612744,89,118,Santos Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,26140.0,v,False,GSW,195
+509,709,1610612744,89,118,MISS Santos Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26140.0,v,False,GSW,195
+510,710,1610612757,89,118,Rupert REBOUND (Off:1 Def:2),Rebound,Unknown,26160.0,h,True,POR,196
+511,711,1610612757,91,118,Henderson 2' Driving Reverse Layup (17 PTS),Made Shot,Driving Reverse Layup Shot,26310.0,h,False,POR,196
+512,712,1610612744,91,121,Moody 3PT Pullup Jump Shot (10 PTS) (Payton II 1 AST),Made Shot,Pullup Jump shot,26420.0,v,True,GSW,197
+513,714,1610612744,91,121,Santos S.FOUL (P1.PN) (T.Maddox),Foul,Shooting,26520.0,v,True,POR,198
+514,716,1610612757,91,121,MISS Murray Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26520.0,h,False,POR,198
+515,717,0,91,121,TRAIL BLAZERS Rebound,Rebound,Normal Rebound,26520.0,h,False,POR,198
+516,718,1610612757,91,121,MISS Murray Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26520.0,h,False,POR,198
+517,719,1610612757,91,121,Walker REBOUND (Off:1 Def:1),Rebound,Unknown,26540.0,h,False,POR,198
+518,720,1610612757,91,121,MISS Banton 5' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,26620.0,h,False,POR,198
+519,721,1610612744,91,121,Podziemski REBOUND (Off:3 Def:2),Rebound,Unknown,26640.0,v,True,GSW,199
+520,722,1610612744,91,124,Moody 27' 3PT Jump Shot (13 PTS) (Payton II 2 AST),Made Shot,Jump Shot,26750.0,v,False,GSW,199
+521,724,1610612757,91,124,SUB: Reath FOR Murray,Substitution,,26840.0,h,True,POR,200
+522,726,1610612757,93,124,Henderson 15' Turnaround Jump Shot (19 PTS),Made Shot,Turnaround Jump Shot,26920.0,h,False,POR,200
+523,727,1610612744,93,126,Moody 2' Driving Finger Roll Layup (15 PTS) (Payton II 3 AST),Made Shot,Driving Finger Roll Layup Shot,27060.0,v,True,GSW,201
+524,729,1610612757,93,126,MISS Henderson 27' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,27160.0,h,True,POR,202
+525,730,1610612744,93,126,Podziemski REBOUND (Off:3 Def:3),Rebound,Unknown,27180.0,v,True,GSW,203
+526,731,1610612744,93,128,Santos 1' Running Dunk (3 PTS) (Podziemski 4 AST),Made Shot,Running Dunk Shot,27230.0,v,False,GSW,203
+527,733,1610612757,93,128,MISS Henderson 2' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,27390.0,h,True,POR,204
+528,734,1610612744,93,128,Waters III REBOUND (Off:0 Def:1),Rebound,Unknown,27420.0,v,True,GSW,205
+529,735,1610612744,93,131,Waters III 27' 3PT Running Pull-Up Jump Shot (3 PTS),Made Shot,Running Pull-Up Jump Shot,27460.0,v,False,GSW,205
+530,736,0,93,131,TRAIL BLAZERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,27480.0,h,True,POR,206
+531,739,1610612757,95,131,Henderson 1' Driving Layup (21 PTS),Made Shot,Driving Layup Shot,27660.0,h,False,POR,206
+532,740,1610612744,95,131,Waters III S.FOUL (P2.PN) (D.Collins),Foul,Shooting,27660.0,v,False,POR,206
+533,742,1610612757,96,131,Henderson Free Throw 1 of 1 (22 PTS),Free Throw,Free Throw 1 of 1,27660.0,h,False,POR,206
+534,743,1610612744,96,131,Podziemski Bad Pass Turnover (P3.T18),Turnover,Bad Pass,27670.0,v,True,GSW,207
+535,743,1610612757,96,131,Rupert STEAL (1 STL),,,27670.0,h,True,POR,208
+536,745,1610612757,98,131,Rupert 2' Driving Layup (6 PTS),Made Shot,Driving Layup Shot,27690.0,h,False,POR,208
+537,746,1610612757,98,131,Henderson P.FOUL (P3.PN) (T.Maddox),Foul,Personal,27790.0,h,True,GSW,209
+538,748,1610612744,98,132,Payton II Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,27790.0,v,False,GSW,209
+539,749,1610612744,98,133,Payton II Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,27790.0,v,False,GSW,209
+540,750,1610612757,98,133,MISS Banton 24' 3PT Jump Shot,Missed Shot,Jump Shot,27950.0,h,True,POR,210
+541,751,1610612744,98,133,Santos REBOUND (Off:0 Def:1),Rebound,Unknown,27970.0,v,True,GSW,211
+542,752,1610612744,98,135,Waters III 1' Running Dunk (5 PTS) (Moody 1 AST),Made Shot,Running Dunk Shot,28010.0,v,False,GSW,211
+543,754,1610612757,101,135,Reath 3PT Jump Shot (3 PTS) (Banton 1 AST),Made Shot,Jump Shot,28200.0,h,True,POR,212
+544,756,1610612744,101,137,Payton II 1' Cutting Layup Shot (8 PTS) (Santos 1 AST),Made Shot,Cutting Layup Shot,28226.0,v,True,GSW,213
+545,758,1610612757,104,137,Banton 27' 3PT Step Back Jump Shot (3 PTS) (Reath 1 AST),Made Shot,Step Back Jump shot,28339.0,h,True,POR,214
+546,760,1610612744,104,137,MISS Moody 27' 3PT Jump Shot,Missed Shot,Jump Shot,28446.0,v,True,GSW,215
+547,761,1610612744,104,137,Podziemski REBOUND (Off:4 Def:3),Rebound,Unknown,28479.0,v,False,GSW,215
+548,762,1610612744,104,140,Waters III 3PT Jump Shot (8 PTS) (Moody 2 AST),Made Shot,Jump Shot,28555.0,v,False,GSW,215
+549,765,1610612757,104,140,MISS Reath 5' Hook Shot,Missed Shot,Hook Shot,28640.0,h,True,POR,216
+550,766,1610612757,104,140,Reath REBOUND (Off:1 Def:0),Rebound,Unknown,28651.0,h,False,POR,216
+551,769,1610612757,104,140,Reath Lost Ball Turnover (P1.T18),Turnover,Lost Ball,28665.0,h,False,POR,216
+552,769,1610612744,104,140,Payton II STEAL (2 STL),,,28665.0,v,True,GSW,217
+553,767,0,104,140,End of 4th Period (12:35 AM EST),period,end,28800.0,,False,GSW,217

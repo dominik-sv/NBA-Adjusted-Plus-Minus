@@ -1,7 +1,7 @@
 from nba_api.stats.endpoints import GameRotation
 import pandas as pd
 
-def get_lineups(game_id: str = "0022400062") -> pd.DataFrame:
+def get_lineups(game_id: str) -> pd.DataFrame:
     """
     Extracts all player lineups for a specific NBA game and their starting and ending times.
 

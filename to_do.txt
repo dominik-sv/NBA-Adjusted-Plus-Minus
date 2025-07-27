@@ -1,0 +1,2 @@
+check correct labeling using made shots and dictionary
+label functions
