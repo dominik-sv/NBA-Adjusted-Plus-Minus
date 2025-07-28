@@ -368,142 +368,142 @@
 366,499,1610612738,71,96,Brown STEAL (4 STL),,,21329.0,v,True,BOS,152
 367,501,1610612738,71,98,Tillman 3' Cutting Layup Shot (5 PTS) (Brown 2 AST),Made Shot,Cutting Layup Shot,21385.0,v,False,BOS,152
 368,503,1610612764,73,98,Valančiūnas 5' Hook Shot (14 PTS) (Carrington 1 AST),Made Shot,Hook Shot,21598.0,h,True,WAS,153
-369,505,0,73,98,End of 3rd Period (8:56 PM EST),period,end,21600.0,,False,WAS,153
-370,512,0,73,98,Start of 4th Period (8:59 PM EST),period,start,21600.0,,True,BOS,154
-371,513,1610612738,73,101,Brown 27' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,21790.0,v,False,BOS,154
-372,514,1610612764,73,101,MISS Valančiūnas 8' Jump Shot,Missed Shot,Jump Shot,21940.0,h,True,WAS,155
-373,515,1610612738,73,101,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,21970.0,v,True,BOS,156
-374,516,1610612738,73,104,Brown 26' 3PT Jump Shot (23 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,22000.0,v,False,BOS,156
-375,518,0,73,104,WIZARDS Timeout: Regular (Full 6 Short 0),Timeout,Regular,22010.0,h,True,WAS,157
-376,521,1610612764,75,104,Valančiūnas Cutting Dunk Shot (16 PTS) (Kispert 3 AST),Made Shot,Cutting Dunk Shot,22110.0,h,False,WAS,157
-377,523,1610612738,75,104,MISS Queta 5' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,22320.0,v,True,BOS,158
-378,523,1610612764,75,104,Sarr BLOCK (2 BLK),,,22320.0,h,False,BOS,158
-379,525,1610612764,75,104,Valančiūnas REBOUND (Off:1 Def:3),Rebound,Unknown,22340.0,h,True,WAS,159
-380,526,1610612764,75,104,Poole Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,22390.0,h,False,WAS,159
-381,527,1610612738,75,107,Tillman 27' 3PT Jump Shot (8 PTS) (Brown 3 AST),Made Shot,Jump Shot,22500.0,v,True,BOS,160
-382,529,1610612764,75,107,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,22620.0,h,True,WAS,161
-383,530,1610612738,75,107,Brown REBOUND (Off:1 Def:6),Rebound,Unknown,22660.0,v,True,BOS,162
-384,531,1610612738,75,107,Brown Bad Pass Turnover (P1.T8),Turnover,Bad Pass,22710.0,v,False,BOS,162
-385,531,1610612764,75,107,Kuzma STEAL (1 STL),,,22710.0,h,True,WAS,163
-386,533,1610612738,75,107,Queta S.FOUL (P3.T1) (J.Capers),Foul,Shooting,22720.0,v,False,WAS,163
-387,535,1610612764,76,107,Poole Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,22720.0,h,False,WAS,163
-388,543,1610612738,76,107,SUB: Walsh FOR Tillman,Substitution,,22720.0,v,False,WAS,163
-389,540,1610612764,77,107,Poole Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,22720.0,h,False,WAS,163
-390,541,1610612764,77,107,Poole P.FOUL (P3.T1) (J.Capers),Foul,Personal,22850.0,h,True,BOS,164
-391,545,1610612738,77,107,MISS Brown 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22920.0,v,False,BOS,164
-392,546,1610612738,77,107,Queta REBOUND (Off:3 Def:0),Rebound,Unknown,22970.0,v,False,BOS,164
-393,547,1610612738,77,109,Queta Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,22970.0,v,False,BOS,164
-394,548,1610612764,77,109,MISS Poole 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,23040.0,h,True,WAS,165
-395,549,1610612764,77,109,Valančiūnas REBOUND (Off:2 Def:3),Rebound,Unknown,23080.0,h,False,WAS,165
-396,550,1610612764,79,109,Valančiūnas Putback Dunk (18 PTS),Made Shot,Putback Dunk Shot,23080.0,h,False,WAS,165
-397,551,1610612738,79,111,Brown 5' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,23220.0,v,True,BOS,166
-398,552,1610612764,81,111,Kispert 3' Driving Layup (6 PTS) (Valančiūnas 2 AST),Made Shot,Driving Layup Shot,23300.0,h,True,WAS,167
-399,553,1610612738,81,111,Queta OFF.Foul (P4) (J.Reneau),Foul,Offensive,23410.0,v,True,BOS,168
-400,555,1610612738,81,111,Queta Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,23410.0,v,False,BOS,168
-401,557,1610612764,81,111,MISS Sarr 25' 3PT Jump Shot,Missed Shot,Jump Shot,23530.0,h,True,WAS,169
-402,558,1610612738,81,111,Brown REBOUND (Off:1 Def:7),Rebound,Unknown,23560.0,v,True,BOS,170
-403,559,1610612738,81,113,Brown 3' Running Layup (27 PTS),Made Shot,Running Layup Shot,23620.0,v,False,BOS,170
-404,560,1610612764,83,113,Kuzma 2' Layup (12 PTS) (Poole 4 AST),Made Shot,Layup Shot,23780.0,h,True,WAS,171
-405,562,1610612738,83,113,Brown OFF.Foul (P1) (M.Kogut),Foul,Offensive,23960.0,v,True,BOS,172
-406,564,1610612738,83,113,Brown Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,23960.0,v,False,BOS,172
-407,565,1610612764,83,113,SUB: Butler FOR Poole,Substitution,,23960.0,h,True,WAS,173
-408,566,1610612764,83,113,SUB: Bagley III FOR Kuzma,Substitution,,23960.0,h,False,WAS,173
-409,567,1610612764,83,113,SUB: George FOR Valančiūnas,Substitution,,23960.0,h,False,WAS,173
-410,568,1610612738,83,113,SUB: Scheierman FOR Brown,Substitution,,23960.0,v,False,WAS,173
-411,573,1610612764,83,113,SUB: Baldwin Jr. FOR Sarr,Substitution,,23960.0,h,False,WAS,173
-412,574,1610612738,83,113,SUB: Davison FOR White,Substitution,,23960.0,v,False,WAS,173
-413,577,1610612764,85,113,Bagley III 3' Reverse Dunk (6 PTS) (Baldwin Jr. 1 AST),Made Shot,Reverse Dunk Shot,24170.0,h,False,WAS,173
-414,579,1610612738,85,113,Davison Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,24320.0,v,True,BOS,174
-415,580,1610612764,85,113,SUB: Carrington FOR Kispert,Substitution,,24320.0,h,True,WAS,175
-416,582,1610612764,85,113,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,24440.0,h,False,WAS,175
-417,583,1610612738,85,113,Queta REBOUND (Off:3 Def:1),Rebound,Unknown,24470.0,v,True,BOS,176
-418,584,1610612738,85,113,MISS Walsh 3' Driving Layup,Missed Shot,Driving Layup Shot,24610.0,v,False,BOS,176
-419,585,1610612764,85,113,Bagley III REBOUND (Off:3 Def:2),Rebound,Unknown,24630.0,h,True,WAS,177
-420,586,1610612764,85,113,MISS Baldwin Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,24760.0,h,False,WAS,177
-421,587,1610612738,85,113,Scheierman REBOUND (Off:0 Def:1),Rebound,Unknown,24790.0,v,True,BOS,178
-422,588,1610612738,85,113,MISS Pritchard 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,24860.0,v,False,BOS,178
-423,589,1610612764,85,113,Baldwin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,24880.0,h,True,WAS,179
-424,590,1610612764,87,113,Bagley III 2' Alley Oop Dunk (8 PTS) (George 2 AST),Made Shot,Alley Oop Dunk Shot,24920.0,h,False,WAS,179
-425,592,1610612764,87,113,Baldwin Jr. P.FOUL (P1.T2) (J.Capers),Foul,Personal,25090.0,h,True,BOS,180
-426,594,1610612738,87,113,MISS Pritchard 31' 3PT Jump Shot,Missed Shot,Jump Shot,25220.0,v,False,BOS,180
-427,595,0,87,113,WIZARDS Rebound,Rebound,Unknown,25220.0,h,True,WAS,181
-428,597,1610612764,87,113,MISS Bagley III 27' 3PT Jump Shot,Missed Shot,Jump Shot,25330.0,h,False,WAS,181
-429,598,1610612738,87,113,Queta REBOUND (Off:3 Def:2),Rebound,Unknown,25370.0,v,True,BOS,182
-430,599,1610612738,87,113,MISS Scheierman 24' 3PT Jump Shot,Missed Shot,Jump Shot,25440.0,v,False,BOS,182
-431,600,1610612738,87,113,Queta REBOUND (Off:4 Def:2),Rebound,Unknown,25470.0,v,False,BOS,182
-432,601,1610612764,87,113,Baldwin Jr. S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,25470.0,h,False,BOS,182
-433,603,1610612738,87,114,Queta Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,25470.0,v,False,BOS,182
-434,604,1610612738,87,114,SUB: Springer FOR Pritchard,Substitution,,25470.0,v,False,BOS,182
-435,606,1610612738,87,115,Queta Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,25470.0,v,False,BOS,182
-436,607,1610612764,87,115,MISS Bagley III 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,25640.0,h,True,WAS,183
-437,608,1610612738,87,115,Queta REBOUND (Off:4 Def:3),Rebound,Unknown,25660.0,v,True,BOS,184
-438,609,1610612738,87,115,MISS Walsh 28' 3PT Jump Shot,Missed Shot,Jump Shot,25710.0,v,False,BOS,184
-439,610,1610612764,87,115,Carrington REBOUND (Off:0 Def:3),Rebound,Unknown,25740.0,h,True,WAS,185
-440,611,1610612764,90,115,Baldwin Jr. 27' 3PT Running Jump Shot (3 PTS) (Carrington 2 AST),Made Shot,Running Jump Shot,25790.0,h,False,WAS,185
-441,613,1610612738,90,115,MISS Queta 28' 3PT Jump Shot,Missed Shot,Jump Shot,26080.0,v,True,BOS,186
-442,614,0,90,115,WIZARDS Rebound,Rebound,Unknown,26100.0,h,True,WAS,187
-443,616,1610612764,90,115,MISS Baldwin Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,26250.0,h,False,WAS,187
-444,617,0,90,115,Celtics Rebound,Rebound,Unknown,26270.0,v,True,BOS,188
-445,620,1610612738,90,115,Davison Lost Ball Turnover (P2.T12),Turnover,Lost Ball,26330.0,v,False,BOS,188
-446,620,1610612764,90,115,George STEAL (1 STL),,,26330.0,h,True,WAS,189
-447,622,1610612764,90,115,MISS Carrington 1' Driving Dunk,Missed Shot,Driving Dunk Shot,26370.0,h,False,WAS,189
-448,623,1610612738,90,115,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,26400.0,v,True,BOS,190
-449,624,1610612738,90,117,Queta 2' Alley Oop Layup (12 PTS) (Springer 1 AST),Made Shot,Alley Oop Layup shot,26440.0,v,False,BOS,190
-450,626,0,90,117,WIZARDS Timeout: Regular (Full 7 Short 0),Timeout,Regular,26460.0,h,True,WAS,191
-451,627,1610612764,90,117,SUB: Champagnie FOR Carrington,Substitution,,26460.0,h,False,WAS,191
-452,628,1610612764,90,117,SUB: Davis FOR George,Substitution,,26460.0,h,False,WAS,191
-453,629,1610612738,90,117,SUB: Peterson FOR Queta,Substitution,,26460.0,v,False,WAS,191
-454,633,1610612764,92,117,Butler 4' Layup (2 PTS),Made Shot,Layup Shot,26590.0,h,False,WAS,191
-455,634,1610612738,92,117,Walsh S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,26590.0,v,False,WAS,191
-456,636,1610612764,93,117,Butler Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,26590.0,h,False,WAS,191
-457,637,1610612738,93,117,Peterson Lost Ball Turnover (P1.T13),Turnover,Lost Ball,26720.0,v,True,BOS,192
-458,637,1610612764,93,117,Butler STEAL (1 STL),,,26720.0,h,True,WAS,193
-459,639,1610612764,93,117,MISS Butler 3' Running Layup,Missed Shot,Running Layup Shot,26770.0,h,False,WAS,193
-460,639,1610612738,93,117,Walsh BLOCK (1 BLK),,,26770.0,v,False,WAS,193
-461,641,1610612764,93,117,Bagley III REBOUND (Off:4 Def:2),Rebound,Unknown,26800.0,h,False,WAS,193
-462,642,1610612738,93,117,Davison S.FOUL (P1.T3) (J.Reneau),Foul,Shooting,26800.0,v,False,WAS,193
-463,644,1610612764,93,117,MISS Bagley III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26800.0,h,False,WAS,193
-464,645,0,93,117,WIZARDS Rebound,Rebound,Normal Rebound,26800.0,h,False,WAS,193
-465,646,1610612764,93,117,MISS Bagley III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26800.0,h,False,WAS,193
-466,647,1610612764,93,117,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,26830.0,h,False,WAS,193
-467,648,1610612764,93,117,MISS Butler 3' Driving Layup,Missed Shot,Driving Layup Shot,26890.0,h,False,WAS,193
-468,648,1610612738,93,117,Peterson BLOCK (1 BLK),,,26890.0,v,False,WAS,193
-469,650,0,93,117,WIZARDS Rebound,Rebound,Unknown,26890.0,h,False,WAS,193
-470,652,1610612764,93,117,SUB: Gill FOR Bagley III,Substitution,,26890.0,h,False,WAS,193
-471,654,1610612764,93,117,MISS Butler 2' Layup,Missed Shot,Layup Shot,26940.0,h,False,WAS,193
-472,655,1610612764,93,117,Baldwin Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,26980.0,h,False,WAS,193
-473,656,1610612764,93,117,MISS Baldwin Jr. 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,26990.0,h,False,WAS,193
-474,657,1610612738,93,117,Peterson REBOUND (Off:0 Def:1),Rebound,Unknown,27010.0,v,True,BOS,194
-475,658,1610612738,93,117,MISS Walsh 26' 3PT Jump Shot,Missed Shot,Jump Shot,27030.0,v,False,BOS,194
-476,659,0,93,117,WIZARDS Rebound,Rebound,Unknown,27060.0,h,True,WAS,195
-477,661,1610612764,93,117,Gill Lost Ball Turnover (P1.T15),Turnover,Lost Ball,27250.0,h,False,WAS,195
-478,661,1610612738,93,117,Peterson STEAL (1 STL),,,27250.0,v,True,BOS,196
-479,663,1610612738,93,119,Scheierman 2' Running Layup (2 PTS) (Davison 1 AST),Made Shot,Running Layup Shot,27290.0,v,False,BOS,196
-480,665,1610612764,95,119,Butler 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,27430.0,h,True,WAS,197
-481,666,1610612738,95,119,Scheierman S.FOUL (P1.T4) (J.Capers),Foul,Shooting,27430.0,v,False,WAS,197
-482,668,1610612764,96,119,Butler Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,27430.0,h,False,WAS,197
-483,669,1610612738,96,119,MISS Scheierman 29' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,27630.0,v,True,BOS,198
-484,670,1610612738,96,119,Springer REBOUND (Off:1 Def:1),Rebound,Unknown,27650.0,v,False,BOS,198
-485,671,1610612764,96,119,Champagnie P.FOUL (P1.T4) (J.Capers),Foul,Personal,27650.0,h,False,BOS,198
-486,673,1610612764,96,119,Champagnie S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,27680.0,h,False,BOS,198
-487,675,1610612738,96,120,Scheierman Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,27680.0,v,False,BOS,198
-488,676,1610612738,96,121,Scheierman Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,27680.0,v,False,BOS,198
-489,677,1610612764,98,121,Gill 1' Cutting Dunk Shot (2 PTS) (Butler 2 AST),Made Shot,Cutting Dunk Shot,27780.0,h,True,WAS,199
-490,679,1610612738,98,121,Davison Bad Pass Turnover (P3.T14),Turnover,Bad Pass,27980.0,v,True,BOS,200
-491,679,1610612764,98,121,Gill STEAL (1 STL),,,27980.0,h,True,WAS,201
-492,681,1610612764,100,121,Baldwin Jr. 2' Cutting Dunk Shot (5 PTS) (Gill 1 AST),Made Shot,Cutting Dunk Shot,28020.0,h,False,WAS,201
-493,683,1610612738,100,121,MISS Davison 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28100.0,v,True,BOS,202
-494,684,1610612738,100,121,Springer REBOUND (Off:2 Def:1),Rebound,Unknown,28160.0,v,False,BOS,202
-495,685,1610612738,100,121,MISS Springer 5' Layup,Missed Shot,Layup Shot,28160.0,v,False,BOS,202
-496,686,1610612764,100,121,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,28190.0,h,True,WAS,203
-497,687,1610612764,102,121,Baldwin Jr. 2' Cutting Dunk Shot (7 PTS) (Champagnie 1 AST),Made Shot,Cutting Dunk Shot,28200.0,h,False,WAS,203
-498,689,1610612764,102,121,Champagnie S.FOUL (P3.PN) (J.Reneau),Foul,Shooting,28315.0,h,True,BOS,204
-499,691,1610612738,102,121,MISS Springer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,28315.0,v,False,BOS,204
-500,692,0,102,121,Celtics Rebound,Rebound,Normal Rebound,28315.0,v,False,BOS,204
-501,693,1610612738,102,122,Springer Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,28315.0,v,False,BOS,204
-502,696,1610612764,102,122,MISS Gill 7' Driving Layup,Missed Shot,Driving Layup Shot,28495.0,h,True,WAS,205
-503,696,1610612738,102,122,Peterson BLOCK (2 BLK),,,28495.0,v,False,WAS,205
-504,698,0,102,122,WIZARDS Rebound,Rebound,Unknown,28495.0,h,False,WAS,205
-505,700,1610612764,102,122,MISS Butler 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28557.0,h,False,WAS,205
-506,701,1610612738,102,122,Davison REBOUND (Off:0 Def:1),Rebound,Unknown,28584.0,v,True,BOS,206
-507,702,0,102,122,End of 4th Period (9:26 PM EST),period,end,28800.0,,False,BOS,206
+369,505,0,73,98,End of 3rd Period (8:56 PM EST),period,end,21600.0,,True,BOS,154
+370,512,0,73,98,Start of 4th Period (8:59 PM EST),period,start,21600.0,,True,BOS,155
+371,513,1610612738,73,101,Brown 27' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,21790.0,v,False,BOS,155
+372,514,1610612764,73,101,MISS Valančiūnas 8' Jump Shot,Missed Shot,Jump Shot,21940.0,h,True,WAS,156
+373,515,1610612738,73,101,Pritchard REBOUND (Off:0 Def:1),Rebound,Unknown,21970.0,v,True,BOS,157
+374,516,1610612738,73,104,Brown 26' 3PT Jump Shot (23 PTS) (Pritchard 2 AST),Made Shot,Jump Shot,22000.0,v,False,BOS,157
+375,518,0,73,104,WIZARDS Timeout: Regular (Full 6 Short 0),Timeout,Regular,22010.0,h,True,WAS,158
+376,521,1610612764,75,104,Valančiūnas Cutting Dunk Shot (16 PTS) (Kispert 3 AST),Made Shot,Cutting Dunk Shot,22110.0,h,False,WAS,158
+377,523,1610612738,75,104,MISS Queta 5' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,22320.0,v,True,BOS,159
+378,523,1610612764,75,104,Sarr BLOCK (2 BLK),,,22320.0,h,False,BOS,159
+379,525,1610612764,75,104,Valančiūnas REBOUND (Off:1 Def:3),Rebound,Unknown,22340.0,h,True,WAS,160
+380,526,1610612764,75,104,Poole Out of Bounds - Bad Pass Turnover Turnover (P4.T14),Turnover,Out of Bounds - Bad Pass Turnover,22390.0,h,False,WAS,160
+381,527,1610612738,75,107,Tillman 27' 3PT Jump Shot (8 PTS) (Brown 3 AST),Made Shot,Jump Shot,22500.0,v,True,BOS,161
+382,529,1610612764,75,107,MISS Kispert 25' 3PT Jump Shot,Missed Shot,Jump Shot,22620.0,h,True,WAS,162
+383,530,1610612738,75,107,Brown REBOUND (Off:1 Def:6),Rebound,Unknown,22660.0,v,True,BOS,163
+384,531,1610612738,75,107,Brown Bad Pass Turnover (P1.T8),Turnover,Bad Pass,22710.0,v,False,BOS,163
+385,531,1610612764,75,107,Kuzma STEAL (1 STL),,,22710.0,h,True,WAS,164
+386,533,1610612738,75,107,Queta S.FOUL (P3.T1) (J.Capers),Foul,Shooting,22720.0,v,False,WAS,164
+387,535,1610612764,76,107,Poole Free Throw 1 of 2 (25 PTS),Free Throw,Free Throw 1 of 2,22720.0,h,False,WAS,164
+388,543,1610612738,76,107,SUB: Walsh FOR Tillman,Substitution,,22720.0,v,False,WAS,164
+389,540,1610612764,77,107,Poole Free Throw 2 of 2 (26 PTS),Free Throw,Free Throw 2 of 2,22720.0,h,False,WAS,164
+390,541,1610612764,77,107,Poole P.FOUL (P3.T1) (J.Capers),Foul,Personal,22850.0,h,True,BOS,165
+391,545,1610612738,77,107,MISS Brown 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22920.0,v,False,BOS,165
+392,546,1610612738,77,107,Queta REBOUND (Off:3 Def:0),Rebound,Unknown,22970.0,v,False,BOS,165
+393,547,1610612738,77,109,Queta Tip Layup Shot (8 PTS),Made Shot,Tip Layup Shot,22970.0,v,False,BOS,165
+394,548,1610612764,77,109,MISS Poole 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,23040.0,h,True,WAS,166
+395,549,1610612764,77,109,Valančiūnas REBOUND (Off:2 Def:3),Rebound,Unknown,23080.0,h,False,WAS,166
+396,550,1610612764,79,109,Valančiūnas Putback Dunk (18 PTS),Made Shot,Putback Dunk Shot,23080.0,h,False,WAS,166
+397,551,1610612738,79,111,Brown 5' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,23220.0,v,True,BOS,167
+398,552,1610612764,81,111,Kispert 3' Driving Layup (6 PTS) (Valančiūnas 2 AST),Made Shot,Driving Layup Shot,23300.0,h,True,WAS,168
+399,553,1610612738,81,111,Queta OFF.Foul (P4) (J.Reneau),Foul,Offensive,23410.0,v,True,BOS,169
+400,555,1610612738,81,111,Queta Offensive Foul Turnover (P1.T9),Turnover,Offensive Foul Turnover,23410.0,v,False,BOS,169
+401,557,1610612764,81,111,MISS Sarr 25' 3PT Jump Shot,Missed Shot,Jump Shot,23530.0,h,True,WAS,170
+402,558,1610612738,81,111,Brown REBOUND (Off:1 Def:7),Rebound,Unknown,23560.0,v,True,BOS,171
+403,559,1610612738,81,113,Brown 3' Running Layup (27 PTS),Made Shot,Running Layup Shot,23620.0,v,False,BOS,171
+404,560,1610612764,83,113,Kuzma 2' Layup (12 PTS) (Poole 4 AST),Made Shot,Layup Shot,23780.0,h,True,WAS,172
+405,562,1610612738,83,113,Brown OFF.Foul (P1) (M.Kogut),Foul,Offensive,23960.0,v,True,BOS,173
+406,564,1610612738,83,113,Brown Offensive Foul Turnover (P2.T10),Turnover,Offensive Foul Turnover,23960.0,v,False,BOS,173
+407,565,1610612764,83,113,SUB: Butler FOR Poole,Substitution,,23960.0,h,True,WAS,174
+408,566,1610612764,83,113,SUB: Bagley III FOR Kuzma,Substitution,,23960.0,h,False,WAS,174
+409,567,1610612764,83,113,SUB: George FOR Valančiūnas,Substitution,,23960.0,h,False,WAS,174
+410,568,1610612738,83,113,SUB: Scheierman FOR Brown,Substitution,,23960.0,v,False,WAS,174
+411,573,1610612764,83,113,SUB: Baldwin Jr. FOR Sarr,Substitution,,23960.0,h,False,WAS,174
+412,574,1610612738,83,113,SUB: Davison FOR White,Substitution,,23960.0,v,False,WAS,174
+413,577,1610612764,85,113,Bagley III 3' Reverse Dunk (6 PTS) (Baldwin Jr. 1 AST),Made Shot,Reverse Dunk Shot,24170.0,h,False,WAS,174
+414,579,1610612738,85,113,Davison Out of Bounds - Bad Pass Turnover Turnover (P1.T11),Turnover,Out of Bounds - Bad Pass Turnover,24320.0,v,True,BOS,175
+415,580,1610612764,85,113,SUB: Carrington FOR Kispert,Substitution,,24320.0,h,True,WAS,176
+416,582,1610612764,85,113,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,24440.0,h,False,WAS,176
+417,583,1610612738,85,113,Queta REBOUND (Off:3 Def:1),Rebound,Unknown,24470.0,v,True,BOS,177
+418,584,1610612738,85,113,MISS Walsh 3' Driving Layup,Missed Shot,Driving Layup Shot,24610.0,v,False,BOS,177
+419,585,1610612764,85,113,Bagley III REBOUND (Off:3 Def:2),Rebound,Unknown,24630.0,h,True,WAS,178
+420,586,1610612764,85,113,MISS Baldwin Jr. 24' 3PT Jump Shot,Missed Shot,Jump Shot,24760.0,h,False,WAS,178
+421,587,1610612738,85,113,Scheierman REBOUND (Off:0 Def:1),Rebound,Unknown,24790.0,v,True,BOS,179
+422,588,1610612738,85,113,MISS Pritchard 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,24860.0,v,False,BOS,179
+423,589,1610612764,85,113,Baldwin Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,24880.0,h,True,WAS,180
+424,590,1610612764,87,113,Bagley III 2' Alley Oop Dunk (8 PTS) (George 2 AST),Made Shot,Alley Oop Dunk Shot,24920.0,h,False,WAS,180
+425,592,1610612764,87,113,Baldwin Jr. P.FOUL (P1.T2) (J.Capers),Foul,Personal,25090.0,h,True,BOS,181
+426,594,1610612738,87,113,MISS Pritchard 31' 3PT Jump Shot,Missed Shot,Jump Shot,25220.0,v,False,BOS,181
+427,595,0,87,113,WIZARDS Rebound,Rebound,Unknown,25220.0,h,True,WAS,182
+428,597,1610612764,87,113,MISS Bagley III 27' 3PT Jump Shot,Missed Shot,Jump Shot,25330.0,h,False,WAS,182
+429,598,1610612738,87,113,Queta REBOUND (Off:3 Def:2),Rebound,Unknown,25370.0,v,True,BOS,183
+430,599,1610612738,87,113,MISS Scheierman 24' 3PT Jump Shot,Missed Shot,Jump Shot,25440.0,v,False,BOS,183
+431,600,1610612738,87,113,Queta REBOUND (Off:4 Def:2),Rebound,Unknown,25470.0,v,False,BOS,183
+432,601,1610612764,87,113,Baldwin Jr. S.FOUL (P2.T3) (M.Kogut),Foul,Shooting,25470.0,h,False,BOS,183
+433,603,1610612738,87,114,Queta Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,25470.0,v,False,BOS,183
+434,604,1610612738,87,114,SUB: Springer FOR Pritchard,Substitution,,25470.0,v,False,BOS,183
+435,606,1610612738,87,115,Queta Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,25470.0,v,False,BOS,183
+436,607,1610612764,87,115,MISS Bagley III 3' Alley Oop Dunk,Missed Shot,Alley Oop Dunk Shot,25640.0,h,True,WAS,184
+437,608,1610612738,87,115,Queta REBOUND (Off:4 Def:3),Rebound,Unknown,25660.0,v,True,BOS,185
+438,609,1610612738,87,115,MISS Walsh 28' 3PT Jump Shot,Missed Shot,Jump Shot,25710.0,v,False,BOS,185
+439,610,1610612764,87,115,Carrington REBOUND (Off:0 Def:3),Rebound,Unknown,25740.0,h,True,WAS,186
+440,611,1610612764,90,115,Baldwin Jr. 27' 3PT Running Jump Shot (3 PTS) (Carrington 2 AST),Made Shot,Running Jump Shot,25790.0,h,False,WAS,186
+441,613,1610612738,90,115,MISS Queta 28' 3PT Jump Shot,Missed Shot,Jump Shot,26080.0,v,True,BOS,187
+442,614,0,90,115,WIZARDS Rebound,Rebound,Unknown,26100.0,h,True,WAS,188
+443,616,1610612764,90,115,MISS Baldwin Jr. 28' 3PT Jump Shot,Missed Shot,Jump Shot,26250.0,h,False,WAS,188
+444,617,0,90,115,Celtics Rebound,Rebound,Unknown,26270.0,v,True,BOS,189
+445,620,1610612738,90,115,Davison Lost Ball Turnover (P2.T12),Turnover,Lost Ball,26330.0,v,False,BOS,189
+446,620,1610612764,90,115,George STEAL (1 STL),,,26330.0,h,True,WAS,190
+447,622,1610612764,90,115,MISS Carrington 1' Driving Dunk,Missed Shot,Driving Dunk Shot,26370.0,h,False,WAS,190
+448,623,1610612738,90,115,Springer REBOUND (Off:0 Def:1),Rebound,Unknown,26400.0,v,True,BOS,191
+449,624,1610612738,90,117,Queta 2' Alley Oop Layup (12 PTS) (Springer 1 AST),Made Shot,Alley Oop Layup shot,26440.0,v,False,BOS,191
+450,626,0,90,117,WIZARDS Timeout: Regular (Full 7 Short 0),Timeout,Regular,26460.0,h,True,WAS,192
+451,627,1610612764,90,117,SUB: Champagnie FOR Carrington,Substitution,,26460.0,h,False,WAS,192
+452,628,1610612764,90,117,SUB: Davis FOR George,Substitution,,26460.0,h,False,WAS,192
+453,629,1610612738,90,117,SUB: Peterson FOR Queta,Substitution,,26460.0,v,False,WAS,192
+454,633,1610612764,92,117,Butler 4' Layup (2 PTS),Made Shot,Layup Shot,26590.0,h,False,WAS,192
+455,634,1610612738,92,117,Walsh S.FOUL (P1.T2) (M.Kogut),Foul,Shooting,26590.0,v,False,WAS,192
+456,636,1610612764,93,117,Butler Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,26590.0,h,False,WAS,192
+457,637,1610612738,93,117,Peterson Lost Ball Turnover (P1.T13),Turnover,Lost Ball,26720.0,v,True,BOS,193
+458,637,1610612764,93,117,Butler STEAL (1 STL),,,26720.0,h,True,WAS,194
+459,639,1610612764,93,117,MISS Butler 3' Running Layup,Missed Shot,Running Layup Shot,26770.0,h,False,WAS,194
+460,639,1610612738,93,117,Walsh BLOCK (1 BLK),,,26770.0,v,False,WAS,194
+461,641,1610612764,93,117,Bagley III REBOUND (Off:4 Def:2),Rebound,Unknown,26800.0,h,False,WAS,194
+462,642,1610612738,93,117,Davison S.FOUL (P1.T3) (J.Reneau),Foul,Shooting,26800.0,v,False,WAS,194
+463,644,1610612764,93,117,MISS Bagley III Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26800.0,h,False,WAS,194
+464,645,0,93,117,WIZARDS Rebound,Rebound,Normal Rebound,26800.0,h,False,WAS,194
+465,646,1610612764,93,117,MISS Bagley III Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,26800.0,h,False,WAS,194
+466,647,1610612764,93,117,Champagnie REBOUND (Off:1 Def:0),Rebound,Unknown,26830.0,h,False,WAS,194
+467,648,1610612764,93,117,MISS Butler 3' Driving Layup,Missed Shot,Driving Layup Shot,26890.0,h,False,WAS,194
+468,648,1610612738,93,117,Peterson BLOCK (1 BLK),,,26890.0,v,False,WAS,194
+469,650,0,93,117,WIZARDS Rebound,Rebound,Unknown,26890.0,h,False,WAS,194
+470,652,1610612764,93,117,SUB: Gill FOR Bagley III,Substitution,,26890.0,h,False,WAS,194
+471,654,1610612764,93,117,MISS Butler 2' Layup,Missed Shot,Layup Shot,26940.0,h,False,WAS,194
+472,655,1610612764,93,117,Baldwin Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,26980.0,h,False,WAS,194
+473,656,1610612764,93,117,MISS Baldwin Jr. 3' Tip Layup Shot,Missed Shot,Tip Layup Shot,26990.0,h,False,WAS,194
+474,657,1610612738,93,117,Peterson REBOUND (Off:0 Def:1),Rebound,Unknown,27010.0,v,True,BOS,195
+475,658,1610612738,93,117,MISS Walsh 26' 3PT Jump Shot,Missed Shot,Jump Shot,27030.0,v,False,BOS,195
+476,659,0,93,117,WIZARDS Rebound,Rebound,Unknown,27060.0,h,True,WAS,196
+477,661,1610612764,93,117,Gill Lost Ball Turnover (P1.T15),Turnover,Lost Ball,27250.0,h,False,WAS,196
+478,661,1610612738,93,117,Peterson STEAL (1 STL),,,27250.0,v,True,BOS,197
+479,663,1610612738,93,119,Scheierman 2' Running Layup (2 PTS) (Davison 1 AST),Made Shot,Running Layup Shot,27290.0,v,False,BOS,197
+480,665,1610612764,95,119,Butler 2' Driving Layup (5 PTS),Made Shot,Driving Layup Shot,27430.0,h,True,WAS,198
+481,666,1610612738,95,119,Scheierman S.FOUL (P1.T4) (J.Capers),Foul,Shooting,27430.0,v,False,WAS,198
+482,668,1610612764,96,119,Butler Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,27430.0,h,False,WAS,198
+483,669,1610612738,96,119,MISS Scheierman 29' 3PT Jump Bank Shot,Missed Shot,Jump Bank Shot,27630.0,v,True,BOS,199
+484,670,1610612738,96,119,Springer REBOUND (Off:1 Def:1),Rebound,Unknown,27650.0,v,False,BOS,199
+485,671,1610612764,96,119,Champagnie P.FOUL (P1.T4) (J.Capers),Foul,Personal,27650.0,h,False,BOS,199
+486,673,1610612764,96,119,Champagnie S.FOUL (P2.PN) (M.Kogut),Foul,Shooting,27680.0,h,False,BOS,199
+487,675,1610612738,96,120,Scheierman Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,27680.0,v,False,BOS,199
+488,676,1610612738,96,121,Scheierman Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,27680.0,v,False,BOS,199
+489,677,1610612764,98,121,Gill 1' Cutting Dunk Shot (2 PTS) (Butler 2 AST),Made Shot,Cutting Dunk Shot,27780.0,h,True,WAS,200
+490,679,1610612738,98,121,Davison Bad Pass Turnover (P3.T14),Turnover,Bad Pass,27980.0,v,True,BOS,201
+491,679,1610612764,98,121,Gill STEAL (1 STL),,,27980.0,h,True,WAS,202
+492,681,1610612764,100,121,Baldwin Jr. 2' Cutting Dunk Shot (5 PTS) (Gill 1 AST),Made Shot,Cutting Dunk Shot,28020.0,h,False,WAS,202
+493,683,1610612738,100,121,MISS Davison 31' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28100.0,v,True,BOS,203
+494,684,1610612738,100,121,Springer REBOUND (Off:2 Def:1),Rebound,Unknown,28160.0,v,False,BOS,203
+495,685,1610612738,100,121,MISS Springer 5' Layup,Missed Shot,Layup Shot,28160.0,v,False,BOS,203
+496,686,1610612764,100,121,Champagnie REBOUND (Off:1 Def:1),Rebound,Unknown,28190.0,h,True,WAS,204
+497,687,1610612764,102,121,Baldwin Jr. 2' Cutting Dunk Shot (7 PTS) (Champagnie 1 AST),Made Shot,Cutting Dunk Shot,28200.0,h,False,WAS,204
+498,689,1610612764,102,121,Champagnie S.FOUL (P3.PN) (J.Reneau),Foul,Shooting,28315.0,h,True,BOS,205
+499,691,1610612738,102,121,MISS Springer Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,28315.0,v,False,BOS,205
+500,692,0,102,121,Celtics Rebound,Rebound,Normal Rebound,28315.0,v,False,BOS,205
+501,693,1610612738,102,122,Springer Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,28315.0,v,False,BOS,205
+502,696,1610612764,102,122,MISS Gill 7' Driving Layup,Missed Shot,Driving Layup Shot,28495.0,h,True,WAS,206
+503,696,1610612738,102,122,Peterson BLOCK (2 BLK),,,28495.0,v,False,WAS,206
+504,698,0,102,122,WIZARDS Rebound,Rebound,Unknown,28495.0,h,False,WAS,206
+505,700,1610612764,102,122,MISS Butler 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28557.0,h,False,WAS,206
+506,701,1610612738,102,122,Davison REBOUND (Off:0 Def:1),Rebound,Unknown,28584.0,v,True,BOS,207
+507,702,0,102,122,End of 4th Period (9:26 PM EST),period,end,28800.0,,False,BOS,207

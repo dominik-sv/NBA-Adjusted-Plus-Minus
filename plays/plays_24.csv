@@ -520,4 +520,4 @@
 518,730,1610612759,120,109,MISS Wesley 4' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,28532.0,v,False,SAS,207
 519,731,1610612742,120,109,Dinwiddie REBOUND (Off:0 Def:1),Rebound,Unknown,28559.0,h,True,DAL,208
 520,732,0,120,109,MAVERICKS Turnover: Shot Clock (T#10),Turnover,Shot Clock Turnover,28778.0,h,False,DAL,208
-521,733,0,120,109,End of 4th Period (9:55 PM EST),period,end,28800.0,,False,DAL,208
+521,733,0,120,109,End of 4th Period (9:55 PM EST),period,end,28800.0,,True,SAS,209

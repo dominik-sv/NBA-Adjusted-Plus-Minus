@@ -6,6 +6,7 @@ from label_play_by_play import get_labelled_play_by_play
 
 seasons = ['2024-25']
 
+# Get game_ids
 for season in seasons:
     game_log = LeagueGameLog(season=season).get_data_frames()[0]
 

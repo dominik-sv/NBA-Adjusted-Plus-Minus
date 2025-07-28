@@ -503,64 +503,64 @@
 501,716,1610612746,103,103,MISS Harden 5' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,28790.0,h,True,LAC,203
 502,717,0,103,103,CLIPPERS Rebound,Rebound,Unknown,28790.0,h,False,LAC,203
 503,718,0,103,103,End of 4th Period (12:43 AM EST),period,end,28800.0,,False,LAC,203
-504,725,0,103,103,Start of 1st OT (12:46 AM EST),period,start,25800.0,,False,,203
-505,727,1610612746,103,103,Jump Ball Zubac vs. Nurkić: Tip to Jones,Jump Ball,,25800.0,h,True,LAC,204
-506,730,1610612746,103,103,Jones Jr. S.FOUL (P3.T1) (N.Buchert),Foul,Shooting,25950.0,h,False,LAC,204
-507,732,1610612756,103,104,Durant Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,25950.0,v,False,LAC,204
-508,733,1610612756,103,105,Durant Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,25950.0,v,False,LAC,204
-509,734,1610612746,106,105,Jones Jr. 27' 3PT Jump Shot (10 PTS) (Harden 8 AST),Made Shot,Jump Shot,26190.0,h,True,PHX,205
-510,736,1610612756,106,105,MISS Durant 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,26290.0,v,True,LAC,206
-511,737,1610612746,106,105,Coffey REBOUND (Off:0 Def:3),Rebound,Unknown,26310.0,h,True,PHX,207
-512,738,1610612746,106,105,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,26380.0,h,False,PHX,207
-513,739,1610612746,106,105,Zubac REBOUND (Off:1 Def:8),Rebound,Unknown,26390.0,h,False,PHX,207
-514,740,1610612746,106,105,MISS Zubac Tip Layup Shot,Missed Shot,Tip Layup Shot,26400.0,h,False,PHX,207
-515,741,1610612756,106,105,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,26410.0,v,True,LAC,208
-516,743,1610612756,106,108,Beal 25' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,26560.0,v,False,LAC,208
-517,744,1610612746,106,108,MISS Powell 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,26730.0,h,True,PHX,209
-518,745,1610612756,106,108,Nurkić REBOUND (Off:0 Def:8),Rebound,Unknown,26750.0,v,True,LAC,210
-519,746,1610612756,106,108,Durant Double Dribble Turnover (P7.T21),Turnover,Double Dribble,26920.0,v,False,LAC,210
-520,747,1610612746,106,108,Harden Lost Ball Turnover (P7.T21),Turnover,Lost Ball,27040.0,h,True,PHX,211
-521,747,1610612756,106,108,Nurkić STEAL (2 STL),,,27040.0,v,True,LAC,212
-522,749,1610612746,106,108,Zubac S.FOUL (P5.T2) (S.Twardoski),Foul,Shooting,27160.0,h,False,LAC,212
-523,751,1610612756,106,109,Beal Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,27160.0,v,False,LAC,212
-524,752,1610612756,106,109,SUB: O'Neale FOR Allen,Substitution,,27160.0,v,False,LAC,212
-525,754,1610612756,106,110,Beal Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,27160.0,v,False,LAC,212
-526,755,1610612756,106,110,Nurkić S.FOUL (P4.T1) (S.Twardoski),Foul,Shooting,27310.0,v,True,PHX,213
-527,757,1610612746,107,110,Zubac Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,27310.0,h,False,PHX,213
-528,758,1610612746,108,110,Zubac Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,27310.0,h,False,PHX,213
-529,759,1610612746,108,110,Zubac S.FOUL (P6.T3) (S.Twardoski),Foul,Shooting,27450.0,h,True,LAC,214
-530,761,1610612746,108,110,SUB: Batum FOR Zubac,Substitution,,27450.0,h,False,LAC,214
-531,763,1610612756,108,111,Nurkić Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,27450.0,v,False,LAC,214
-532,764,1610612756,108,112,Nurkić Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,27450.0,v,False,LAC,214
-533,765,1610612746,108,112,MISS Jones Jr. 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,27670.0,h,True,PHX,215
-534,766,1610612756,108,112,O'Neale REBOUND (Off:1 Def:4),Rebound,Unknown,27680.0,v,True,LAC,216
-535,767,1610612756,108,112,MISS Durant 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,27720.0,v,False,LAC,216
-536,768,1610612746,108,112,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,27740.0,h,True,PHX,217
-537,769,1610612746,110,112,Jones Jr. 2' Running Finger Roll Layup (12 PTS) (Powell 4 AST),Made Shot,Running Finger Roll Layup Shot,27800.0,h,False,PHX,217
-538,771,1610612746,110,112,Coffey P.FOUL (P2.PN) (N.Buchert),Foul,Personal,28000.0,h,True,LAC,218
-539,773,1610612756,110,113,Beal Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,28000.0,v,False,LAC,218
-540,774,1610612756,110,113,SUB: Allen FOR Nurkić,Substitution,,28000.0,v,False,LAC,218
-541,776,1610612756,110,114,Beal Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,28000.0,v,False,LAC,218
-542,777,0,110,114,CLIPPERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,28000.0,h,False,LAC,218
-543,778,1610612746,112,114,Powell 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,28040.0,h,True,PHX,219
-544,779,1610612756,112,114,Beal Out of Bounds Lost Ball Turnover (P2.T22),Turnover,Out of Bounds Lost Ball Turnover,28201.0,v,True,LAC,220
-545,780,1610612746,112,114,MISS Powell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28385.0,h,True,PHX,221
-546,781,1610612756,112,114,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,28419.0,v,True,LAC,222
-547,782,1610612756,112,114,MISS Durant 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,28621.0,v,False,LAC,222
-548,783,1610612746,112,114,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,28643.0,h,True,PHX,223
-549,784,1610612756,112,114,Allen S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,28752.0,v,False,PHX,223
-550,786,1610612746,113,114,Harden Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,28752.0,h,False,PHX,223
-551,787,1610612756,113,114,SUB: Nurkić FOR Allen,Substitution,,28752.0,v,False,PHX,223
-552,789,1610612746,113,114,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,28752.0,h,False,PHX,223
-553,790,1610612756,113,114,Nurkić REBOUND (Off:0 Def:9),Rebound,Unknown,28770.0,v,True,LAC,224
-554,791,1610612746,113,114,Jones Jr. P.FOUL (P4.PN) (S.Twardoski),Foul,Personal,28770.0,h,False,LAC,224
-555,793,1610612756,113,115,Nurkić Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,28770.0,v,False,LAC,224
-556,794,1610612746,113,115,SUB: Jones FOR Powell,Substitution,,28770.0,h,False,LAC,224
-557,796,1610612756,113,116,Nurkić Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,28770.0,v,False,LAC,224
-558,797,0,113,116,CLIPPERS Timeout: Regular (Full 8 Short 0),Timeout,Regular,28770.0,h,False,LAC,224
-559,798,1610612746,113,116,SUB: Dunn FOR Batum,Substitution,,28770.0,h,False,LAC,224
-560,799,1610612746,113,116,SUB: Powell FOR Jones,Substitution,,28770.0,h,False,LAC,224
-561,800,1610612756,113,116,SUB: Allen FOR Nurkić,Substitution,,28770.0,v,False,LAC,224
-562,804,1610612746,113,116,Harden Lost Ball Turnover (P8.T22),Turnover,Lost Ball,28784.0,h,True,PHX,225
-563,804,1610612756,113,116,Allen STEAL (1 STL),,,28784.0,v,True,LAC,226
-564,806,0,113,116,End of 1st OT (1:03 AM EST),period,end,28800.0,,False,LAC,226
+504,725,0,103,103,Start of 1st OT (12:46 AM EST),period,start,25800.0,,False,LAC,203
+505,727,1610612746,103,103,Jump Ball Zubac vs. Nurkić: Tip to Jones,Jump Ball,,25800.0,h,True,PHX,204
+506,730,1610612746,103,103,Jones Jr. S.FOUL (P3.T1) (N.Buchert),Foul,Shooting,25950.0,h,False,PHX,204
+507,732,1610612756,103,104,Durant Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,25950.0,v,False,PHX,204
+508,733,1610612756,103,105,Durant Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,25950.0,v,False,PHX,204
+509,734,1610612746,106,105,Jones Jr. 27' 3PT Jump Shot (10 PTS) (Harden 8 AST),Made Shot,Jump Shot,26190.0,h,True,LAC,205
+510,736,1610612756,106,105,MISS Durant 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,26290.0,v,True,PHX,206
+511,737,1610612746,106,105,Coffey REBOUND (Off:0 Def:3),Rebound,Unknown,26310.0,h,True,LAC,207
+512,738,1610612746,106,105,MISS Harden 3' Running Layup,Missed Shot,Running Layup Shot,26380.0,h,False,LAC,207
+513,739,1610612746,106,105,Zubac REBOUND (Off:1 Def:8),Rebound,Unknown,26390.0,h,False,LAC,207
+514,740,1610612746,106,105,MISS Zubac Tip Layup Shot,Missed Shot,Tip Layup Shot,26400.0,h,False,LAC,207
+515,741,1610612756,106,105,Jones REBOUND (Off:0 Def:2),Rebound,Unknown,26410.0,v,True,PHX,208
+516,743,1610612756,106,108,Beal 25' 3PT Pullup Jump Shot (20 PTS),Made Shot,Pullup Jump shot,26560.0,v,False,PHX,208
+517,744,1610612746,106,108,MISS Powell 14' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,26730.0,h,True,LAC,209
+518,745,1610612756,106,108,Nurkić REBOUND (Off:0 Def:8),Rebound,Unknown,26750.0,v,True,PHX,210
+519,746,1610612756,106,108,Durant Double Dribble Turnover (P7.T21),Turnover,Double Dribble,26920.0,v,False,PHX,210
+520,747,1610612746,106,108,Harden Lost Ball Turnover (P7.T21),Turnover,Lost Ball,27040.0,h,True,LAC,211
+521,747,1610612756,106,108,Nurkić STEAL (2 STL),,,27040.0,v,True,PHX,212
+522,749,1610612746,106,108,Zubac S.FOUL (P5.T2) (S.Twardoski),Foul,Shooting,27160.0,h,False,PHX,212
+523,751,1610612756,106,109,Beal Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,27160.0,v,False,PHX,212
+524,752,1610612756,106,109,SUB: O'Neale FOR Allen,Substitution,,27160.0,v,False,PHX,212
+525,754,1610612756,106,110,Beal Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,27160.0,v,False,PHX,212
+526,755,1610612756,106,110,Nurkić S.FOUL (P4.T1) (S.Twardoski),Foul,Shooting,27310.0,v,True,LAC,213
+527,757,1610612746,107,110,Zubac Free Throw 1 of 2 (20 PTS),Free Throw,Free Throw 1 of 2,27310.0,h,False,LAC,213
+528,758,1610612746,108,110,Zubac Free Throw 2 of 2 (21 PTS),Free Throw,Free Throw 2 of 2,27310.0,h,False,LAC,213
+529,759,1610612746,108,110,Zubac S.FOUL (P6.T3) (S.Twardoski),Foul,Shooting,27450.0,h,True,PHX,214
+530,761,1610612746,108,110,SUB: Batum FOR Zubac,Substitution,,27450.0,h,False,PHX,214
+531,763,1610612756,108,111,Nurkić Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,27450.0,v,False,PHX,214
+532,764,1610612756,108,112,Nurkić Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,27450.0,v,False,PHX,214
+533,765,1610612746,108,112,MISS Jones Jr. 2' Cutting Finger Roll Layup Shot,Missed Shot,Cutting Finger Roll Layup Shot,27670.0,h,True,LAC,215
+534,766,1610612756,108,112,O'Neale REBOUND (Off:1 Def:4),Rebound,Unknown,27680.0,v,True,PHX,216
+535,767,1610612756,108,112,MISS Durant 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,27720.0,v,False,PHX,216
+536,768,1610612746,108,112,Powell REBOUND (Off:1 Def:3),Rebound,Unknown,27740.0,h,True,LAC,217
+537,769,1610612746,110,112,Jones Jr. 2' Running Finger Roll Layup (12 PTS) (Powell 4 AST),Made Shot,Running Finger Roll Layup Shot,27800.0,h,False,LAC,217
+538,771,1610612746,110,112,Coffey P.FOUL (P2.PN) (N.Buchert),Foul,Personal,28000.0,h,True,PHX,218
+539,773,1610612756,110,113,Beal Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,28000.0,v,False,PHX,218
+540,774,1610612756,110,113,SUB: Allen FOR Nurkić,Substitution,,28000.0,v,False,PHX,218
+541,776,1610612756,110,114,Beal Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,28000.0,v,False,PHX,218
+542,777,0,110,114,CLIPPERS Timeout: Regular (Full 7 Short 0),Timeout,Regular,28000.0,h,False,PHX,218
+543,778,1610612746,112,114,Powell 1' Driving Layup (17 PTS),Made Shot,Driving Layup Shot,28040.0,h,True,LAC,219
+544,779,1610612756,112,114,Beal Out of Bounds Lost Ball Turnover (P2.T22),Turnover,Out of Bounds Lost Ball Turnover,28201.0,v,True,PHX,220
+545,780,1610612746,112,114,MISS Powell 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28385.0,h,True,LAC,221
+546,781,1610612756,112,114,Durant REBOUND (Off:0 Def:7),Rebound,Unknown,28419.0,v,True,PHX,222
+547,782,1610612756,112,114,MISS Durant 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,28621.0,v,False,PHX,222
+548,783,1610612746,112,114,Batum REBOUND (Off:0 Def:2),Rebound,Unknown,28643.0,h,True,LAC,223
+549,784,1610612756,112,114,Allen S.FOUL (P2.T2) (N.Buchert),Foul,Shooting,28752.0,v,False,LAC,223
+550,786,1610612746,113,114,Harden Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,28752.0,h,False,LAC,223
+551,787,1610612756,113,114,SUB: Nurkić FOR Allen,Substitution,,28752.0,v,False,LAC,223
+552,789,1610612746,113,114,MISS Harden Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,28752.0,h,False,LAC,223
+553,790,1610612756,113,114,Nurkić REBOUND (Off:0 Def:9),Rebound,Unknown,28770.0,v,True,PHX,224
+554,791,1610612746,113,114,Jones Jr. P.FOUL (P4.PN) (S.Twardoski),Foul,Personal,28770.0,h,False,PHX,224
+555,793,1610612756,113,115,Nurkić Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,28770.0,v,False,PHX,224
+556,794,1610612746,113,115,SUB: Jones FOR Powell,Substitution,,28770.0,h,False,PHX,224
+557,796,1610612756,113,116,Nurkić Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,28770.0,v,False,PHX,224
+558,797,0,113,116,CLIPPERS Timeout: Regular (Full 8 Short 0),Timeout,Regular,28770.0,h,False,PHX,224
+559,798,1610612746,113,116,SUB: Dunn FOR Batum,Substitution,,28770.0,h,False,PHX,224
+560,799,1610612746,113,116,SUB: Powell FOR Jones,Substitution,,28770.0,h,False,PHX,224
+561,800,1610612756,113,116,SUB: Allen FOR Nurkić,Substitution,,28770.0,v,False,PHX,224
+562,804,1610612746,113,116,Harden Lost Ball Turnover (P8.T22),Turnover,Lost Ball,28784.0,h,True,LAC,225
+563,804,1610612756,113,116,Allen STEAL (1 STL),,,28784.0,v,True,PHX,226
+564,806,0,113,116,End of 1st OT (1:03 AM EST),period,end,28800.0,,False,PHX,226

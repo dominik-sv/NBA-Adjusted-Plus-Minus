@@ -185,389 +185,389 @@
 183,252,1610612762,32,39,Markkanen Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,9420.0,h,False,UTA,71
 184,253,1610612762,33,39,Markkanen Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,9420.0,h,False,UTA,71
 185,254,1610612762,33,39," Foul : Double Personal - Collins (2 PF), Edey (3 PF) (J.Williams)",Foul,Double Personal,9420.0,,False,UTA,71
-186,258,1610612763,33,39,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9620.0,v,False,UTA,71
-187,258,1610612762,33,39,Collins BLOCK (1 BLK),,,9620.0,h,False,UTA,71
-188,260,0,33,39,Grizzlies Rebound,Rebound,Unknown,9620.0,v,False,UTA,71
-189,262,1610612763,33,41,Bane 12' Driving Floating Bank Jump Shot (5 PTS) (Morant 4 AST),Made Shot,Driving Floating Bank Jump Shot,9660.0,v,False,UTA,71
-190,264,1610612762,33,41,MISS Clarkson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,9800.0,h,True,MEM,72
-191,264,1610612763,33,41,LaRavia BLOCK (1 BLK),,,9800.0,v,False,MEM,72
-192,266,1610612762,33,41,Clarkson REBOUND (Off:2 Def:1),Rebound,Unknown,9830.0,h,False,MEM,72
-193,267,1610612762,33,41,Clarkson Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,9830.0,h,False,MEM,72
-194,268,1610612763,33,41,SUB: Pippen Jr. FOR Morant,Substitution,,9830.0,v,True,UTA,73
-195,270,1610612763,33,41,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,9980.0,v,False,UTA,73
-196,271,1610612763,33,41,Smart REBOUND (Off:2 Def:1),Rebound,Unknown,10020.0,v,False,UTA,73
-197,272,1610612762,33,41,Markkanen P.FOUL (P1.T2) (J.Conley),Foul,Personal,10020.0,h,False,UTA,73
-198,274,1610612763,33,41,MISS Bane 15' Jump Shot,Missed Shot,Jump Shot,10160.0,v,False,UTA,73
-199,275,0,33,41,Grizzlies Rebound,Rebound,Unknown,10160.0,v,False,UTA,73
-200,276,0,33,41,Grizzlies Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,10160.0,v,False,UTA,73
-201,277,1610612763,33,41,Bane S.FOUL (P3.T3) (J.Conley),Foul,Shooting,10300.0,v,True,MEM,74
-202,279,0,33,41,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,10300.0,h,False,MEM,74
-203,280,1610612763,33,41,SUB: Wells FOR Edey,Substitution,,10300.0,v,False,MEM,74
-204,281,1610612763,33,41,SUB: Huff FOR Bane,Substitution,,10300.0,v,False,MEM,74
-205,284,1610612762,33,41,SUB: Sexton FOR Clarkson,Substitution,,10300.0,h,False,MEM,74
-206,285,1610612762,33,41,SUB: George FOR Mills,Substitution,,10300.0,h,False,MEM,74
-207,286,1610612762,33,41,SUB: Kessler FOR Collins,Substitution,,10300.0,h,False,MEM,74
-208,287,1610612762,33,41,SUB: Sensabaugh FOR Markkanen,Substitution,,10300.0,h,False,MEM,74
-209,292,1610612762,34,41,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,10300.0,h,False,MEM,74
-210,293,1610612762,35,41,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,10300.0,h,False,MEM,74
-211,404,1610612763,35,41,Smart Lost Ball Turnover (P1.T7),Turnover,Lost Ball,10430.0,v,True,UTA,75
-212,404,1610612762,35,41,Sexton STEAL (1 STL),,,10430.0,h,True,MEM,76
-213,406,1610612762,35,41,Sexton Bad Pass Turnover (P1.T7),Turnover,Bad Pass,10450.0,h,False,MEM,76
-214,406,1610612763,35,41,Smart STEAL (1 STL),,,10450.0,v,True,UTA,77
-215,294,1610612763,35,41,Smart Lost Ball Turnover (P2.T8),Turnover,Lost Ball,10480.0,v,False,UTA,77
-216,294,1610612762,35,41,Kessler STEAL (1 STL),,,10480.0,h,True,MEM,78
-217,296,1610612762,37,41,Sexton 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,10520.0,h,False,MEM,78
-218,297,1610612763,37,43,Smart 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,10650.0,v,True,UTA,79
-219,298,1610612763,37,43,LaRavia P.FOUL (P2.T4) (J.Williams),Foul,Personal,10790.0,v,True,MEM,80
-220,300,1610612763,37,43,SUB: Aldama FOR LaRavia,Substitution,,10790.0,v,False,MEM,80
-221,301,1610612763,37,43,SUB: Clarke FOR Smart,Substitution,,10790.0,v,False,MEM,80
-222,304,1610612762,37,43,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,10930.0,h,False,MEM,80
-223,305,1610612763,37,43,Clarke REBOUND (Off:0 Def:2),Rebound,Unknown,10970.0,v,True,UTA,81
-224,306,1610612763,37,46,Huff 26' 3PT Jump Shot (3 PTS) (Clarke 1 AST),Made Shot,Jump Shot,11100.0,v,False,UTA,81
-225,308,1610612762,37,46,Kessler Bad Pass Turnover (P1.T8),Turnover,Bad Pass,11170.0,h,True,MEM,82
-226,308,1610612763,37,46,Pippen Jr. STEAL (1 STL),,,11170.0,v,True,UTA,83
-227,310,1610612763,37,49,Huff 25' 3PT Jump Shot (6 PTS) (Pippen Jr. 2 AST),Made Shot,Jump Shot,11200.0,v,False,UTA,83
-228,312,1610612762,37,49,MISS George 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,11480.0,h,True,MEM,84
-229,312,1610612763,37,49,Huff BLOCK (1 BLK),,,11480.0,v,False,MEM,84
-230,314,1610612762,37,49,Kessler REBOUND (Off:1 Def:2),Rebound,Unknown,11500.0,h,False,MEM,84
-231,315,0,37,49,JAZZ Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,11500.0,h,False,MEM,84
-232,316,1610612763,37,51,Clarke 5' Driving Floating Jump Shot (2 PTS) (Pippen Jr. 3 AST),Made Shot,Driving Floating Jump Shot,11640.0,v,True,UTA,85
-233,317,1610612762,37,51,MISS George 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11800.0,h,True,MEM,86
-234,318,0,37,51,Grizzlies Rebound,Rebound,Unknown,11810.0,v,True,UTA,87
-235,320,1610612763,37,54,Aldama 26' 3PT Jump Shot (12 PTS) (Pippen Jr. 4 AST),Made Shot,Jump Shot,11900.0,v,False,UTA,87
-236,322,1610612763,37,54,Pippen Jr. P.FOUL (P3.PN) (J.Williams),Foul,Personal,12020.0,v,True,MEM,88
-237,324,1610612762,37,54,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,12020.0,h,False,MEM,88
-238,325,0,37,54,JAZZ Rebound,Rebound,Normal Rebound,12020.0,h,False,MEM,88
-239,326,1610612762,38,54,George Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,12020.0,h,False,MEM,88
-240,327,1610612763,38,54,MISS Pippen Jr. 5' Layup,Missed Shot,Layup Shot,12170.0,v,True,UTA,89
-241,327,1610612762,38,54,Kessler BLOCK (3 BLK),,,12170.0,h,False,UTA,89
-242,329,1610612763,38,54,Pippen Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,12190.0,v,False,UTA,89
-243,330,1610612763,38,54,MISS Huff 3PT Jump Shot,Missed Shot,Jump Shot,12230.0,v,False,UTA,89
-244,331,1610612762,38,54,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,12250.0,h,True,MEM,90
-245,332,1610612762,38,54,MISS George 5' Driving Layup,Missed Shot,Driving Layup Shot,12310.0,h,False,MEM,90
-246,332,1610612763,38,54,Huff BLOCK (2 BLK),,,12310.0,v,False,MEM,90
-247,334,1610612762,38,54,Kessler REBOUND (Off:2 Def:2),Rebound,Unknown,12320.0,h,False,MEM,90
-248,335,1610612763,38,54,Clarke P.FOUL (P1.PN) (K.Cutler),Foul,Personal,12320.0,v,False,MEM,90
-249,337,1610612762,39,54,Kessler Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,12320.0,h,False,MEM,90
-250,338,1610612762,40,54,Kessler Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,12320.0,h,False,MEM,90
-251,339,1610612763,40,54,MISS Clarke 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12460.0,v,True,UTA,91
-252,339,1610612762,40,54,Kessler BLOCK (4 BLK),,,12460.0,h,False,UTA,91
-253,341,1610612762,40,54,Sexton REBOUND (Off:0 Def:2),Rebound,Unknown,12500.0,h,True,MEM,92
-254,342,1610612762,42,54,Sexton 2' Running Finger Roll Layup (10 PTS),Made Shot,Running Finger Roll Layup Shot,12510.0,h,False,MEM,92
-255,343,0,42,54,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,12510.0,v,True,UTA,93
-256,344,0,42,54,Instant Replay2nd Period (10:11 PM EST),Instant Replay,Altercation Ruling,12510.0,,False,UTA,93
-257,345,1610612762,42,54,SUB: Markkanen FOR Sensabaugh,Substitution,,12510.0,h,False,UTA,93
-258,349,1610612763,42,54,SUB: LaRavia FOR Clarke,Substitution,,12510.0,v,False,UTA,93
-259,350,1610612763,42,57,Aldama 3PT Jump Shot (15 PTS) (Pippen Jr. 5 AST),Made Shot,Jump Shot,12590.0,v,False,UTA,93
-260,352,1610612762,42,57,Sexton Bad Pass Turnover (P2.T10),Turnover,Bad Pass,12800.0,h,True,MEM,94
-261,352,1610612763,42,57,Pippen Jr. STEAL (2 STL),,,12800.0,v,True,UTA,95
-262,354,1610612763,42,57,Aldama Offensive Charge Foul (P1) (K.Cutler),Foul,Offensive Charge,12900.0,v,False,UTA,95
-263,356,1610612763,42,57,Aldama Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,12900.0,v,False,UTA,95
-264,357,1610612763,42,57,Grizzlies T.Foul (Def. 3 Sec Huff ) (J.Williams),Foul,Defense 3 Second,13030.0,v,True,MEM,96
-265,358,1610612762,43,57,Markkanen Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,13030.0,h,False,MEM,96
-266,360,1610612762,43,57,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,13080.0,h,False,MEM,96
-267,361,1610612763,43,57,Huff REBOUND (Off:1 Def:3),Rebound,Unknown,13120.0,v,True,UTA,97
-268,362,1610612763,43,57,MISS Aldama 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,13260.0,v,False,UTA,97
-269,363,1610612762,43,57,Markkanen REBOUND (Off:0 Def:4),Rebound,Unknown,13270.0,h,True,MEM,98
-270,364,1610612762,46,57,Markkanen 25' 3PT Jump Shot (14 PTS) (George 3 AST),Made Shot,Jump Shot,13350.0,h,False,MEM,98
-271,366,1610612763,46,59,Pippen Jr. 3' Driving Layup (2 PTS) (Wells 1 AST),Made Shot,Driving Layup Shot,13480.0,v,True,UTA,99
-272,368,1610612763,46,59,Wells P.FOUL (P1.PN) (K.Cutler),Foul,Personal,13580.0,v,True,MEM,100
-273,370,1610612762,47,59,Markkanen Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,13580.0,h,False,MEM,100
-274,371,1610612763,47,59,SUB: Morant FOR Pippen Jr.,Substitution,,13580.0,v,False,MEM,100
-275,373,1610612762,48,59,Markkanen Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,13580.0,h,False,MEM,100
-276,374,1610612762,48,59,Sexton P.FOUL (P1.T3) (J.Williams),Foul,Personal,13660.0,h,True,UTA,101
-277,376,1610612762,48,59,Kessler S.FOUL (P1.PN) (J.Conley),Foul,Shooting,13740.0,h,False,UTA,101
-278,378,1610612763,48,60,Huff Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,13740.0,v,False,UTA,101
-279,379,1610612763,48,61,Huff Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,13740.0,v,False,UTA,101
-280,380,1610612762,48,61,Sexton Lost Ball Turnover (P3.T11),Turnover,Lost Ball,13855.0,h,True,MEM,102
-281,380,1610612763,48,61,Wells STEAL (1 STL),,,13855.0,v,True,UTA,103
-282,382,1610612762,48,61,Markkanen S.FOUL (P2.PN) (J.Williams),Foul,Shooting,13897.0,h,False,UTA,103
-283,384,1610612763,48,61,MISS Wells Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,13897.0,v,False,UTA,103
-284,385,0,48,61,Grizzlies Rebound,Rebound,Normal Rebound,13897.0,v,False,UTA,103
-285,386,1610612763,48,61,SUB: Konchar FOR LaRavia,Substitution,,13897.0,v,False,UTA,103
-286,388,1610612763,48,61,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,13897.0,v,False,UTA,103
-287,389,1610612762,48,61,Kessler REBOUND (Off:2 Def:3),Rebound,Unknown,13914.0,h,True,MEM,104
-288,390,1610612762,48,61,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14065.0,h,False,MEM,104
-289,391,1610612763,48,61,Konchar REBOUND (Off:0 Def:2),Rebound,Unknown,14106.0,v,True,UTA,105
-290,394,1610612763,48,61,Morant Traveling Turnover (P2.T10),Turnover,Traveling,14291.0,v,False,UTA,105
-291,395,1610612763,48,61,Konchar S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,14355.0,v,True,MEM,106
-292,397,1610612762,49,61,Sexton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,14355.0,h,False,MEM,106
-293,398,1610612763,49,61,SUB: Bane FOR Konchar,Substitution,,14355.0,v,False,MEM,106
-294,400,1610612762,50,61,Sexton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,14355.0,h,False,MEM,106
-295,401,1610612763,50,61,MISS Morant 43' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14391.0,v,True,UTA,107
-296,402,0,50,61,Grizzlies Rebound,Rebound,Unknown,14391.0,v,False,UTA,107
-297,403,0,50,61,End of 2nd Period (10:21 PM EST),period,end,14400.0,,False,UTA,107
-298,414,0,50,61,Start of 3rd Period (10:36 PM EST),period,start,14400.0,,True,UTA,108
-299,415,1610612762,52,61,Markkanen 4' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,14570.0,h,False,UTA,108
-300,416,1610612763,52,64,Bane 25' 3PT Jump Shot (8 PTS) (Morant 5 AST),Made Shot,Jump Shot,14690.0,v,True,MEM,109
-301,418,1610612763,52,64,Smart P.FOUL (P2.T1) (J.Williams),Foul,Personal,14860.0,v,True,UTA,110
-302,420,1610612762,54,64,Sexton 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,14970.0,h,False,UTA,110
-303,421,1610612763,54,64,MISS Edey 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,15190.0,v,True,MEM,111
-304,421,1610612762,54,64,Kessler BLOCK (5 BLK),,,15190.0,h,False,MEM,111
-305,423,1610612763,54,64,Smart REBOUND (Off:3 Def:1),Rebound,Unknown,15210.0,v,False,MEM,111
-306,424,1610612763,54,64,MISS Aldama 25' 3PT Jump Shot,Missed Shot,Jump Shot,15240.0,v,False,MEM,111
-307,425,1610612763,54,64,Edey REBOUND (Off:2 Def:1),Rebound,Unknown,15280.0,v,False,MEM,111
-308,426,1610612763,54,64,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,15290.0,v,False,MEM,111
-309,427,1610612762,54,64,Kessler REBOUND (Off:2 Def:4),Rebound,Unknown,15310.0,h,True,UTA,112
-310,429,1610612762,57,64,George 26' 3PT Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,15420.0,h,False,UTA,112
-311,430,1610612763,57,64,MISS Smart 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,15570.0,v,True,MEM,113
-312,431,1610612762,57,64,Kessler REBOUND (Off:2 Def:5),Rebound,Unknown,15590.0,h,True,UTA,114
-313,432,1610612762,60,64,Markkanen 3PT Jump Shot (21 PTS) (Sexton 2 AST),Made Shot,Jump Shot,15640.0,h,False,UTA,114
-314,434,0,60,64,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,15650.0,v,True,MEM,115
-315,435,1610612763,60,67,Bane 3PT Jump Shot (11 PTS) (Morant 6 AST),Made Shot,Jump Shot,15760.0,v,False,MEM,115
-316,437,1610612762,62,67,George 9' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,16000.0,h,True,UTA,116
-317,438,1610612763,62,67,MISS Edey 6' Layup,Missed Shot,Layup Shot,16100.0,v,True,MEM,117
-318,439,1610612762,62,67,Markkanen REBOUND (Off:0 Def:5),Rebound,Unknown,16100.0,h,True,UTA,118
-319,440,1610612763,62,67,Edey P.FOUL (P4.T2) (K.Cutler),Foul,Personal,16100.0,v,False,UTA,118
-320,442,1610612762,64,67,Markkanen 4' Alley Oop Dunk (23 PTS) (George 4 AST),Made Shot,Alley Oop Dunk Shot,16180.0,h,False,UTA,118
-321,444,1610612763,64,69,Morant 7' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,16340.0,v,True,MEM,119
-322,445,1610612762,64,69,MISS George 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16540.0,h,True,UTA,120
-323,446,1610612762,64,69,Kessler REBOUND (Off:3 Def:5),Rebound,Unknown,16590.0,h,False,UTA,120
-324,447,1610612762,66,69,Kessler Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,16590.0,h,False,UTA,120
-325,448,1610612763,66,69,MISS Bane 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16670.0,v,True,MEM,121
-326,449,1610612763,66,69,Edey REBOUND (Off:3 Def:1),Rebound,Unknown,16730.0,v,False,MEM,121
-327,450,1610612763,66,71,Edey Putback Layup (4 PTS),Made Shot,Putback Layup Shot,16730.0,v,False,MEM,121
-328,451,1610612762,66,71,Kessler OFF.Foul (P2) (J.Williams),Foul,Offensive,16910.0,h,True,UTA,122
-329,453,1610612762,66,71,Kessler Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,16910.0,h,False,UTA,122
-330,454,1610612763,66,71,SUB: Huff FOR Edey,Substitution,,16910.0,v,True,MEM,123
-331,456,1610612763,66,73,Bane 3' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,17050.0,v,False,MEM,123
-332,457,1610612762,66,73,Sexton Lost Ball Turnover (P4.T13),Turnover,Lost Ball,17260.0,h,True,UTA,124
-333,457,1610612763,66,73,Bane STEAL (1 STL),,,17260.0,v,True,MEM,125
-334,459,1610612763,66,75,Aldama 3' Alley Oop Layup (17 PTS) (Morant 7 AST),Made Shot,Alley Oop Layup shot,17300.0,v,False,MEM,125
-335,461,0,66,75,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,17300.0,h,True,UTA,126
-336,462,1610612762,69,75,Hendricks 24' 3PT Jump Shot (3 PTS) (George 5 AST),Made Shot,Jump Shot,17530.0,h,False,UTA,126
-337,464,1610612763,69,77,Bane 3' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,17580.0,v,True,MEM,127
-338,465,1610612762,69,77,MISS George 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,17750.0,h,True,UTA,128
-339,466,1610612762,69,77,Kessler REBOUND (Off:4 Def:5),Rebound,Unknown,17750.0,h,False,UTA,128
-340,467,1610612763,69,77,Morant S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,17750.0,v,False,UTA,128
-341,469,1610612762,69,77,MISS Kessler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,17750.0,h,False,UTA,128
-342,470,0,69,77,JAZZ Rebound,Rebound,Normal Rebound,17750.0,h,False,UTA,128
-343,471,1610612762,69,77,SUB: Sensabaugh FOR Markkanen,Substitution,,17750.0,h,False,UTA,128
-344,472,1610612763,69,77,SUB: Wells FOR Morant,Substitution,,17750.0,v,False,UTA,128
-345,473,1610612763,69,77,SUB: Pippen Jr. FOR Smart,Substitution,,17750.0,v,False,UTA,128
-346,477,1610612762,70,77,Kessler Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,17750.0,h,False,UTA,128
-347,478,1610612763,70,77,MISS Bane 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17890.0,v,True,MEM,129
-348,479,1610612762,70,77,Kessler REBOUND (Off:4 Def:6),Rebound,Unknown,17930.0,h,True,UTA,130
-349,572,1610612762,70,77,MISS Sensabaugh 6' Jump Shot,Missed Shot,Jump Shot,18050.0,h,False,UTA,130
-350,572,1610612763,70,77,Bane BLOCK (1 BLK),,,18050.0,v,False,UTA,130
-351,574,1610612763,70,77,Pippen Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,18050.0,v,True,MEM,131
-352,482,1610612763,70,77,MISS Bane 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,18100.0,v,False,MEM,131
-353,483,0,70,77,JAZZ Rebound,Rebound,Unknown,18120.0,h,True,UTA,132
-354,485,1610612762,70,77,SUB: Clarkson FOR Sexton,Substitution,,18120.0,h,False,UTA,132
-355,486,1610612762,70,77,SUB: Collins FOR Kessler,Substitution,,18120.0,h,False,UTA,132
-356,490,1610612763,70,77,SUB: Clarke FOR Huff,Substitution,,18250.0,v,False,UTA,132
-357,492,1610612762,70,77,MISS Clarkson 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,18360.0,h,False,UTA,132
-358,493,0,70,77,JAZZ Rebound,Rebound,Unknown,18360.0,h,False,UTA,132
-359,494,0,70,77,JAZZ Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,18360.0,h,False,UTA,132
-360,495,1610612762,70,77,Sensabaugh S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,18490.0,h,True,MEM,133
-361,497,1610612763,70,78,Aldama Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,18490.0,v,False,MEM,133
-362,498,1610612763,70,79,Aldama Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,18490.0,v,False,MEM,133
-363,500,1610612762,72,79,George 11' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,18620.0,h,True,UTA,134
-364,501,1610612763,72,79,Wells S.FOUL (P2.T4) (J.Conley),Foul,Shooting,18620.0,v,False,UTA,134
-365,503,1610612762,72,79,MISS George Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,18620.0,h,False,UTA,134
-366,504,0,72,79,Grizzlies Rebound,Rebound,Unknown,18640.0,v,True,MEM,135
-367,506,1610612763,72,81,Aldama 7' Driving Finger Roll Layup (21 PTS) (Pippen Jr. 6 AST),Made Shot,Driving Finger Roll Layup Shot,18770.0,v,False,MEM,135
-368,508,1610612762,74,81,Sensabaugh 9' Driving Floating Jump Shot (3 PTS) (Clarkson 4 AST),Made Shot,Driving Floating Jump Shot,18940.0,h,True,UTA,136
-369,510,1610612763,74,81,MISS Aldama 3PT Jump Shot,Missed Shot,Jump Shot,19020.0,v,True,MEM,137
-370,511,1610612763,74,81,Clarke REBOUND (Off:1 Def:2),Rebound,Unknown,19050.0,v,False,MEM,137
-371,512,1610612763,74,81,MISS Bane 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,19070.0,v,False,MEM,137
-372,513,1610612762,74,81,George REBOUND (Off:0 Def:2),Rebound,Unknown,19120.0,h,True,UTA,138
-373,514,1610612762,77,81,Hendricks 3PT Jump Shot (6 PTS) (Clarkson 5 AST),Made Shot,Jump Shot,19180.0,h,False,UTA,138
-374,516,1610612763,77,81,Pippen Jr. Bad Pass Turnover (P1.T11),Turnover,Bad Pass,19390.0,v,True,MEM,139
-375,516,1610612762,77,81,Collins STEAL (1 STL),,,19390.0,h,True,UTA,140
-376,518,1610612762,79,81,Hendricks 3' Running Dunk (8 PTS) (George 6 AST),Made Shot,Running Dunk Shot,19430.0,h,False,UTA,140
-377,520,1610612763,79,83,Pippen Jr. 7' Jump Shot (4 PTS),Made Shot,Jump Shot,19590.0,v,True,MEM,141
-378,521,1610612762,79,83,Collins Lost Ball Turnover (P2.T15),Turnover,Lost Ball,19770.0,h,True,UTA,142
-379,521,1610612763,79,83,Pippen Jr. STEAL (3 STL),,,19770.0,v,True,MEM,143
-380,522,1610612763,79,85,Aldama 5' Dunk (23 PTS) (Bane 2 AST),Made Shot,Dunk Shot,19830.0,v,False,MEM,143
-381,524,1610612762,79,85,MISS Hendricks 30' 3PT Jump Shot,Missed Shot,Jump Shot,20070.0,h,True,UTA,144
-382,525,1610612762,79,85,Sensabaugh REBOUND (Off:2 Def:0),Rebound,Unknown,20120.0,h,False,UTA,144
-383,526,1610612762,79,85,MISS George 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,20170.0,h,False,UTA,144
-384,527,1610612762,79,85,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,20210.0,h,False,UTA,144
-385,528,1610612762,79,85,MISS Hendricks Tip Layup Shot,Missed Shot,Tip Layup Shot,20210.0,h,False,UTA,144
-386,529,1610612763,79,85,Bane REBOUND (Off:0 Def:2),Rebound,Unknown,20230.0,v,True,MEM,145
-387,530,1610612763,79,87,Pippen Jr. 4' Running Dunk (6 PTS) (Bane 3 AST),Made Shot,Running Dunk Shot,20240.0,v,False,MEM,145
-388,532,0,79,87,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,20240.0,h,True,UTA,146
-389,533,1610612762,79,87,SUB: Mills FOR Hendricks,Substitution,,20240.0,h,False,UTA,146
-390,534,1610612762,79,87,SUB: Markkanen FOR George,Substitution,,20240.0,h,False,UTA,146
-391,535,1610612762,79,87,SUB: Williams FOR Sensabaugh,Substitution,,20240.0,h,False,UTA,146
-392,536,1610612763,79,87,SUB: Morant FOR Pippen Jr.,Substitution,,20240.0,v,False,UTA,146
-393,537,1610612763,79,87,SUB: LaRavia FOR Aldama,Substitution,,20240.0,v,False,UTA,146
-394,538,1610612763,79,87,SUB: Konchar FOR Bane,Substitution,,20240.0,v,False,UTA,146
-395,546,1610612762,79,87,MISS Collins 25' 3PT Jump Shot,Missed Shot,Jump Shot,20400.0,h,False,UTA,146
-396,547,1610612763,79,87,Konchar REBOUND (Off:0 Def:3),Rebound,Unknown,20450.0,v,True,MEM,147
-397,548,1610612763,79,87,MISS Wells 5' Driving Layup,Missed Shot,Driving Layup Shot,20570.0,v,False,MEM,147
-398,549,1610612762,79,87,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,20590.0,h,True,UTA,148
-399,550,1610612762,82,87,Clarkson 25' 3PT Jump Shot (10 PTS) (Mills 1 AST),Made Shot,Jump Shot,20660.0,h,False,UTA,148
-400,552,1610612763,82,89,Morant 6' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,20950.0,v,True,MEM,149
-401,553,1610612762,84,89,Clarkson 5' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,21060.0,h,True,UTA,150
-402,554,1610612763,84,89,MISS Wells 24' 3PT Jump Shot,Missed Shot,Jump Shot,21258.0,v,True,MEM,151
-403,555,1610612763,84,89,Konchar REBOUND (Off:1 Def:3),Rebound,Unknown,21287.0,v,False,MEM,151
-404,556,1610612762,84,89,Collins S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,21390.0,h,False,MEM,151
-405,558,1610612763,84,90,Morant Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,21390.0,v,False,MEM,151
-406,559,1610612763,84,90,SUB: Pippen Jr. FOR LaRavia,Substitution,,21390.0,v,False,MEM,151
-407,561,1610612763,84,90,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,21390.0,v,False,MEM,151
-408,562,1610612762,84,90,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,21404.0,h,True,UTA,152
-409,563,1610612762,84,90,Williams Lost Ball Turnover (P1.T16),Turnover,Lost Ball,21486.0,h,False,UTA,152
-410,563,1610612763,84,90,Morant STEAL (1 STL),,,21486.0,v,True,MEM,153
-411,565,1610612763,84,92,Morant 3' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,21495.0,v,False,MEM,153
-412,566,1610612762,84,92,Williams S.FOUL (P3.PN) (J.Conley),Foul,Shooting,21495.0,h,False,MEM,153
-413,568,1610612763,84,93,Morant Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,21495.0,v,False,MEM,153
-414,570,1610612762,86,93,Clarkson 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,21580.0,h,True,UTA,154
-415,571,0,86,93,End of 3rd Period (11:03 PM EST),period,end,21600.0,,False,UTA,154
-416,581,0,86,93,Start of 4th Period (11:06 PM EST),period,start,21600.0,,True,MEM,155
-417,582,1610612762,86,93,Collins S.FOUL (P4.T1) (K.Cutler),Foul,Shooting,21720.0,h,False,MEM,155
-418,584,1610612763,86,93,MISS Edey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,21720.0,v,False,MEM,155
-419,585,0,86,93,Grizzlies Rebound,Rebound,Normal Rebound,21720.0,v,False,MEM,155
-420,586,1610612763,86,93,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,21720.0,v,False,MEM,155
-421,587,1610612762,86,93,Collins REBOUND (Off:1 Def:4),Rebound,Unknown,21740.0,h,True,UTA,156
-422,588,1610612762,88,93,Collins 15' Turnaround Jump Shot (8 PTS) (Markkanen 1 AST),Made Shot,Turnaround Jump Shot,21870.0,h,False,UTA,156
-423,591,1610612763,88,95,Morant 16' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,21970.0,v,True,MEM,157
-424,592,1610612762,88,95,Williams S.FOUL (P4.T2) (J.Conley),Foul,Shooting,21970.0,h,False,MEM,157
-425,594,1610612763,88,96,Morant Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,21970.0,v,False,MEM,157
-426,595,1610612763,88,96,Morant P.FOUL (P3.T1) (K.Cutler),Foul,Personal,22020.0,v,True,UTA,158
-427,597,1610612762,88,96,SUB: Hendricks FOR Williams,Substitution,,22020.0,h,False,UTA,158
-428,599,1610612762,88,96,MISS Clarkson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22090.0,h,False,UTA,158
-429,600,1610612763,88,96,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,22110.0,v,True,MEM,159
-430,601,1610612762,88,96,Mills S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,22140.0,h,False,MEM,159
-431,603,1610612763,88,97,Konchar Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,22140.0,v,False,MEM,159
-432,604,1610612763,88,98,Konchar Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,22140.0,v,False,MEM,159
-433,605,1610612762,88,98,MISS Collins 25' 3PT Jump Shot,Missed Shot,Jump Shot,22240.0,h,True,UTA,160
-434,606,1610612763,88,98,Smart REBOUND (Off:3 Def:2),Rebound,Unknown,22260.0,v,True,MEM,161
-435,607,1610612763,88,101,Konchar 3PT Jump Shot (5 PTS) (Morant 8 AST),Made Shot,Jump Shot,22320.0,v,False,MEM,161
-436,609,1610612762,90,101,Collins 4' Driving Layup (10 PTS) (Clarkson 6 AST),Made Shot,Driving Layup Shot,22480.0,h,True,UTA,162
-437,611,1610612763,90,101,Edey S.FOUL (P5.T2) (K.Cutler),Foul,Shooting,22480.0,v,False,UTA,162
-438,613,1610612762,91,101,Collins Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,22480.0,h,False,UTA,162
-439,614,1610612763,91,101,MISS Morant 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,22640.0,v,True,MEM,163
-440,614,1610612762,91,101,Hendricks BLOCK (1 BLK),,,22640.0,h,False,MEM,163
-441,616,1610612762,91,101,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,22670.0,h,True,UTA,164
-442,617,1610612762,91,101,MISS Collins 8' Hook Shot,Missed Shot,Hook Shot,22810.0,h,False,UTA,164
-443,618,1610612763,91,101,Konchar REBOUND (Off:1 Def:4),Rebound,Unknown,22830.0,v,True,MEM,165
-444,619,1610612763,91,101,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,22910.0,v,False,MEM,165
-445,620,1610612763,91,101,Edey REBOUND (Off:4 Def:1),Rebound,Unknown,22930.0,v,False,MEM,165
-446,621,1610612762,91,101,Collins S.FOUL (P5.T4) (K.Cutler),Foul,Shooting,22930.0,h,False,MEM,165
-447,623,1610612763,91,102,Edey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,22930.0,v,False,MEM,165
-448,624,1610612762,91,102,SUB: Kessler FOR Collins,Substitution,,22930.0,h,False,MEM,165
-449,626,1610612763,91,102,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22930.0,v,False,MEM,165
-450,627,1610612762,91,102,Markkanen REBOUND (Off:0 Def:6),Rebound,Unknown,22950.0,h,True,UTA,166
-451,628,1610612763,91,102,Konchar P.FOUL (P2.T3) (J.Williams),Foul,Personal,23080.0,v,False,UTA,166
-452,631,1610612762,91,102,MISS Clarkson 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,23250.0,h,False,UTA,166
-453,632,0,91,102,JAZZ Rebound,Rebound,Unknown,23250.0,h,False,UTA,166
-454,633,1610612763,91,102,Edey L.B.FOUL (P6.T4) (J.Conley),Foul,Loose Ball,23250.0,v,False,UTA,166
-455,635,1610612763,91,102,SUB: Huff FOR Edey,Substitution,,23250.0,v,False,UTA,166
-456,637,1610612762,94,102,Clarkson 25' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,23320.0,h,False,UTA,166
-457,638,1610612763,94,102,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,23460.0,v,True,MEM,167
-458,639,1610612762,94,102,Kessler REBOUND (Off:4 Def:7),Rebound,Unknown,23490.0,h,True,UTA,168
-459,640,1610612762,96,102,Kessler 4' Alley Oop Dunk (10 PTS) (Clarkson 7 AST),Made Shot,Alley Oop Dunk Shot,23590.0,h,False,UTA,168
-460,642,0,96,102,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,23590.0,v,True,MEM,169
-461,643,1610612763,96,102,SUB: Wells FOR LaRavia,Substitution,,23590.0,v,False,MEM,169
-462,644,1610612763,96,102,SUB: Pippen Jr. FOR Morant,Substitution,,23590.0,v,False,MEM,169
-463,645,1610612763,96,102,SUB: Bane FOR Smart,Substitution,,23590.0,v,False,MEM,169
-464,649,1610612763,96,102,MISS Bane 3' Driving Layup,Missed Shot,Driving Layup Shot,23730.0,v,False,MEM,169
-465,649,1610612762,96,102,Clarkson BLOCK (1 BLK),,,23730.0,h,False,MEM,169
-466,651,1610612762,96,102,Clarkson REBOUND (Off:2 Def:2),Rebound,Unknown,23770.0,h,True,UTA,170
-467,652,1610612762,99,102,Hendricks 3PT Jump Shot (11 PTS) (Markkanen 2 AST),Made Shot,Jump Shot,23790.0,h,False,UTA,170
-468,654,1610612763,99,102,MISS Wells 25' 3PT Jump Shot,Missed Shot,Jump Shot,23960.0,v,True,MEM,171
-469,655,1610612762,99,102,Markkanen REBOUND (Off:0 Def:7),Rebound,Unknown,23980.0,h,True,UTA,172
-470,656,1610612762,101,102,Markkanen 6' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,24030.0,h,False,UTA,172
-471,657,1610612763,101,102,Huff S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,24030.0,v,False,UTA,172
-472,659,1610612762,102,102,Markkanen Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,24030.0,h,False,UTA,172
-473,660,1610612763,102,104,Huff 4' Alley Oop Dunk (10 PTS) (Pippen Jr. 7 AST),Made Shot,Alley Oop Dunk Shot,24260.0,v,True,MEM,173
-474,663,1610612763,102,104,Wells P.FOUL (P3.PN) (K.Cutler),Foul,Personal,24400.0,v,True,UTA,174
-475,665,1610612762,103,104,Markkanen Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,24400.0,h,False,UTA,174
-476,666,1610612762,104,104,Markkanen Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,24400.0,h,False,UTA,174
-477,673,1610612763,104,104,SUB: Aldama FOR Konchar,Substitution,,24400.0,v,False,UTA,174
-478,667,1610612763,104,104,MISS Pippen Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,24540.0,v,True,MEM,175
-479,668,1610612762,104,104,Clarkson REBOUND (Off:2 Def:3),Rebound,Unknown,24580.0,h,True,UTA,176
-480,669,1610612762,104,104,MISS Markkanen 24' 3PT Jump Shot,Missed Shot,Jump Shot,24710.0,h,False,UTA,176
-481,670,1610612762,104,104,Markkanen REBOUND (Off:1 Def:7),Rebound,Unknown,24730.0,h,False,UTA,176
-482,671,1610612763,104,104,Aldama S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,24750.0,v,False,UTA,176
-483,675,1610612762,104,104,MISS Hendricks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,24750.0,h,False,UTA,176
-484,676,0,104,104,JAZZ Rebound,Rebound,Normal Rebound,24750.0,h,False,UTA,176
-485,677,1610612762,104,104,SUB: George FOR Mills,Substitution,,24750.0,h,False,UTA,176
-486,678,1610612762,104,104,SUB: Sexton FOR Markkanen,Substitution,,24750.0,h,False,UTA,176
-487,681,1610612762,105,104,Hendricks Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,24750.0,h,False,UTA,176
-488,682,1610612763,105,104,Pippen Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,24860.0,v,True,MEM,177
-489,683,1610612762,105,104,MISS George 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25070.0,h,True,UTA,178
-490,684,1610612763,105,104,Huff REBOUND (Off:1 Def:4),Rebound,Unknown,25080.0,v,True,MEM,179
-491,685,1610612763,105,107,Bane 3PT Step Back Jump Shot (18 PTS) (Aldama 2 AST),Made Shot,Step Back Jump shot,25150.0,v,False,MEM,179
-492,687,1610612762,105,107,MISS Clarkson 25' 3PT Jump Shot,Missed Shot,Jump Shot,25310.0,h,True,UTA,180
-493,688,1610612763,105,107,Bane REBOUND (Off:0 Def:3),Rebound,Unknown,25340.0,v,True,MEM,181
-494,689,1610612763,105,110,Huff 25' 3PT Jump Shot (13 PTS) (Bane 4 AST),Made Shot,Jump Shot,25410.0,v,False,MEM,181
-495,691,0,105,110,JAZZ Timeout: Regular (Full 5 Short 0),Timeout,Regular,25420.0,h,True,UTA,182
-496,692,1610612762,105,110,SUB: Williams FOR Clarkson,Substitution,,25420.0,h,False,UTA,182
-497,693,1610612762,105,110,SUB: Markkanen FOR Hendricks,Substitution,,25420.0,h,False,UTA,182
-498,696,1610612763,105,110,Wells P.FOUL (P4.PN) (J.Conley),Foul,Personal,25500.0,v,False,UTA,182
-499,698,1610612762,106,110,Markkanen Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,25500.0,h,False,UTA,182
-500,699,1610612762,107,110,Markkanen Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,25500.0,h,False,UTA,182
-501,700,1610612763,107,110,MISS Bane 25' 3PT Jump Shot,Missed Shot,Jump Shot,25580.0,v,True,MEM,183
-502,701,1610612762,107,110,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,25620.0,h,True,UTA,184
-503,702,1610612762,107,110,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,25760.0,h,False,UTA,184
-504,702,1610612763,107,110,Pippen Jr. BLOCK (1 BLK),,,25760.0,v,False,UTA,184
-505,704,1610612763,107,110,Bane REBOUND (Off:0 Def:4),Rebound,Unknown,25780.0,v,True,MEM,185
-506,705,1610612763,107,112,Bane 2' Running Layup (20 PTS),Made Shot,Running Layup Shot,25820.0,v,False,MEM,185
-507,706,1610612763,107,112,Wells P.FOUL (P5.PN) (J.Conley),Foul,Personal,26020.0,v,True,UTA,186
-508,708,1610612762,108,112,Markkanen Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,26020.0,h,False,UTA,186
-509,709,1610612762,109,112,Markkanen Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,26020.0,h,False,UTA,186
-510,710,1610612762,109,112,George P.FOUL (P1.PN) (J.Williams),Foul,Personal,26100.0,h,True,MEM,187
-511,712,1610612763,109,113,Bane Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,26100.0,v,False,MEM,187
-512,713,1610612763,109,113,SUB: Smart FOR Wells,Substitution,,26100.0,v,False,MEM,187
-513,715,1610612763,109,114,Bane Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,26100.0,v,False,MEM,187
-514,716,1610612762,109,114,MISS George 15' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,26220.0,h,True,UTA,188
-515,717,1610612762,109,114,Kessler REBOUND (Off:5 Def:7),Rebound,Unknown,26250.0,h,False,UTA,188
-516,718,1610612762,111,114,Kessler Putback Layup (12 PTS),Made Shot,Putback Layup Shot,26250.0,h,False,UTA,188
-517,719,1610612763,111,114,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,26350.0,v,True,MEM,189
-518,720,1610612762,111,114,Kessler REBOUND (Off:5 Def:8),Rebound,Unknown,26370.0,h,True,UTA,190
-519,721,1610612763,111,114,Bane S.FOUL (P4.PN) (J.Williams),Foul,Shooting,26400.0,v,False,UTA,190
-520,723,1610612762,111,114,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26400.0,h,False,UTA,190
-521,724,0,111,114,JAZZ Rebound,Rebound,Normal Rebound,26400.0,h,False,UTA,190
-522,725,1610612762,111,114,SUB: Hendricks FOR Williams,Substitution,,26400.0,h,False,UTA,190
-523,726,1610612763,111,114,SUB: Morant FOR Pippen Jr.,Substitution,,26400.0,v,False,UTA,190
-524,729,0,111,114,Grizzlies Timeout: Regular (Reg.5 Short 0),Timeout,Regular,26400.0,v,False,UTA,190
-525,730,1610612762,112,114,George Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,26400.0,h,False,UTA,190
-526,731,1610612762,112,114,Sexton P.FOUL (P2.PN) (J.Williams),Foul,Personal,26490.0,h,True,MEM,191
-527,733,1610612763,112,115,Smart Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,26490.0,v,False,MEM,191
-528,734,1610612763,112,116,Smart Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,26490.0,v,False,MEM,191
-529,735,1610612762,114,116,Kessler 3' Layup (14 PTS) (Sexton 3 AST),Made Shot,Layup Shot,26660.0,h,True,UTA,192
-530,737,1610612763,114,116,MISS Aldama 26' 3PT Jump Shot,Missed Shot,Jump Shot,26840.0,v,True,MEM,193
-531,738,1610612762,114,116,Markkanen REBOUND (Off:1 Def:8),Rebound,Unknown,26880.0,h,True,UTA,194
-532,739,1610612762,114,116,MISS Sexton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,26980.0,h,False,UTA,194
-533,740,1610612762,114,116,Hendricks REBOUND (Off:2 Def:3),Rebound,Unknown,27030.0,h,False,UTA,194
-534,743,1610612762,114,116,MISS Markkanen 6' Layup,Missed Shot,Layup Shot,27090.0,h,False,UTA,194
-535,744,1610612762,114,116,Kessler REBOUND (Off:6 Def:8),Rebound,Unknown,27120.0,h,False,UTA,194
-536,745,1610612762,116,116,Kessler Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,27120.0,h,False,UTA,194
-537,746,1610612763,116,118,Aldama 2' Cutting Layup Shot (25 PTS) (Morant 9 AST),Made Shot,Cutting Layup Shot,27260.0,v,True,MEM,195
-538,748,1610612763,116,118,Morant P.FOUL (P4.PN) (K.Cutler),Foul,Personal,27440.0,v,True,UTA,196
-539,750,1610612762,116,118,MISS Sexton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,27440.0,h,False,UTA,196
-540,751,0,116,118,JAZZ Rebound,Rebound,Normal Rebound,27440.0,h,False,UTA,196
-541,752,1610612762,116,118,SUB: Clarkson FOR George,Substitution,,27440.0,h,False,UTA,196
-542,754,1610612762,117,118,Sexton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,27440.0,h,False,UTA,196
-543,755,1610612763,117,120,Aldama 4' Cutting Dunk Shot (27 PTS) (Morant 10 AST),Made Shot,Cutting Dunk Shot,27620.0,v,True,MEM,197
-544,757,1610612763,117,120,Smart P.FOUL (P3.PN) (J.Williams),Foul,Personal,27720.0,v,True,UTA,198
-545,759,1610612762,118,120,Sexton Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,27720.0,h,False,UTA,198
-546,760,1610612762,118,120,MISS Sexton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,27720.0,h,False,UTA,198
-547,761,1610612763,118,120,Aldama REBOUND (Off:1 Def:3),Rebound,Unknown,27740.0,v,True,MEM,199
-548,762,1610612763,118,120,Morant Lost Ball Turnover (P3.T13),Turnover,Lost Ball,27920.0,v,False,MEM,199
-549,762,1610612762,118,120,Hendricks STEAL (2 STL),,,27920.0,h,True,UTA,200
-550,767,1610612762,118,120,Markkanen Out of Bounds Lost Ball Turnover (P2.T17),Turnover,Out of Bounds Lost Ball Turnover,27960.0,h,False,UTA,200
-551,765,0,118,120,Grizzlies Timeout: Coach Challenge (Reg.5 Short 0),Timeout,Coach Challenge,27960.0,v,True,MEM,201
-552,766,0,118,120,Instant Replay4th Period (11:39 PM EST),Instant Replay,Coach Challenge Overturn Ruling,27960.0,,False,MEM,201
-553,768,1610612762,118,120,SUB: George FOR Sexton,Substitution,,27960.0,h,False,MEM,201
-554,770,1610612763,118,122,Smart 2' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,28120.0,v,False,MEM,201
-555,771,1610612763,118,122,Huff S.FOUL (P2.PN) (J.Williams),Foul,Shooting,28234.0,v,True,UTA,202
-556,773,1610612762,118,122,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,28234.0,h,False,UTA,202
-557,774,0,118,122,JAZZ Rebound,Rebound,Normal Rebound,28234.0,h,False,UTA,202
-558,775,1610612762,119,122,George Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,28234.0,h,False,UTA,202
-559,776,1610612763,119,124,Morant 3' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,28418.0,v,True,MEM,203
-560,777,1610612763,119,124,Smart S.FOUL (P4.PN) (J.Conley),Foul,Shooting,28464.0,v,True,UTA,204
-561,779,1610612762,120,124,George Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,28464.0,h,False,UTA,204
-562,780,1610612762,121,124,George Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,28464.0,h,False,UTA,204
-563,781,1610612763,121,124,MISS Bane 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28667.0,v,True,MEM,205
-564,782,1610612763,121,124,Aldama REBOUND (Off:2 Def:3),Rebound,Unknown,28697.0,v,False,MEM,205
-565,783,1610612762,121,124,George Personal Take Foul (P2.PN) (K.Cutler),Foul,Personal Take,28740.0,h,False,MEM,205
-566,785,1610612763,121,125,Bane Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,28740.0,v,False,MEM,205
-567,786,1610612763,121,126,Bane Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,28740.0,v,False,MEM,205
-568,787,0,121,126,JAZZ Timeout: Regular (Full 6 Short 0),Timeout,Regular,28740.0,h,False,MEM,205
-569,788,1610612762,121,126,SUB: Sexton FOR Kessler,Substitution,,28740.0,h,False,MEM,205
-570,790,1610612762,124,126,Markkanen 27' 3PT Jump Shot (35 PTS) (George 7 AST),Made Shot,Jump Shot,28752.0,h,True,UTA,206
-571,792,0,124,126,End of 4th Period (11:48 PM EST),period,end,28800.0,,False,UTA,206
+186,258,1610612763,33,39,MISS LaRavia 6' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,9620.0,v,True,MEM,72
+187,258,1610612762,33,39,Collins BLOCK (1 BLK),,,9620.0,h,False,MEM,72
+188,260,0,33,39,Grizzlies Rebound,Rebound,Unknown,9620.0,v,False,MEM,72
+189,262,1610612763,33,41,Bane 12' Driving Floating Bank Jump Shot (5 PTS) (Morant 4 AST),Made Shot,Driving Floating Bank Jump Shot,9660.0,v,False,MEM,72
+190,264,1610612762,33,41,MISS Clarkson 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,9800.0,h,True,UTA,73
+191,264,1610612763,33,41,LaRavia BLOCK (1 BLK),,,9800.0,v,False,UTA,73
+192,266,1610612762,33,41,Clarkson REBOUND (Off:2 Def:1),Rebound,Unknown,9830.0,h,False,UTA,73
+193,267,1610612762,33,41,Clarkson Out of Bounds Lost Ball Turnover (P2.T6),Turnover,Out of Bounds Lost Ball Turnover,9830.0,h,False,UTA,73
+194,268,1610612763,33,41,SUB: Pippen Jr. FOR Morant,Substitution,,9830.0,v,True,MEM,74
+195,270,1610612763,33,41,MISS Pippen Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,9980.0,v,False,MEM,74
+196,271,1610612763,33,41,Smart REBOUND (Off:2 Def:1),Rebound,Unknown,10020.0,v,False,MEM,74
+197,272,1610612762,33,41,Markkanen P.FOUL (P1.T2) (J.Conley),Foul,Personal,10020.0,h,False,MEM,74
+198,274,1610612763,33,41,MISS Bane 15' Jump Shot,Missed Shot,Jump Shot,10160.0,v,False,MEM,74
+199,275,0,33,41,Grizzlies Rebound,Rebound,Unknown,10160.0,v,False,MEM,74
+200,276,0,33,41,Grizzlies Turnover: Shot Clock (T#6),Turnover,Shot Clock Turnover,10160.0,v,False,MEM,74
+201,277,1610612763,33,41,Bane S.FOUL (P3.T3) (J.Conley),Foul,Shooting,10300.0,v,True,UTA,75
+202,279,0,33,41,JAZZ Timeout: Regular (Full 2 Short 0),Timeout,Regular,10300.0,h,False,UTA,75
+203,280,1610612763,33,41,SUB: Wells FOR Edey,Substitution,,10300.0,v,False,UTA,75
+204,281,1610612763,33,41,SUB: Huff FOR Bane,Substitution,,10300.0,v,False,UTA,75
+205,284,1610612762,33,41,SUB: Sexton FOR Clarkson,Substitution,,10300.0,h,False,UTA,75
+206,285,1610612762,33,41,SUB: George FOR Mills,Substitution,,10300.0,h,False,UTA,75
+207,286,1610612762,33,41,SUB: Kessler FOR Collins,Substitution,,10300.0,h,False,UTA,75
+208,287,1610612762,33,41,SUB: Sensabaugh FOR Markkanen,Substitution,,10300.0,h,False,UTA,75
+209,292,1610612762,34,41,Williams Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,10300.0,h,False,UTA,75
+210,293,1610612762,35,41,Williams Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,10300.0,h,False,UTA,75
+211,404,1610612763,35,41,Smart Lost Ball Turnover (P1.T7),Turnover,Lost Ball,10430.0,v,True,MEM,76
+212,404,1610612762,35,41,Sexton STEAL (1 STL),,,10430.0,h,True,UTA,77
+213,406,1610612762,35,41,Sexton Bad Pass Turnover (P1.T7),Turnover,Bad Pass,10450.0,h,False,UTA,77
+214,406,1610612763,35,41,Smart STEAL (1 STL),,,10450.0,v,True,MEM,78
+215,294,1610612763,35,41,Smart Lost Ball Turnover (P2.T8),Turnover,Lost Ball,10480.0,v,False,MEM,78
+216,294,1610612762,35,41,Kessler STEAL (1 STL),,,10480.0,h,True,UTA,79
+217,296,1610612762,37,41,Sexton 2' Running Layup (8 PTS),Made Shot,Running Layup Shot,10520.0,h,False,UTA,79
+218,297,1610612763,37,43,Smart 3' Driving Layup (7 PTS),Made Shot,Driving Layup Shot,10650.0,v,True,MEM,80
+219,298,1610612763,37,43,LaRavia P.FOUL (P2.T4) (J.Williams),Foul,Personal,10790.0,v,True,UTA,81
+220,300,1610612763,37,43,SUB: Aldama FOR LaRavia,Substitution,,10790.0,v,False,UTA,81
+221,301,1610612763,37,43,SUB: Clarke FOR Smart,Substitution,,10790.0,v,False,UTA,81
+222,304,1610612762,37,43,MISS George 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,10930.0,h,False,UTA,81
+223,305,1610612763,37,43,Clarke REBOUND (Off:0 Def:2),Rebound,Unknown,10970.0,v,True,MEM,82
+224,306,1610612763,37,46,Huff 26' 3PT Jump Shot (3 PTS) (Clarke 1 AST),Made Shot,Jump Shot,11100.0,v,False,MEM,82
+225,308,1610612762,37,46,Kessler Bad Pass Turnover (P1.T8),Turnover,Bad Pass,11170.0,h,True,UTA,83
+226,308,1610612763,37,46,Pippen Jr. STEAL (1 STL),,,11170.0,v,True,MEM,84
+227,310,1610612763,37,49,Huff 25' 3PT Jump Shot (6 PTS) (Pippen Jr. 2 AST),Made Shot,Jump Shot,11200.0,v,False,MEM,84
+228,312,1610612762,37,49,MISS George 6' Driving Hook Shot,Missed Shot,Driving Hook Shot,11480.0,h,True,UTA,85
+229,312,1610612763,37,49,Huff BLOCK (1 BLK),,,11480.0,v,False,UTA,85
+230,314,1610612762,37,49,Kessler REBOUND (Off:1 Def:2),Rebound,Unknown,11500.0,h,False,UTA,85
+231,315,0,37,49,JAZZ Turnover: Shot Clock (T#9),Turnover,Shot Clock Turnover,11500.0,h,False,UTA,85
+232,316,1610612763,37,51,Clarke 5' Driving Floating Jump Shot (2 PTS) (Pippen Jr. 3 AST),Made Shot,Driving Floating Jump Shot,11640.0,v,True,MEM,86
+233,317,1610612762,37,51,MISS George 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,11800.0,h,True,UTA,87
+234,318,0,37,51,Grizzlies Rebound,Rebound,Unknown,11810.0,v,True,MEM,88
+235,320,1610612763,37,54,Aldama 26' 3PT Jump Shot (12 PTS) (Pippen Jr. 4 AST),Made Shot,Jump Shot,11900.0,v,False,MEM,88
+236,322,1610612763,37,54,Pippen Jr. P.FOUL (P3.PN) (J.Williams),Foul,Personal,12020.0,v,True,UTA,89
+237,324,1610612762,37,54,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,12020.0,h,False,UTA,89
+238,325,0,37,54,JAZZ Rebound,Rebound,Normal Rebound,12020.0,h,False,UTA,89
+239,326,1610612762,38,54,George Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,12020.0,h,False,UTA,89
+240,327,1610612763,38,54,MISS Pippen Jr. 5' Layup,Missed Shot,Layup Shot,12170.0,v,True,MEM,90
+241,327,1610612762,38,54,Kessler BLOCK (3 BLK),,,12170.0,h,False,MEM,90
+242,329,1610612763,38,54,Pippen Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,12190.0,v,False,MEM,90
+243,330,1610612763,38,54,MISS Huff 3PT Jump Shot,Missed Shot,Jump Shot,12230.0,v,False,MEM,90
+244,331,1610612762,38,54,Williams REBOUND (Off:0 Def:1),Rebound,Unknown,12250.0,h,True,UTA,91
+245,332,1610612762,38,54,MISS George 5' Driving Layup,Missed Shot,Driving Layup Shot,12310.0,h,False,UTA,91
+246,332,1610612763,38,54,Huff BLOCK (2 BLK),,,12310.0,v,False,UTA,91
+247,334,1610612762,38,54,Kessler REBOUND (Off:2 Def:2),Rebound,Unknown,12320.0,h,False,UTA,91
+248,335,1610612763,38,54,Clarke P.FOUL (P1.PN) (K.Cutler),Foul,Personal,12320.0,v,False,UTA,91
+249,337,1610612762,39,54,Kessler Free Throw 1 of 2 (4 PTS),Free Throw,Free Throw 1 of 2,12320.0,h,False,UTA,91
+250,338,1610612762,40,54,Kessler Free Throw 2 of 2 (5 PTS),Free Throw,Free Throw 2 of 2,12320.0,h,False,UTA,91
+251,339,1610612763,40,54,MISS Clarke 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,12460.0,v,True,MEM,92
+252,339,1610612762,40,54,Kessler BLOCK (4 BLK),,,12460.0,h,False,MEM,92
+253,341,1610612762,40,54,Sexton REBOUND (Off:0 Def:2),Rebound,Unknown,12500.0,h,True,UTA,93
+254,342,1610612762,42,54,Sexton 2' Running Finger Roll Layup (10 PTS),Made Shot,Running Finger Roll Layup Shot,12510.0,h,False,UTA,93
+255,343,0,42,54,Grizzlies Timeout: Regular (Reg.2 Short 0),Timeout,Regular,12510.0,v,True,MEM,94
+256,344,0,42,54,Instant Replay2nd Period (10:11 PM EST),Instant Replay,Altercation Ruling,12510.0,,False,MEM,94
+257,345,1610612762,42,54,SUB: Markkanen FOR Sensabaugh,Substitution,,12510.0,h,False,MEM,94
+258,349,1610612763,42,54,SUB: LaRavia FOR Clarke,Substitution,,12510.0,v,False,MEM,94
+259,350,1610612763,42,57,Aldama 3PT Jump Shot (15 PTS) (Pippen Jr. 5 AST),Made Shot,Jump Shot,12590.0,v,False,MEM,94
+260,352,1610612762,42,57,Sexton Bad Pass Turnover (P2.T10),Turnover,Bad Pass,12800.0,h,True,UTA,95
+261,352,1610612763,42,57,Pippen Jr. STEAL (2 STL),,,12800.0,v,True,MEM,96
+262,354,1610612763,42,57,Aldama Offensive Charge Foul (P1) (K.Cutler),Foul,Offensive Charge,12900.0,v,False,MEM,96
+263,356,1610612763,42,57,Aldama Offensive Foul Turnover (P2.T9),Turnover,Offensive Foul Turnover,12900.0,v,False,MEM,96
+264,357,1610612763,42,57,Grizzlies T.Foul (Def. 3 Sec Huff ) (J.Williams),Foul,Defense 3 Second,13030.0,v,True,UTA,97
+265,358,1610612762,43,57,Markkanen Free Throw Technical (11 PTS),Free Throw,Free Throw Technical,13030.0,h,False,UTA,97
+266,360,1610612762,43,57,MISS Markkanen 25' 3PT Jump Shot,Missed Shot,Jump Shot,13080.0,h,False,UTA,97
+267,361,1610612763,43,57,Huff REBOUND (Off:1 Def:3),Rebound,Unknown,13120.0,v,True,MEM,98
+268,362,1610612763,43,57,MISS Aldama 4' Driving Hook Shot,Missed Shot,Driving Hook Shot,13260.0,v,False,MEM,98
+269,363,1610612762,43,57,Markkanen REBOUND (Off:0 Def:4),Rebound,Unknown,13270.0,h,True,UTA,99
+270,364,1610612762,46,57,Markkanen 25' 3PT Jump Shot (14 PTS) (George 3 AST),Made Shot,Jump Shot,13350.0,h,False,UTA,99
+271,366,1610612763,46,59,Pippen Jr. 3' Driving Layup (2 PTS) (Wells 1 AST),Made Shot,Driving Layup Shot,13480.0,v,True,MEM,100
+272,368,1610612763,46,59,Wells P.FOUL (P1.PN) (K.Cutler),Foul,Personal,13580.0,v,True,UTA,101
+273,370,1610612762,47,59,Markkanen Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,13580.0,h,False,UTA,101
+274,371,1610612763,47,59,SUB: Morant FOR Pippen Jr.,Substitution,,13580.0,v,False,UTA,101
+275,373,1610612762,48,59,Markkanen Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,13580.0,h,False,UTA,101
+276,374,1610612762,48,59,Sexton P.FOUL (P1.T3) (J.Williams),Foul,Personal,13660.0,h,True,MEM,102
+277,376,1610612762,48,59,Kessler S.FOUL (P1.PN) (J.Conley),Foul,Shooting,13740.0,h,False,MEM,102
+278,378,1610612763,48,60,Huff Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,13740.0,v,False,MEM,102
+279,379,1610612763,48,61,Huff Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,13740.0,v,False,MEM,102
+280,380,1610612762,48,61,Sexton Lost Ball Turnover (P3.T11),Turnover,Lost Ball,13855.0,h,True,UTA,103
+281,380,1610612763,48,61,Wells STEAL (1 STL),,,13855.0,v,True,MEM,104
+282,382,1610612762,48,61,Markkanen S.FOUL (P2.PN) (J.Williams),Foul,Shooting,13897.0,h,False,MEM,104
+283,384,1610612763,48,61,MISS Wells Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,13897.0,v,False,MEM,104
+284,385,0,48,61,Grizzlies Rebound,Rebound,Normal Rebound,13897.0,v,False,MEM,104
+285,386,1610612763,48,61,SUB: Konchar FOR LaRavia,Substitution,,13897.0,v,False,MEM,104
+286,388,1610612763,48,61,MISS Wells Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,13897.0,v,False,MEM,104
+287,389,1610612762,48,61,Kessler REBOUND (Off:2 Def:3),Rebound,Unknown,13914.0,h,True,UTA,105
+288,390,1610612762,48,61,MISS George 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14065.0,h,False,UTA,105
+289,391,1610612763,48,61,Konchar REBOUND (Off:0 Def:2),Rebound,Unknown,14106.0,v,True,MEM,106
+290,394,1610612763,48,61,Morant Traveling Turnover (P2.T10),Turnover,Traveling,14291.0,v,False,MEM,106
+291,395,1610612763,48,61,Konchar S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,14355.0,v,True,UTA,107
+292,397,1610612762,49,61,Sexton Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,14355.0,h,False,UTA,107
+293,398,1610612763,49,61,SUB: Bane FOR Konchar,Substitution,,14355.0,v,False,UTA,107
+294,400,1610612762,50,61,Sexton Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,14355.0,h,False,UTA,107
+295,401,1610612763,50,61,MISS Morant 43' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14391.0,v,True,MEM,108
+296,402,0,50,61,Grizzlies Rebound,Rebound,Unknown,14391.0,v,False,MEM,108
+297,403,0,50,61,End of 2nd Period (10:21 PM EST),period,end,14400.0,,False,MEM,108
+298,414,0,50,61,Start of 3rd Period (10:36 PM EST),period,start,14400.0,,True,UTA,109
+299,415,1610612762,52,61,Markkanen 4' Driving Floating Bank Jump Shot (18 PTS),Made Shot,Driving Floating Bank Jump Shot,14570.0,h,False,UTA,109
+300,416,1610612763,52,64,Bane 25' 3PT Jump Shot (8 PTS) (Morant 5 AST),Made Shot,Jump Shot,14690.0,v,True,MEM,110
+301,418,1610612763,52,64,Smart P.FOUL (P2.T1) (J.Williams),Foul,Personal,14860.0,v,True,UTA,111
+302,420,1610612762,54,64,Sexton 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,14970.0,h,False,UTA,111
+303,421,1610612763,54,64,MISS Edey 4' Alley Oop Layup,Missed Shot,Alley Oop Layup shot,15190.0,v,True,MEM,112
+304,421,1610612762,54,64,Kessler BLOCK (5 BLK),,,15190.0,h,False,MEM,112
+305,423,1610612763,54,64,Smart REBOUND (Off:3 Def:1),Rebound,Unknown,15210.0,v,False,MEM,112
+306,424,1610612763,54,64,MISS Aldama 25' 3PT Jump Shot,Missed Shot,Jump Shot,15240.0,v,False,MEM,112
+307,425,1610612763,54,64,Edey REBOUND (Off:2 Def:1),Rebound,Unknown,15280.0,v,False,MEM,112
+308,426,1610612763,54,64,MISS Smart 27' 3PT Jump Shot,Missed Shot,Jump Shot,15290.0,v,False,MEM,112
+309,427,1610612762,54,64,Kessler REBOUND (Off:2 Def:4),Rebound,Unknown,15310.0,h,True,UTA,113
+310,429,1610612762,57,64,George 26' 3PT Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,15420.0,h,False,UTA,113
+311,430,1610612763,57,64,MISS Smart 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,15570.0,v,True,MEM,114
+312,431,1610612762,57,64,Kessler REBOUND (Off:2 Def:5),Rebound,Unknown,15590.0,h,True,UTA,115
+313,432,1610612762,60,64,Markkanen 3PT Jump Shot (21 PTS) (Sexton 2 AST),Made Shot,Jump Shot,15640.0,h,False,UTA,115
+314,434,0,60,64,Grizzlies Timeout: Regular (Reg.3 Short 0),Timeout,Regular,15650.0,v,True,MEM,116
+315,435,1610612763,60,67,Bane 3PT Jump Shot (11 PTS) (Morant 6 AST),Made Shot,Jump Shot,15760.0,v,False,MEM,116
+316,437,1610612762,62,67,George 9' Driving Floating Bank Jump Shot (6 PTS),Made Shot,Driving Floating Bank Jump Shot,16000.0,h,True,UTA,117
+317,438,1610612763,62,67,MISS Edey 6' Layup,Missed Shot,Layup Shot,16100.0,v,True,MEM,118
+318,439,1610612762,62,67,Markkanen REBOUND (Off:0 Def:5),Rebound,Unknown,16100.0,h,True,UTA,119
+319,440,1610612763,62,67,Edey P.FOUL (P4.T2) (K.Cutler),Foul,Personal,16100.0,v,False,UTA,119
+320,442,1610612762,64,67,Markkanen 4' Alley Oop Dunk (23 PTS) (George 4 AST),Made Shot,Alley Oop Dunk Shot,16180.0,h,False,UTA,119
+321,444,1610612763,64,69,Morant 7' Driving Floating Jump Shot (11 PTS),Made Shot,Driving Floating Jump Shot,16340.0,v,True,MEM,120
+322,445,1610612762,64,69,MISS George 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16540.0,h,True,UTA,121
+323,446,1610612762,64,69,Kessler REBOUND (Off:3 Def:5),Rebound,Unknown,16590.0,h,False,UTA,121
+324,447,1610612762,66,69,Kessler Tip Layup Shot (7 PTS),Made Shot,Tip Layup Shot,16590.0,h,False,UTA,121
+325,448,1610612763,66,69,MISS Bane 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16670.0,v,True,MEM,122
+326,449,1610612763,66,69,Edey REBOUND (Off:3 Def:1),Rebound,Unknown,16730.0,v,False,MEM,122
+327,450,1610612763,66,71,Edey Putback Layup (4 PTS),Made Shot,Putback Layup Shot,16730.0,v,False,MEM,122
+328,451,1610612762,66,71,Kessler OFF.Foul (P2) (J.Williams),Foul,Offensive,16910.0,h,True,UTA,123
+329,453,1610612762,66,71,Kessler Offensive Foul Turnover (P2.T12),Turnover,Offensive Foul Turnover,16910.0,h,False,UTA,123
+330,454,1610612763,66,71,SUB: Huff FOR Edey,Substitution,,16910.0,v,True,MEM,124
+331,456,1610612763,66,73,Bane 3' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,17050.0,v,False,MEM,124
+332,457,1610612762,66,73,Sexton Lost Ball Turnover (P4.T13),Turnover,Lost Ball,17260.0,h,True,UTA,125
+333,457,1610612763,66,73,Bane STEAL (1 STL),,,17260.0,v,True,MEM,126
+334,459,1610612763,66,75,Aldama 3' Alley Oop Layup (17 PTS) (Morant 7 AST),Made Shot,Alley Oop Layup shot,17300.0,v,False,MEM,126
+335,461,0,66,75,JAZZ Timeout: Regular (Full 3 Short 0),Timeout,Regular,17300.0,h,True,UTA,127
+336,462,1610612762,69,75,Hendricks 24' 3PT Jump Shot (3 PTS) (George 5 AST),Made Shot,Jump Shot,17530.0,h,False,UTA,127
+337,464,1610612763,69,77,Bane 3' Driving Finger Roll Layup (15 PTS),Made Shot,Driving Finger Roll Layup Shot,17580.0,v,True,MEM,128
+338,465,1610612762,69,77,MISS George 10' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,17750.0,h,True,UTA,129
+339,466,1610612762,69,77,Kessler REBOUND (Off:4 Def:5),Rebound,Unknown,17750.0,h,False,UTA,129
+340,467,1610612763,69,77,Morant S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,17750.0,v,False,UTA,129
+341,469,1610612762,69,77,MISS Kessler Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,17750.0,h,False,UTA,129
+342,470,0,69,77,JAZZ Rebound,Rebound,Normal Rebound,17750.0,h,False,UTA,129
+343,471,1610612762,69,77,SUB: Sensabaugh FOR Markkanen,Substitution,,17750.0,h,False,UTA,129
+344,472,1610612763,69,77,SUB: Wells FOR Morant,Substitution,,17750.0,v,False,UTA,129
+345,473,1610612763,69,77,SUB: Pippen Jr. FOR Smart,Substitution,,17750.0,v,False,UTA,129
+346,477,1610612762,70,77,Kessler Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,17750.0,h,False,UTA,129
+347,478,1610612763,70,77,MISS Bane 6' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,17890.0,v,True,MEM,130
+348,479,1610612762,70,77,Kessler REBOUND (Off:4 Def:6),Rebound,Unknown,17930.0,h,True,UTA,131
+349,572,1610612762,70,77,MISS Sensabaugh 6' Jump Shot,Missed Shot,Jump Shot,18050.0,h,False,UTA,131
+350,572,1610612763,70,77,Bane BLOCK (1 BLK),,,18050.0,v,False,UTA,131
+351,574,1610612763,70,77,Pippen Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,18050.0,v,True,MEM,132
+352,482,1610612763,70,77,MISS Bane 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,18100.0,v,False,MEM,132
+353,483,0,70,77,JAZZ Rebound,Rebound,Unknown,18120.0,h,True,UTA,133
+354,485,1610612762,70,77,SUB: Clarkson FOR Sexton,Substitution,,18120.0,h,False,UTA,133
+355,486,1610612762,70,77,SUB: Collins FOR Kessler,Substitution,,18120.0,h,False,UTA,133
+356,490,1610612763,70,77,SUB: Clarke FOR Huff,Substitution,,18250.0,v,False,UTA,133
+357,492,1610612762,70,77,MISS Clarkson 10' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,18360.0,h,False,UTA,133
+358,493,0,70,77,JAZZ Rebound,Rebound,Unknown,18360.0,h,False,UTA,133
+359,494,0,70,77,JAZZ Turnover: Shot Clock (T#14),Turnover,Shot Clock Turnover,18360.0,h,False,UTA,133
+360,495,1610612762,70,77,Sensabaugh S.FOUL (P1.T1) (K.Cutler),Foul,Shooting,18490.0,h,True,MEM,134
+361,497,1610612763,70,78,Aldama Free Throw 1 of 2 (18 PTS),Free Throw,Free Throw 1 of 2,18490.0,v,False,MEM,134
+362,498,1610612763,70,79,Aldama Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,18490.0,v,False,MEM,134
+363,500,1610612762,72,79,George 11' Driving Layup (8 PTS),Made Shot,Driving Layup Shot,18620.0,h,True,UTA,135
+364,501,1610612763,72,79,Wells S.FOUL (P2.T4) (J.Conley),Foul,Shooting,18620.0,v,False,UTA,135
+365,503,1610612762,72,79,MISS George Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,18620.0,h,False,UTA,135
+366,504,0,72,79,Grizzlies Rebound,Rebound,Unknown,18640.0,v,True,MEM,136
+367,506,1610612763,72,81,Aldama 7' Driving Finger Roll Layup (21 PTS) (Pippen Jr. 6 AST),Made Shot,Driving Finger Roll Layup Shot,18770.0,v,False,MEM,136
+368,508,1610612762,74,81,Sensabaugh 9' Driving Floating Jump Shot (3 PTS) (Clarkson 4 AST),Made Shot,Driving Floating Jump Shot,18940.0,h,True,UTA,137
+369,510,1610612763,74,81,MISS Aldama 3PT Jump Shot,Missed Shot,Jump Shot,19020.0,v,True,MEM,138
+370,511,1610612763,74,81,Clarke REBOUND (Off:1 Def:2),Rebound,Unknown,19050.0,v,False,MEM,138
+371,512,1610612763,74,81,MISS Bane 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,19070.0,v,False,MEM,138
+372,513,1610612762,74,81,George REBOUND (Off:0 Def:2),Rebound,Unknown,19120.0,h,True,UTA,139
+373,514,1610612762,77,81,Hendricks 3PT Jump Shot (6 PTS) (Clarkson 5 AST),Made Shot,Jump Shot,19180.0,h,False,UTA,139
+374,516,1610612763,77,81,Pippen Jr. Bad Pass Turnover (P1.T11),Turnover,Bad Pass,19390.0,v,True,MEM,140
+375,516,1610612762,77,81,Collins STEAL (1 STL),,,19390.0,h,True,UTA,141
+376,518,1610612762,79,81,Hendricks 3' Running Dunk (8 PTS) (George 6 AST),Made Shot,Running Dunk Shot,19430.0,h,False,UTA,141
+377,520,1610612763,79,83,Pippen Jr. 7' Jump Shot (4 PTS),Made Shot,Jump Shot,19590.0,v,True,MEM,142
+378,521,1610612762,79,83,Collins Lost Ball Turnover (P2.T15),Turnover,Lost Ball,19770.0,h,True,UTA,143
+379,521,1610612763,79,83,Pippen Jr. STEAL (3 STL),,,19770.0,v,True,MEM,144
+380,522,1610612763,79,85,Aldama 5' Dunk (23 PTS) (Bane 2 AST),Made Shot,Dunk Shot,19830.0,v,False,MEM,144
+381,524,1610612762,79,85,MISS Hendricks 30' 3PT Jump Shot,Missed Shot,Jump Shot,20070.0,h,True,UTA,145
+382,525,1610612762,79,85,Sensabaugh REBOUND (Off:2 Def:0),Rebound,Unknown,20120.0,h,False,UTA,145
+383,526,1610612762,79,85,MISS George 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,20170.0,h,False,UTA,145
+384,527,1610612762,79,85,Hendricks REBOUND (Off:1 Def:2),Rebound,Unknown,20210.0,h,False,UTA,145
+385,528,1610612762,79,85,MISS Hendricks Tip Layup Shot,Missed Shot,Tip Layup Shot,20210.0,h,False,UTA,145
+386,529,1610612763,79,85,Bane REBOUND (Off:0 Def:2),Rebound,Unknown,20230.0,v,True,MEM,146
+387,530,1610612763,79,87,Pippen Jr. 4' Running Dunk (6 PTS) (Bane 3 AST),Made Shot,Running Dunk Shot,20240.0,v,False,MEM,146
+388,532,0,79,87,JAZZ Timeout: Regular (Full 4 Short 0),Timeout,Regular,20240.0,h,True,UTA,147
+389,533,1610612762,79,87,SUB: Mills FOR Hendricks,Substitution,,20240.0,h,False,UTA,147
+390,534,1610612762,79,87,SUB: Markkanen FOR George,Substitution,,20240.0,h,False,UTA,147
+391,535,1610612762,79,87,SUB: Williams FOR Sensabaugh,Substitution,,20240.0,h,False,UTA,147
+392,536,1610612763,79,87,SUB: Morant FOR Pippen Jr.,Substitution,,20240.0,v,False,UTA,147
+393,537,1610612763,79,87,SUB: LaRavia FOR Aldama,Substitution,,20240.0,v,False,UTA,147
+394,538,1610612763,79,87,SUB: Konchar FOR Bane,Substitution,,20240.0,v,False,UTA,147
+395,546,1610612762,79,87,MISS Collins 25' 3PT Jump Shot,Missed Shot,Jump Shot,20400.0,h,False,UTA,147
+396,547,1610612763,79,87,Konchar REBOUND (Off:0 Def:3),Rebound,Unknown,20450.0,v,True,MEM,148
+397,548,1610612763,79,87,MISS Wells 5' Driving Layup,Missed Shot,Driving Layup Shot,20570.0,v,False,MEM,148
+398,549,1610612762,79,87,Williams REBOUND (Off:0 Def:2),Rebound,Unknown,20590.0,h,True,UTA,149
+399,550,1610612762,82,87,Clarkson 25' 3PT Jump Shot (10 PTS) (Mills 1 AST),Made Shot,Jump Shot,20660.0,h,False,UTA,149
+400,552,1610612763,82,89,Morant 6' Driving Floating Jump Shot (13 PTS),Made Shot,Driving Floating Jump Shot,20950.0,v,True,MEM,150
+401,553,1610612762,84,89,Clarkson 5' Driving Finger Roll Layup (12 PTS),Made Shot,Driving Finger Roll Layup Shot,21060.0,h,True,UTA,151
+402,554,1610612763,84,89,MISS Wells 24' 3PT Jump Shot,Missed Shot,Jump Shot,21258.0,v,True,MEM,152
+403,555,1610612763,84,89,Konchar REBOUND (Off:1 Def:3),Rebound,Unknown,21287.0,v,False,MEM,152
+404,556,1610612762,84,89,Collins S.FOUL (P3.T2) (K.Cutler),Foul,Shooting,21390.0,h,False,MEM,152
+405,558,1610612763,84,90,Morant Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,21390.0,v,False,MEM,152
+406,559,1610612763,84,90,SUB: Pippen Jr. FOR LaRavia,Substitution,,21390.0,v,False,MEM,152
+407,561,1610612763,84,90,MISS Morant Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,21390.0,v,False,MEM,152
+408,562,1610612762,84,90,Williams REBOUND (Off:0 Def:3),Rebound,Unknown,21404.0,h,True,UTA,153
+409,563,1610612762,84,90,Williams Lost Ball Turnover (P1.T16),Turnover,Lost Ball,21486.0,h,False,UTA,153
+410,563,1610612763,84,90,Morant STEAL (1 STL),,,21486.0,v,True,MEM,154
+411,565,1610612763,84,92,Morant 3' Running Finger Roll Layup (16 PTS),Made Shot,Running Finger Roll Layup Shot,21495.0,v,False,MEM,154
+412,566,1610612762,84,92,Williams S.FOUL (P3.PN) (J.Conley),Foul,Shooting,21495.0,h,False,MEM,154
+413,568,1610612763,84,93,Morant Free Throw 1 of 1 (17 PTS),Free Throw,Free Throw 1 of 1,21495.0,v,False,MEM,154
+414,570,1610612762,86,93,Clarkson 13' Pullup Jump Shot (14 PTS),Made Shot,Pullup Jump shot,21580.0,h,True,UTA,155
+415,571,0,86,93,End of 3rd Period (11:03 PM EST),period,end,21600.0,,True,MEM,156
+416,581,0,86,93,Start of 4th Period (11:06 PM EST),period,start,21600.0,,True,MEM,157
+417,582,1610612762,86,93,Collins S.FOUL (P4.T1) (K.Cutler),Foul,Shooting,21720.0,h,False,MEM,157
+418,584,1610612763,86,93,MISS Edey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,21720.0,v,False,MEM,157
+419,585,0,86,93,Grizzlies Rebound,Rebound,Normal Rebound,21720.0,v,False,MEM,157
+420,586,1610612763,86,93,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,21720.0,v,False,MEM,157
+421,587,1610612762,86,93,Collins REBOUND (Off:1 Def:4),Rebound,Unknown,21740.0,h,True,UTA,158
+422,588,1610612762,88,93,Collins 15' Turnaround Jump Shot (8 PTS) (Markkanen 1 AST),Made Shot,Turnaround Jump Shot,21870.0,h,False,UTA,158
+423,591,1610612763,88,95,Morant 16' Driving Floating Jump Shot (19 PTS),Made Shot,Driving Floating Jump Shot,21970.0,v,True,MEM,159
+424,592,1610612762,88,95,Williams S.FOUL (P4.T2) (J.Conley),Foul,Shooting,21970.0,h,False,MEM,159
+425,594,1610612763,88,96,Morant Free Throw 1 of 1 (20 PTS),Free Throw,Free Throw 1 of 1,21970.0,v,False,MEM,159
+426,595,1610612763,88,96,Morant P.FOUL (P3.T1) (K.Cutler),Foul,Personal,22020.0,v,True,UTA,160
+427,597,1610612762,88,96,SUB: Hendricks FOR Williams,Substitution,,22020.0,h,False,UTA,160
+428,599,1610612762,88,96,MISS Clarkson 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,22090.0,h,False,UTA,160
+429,600,1610612763,88,96,Morant REBOUND (Off:0 Def:5),Rebound,Unknown,22110.0,v,True,MEM,161
+430,601,1610612762,88,96,Mills S.FOUL (P2.T3) (K.Cutler),Foul,Shooting,22140.0,h,False,MEM,161
+431,603,1610612763,88,97,Konchar Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,22140.0,v,False,MEM,161
+432,604,1610612763,88,98,Konchar Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,22140.0,v,False,MEM,161
+433,605,1610612762,88,98,MISS Collins 25' 3PT Jump Shot,Missed Shot,Jump Shot,22240.0,h,True,UTA,162
+434,606,1610612763,88,98,Smart REBOUND (Off:3 Def:2),Rebound,Unknown,22260.0,v,True,MEM,163
+435,607,1610612763,88,101,Konchar 3PT Jump Shot (5 PTS) (Morant 8 AST),Made Shot,Jump Shot,22320.0,v,False,MEM,163
+436,609,1610612762,90,101,Collins 4' Driving Layup (10 PTS) (Clarkson 6 AST),Made Shot,Driving Layup Shot,22480.0,h,True,UTA,164
+437,611,1610612763,90,101,Edey S.FOUL (P5.T2) (K.Cutler),Foul,Shooting,22480.0,v,False,UTA,164
+438,613,1610612762,91,101,Collins Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,22480.0,h,False,UTA,164
+439,614,1610612763,91,101,MISS Morant 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,22640.0,v,True,MEM,165
+440,614,1610612762,91,101,Hendricks BLOCK (1 BLK),,,22640.0,h,False,MEM,165
+441,616,1610612762,91,101,Hendricks REBOUND (Off:1 Def:3),Rebound,Unknown,22670.0,h,True,UTA,166
+442,617,1610612762,91,101,MISS Collins 8' Hook Shot,Missed Shot,Hook Shot,22810.0,h,False,UTA,166
+443,618,1610612763,91,101,Konchar REBOUND (Off:1 Def:4),Rebound,Unknown,22830.0,v,True,MEM,167
+444,619,1610612763,91,101,MISS Smart 25' 3PT Jump Shot,Missed Shot,Jump Shot,22910.0,v,False,MEM,167
+445,620,1610612763,91,101,Edey REBOUND (Off:4 Def:1),Rebound,Unknown,22930.0,v,False,MEM,167
+446,621,1610612762,91,101,Collins S.FOUL (P5.T4) (K.Cutler),Foul,Shooting,22930.0,h,False,MEM,167
+447,623,1610612763,91,102,Edey Free Throw 1 of 2 (5 PTS),Free Throw,Free Throw 1 of 2,22930.0,v,False,MEM,167
+448,624,1610612762,91,102,SUB: Kessler FOR Collins,Substitution,,22930.0,h,False,MEM,167
+449,626,1610612763,91,102,MISS Edey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22930.0,v,False,MEM,167
+450,627,1610612762,91,102,Markkanen REBOUND (Off:0 Def:6),Rebound,Unknown,22950.0,h,True,UTA,168
+451,628,1610612763,91,102,Konchar P.FOUL (P2.T3) (J.Williams),Foul,Personal,23080.0,v,False,UTA,168
+452,631,1610612762,91,102,MISS Clarkson 18' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,23250.0,h,False,UTA,168
+453,632,0,91,102,JAZZ Rebound,Rebound,Unknown,23250.0,h,False,UTA,168
+454,633,1610612763,91,102,Edey L.B.FOUL (P6.T4) (J.Conley),Foul,Loose Ball,23250.0,v,False,UTA,168
+455,635,1610612763,91,102,SUB: Huff FOR Edey,Substitution,,23250.0,v,False,UTA,168
+456,637,1610612762,94,102,Clarkson 25' 3PT Pullup Jump Shot (17 PTS),Made Shot,Pullup Jump shot,23320.0,h,False,UTA,168
+457,638,1610612763,94,102,MISS LaRavia 25' 3PT Jump Shot,Missed Shot,Jump Shot,23460.0,v,True,MEM,169
+458,639,1610612762,94,102,Kessler REBOUND (Off:4 Def:7),Rebound,Unknown,23490.0,h,True,UTA,170
+459,640,1610612762,96,102,Kessler 4' Alley Oop Dunk (10 PTS) (Clarkson 7 AST),Made Shot,Alley Oop Dunk Shot,23590.0,h,False,UTA,170
+460,642,0,96,102,Grizzlies Timeout: Regular (Reg.4 Short 0),Timeout,Regular,23590.0,v,True,MEM,171
+461,643,1610612763,96,102,SUB: Wells FOR LaRavia,Substitution,,23590.0,v,False,MEM,171
+462,644,1610612763,96,102,SUB: Pippen Jr. FOR Morant,Substitution,,23590.0,v,False,MEM,171
+463,645,1610612763,96,102,SUB: Bane FOR Smart,Substitution,,23590.0,v,False,MEM,171
+464,649,1610612763,96,102,MISS Bane 3' Driving Layup,Missed Shot,Driving Layup Shot,23730.0,v,False,MEM,171
+465,649,1610612762,96,102,Clarkson BLOCK (1 BLK),,,23730.0,h,False,MEM,171
+466,651,1610612762,96,102,Clarkson REBOUND (Off:2 Def:2),Rebound,Unknown,23770.0,h,True,UTA,172
+467,652,1610612762,99,102,Hendricks 3PT Jump Shot (11 PTS) (Markkanen 2 AST),Made Shot,Jump Shot,23790.0,h,False,UTA,172
+468,654,1610612763,99,102,MISS Wells 25' 3PT Jump Shot,Missed Shot,Jump Shot,23960.0,v,True,MEM,173
+469,655,1610612762,99,102,Markkanen REBOUND (Off:0 Def:7),Rebound,Unknown,23980.0,h,True,UTA,174
+470,656,1610612762,101,102,Markkanen 6' Driving Layup (25 PTS),Made Shot,Driving Layup Shot,24030.0,h,False,UTA,174
+471,657,1610612763,101,102,Huff S.FOUL (P1.PN) (K.Cutler),Foul,Shooting,24030.0,v,False,UTA,174
+472,659,1610612762,102,102,Markkanen Free Throw 1 of 1 (26 PTS),Free Throw,Free Throw 1 of 1,24030.0,h,False,UTA,174
+473,660,1610612763,102,104,Huff 4' Alley Oop Dunk (10 PTS) (Pippen Jr. 7 AST),Made Shot,Alley Oop Dunk Shot,24260.0,v,True,MEM,175
+474,663,1610612763,102,104,Wells P.FOUL (P3.PN) (K.Cutler),Foul,Personal,24400.0,v,True,UTA,176
+475,665,1610612762,103,104,Markkanen Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,24400.0,h,False,UTA,176
+476,666,1610612762,104,104,Markkanen Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,24400.0,h,False,UTA,176
+477,673,1610612763,104,104,SUB: Aldama FOR Konchar,Substitution,,24400.0,v,False,UTA,176
+478,667,1610612763,104,104,MISS Pippen Jr. 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,24540.0,v,True,MEM,177
+479,668,1610612762,104,104,Clarkson REBOUND (Off:2 Def:3),Rebound,Unknown,24580.0,h,True,UTA,178
+480,669,1610612762,104,104,MISS Markkanen 24' 3PT Jump Shot,Missed Shot,Jump Shot,24710.0,h,False,UTA,178
+481,670,1610612762,104,104,Markkanen REBOUND (Off:1 Def:7),Rebound,Unknown,24730.0,h,False,UTA,178
+482,671,1610612763,104,104,Aldama S.FOUL (P2.PN) (K.Cutler),Foul,Shooting,24750.0,v,False,UTA,178
+483,675,1610612762,104,104,MISS Hendricks Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,24750.0,h,False,UTA,178
+484,676,0,104,104,JAZZ Rebound,Rebound,Normal Rebound,24750.0,h,False,UTA,178
+485,677,1610612762,104,104,SUB: George FOR Mills,Substitution,,24750.0,h,False,UTA,178
+486,678,1610612762,104,104,SUB: Sexton FOR Markkanen,Substitution,,24750.0,h,False,UTA,178
+487,681,1610612762,105,104,Hendricks Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,24750.0,h,False,UTA,178
+488,682,1610612763,105,104,Pippen Jr. Out of Bounds - Bad Pass Turnover Turnover (P2.T12),Turnover,Out of Bounds - Bad Pass Turnover,24860.0,v,True,MEM,179
+489,683,1610612762,105,104,MISS George 14' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,25070.0,h,True,UTA,180
+490,684,1610612763,105,104,Huff REBOUND (Off:1 Def:4),Rebound,Unknown,25080.0,v,True,MEM,181
+491,685,1610612763,105,107,Bane 3PT Step Back Jump Shot (18 PTS) (Aldama 2 AST),Made Shot,Step Back Jump shot,25150.0,v,False,MEM,181
+492,687,1610612762,105,107,MISS Clarkson 25' 3PT Jump Shot,Missed Shot,Jump Shot,25310.0,h,True,UTA,182
+493,688,1610612763,105,107,Bane REBOUND (Off:0 Def:3),Rebound,Unknown,25340.0,v,True,MEM,183
+494,689,1610612763,105,110,Huff 25' 3PT Jump Shot (13 PTS) (Bane 4 AST),Made Shot,Jump Shot,25410.0,v,False,MEM,183
+495,691,0,105,110,JAZZ Timeout: Regular (Full 5 Short 0),Timeout,Regular,25420.0,h,True,UTA,184
+496,692,1610612762,105,110,SUB: Williams FOR Clarkson,Substitution,,25420.0,h,False,UTA,184
+497,693,1610612762,105,110,SUB: Markkanen FOR Hendricks,Substitution,,25420.0,h,False,UTA,184
+498,696,1610612763,105,110,Wells P.FOUL (P4.PN) (J.Conley),Foul,Personal,25500.0,v,False,UTA,184
+499,698,1610612762,106,110,Markkanen Free Throw 1 of 2 (29 PTS),Free Throw,Free Throw 1 of 2,25500.0,h,False,UTA,184
+500,699,1610612762,107,110,Markkanen Free Throw 2 of 2 (30 PTS),Free Throw,Free Throw 2 of 2,25500.0,h,False,UTA,184
+501,700,1610612763,107,110,MISS Bane 25' 3PT Jump Shot,Missed Shot,Jump Shot,25580.0,v,True,MEM,185
+502,701,1610612762,107,110,Williams REBOUND (Off:0 Def:4),Rebound,Unknown,25620.0,h,True,UTA,186
+503,702,1610612762,107,110,MISS George 25' 3PT Jump Shot,Missed Shot,Jump Shot,25760.0,h,False,UTA,186
+504,702,1610612763,107,110,Pippen Jr. BLOCK (1 BLK),,,25760.0,v,False,UTA,186
+505,704,1610612763,107,110,Bane REBOUND (Off:0 Def:4),Rebound,Unknown,25780.0,v,True,MEM,187
+506,705,1610612763,107,112,Bane 2' Running Layup (20 PTS),Made Shot,Running Layup Shot,25820.0,v,False,MEM,187
+507,706,1610612763,107,112,Wells P.FOUL (P5.PN) (J.Conley),Foul,Personal,26020.0,v,True,UTA,188
+508,708,1610612762,108,112,Markkanen Free Throw 1 of 2 (31 PTS),Free Throw,Free Throw 1 of 2,26020.0,h,False,UTA,188
+509,709,1610612762,109,112,Markkanen Free Throw 2 of 2 (32 PTS),Free Throw,Free Throw 2 of 2,26020.0,h,False,UTA,188
+510,710,1610612762,109,112,George P.FOUL (P1.PN) (J.Williams),Foul,Personal,26100.0,h,True,MEM,189
+511,712,1610612763,109,113,Bane Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,26100.0,v,False,MEM,189
+512,713,1610612763,109,113,SUB: Smart FOR Wells,Substitution,,26100.0,v,False,MEM,189
+513,715,1610612763,109,114,Bane Free Throw 2 of 2 (22 PTS),Free Throw,Free Throw 2 of 2,26100.0,v,False,MEM,189
+514,716,1610612762,109,114,MISS George 15' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,26220.0,h,True,UTA,190
+515,717,1610612762,109,114,Kessler REBOUND (Off:5 Def:7),Rebound,Unknown,26250.0,h,False,UTA,190
+516,718,1610612762,111,114,Kessler Putback Layup (12 PTS),Made Shot,Putback Layup Shot,26250.0,h,False,UTA,190
+517,719,1610612763,111,114,MISS Smart 24' 3PT Jump Shot,Missed Shot,Jump Shot,26350.0,v,True,MEM,191
+518,720,1610612762,111,114,Kessler REBOUND (Off:5 Def:8),Rebound,Unknown,26370.0,h,True,UTA,192
+519,721,1610612763,111,114,Bane S.FOUL (P4.PN) (J.Williams),Foul,Shooting,26400.0,v,False,UTA,192
+520,723,1610612762,111,114,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,26400.0,h,False,UTA,192
+521,724,0,111,114,JAZZ Rebound,Rebound,Normal Rebound,26400.0,h,False,UTA,192
+522,725,1610612762,111,114,SUB: Hendricks FOR Williams,Substitution,,26400.0,h,False,UTA,192
+523,726,1610612763,111,114,SUB: Morant FOR Pippen Jr.,Substitution,,26400.0,v,False,UTA,192
+524,729,0,111,114,Grizzlies Timeout: Regular (Reg.5 Short 0),Timeout,Regular,26400.0,v,False,UTA,192
+525,730,1610612762,112,114,George Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,26400.0,h,False,UTA,192
+526,731,1610612762,112,114,Sexton P.FOUL (P2.PN) (J.Williams),Foul,Personal,26490.0,h,True,MEM,193
+527,733,1610612763,112,115,Smart Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,26490.0,v,False,MEM,193
+528,734,1610612763,112,116,Smart Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,26490.0,v,False,MEM,193
+529,735,1610612762,114,116,Kessler 3' Layup (14 PTS) (Sexton 3 AST),Made Shot,Layup Shot,26660.0,h,True,UTA,194
+530,737,1610612763,114,116,MISS Aldama 26' 3PT Jump Shot,Missed Shot,Jump Shot,26840.0,v,True,MEM,195
+531,738,1610612762,114,116,Markkanen REBOUND (Off:1 Def:8),Rebound,Unknown,26880.0,h,True,UTA,196
+532,739,1610612762,114,116,MISS Sexton 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,26980.0,h,False,UTA,196
+533,740,1610612762,114,116,Hendricks REBOUND (Off:2 Def:3),Rebound,Unknown,27030.0,h,False,UTA,196
+534,743,1610612762,114,116,MISS Markkanen 6' Layup,Missed Shot,Layup Shot,27090.0,h,False,UTA,196
+535,744,1610612762,114,116,Kessler REBOUND (Off:6 Def:8),Rebound,Unknown,27120.0,h,False,UTA,196
+536,745,1610612762,116,116,Kessler Tip Layup Shot (16 PTS),Made Shot,Tip Layup Shot,27120.0,h,False,UTA,196
+537,746,1610612763,116,118,Aldama 2' Cutting Layup Shot (25 PTS) (Morant 9 AST),Made Shot,Cutting Layup Shot,27260.0,v,True,MEM,197
+538,748,1610612763,116,118,Morant P.FOUL (P4.PN) (K.Cutler),Foul,Personal,27440.0,v,True,UTA,198
+539,750,1610612762,116,118,MISS Sexton Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,27440.0,h,False,UTA,198
+540,751,0,116,118,JAZZ Rebound,Rebound,Normal Rebound,27440.0,h,False,UTA,198
+541,752,1610612762,116,118,SUB: Clarkson FOR George,Substitution,,27440.0,h,False,UTA,198
+542,754,1610612762,117,118,Sexton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,27440.0,h,False,UTA,198
+543,755,1610612763,117,120,Aldama 4' Cutting Dunk Shot (27 PTS) (Morant 10 AST),Made Shot,Cutting Dunk Shot,27620.0,v,True,MEM,199
+544,757,1610612763,117,120,Smart P.FOUL (P3.PN) (J.Williams),Foul,Personal,27720.0,v,True,UTA,200
+545,759,1610612762,118,120,Sexton Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,27720.0,h,False,UTA,200
+546,760,1610612762,118,120,MISS Sexton Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,27720.0,h,False,UTA,200
+547,761,1610612763,118,120,Aldama REBOUND (Off:1 Def:3),Rebound,Unknown,27740.0,v,True,MEM,201
+548,762,1610612763,118,120,Morant Lost Ball Turnover (P3.T13),Turnover,Lost Ball,27920.0,v,False,MEM,201
+549,762,1610612762,118,120,Hendricks STEAL (2 STL),,,27920.0,h,True,UTA,202
+550,767,1610612762,118,120,Markkanen Out of Bounds Lost Ball Turnover (P2.T17),Turnover,Out of Bounds Lost Ball Turnover,27960.0,h,False,UTA,202
+551,765,0,118,120,Grizzlies Timeout: Coach Challenge (Reg.5 Short 0),Timeout,Coach Challenge,27960.0,v,True,MEM,203
+552,766,0,118,120,Instant Replay4th Period (11:39 PM EST),Instant Replay,Coach Challenge Overturn Ruling,27960.0,,False,MEM,203
+553,768,1610612762,118,120,SUB: George FOR Sexton,Substitution,,27960.0,h,False,MEM,203
+554,770,1610612763,118,122,Smart 2' Driving Reverse Layup (11 PTS),Made Shot,Driving Reverse Layup Shot,28120.0,v,False,MEM,203
+555,771,1610612763,118,122,Huff S.FOUL (P2.PN) (J.Williams),Foul,Shooting,28234.0,v,True,UTA,204
+556,773,1610612762,118,122,MISS George Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,28234.0,h,False,UTA,204
+557,774,0,118,122,JAZZ Rebound,Rebound,Normal Rebound,28234.0,h,False,UTA,204
+558,775,1610612762,119,122,George Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,28234.0,h,False,UTA,204
+559,776,1610612763,119,124,Morant 3' Driving Finger Roll Layup (22 PTS),Made Shot,Driving Finger Roll Layup Shot,28418.0,v,True,MEM,205
+560,777,1610612763,119,124,Smart S.FOUL (P4.PN) (J.Conley),Foul,Shooting,28464.0,v,True,UTA,206
+561,779,1610612762,120,124,George Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,28464.0,h,False,UTA,206
+562,780,1610612762,121,124,George Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,28464.0,h,False,UTA,206
+563,781,1610612763,121,124,MISS Bane 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,28667.0,v,True,MEM,207
+564,782,1610612763,121,124,Aldama REBOUND (Off:2 Def:3),Rebound,Unknown,28697.0,v,False,MEM,207
+565,783,1610612762,121,124,George Personal Take Foul (P2.PN) (K.Cutler),Foul,Personal Take,28740.0,h,False,MEM,207
+566,785,1610612763,121,125,Bane Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,28740.0,v,False,MEM,207
+567,786,1610612763,121,126,Bane Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,28740.0,v,False,MEM,207
+568,787,0,121,126,JAZZ Timeout: Regular (Full 6 Short 0),Timeout,Regular,28740.0,h,False,MEM,207
+569,788,1610612762,121,126,SUB: Sexton FOR Kessler,Substitution,,28740.0,h,False,MEM,207
+570,790,1610612762,124,126,Markkanen 27' 3PT Jump Shot (35 PTS) (George 7 AST),Made Shot,Jump Shot,28752.0,h,True,UTA,208
+571,792,0,124,126,End of 4th Period (11:48 PM EST),period,end,28800.0,,True,MEM,209

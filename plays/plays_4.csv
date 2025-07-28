@@ -257,255 +257,255 @@
 255,353,1610612765,58,47,MISS Cunningham 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,14200.0,h,False,DET,100
 256,354,1610612754,58,47,Mathurin REBOUND (Off:0 Def:3),Rebound,Unknown,14213.0,v,True,IND,101
 257,355,1610612754,58,49,Nembhard 17' Step Back Jump Shot (8 PTS),Made Shot,Step Back Jump shot,14363.0,v,False,IND,101
-258,358,0,58,49,End of 2nd Period (8:13 PM EST),period,end,14400.0,,False,IND,101
-259,366,0,58,49,Start of 3rd Period (8:28 PM EST),period,start,14400.0,,True,IND,102
-260,367,1610612754,58,49,MISS Nembhard 19' Jump Shot,Missed Shot,Jump Shot,14530.0,v,False,IND,102
-261,368,1610612765,58,49,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,14560.0,h,True,DET,103
-262,369,1610612765,61,49,Hardaway Jr. 27' 3PT Running Jump Shot (11 PTS) (Cunningham 7 AST),Made Shot,Running Jump Shot,14610.0,h,False,DET,103
-263,371,1610612754,61,51,Turner 1' Cutting Layup Shot (6 PTS) (Nembhard 1 AST),Made Shot,Cutting Layup Shot,14710.0,v,True,IND,104
-264,373,1610612765,61,51,Cunningham S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,14710.0,h,False,IND,104
-265,375,1610612754,61,52,Turner Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,14710.0,v,False,IND,104
-266,376,1610612765,64,52,Hardaway Jr. 25' 3PT Jump Shot (14 PTS) (Ivey 2 AST),Made Shot,Jump Shot,14960.0,h,True,DET,105
-267,378,1610612765,64,52,Hardaway Jr. P.FOUL (P1.T2) (T.Ricks),Foul,Personal,15160.0,h,True,IND,106
-268,380,1610612754,64,55,Turner 27' 3PT Jump Shot (10 PTS) (Siakam 5 AST),Made Shot,Jump Shot,15210.0,v,False,IND,106
-269,382,1610612765,64,55,MISS Ivey 2' Driving Layup,Missed Shot,Driving Layup Shot,15370.0,h,True,DET,107
-270,382,1610612754,64,55,Nesmith BLOCK (1 BLK),,,15370.0,v,False,DET,107
-271,384,0,64,55,PISTONS Rebound,Rebound,Unknown,15370.0,h,False,DET,107
-272,386,1610612765,66,55,Cunningham 11' Pullup Jump Shot (8 PTS) (Duren 3 AST),Made Shot,Pullup Jump shot,15410.0,h,False,DET,107
-273,388,1610612754,66,58,Turner 28' 3PT Jump Shot (13 PTS) (Nembhard 2 AST),Made Shot,Jump Shot,15520.0,v,True,IND,108
-274,390,1610612765,68,58,Cunningham 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,15650.0,h,True,DET,109
-275,391,1610612754,68,60,Siakam 2' Layup (10 PTS),Made Shot,Layup Shot,15770.0,v,True,IND,110
-276,392,1610612765,68,60,MISS Hardaway Jr. 7' Floating Jump Shot,Missed Shot,Floating Jump shot,15940.0,h,True,DET,111
-277,393,1610612754,68,60,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,15960.0,v,True,IND,112
-278,394,1610612754,68,63,Turner 27' 3PT Jump Shot (16 PTS) (Nembhard 3 AST),Made Shot,Jump Shot,16010.0,v,False,IND,112
-279,396,0,68,63,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,16020.0,h,True,DET,113
-280,398,1610612765,70,63,Cunningham 4' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,16270.0,h,False,DET,113
-281,399,1610612754,70,65,Turner 14' Jump Shot (18 PTS) (Nembhard 4 AST),Made Shot,Jump Shot,16420.0,v,True,IND,114
-282,401,1610612765,72,65,Cunningham 14' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,16580.0,h,True,DET,115
-283,402,1610612754,72,65,MISS Turner 25' 3PT Jump Shot,Missed Shot,Jump Shot,16730.0,v,True,IND,116
-284,403,1610612765,72,65,Duren REBOUND (Off:3 Def:7),Rebound,Unknown,16760.0,h,True,DET,117
-285,404,1610612765,74,65,Cunningham 8' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,16870.0,h,False,DET,117
-286,406,1610612754,74,65,MISS Siakam 4' Layup,Missed Shot,Layup Shot,17040.0,v,True,IND,118
-287,407,1610612765,74,65,Duren REBOUND (Off:3 Def:8),Rebound,Unknown,17060.0,h,True,DET,119
-288,408,1610612765,74,65,MISS Harris 8' Running Jump Shot,Missed Shot,Running Jump Shot,17100.0,h,False,DET,119
-289,409,1610612754,74,65,Turner REBOUND (Off:0 Def:5),Rebound,Unknown,17130.0,v,True,IND,120
-290,410,1610612754,74,67,Siakam 4' Layup (12 PTS) (Nembhard 5 AST),Made Shot,Layup Shot,17220.0,v,False,IND,120
-291,412,1610612754,74,67,Nesmith S.FOUL (P4.T1) (T.Ricks),Foul,Shooting,17370.0,v,True,DET,121
-292,414,1610612765,74,67,MISS Ivey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,17370.0,h,False,DET,121
-293,415,0,74,67,PISTONS Rebound,Rebound,Normal Rebound,17370.0,h,False,DET,121
-294,416,1610612754,74,67,SUB: Mathurin FOR Nesmith,Substitution,,17370.0,v,False,DET,121
-295,418,1610612765,75,67,Ivey Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,17370.0,h,False,DET,121
-296,419,1610612754,75,67,MISS Mathurin 24' 3PT Jump Shot,Missed Shot,Jump Shot,17490.0,v,True,IND,122
-297,420,1610612765,75,67,Duren REBOUND (Off:3 Def:9),Rebound,Unknown,17520.0,h,True,DET,123
-298,421,1610612765,75,67,MISS Ivey 26' 3PT Jump Shot,Missed Shot,Jump Shot,17690.0,h,False,DET,123
-299,422,1610612765,75,67,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,17710.0,h,False,DET,123
-300,423,0,75,67,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,17710.0,h,False,DET,123
-301,424,1610612765,75,67,SUB: Beasley FOR Ivey,Substitution,,17710.0,h,False,DET,123
-302,426,1610612765,75,67,MISS Beasley 2' Layup,Missed Shot,Layup Shot,17740.0,h,False,DET,123
-303,427,1610612754,75,67,Turner REBOUND (Off:0 Def:6),Rebound,Unknown,17760.0,v,True,IND,124
-304,428,1610612754,75,69,Turner Cutting Dunk Shot (20 PTS) (Siakam 6 AST),Made Shot,Cutting Dunk Shot,17850.0,v,False,IND,124
-305,431,1610612765,75,69,MISS Beasley 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,18140.0,h,True,DET,125
-306,432,1610612754,75,69,Siakam REBOUND (Off:3 Def:4),Rebound,Unknown,18180.0,v,True,IND,126
-307,433,1610612754,75,69,MISS Turner 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,18230.0,v,False,IND,126
-308,434,1610612765,75,69,Beasley REBOUND (Off:0 Def:3),Rebound,Unknown,18300.0,h,True,DET,127
-309,435,1610612765,75,69,MISS Cunningham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,18370.0,h,False,DET,127
-310,436,1610612754,75,69,Mathurin REBOUND (Off:0 Def:4),Rebound,Unknown,18390.0,v,True,IND,128
-311,437,1610612754,75,71,Haliburton 1' Driving Dunk (6 PTS) (Turner 4 AST),Made Shot,Driving Dunk Shot,18560.0,v,False,IND,128
-312,439,1610612765,75,71,Harris Bad Pass Turnover (P1.T9),Turnover,Bad Pass,18690.0,h,True,DET,129
-313,439,1610612754,75,71,Haliburton STEAL (3 STL),,,18690.0,v,True,IND,130
-314,441,1610612754,75,71,MISS Mathurin 1' Running Layup,Missed Shot,Running Layup Shot,18730.0,v,False,IND,130
-315,442,0,75,71,PISTONS Rebound,Rebound,Unknown,18730.0,h,True,DET,131
-316,444,1610612765,75,71,SUB: Stewart FOR Duren,Substitution,,18730.0,h,False,DET,131
-317,445,1610612765,75,71,SUB: Holland II FOR Beasley,Substitution,,18730.0,h,False,DET,131
-318,451,1610612765,75,71,Cunningham Bad Pass Turnover (P2.T10),Turnover,Bad Pass,18990.0,h,False,DET,131
-319,451,1610612754,75,71,Siakam STEAL (2 STL),,,18990.0,v,True,IND,132
-320,453,1610612754,75,73,Siakam 5' Running Jump Shot (14 PTS) (Haliburton 3 AST),Made Shot,Running Jump Shot,19050.0,v,False,IND,132
-321,455,1610612765,75,73,Harris S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,19050.0,h,False,IND,132
-322,457,1610612765,75,73,SUB: Ivey FOR Hardaway Jr.,Substitution,,19050.0,h,False,IND,132
-323,459,1610612765,75,73,SUB: Fontecchio FOR Harris,Substitution,,19050.0,h,False,IND,132
-324,461,1610612754,75,74,Siakam Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,19050.0,v,False,IND,132
-325,462,1610612765,75,74,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,19240.0,h,True,DET,133
-326,463,1610612765,75,74,Ivey REBOUND (Off:2 Def:0),Rebound,Unknown,19270.0,h,False,DET,133
-327,464,1610612765,75,74,MISS Fontecchio 26' 3PT Jump Shot,Missed Shot,Jump Shot,19300.0,h,False,DET,133
-328,465,0,75,74,Pacers Rebound,Rebound,Unknown,19310.0,v,True,IND,134
-329,466,1610612765,75,74,Stewart L.B.FOUL (P1.T4) (T.Ricks),Foul,Loose Ball,19310.0,h,False,IND,134
-330,468,1610612754,75,74,SUB: Freeman FOR Turner,Substitution,,19310.0,v,False,IND,134
-331,469,1610612754,75,74,SUB: Toppin FOR Siakam,Substitution,,19310.0,v,False,IND,134
-332,472,1610612754,75,76,Haliburton 19' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,19410.0,v,False,IND,134
-333,473,1610612754,75,76,Haliburton P.FOUL (P1.T2) (T.Ricks),Foul,Personal,19520.0,v,True,DET,135
-334,475,1610612765,75,76,MISS Ivey 26' 3PT Jump Shot,Missed Shot,Jump Shot,19580.0,h,False,DET,135
-335,476,1610612754,75,76,Haliburton REBOUND (Off:1 Def:2),Rebound,Unknown,19620.0,v,True,IND,136
-336,477,1610612754,75,76,MISS Haliburton 26' 3PT Jump Shot,Missed Shot,Jump Shot,19690.0,v,False,IND,136
-337,478,0,75,76,Pacers Rebound,Rebound,Unknown,19690.0,v,False,IND,136
-338,479,1610612765,75,76,Stewart L.B.FOUL (P2.PN) (T.Ricks),Foul,Loose Ball,19690.0,h,False,IND,136
-339,481,1610612754,75,77,Freeman Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,19690.0,v,False,IND,136
-340,482,1610612754,75,77,SUB: McConnell FOR Haliburton,Substitution,,19690.0,v,False,IND,136
-341,484,1610612754,75,78,Freeman Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,19690.0,v,False,IND,136
-342,485,1610612765,77,78,Cunningham 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,19860.0,h,True,DET,137
-343,486,1610612754,77,78,Freeman Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,19940.0,v,True,IND,138
-344,487,1610612765,80,78,Cunningham 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,20090.0,h,True,DET,139
-345,488,0,80,78,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,20100.0,v,True,IND,140
-346,489,1610612754,80,78,SUB: Sheppard FOR Mathurin,Substitution,,20100.0,v,False,IND,140
-347,491,1610612754,80,80,Toppin 8' Floating Jump Shot (2 PTS) (Nembhard 6 AST),Made Shot,Floating Jump shot,20250.0,v,False,IND,140
-348,493,1610612765,82,80,Stewart 2' Cutting Layup Shot (2 PTS) (Cunningham 8 AST),Made Shot,Cutting Layup Shot,20420.0,h,True,DET,141
-349,495,1610612754,82,82,McConnell 10' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,20530.0,v,True,IND,142
-350,496,1610612765,82,82,Stewart Lost Ball Turnover (P2.T11),Turnover,Lost Ball,20750.0,h,True,DET,143
-351,496,1610612754,82,82,Toppin STEAL (1 STL),,,20750.0,v,True,IND,144
-352,498,1610612754,82,82,MISS McConnell 10' Floating Jump Shot,Missed Shot,Floating Jump shot,20900.0,v,False,IND,144
-353,499,1610612765,82,82,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,20920.0,h,True,DET,145
-354,500,1610612754,82,82,Sheppard S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,20960.0,v,False,DET,145
-355,502,1610612765,83,82,Ivey Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,20960.0,h,False,DET,145
-356,503,1610612765,83,82,SUB: Beasley FOR Cunningham,Substitution,,20960.0,h,False,DET,145
-357,505,1610612765,84,82,Ivey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,20960.0,h,False,DET,145
-358,506,1610612754,84,82,MISS Nembhard 24' 3PT Jump Shot,Missed Shot,Jump Shot,21146.0,v,True,IND,146
-359,507,1610612765,84,82,Ivey REBOUND (Off:2 Def:1),Rebound,Unknown,21169.0,h,True,DET,147
-360,508,1610612765,86,82,Ivey 3' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,21222.0,h,False,DET,147
-361,509,1610612754,86,82,Toppin S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,21222.0,v,False,DET,147
-362,511,1610612754,86,82,SUB: Mathurin FOR Nembhard,Substitution,,21222.0,v,False,DET,147
-363,512,1610612754,86,82,SUB: Turner FOR Freeman,Substitution,,21222.0,v,False,DET,147
-364,515,1610612765,87,82,Ivey Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,21222.0,h,False,DET,147
-365,516,1610612754,87,82,MISS Mathurin 21' Jump Shot,Missed Shot,Jump Shot,21357.0,v,True,IND,148
-366,517,0,87,82,PISTONS Rebound,Rebound,Unknown,21371.0,h,True,DET,149
-367,519,1610612765,87,82,SUB: Harris FOR Holland II,Substitution,,21384.0,h,False,DET,149
-368,520,1610612765,87,82,SUB: Cunningham FOR Stewart,Substitution,,21384.0,h,False,DET,149
-369,521,1610612754,87,82,SUB: Nembhard FOR Turner,Substitution,,21384.0,v,False,DET,149
-370,525,1610612765,90,82,Cunningham 26' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,21592.0,h,False,DET,149
-371,526,0,90,82,End of 3rd Period (8:56 PM EST),period,end,21600.0,,False,DET,149
-372,534,1610612765,90,82,Holland II T.FOUL (P0.T0) (B.Barnaky),Foul,Technical,21600.0,h,False,DET,149
-373,535,1610612754,90,83,Mathurin Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,21600.0,v,False,DET,149
-374,536,0,90,83,Start of 4th Period (8:59 PM EST),period,start,21600.0,,True,DET,150
-375,537,1610612765,90,83,MISS Ivey 9' Jump Shot,Missed Shot,Jump Shot,21780.0,h,False,DET,150
-376,537,1610612754,90,83,Sheppard BLOCK (1 BLK),,,21780.0,v,False,DET,150
-377,539,1610612754,90,83,McConnell REBOUND (Off:0 Def:2),Rebound,Unknown,21780.0,v,True,IND,151
-378,540,1610612754,90,85,McConnell 1' Layup (8 PTS) (Toppin 1 AST),Made Shot,Layup Shot,21850.0,v,False,IND,151
-379,542,1610612765,92,85,Duren 1' Dunk (9 PTS) (Ivey 3 AST),Made Shot,Dunk Shot,21970.0,h,True,DET,152
-380,544,1610612765,92,85,Holland II S.FOUL (P1.T1) (T.Ricks),Foul,Shooting,22130.0,h,True,IND,153
-381,546,1610612754,92,86,Mathurin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,22130.0,v,False,IND,153
-382,547,1610612754,92,87,Mathurin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,22130.0,v,False,IND,153
-383,548,1610612765,95,87,Beasley 3PT Pullup Jump Shot (13 PTS) (Ivey 4 AST),Made Shot,Pullup Jump shot,22300.0,h,True,DET,154
-384,550,1610612754,95,89,McConnell 2' Driving Layup (10 PTS) (Toppin 2 AST),Made Shot,Driving Layup Shot,22430.0,v,True,IND,155
-385,552,1610612765,95,89,MISS Ivey 12' Floating Jump Shot,Missed Shot,Floating Jump shot,22540.0,h,True,DET,156
-386,553,1610612754,95,89,Turner REBOUND (Off:0 Def:7),Rebound,Unknown,22550.0,v,True,IND,157
-387,554,1610612754,95,91,McConnell 1' Running Reverse Layup (12 PTS),Made Shot,Running Reverse Layup Shot,22600.0,v,False,IND,157
-388,555,0,95,91,PISTONS Timeout: Regular (Full 5 Short 0),Timeout,Regular,22600.0,h,True,DET,158
-389,556,1610612754,95,91,Sheppard S.FOUL (P2.T1) (T.Ricks),Foul,Shooting,22780.0,v,False,DET,158
-390,558,1610612765,96,91,Ivey Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,22780.0,h,False,DET,158
-391,559,1610612765,96,91,MISS Ivey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22780.0,h,False,DET,158
-392,560,1610612754,96,91,Sheppard REBOUND (Off:0 Def:1),Rebound,Unknown,22810.0,v,True,IND,159
-393,561,1610612754,96,93,McConnell 2' Driving Layup (14 PTS) (Mathurin 1 AST),Made Shot,Driving Layup Shot,22930.0,v,False,IND,159
-394,563,1610612754,96,93,Turner S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,23100.0,v,True,DET,160
-395,565,1610612765,97,93,Duren Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,23100.0,h,False,DET,160
-396,566,1610612765,98,93,Duren Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,23100.0,h,False,DET,160
-397,567,1610612765,98,93,Duren S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,23230.0,h,True,IND,161
-398,569,1610612754,98,94,Mathurin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,23230.0,v,False,IND,161
-399,570,1610612754,98,94,MISS Mathurin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,23230.0,v,False,IND,161
-400,571,1610612754,98,94,Mathurin REBOUND (Off:1 Def:4),Rebound,Unknown,23270.0,v,False,IND,161
-401,573,1610612754,98,96,Mathurin 21' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,23420.0,v,False,IND,161
-402,574,1610612754,98,96,Toppin P.FOUL (P3.T3) (T.Brothers),Foul,Personal,23460.0,v,True,DET,162
-403,576,1610612765,98,96,MISS Beasley 24' 3PT Jump Shot,Missed Shot,Jump Shot,23610.0,h,False,DET,162
-404,577,1610612765,98,96,Fontecchio REBOUND (Off:1 Def:0),Rebound,Unknown,23640.0,h,False,DET,162
-405,578,1610612765,98,96,MISS Fontecchio 1' Layup,Missed Shot,Layup Shot,23650.0,h,False,DET,162
-406,579,1610612754,98,96,Sheppard REBOUND (Off:0 Def:2),Rebound,Unknown,23650.0,v,True,IND,163
-407,580,1610612754,98,96,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,23800.0,v,False,IND,163
-408,581,0,98,96,PISTONS Rebound,Rebound,Unknown,23810.0,h,True,DET,164
-409,583,1610612765,98,96,SUB: Cunningham FOR Holland II,Substitution,,23810.0,h,False,DET,164
-410,585,0,98,96,PISTONS Too Many Players Tech Foul,Foul,Too Many Players Technical,23810.0,h,False,DET,164
-411,586,0,98,96,PISTONS Turnover: Too Many Players (T#12),Turnover,Too Many Players Turnover,23810.0,h,False,DET,164
-412,587,1610612754,98,97,Mathurin Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,23810.0,v,True,IND,165
-413,588,1610612765,98,97,SUB: Hardaway Jr. FOR Duren,Substitution,,23810.0,h,False,IND,165
-414,589,1610612765,98,97,SUB: Harris FOR Fontecchio,Substitution,,23810.0,h,False,IND,165
-415,590,1610612765,98,97,SUB: Stewart FOR Ivey,Substitution,,23810.0,h,False,IND,165
-416,591,1610612754,98,97,SUB: Nembhard FOR Toppin,Substitution,,23810.0,v,False,IND,165
-417,592,1610612754,98,97,SUB: Haliburton FOR McConnell,Substitution,,23810.0,v,False,IND,165
-418,593,1610612754,98,97,SUB: Siakam FOR Sheppard,Substitution,,23810.0,v,False,IND,165
-419,602,1610612754,98,99,Haliburton 3' Driving Finger Roll Layup (10 PTS) (Siakam 7 AST),Made Shot,Driving Finger Roll Layup Shot,23960.0,v,False,IND,165
-420,604,1610612765,98,99,MISS Beasley 10' Floating Jump Shot,Missed Shot,Floating Jump shot,24160.0,h,True,DET,166
-421,605,1610612754,98,99,Siakam REBOUND (Off:3 Def:5),Rebound,Unknown,24180.0,v,True,IND,167
-422,606,1610612765,98,99,Hardaway Jr. P.FOUL (P2.T3) (T.Ricks),Foul,Personal,24210.0,h,False,IND,167
-423,608,1610612754,98,99,MISS Haliburton 25' 3PT Jump Shot,Missed Shot,Jump Shot,24280.0,v,False,IND,167
-424,609,1610612765,98,99,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,24300.0,h,True,DET,168
-425,610,1610612765,100,99,Cunningham 3' Driving Hook Shot (26 PTS),Made Shot,Driving Hook Shot,24430.0,h,False,DET,168
-426,611,1610612765,100,99,Beasley P.FOUL (P2.T4) (B.Barnaky),Foul,Personal,24520.0,h,True,IND,169
-427,614,1610612754,100,101,Mathurin 19' Jump Shot (14 PTS) (Nembhard 7 AST),Made Shot,Jump Shot,24600.0,v,False,IND,169
-428,616,1610612765,100,101,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,24770.0,h,True,DET,170
-429,617,1610612754,100,101,Haliburton REBOUND (Off:1 Def:3),Rebound,Unknown,24790.0,v,True,IND,171
-430,618,1610612754,100,101,Haliburton Bad Pass Turnover (P3.T13),Turnover,Bad Pass,24850.0,v,False,IND,171
-431,618,1610612765,100,101,Cunningham STEAL (1 STL),,,24850.0,h,True,DET,172
-432,622,1610612765,100,101,Harris Offensive Charge Foul (P2) (B.Barnaky),Foul,Offensive Charge,24890.0,h,False,DET,172
-433,647,1610612765,100,101,Harris Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,24890.0,h,False,DET,172
-434,624,0,100,101,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,24890.0,v,True,IND,173
-435,625,0,100,101,Instant Replay4th Period (9:16 PM EST),Instant Replay,Coach Challenge Overturn Ruling,24890.0,,False,IND,173
-436,626,1610612765,100,101,SUB: Ivey FOR Beasley,Substitution,,24890.0,h,False,IND,173
-437,629,1610612754,100,101,MISS Siakam 26' 3PT Jump Shot,Missed Shot,Jump Shot,25100.0,v,False,IND,173
-438,630,1610612765,100,101,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,25120.0,h,True,DET,174
-439,631,1610612765,100,101,MISS Cunningham 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25300.0,h,False,DET,174
-440,632,1610612754,100,101,Turner REBOUND (Off:0 Def:8),Rebound,Unknown,25300.0,v,True,IND,175
-441,633,1610612754,100,101,MISS Siakam 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,25440.0,v,False,IND,175
-442,634,1610612765,100,101,Stewart REBOUND (Off:1 Def:3),Rebound,Unknown,25460.0,h,True,DET,176
-443,635,1610612765,100,101,MISS Stewart 3PT Jump Shot,Missed Shot,Jump Shot,25670.0,h,False,DET,176
-444,636,1610612754,100,101,Turner REBOUND (Off:0 Def:9),Rebound,Unknown,25690.0,v,True,IND,177
-445,637,1610612754,100,101,MISS Haliburton 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,25820.0,v,False,IND,177
-446,638,1610612765,100,101,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,25840.0,h,True,DET,178
-447,639,1610612765,100,101,MISS Cunningham 7' Driving Layup,Missed Shot,Driving Layup Shot,26040.0,h,False,DET,178
-448,640,0,100,101,Pacers Rebound,Rebound,Unknown,26050.0,v,True,IND,179
-449,642,1610612765,100,101,SUB: Duren FOR Stewart,Substitution,,26050.0,h,False,IND,179
-450,644,1610612754,100,101,Turner OFF.Foul (P3) (T.Ricks),Foul,Offensive,26140.0,v,False,IND,179
-451,646,1610612754,100,101,Turner Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,26140.0,v,False,IND,179
-452,648,1610612765,100,101,MISS Cunningham 4' Driving Layup,Missed Shot,Driving Layup Shot,26340.0,h,True,DET,180
-453,648,1610612754,100,101,Turner BLOCK (4 BLK),,,26340.0,v,False,DET,180
-454,650,1610612765,100,101,Duren REBOUND (Off:4 Def:9),Rebound,Unknown,26370.0,h,False,DET,180
-455,651,1610612765,100,101,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,26370.0,h,False,DET,180
-456,652,1610612754,100,101,Mathurin REBOUND (Off:1 Def:5),Rebound,Unknown,26370.0,v,True,IND,181
-457,653,1610612754,100,103,Siakam 15' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,26590.0,v,False,IND,181
-458,654,1610612765,102,103,Ivey 1' Driving Finger Roll Layup (15 PTS) (Duren 4 AST),Made Shot,Driving Finger Roll Layup Shot,26880.0,h,True,DET,182
-459,656,1610612754,102,106,Mathurin 26' 3PT Jump Shot (17 PTS) (Siakam 8 AST),Made Shot,Jump Shot,27050.0,v,True,IND,183
-460,658,1610612765,102,106,MISS Ivey 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,27220.0,h,True,DET,184
-461,659,1610612754,102,106,Haliburton REBOUND (Off:1 Def:4),Rebound,Unknown,27250.0,v,True,IND,185
-462,660,1610612754,102,108,Siakam 1' Running Dunk (19 PTS) (Haliburton 4 AST),Made Shot,Running Dunk Shot,27310.0,v,False,IND,185
-463,662,1610612754,102,108,Mathurin S.FOUL (P3.T4) (T.Brothers),Foul,Shooting,27430.0,v,True,DET,186
-464,664,1610612765,103,108,Cunningham Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,27430.0,h,False,DET,186
-465,668,1610612765,104,108,Cunningham Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,27430.0,h,False,DET,186
-466,665,1610612765,104,108,SUB: Beasley FOR Hardaway Jr.,Substitution,,27430.0,h,False,DET,186
-467,669,1610612754,104,108,MISS Haliburton 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,27670.0,v,True,IND,187
-468,670,0,104,108,Pacers Rebound,Rebound,Unknown,27680.0,v,False,IND,187
-469,672,1610612765,104,108,Duren S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,27770.0,h,False,IND,187
-470,674,1610612754,104,108,MISS Mathurin Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,27770.0,v,False,IND,187
-471,675,0,104,108,Pacers Rebound,Rebound,Normal Rebound,27770.0,v,False,IND,187
-472,676,1610612754,104,109,Mathurin Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,27770.0,v,False,IND,187
-473,677,1610612754,104,110,Mathurin Free Throw 3 of 3 (19 PTS),Free Throw,Free Throw 3 of 3,27770.0,v,False,IND,187
-474,678,1610612754,104,110,Haliburton P.FOUL (P2.PN) (T.Brothers),Foul,Personal,27830.0,v,True,DET,188
-475,680,1610612765,105,110,Beasley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,27830.0,h,False,DET,188
-476,681,1610612765,105,110,MISS Beasley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,27830.0,h,False,DET,188
-477,682,0,105,110,Pacers Rebound,Rebound,Unknown,27850.0,v,True,IND,189
-478,684,1610612754,105,110,MISS Siakam 26' 3PT Jump Shot,Missed Shot,Jump Shot,28060.0,v,False,IND,189
-479,685,0,105,110,PISTONS Rebound,Rebound,Unknown,28070.0,h,True,DET,190
-480,687,1610612765,105,110,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,28170.0,h,False,DET,190
-481,688,1610612754,105,110,Nembhard REBOUND (Off:0 Def:2),Rebound,Unknown,28200.0,v,True,IND,191
-482,689,1610612754,105,110,Nembhard OFF.Foul (P3) (T.Ricks),Foul,Offensive,28252.0,v,False,IND,191
-483,691,1610612754,105,110,Nembhard Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,28252.0,v,False,IND,191
-484,692,1610612754,105,110,Turner S.FOUL (P4.PN) (T.Brothers),Foul,Shooting,28375.0,v,True,DET,192
-485,694,1610612765,106,110,Duren Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,28375.0,h,False,DET,192
-486,695,1610612765,107,110,Duren Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,28375.0,h,False,DET,192
-487,696,1610612754,107,113,Haliburton 25' 3PT Jump Shot (13 PTS) (Siakam 9 AST),Made Shot,Jump Shot,28592.0,v,True,IND,193
-488,698,0,107,113,PISTONS Timeout: Regular (Full 6 Short 0),Timeout,Regular,28596.0,h,True,DET,194
-489,699,1610612765,107,113,SUB: Hardaway Jr. FOR Duren,Substitution,,28596.0,h,False,DET,194
-490,700,1610612754,107,113,SUB: Nesmith FOR Turner,Substitution,,28596.0,v,False,DET,194
-491,703,1610612765,107,113,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,28632.0,h,False,DET,194
-492,704,1610612765,107,113,Ivey REBOUND (Off:3 Def:1),Rebound,Unknown,28671.0,h,False,DET,194
-493,705,1610612765,107,113,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,28697.0,h,False,DET,194
-494,706,1610612765,107,113,Ivey REBOUND (Off:4 Def:1),Rebound,Unknown,28697.0,h,False,DET,194
-495,707,1610612765,109,113,Ivey 1' Putback Layup (17 PTS),Made Shot,Putback Layup Shot,28719.0,h,False,DET,194
-496,708,0,109,113,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,28719.0,v,True,IND,195
-497,709,1610612765,109,113,SUB: Duren FOR Beasley,Substitution,,28719.0,h,False,IND,195
-498,710,1610612765,109,113,SUB: Holland II FOR Hardaway Jr.,Substitution,,28719.0,h,False,IND,195
-499,711,1610612754,109,113,SUB: Turner FOR Nesmith,Substitution,,28719.0,v,False,IND,195
-500,715,1610612765,109,113,Harris S.FOUL (P3.PN) (T.Ricks),Foul,Shooting,28730.0,h,False,IND,195
-501,717,1610612754,109,114,Haliburton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,28730.0,v,False,IND,195
-502,718,1610612754,109,115,Haliburton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,28730.0,v,False,IND,195
-503,719,0,109,115,PISTONS Timeout: Regular (Full 7 Short 0),Timeout,Regular,28730.0,h,False,IND,195
-504,720,1610612765,109,115,SUB: Beasley FOR Holland II,Substitution,,28730.0,h,False,IND,195
-505,721,1610612754,109,115,SUB: Sheppard FOR Haliburton,Substitution,,28730.0,v,False,IND,195
-506,722,1610612754,109,115,SUB: Nesmith FOR Turner,Substitution,,28730.0,v,False,IND,195
-507,726,1610612765,109,115,Beasley Bad Pass Turnover (P1.T14),Turnover,Bad Pass,28778.0,h,True,DET,196
-508,726,1610612754,109,115,Nembhard STEAL (1 STL),,,28778.0,v,True,IND,197
-509,728,0,109,115,End of 4th Period (9:37 PM EST),period,end,28800.0,,False,IND,197
+258,358,0,58,49,End of 2nd Period (8:13 PM EST),period,end,14400.0,,True,DET,102
+259,366,0,58,49,Start of 3rd Period (8:28 PM EST),period,start,14400.0,,True,IND,103
+260,367,1610612754,58,49,MISS Nembhard 19' Jump Shot,Missed Shot,Jump Shot,14530.0,v,False,IND,103
+261,368,1610612765,58,49,Cunningham REBOUND (Off:0 Def:4),Rebound,Unknown,14560.0,h,True,DET,104
+262,369,1610612765,61,49,Hardaway Jr. 27' 3PT Running Jump Shot (11 PTS) (Cunningham 7 AST),Made Shot,Running Jump Shot,14610.0,h,False,DET,104
+263,371,1610612754,61,51,Turner 1' Cutting Layup Shot (6 PTS) (Nembhard 1 AST),Made Shot,Cutting Layup Shot,14710.0,v,True,IND,105
+264,373,1610612765,61,51,Cunningham S.FOUL (P2.T1) (T.Brothers),Foul,Shooting,14710.0,h,False,IND,105
+265,375,1610612754,61,52,Turner Free Throw 1 of 1 (7 PTS),Free Throw,Free Throw 1 of 1,14710.0,v,False,IND,105
+266,376,1610612765,64,52,Hardaway Jr. 25' 3PT Jump Shot (14 PTS) (Ivey 2 AST),Made Shot,Jump Shot,14960.0,h,True,DET,106
+267,378,1610612765,64,52,Hardaway Jr. P.FOUL (P1.T2) (T.Ricks),Foul,Personal,15160.0,h,True,IND,107
+268,380,1610612754,64,55,Turner 27' 3PT Jump Shot (10 PTS) (Siakam 5 AST),Made Shot,Jump Shot,15210.0,v,False,IND,107
+269,382,1610612765,64,55,MISS Ivey 2' Driving Layup,Missed Shot,Driving Layup Shot,15370.0,h,True,DET,108
+270,382,1610612754,64,55,Nesmith BLOCK (1 BLK),,,15370.0,v,False,DET,108
+271,384,0,64,55,PISTONS Rebound,Rebound,Unknown,15370.0,h,False,DET,108
+272,386,1610612765,66,55,Cunningham 11' Pullup Jump Shot (8 PTS) (Duren 3 AST),Made Shot,Pullup Jump shot,15410.0,h,False,DET,108
+273,388,1610612754,66,58,Turner 28' 3PT Jump Shot (13 PTS) (Nembhard 2 AST),Made Shot,Jump Shot,15520.0,v,True,IND,109
+274,390,1610612765,68,58,Cunningham 2' Driving Dunk (10 PTS),Made Shot,Driving Dunk Shot,15650.0,h,True,DET,110
+275,391,1610612754,68,60,Siakam 2' Layup (10 PTS),Made Shot,Layup Shot,15770.0,v,True,IND,111
+276,392,1610612765,68,60,MISS Hardaway Jr. 7' Floating Jump Shot,Missed Shot,Floating Jump shot,15940.0,h,True,DET,112
+277,393,1610612754,68,60,Turner REBOUND (Off:0 Def:4),Rebound,Unknown,15960.0,v,True,IND,113
+278,394,1610612754,68,63,Turner 27' 3PT Jump Shot (16 PTS) (Nembhard 3 AST),Made Shot,Jump Shot,16010.0,v,False,IND,113
+279,396,0,68,63,PISTONS Timeout: Regular (Full 3 Short 0),Timeout,Regular,16020.0,h,True,DET,114
+280,398,1610612765,70,63,Cunningham 4' Turnaround Hook Shot (12 PTS),Made Shot,Turnaround Hook Shot,16270.0,h,False,DET,114
+281,399,1610612754,70,65,Turner 14' Jump Shot (18 PTS) (Nembhard 4 AST),Made Shot,Jump Shot,16420.0,v,True,IND,115
+282,401,1610612765,72,65,Cunningham 14' Turnaround Fadeaway (14 PTS),Made Shot,Turnaround Fadeaway shot,16580.0,h,True,DET,116
+283,402,1610612754,72,65,MISS Turner 25' 3PT Jump Shot,Missed Shot,Jump Shot,16730.0,v,True,IND,117
+284,403,1610612765,72,65,Duren REBOUND (Off:3 Def:7),Rebound,Unknown,16760.0,h,True,DET,118
+285,404,1610612765,74,65,Cunningham 8' Step Back Jump Shot (16 PTS),Made Shot,Step Back Jump shot,16870.0,h,False,DET,118
+286,406,1610612754,74,65,MISS Siakam 4' Layup,Missed Shot,Layup Shot,17040.0,v,True,IND,119
+287,407,1610612765,74,65,Duren REBOUND (Off:3 Def:8),Rebound,Unknown,17060.0,h,True,DET,120
+288,408,1610612765,74,65,MISS Harris 8' Running Jump Shot,Missed Shot,Running Jump Shot,17100.0,h,False,DET,120
+289,409,1610612754,74,65,Turner REBOUND (Off:0 Def:5),Rebound,Unknown,17130.0,v,True,IND,121
+290,410,1610612754,74,67,Siakam 4' Layup (12 PTS) (Nembhard 5 AST),Made Shot,Layup Shot,17220.0,v,False,IND,121
+291,412,1610612754,74,67,Nesmith S.FOUL (P4.T1) (T.Ricks),Foul,Shooting,17370.0,v,True,DET,122
+292,414,1610612765,74,67,MISS Ivey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,17370.0,h,False,DET,122
+293,415,0,74,67,PISTONS Rebound,Rebound,Normal Rebound,17370.0,h,False,DET,122
+294,416,1610612754,74,67,SUB: Mathurin FOR Nesmith,Substitution,,17370.0,v,False,DET,122
+295,418,1610612765,75,67,Ivey Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,17370.0,h,False,DET,122
+296,419,1610612754,75,67,MISS Mathurin 24' 3PT Jump Shot,Missed Shot,Jump Shot,17490.0,v,True,IND,123
+297,420,1610612765,75,67,Duren REBOUND (Off:3 Def:9),Rebound,Unknown,17520.0,h,True,DET,124
+298,421,1610612765,75,67,MISS Ivey 26' 3PT Jump Shot,Missed Shot,Jump Shot,17690.0,h,False,DET,124
+299,422,1610612765,75,67,Harris REBOUND (Off:1 Def:0),Rebound,Unknown,17710.0,h,False,DET,124
+300,423,0,75,67,PISTONS Timeout: Regular (Full 4 Short 0),Timeout,Regular,17710.0,h,False,DET,124
+301,424,1610612765,75,67,SUB: Beasley FOR Ivey,Substitution,,17710.0,h,False,DET,124
+302,426,1610612765,75,67,MISS Beasley 2' Layup,Missed Shot,Layup Shot,17740.0,h,False,DET,124
+303,427,1610612754,75,67,Turner REBOUND (Off:0 Def:6),Rebound,Unknown,17760.0,v,True,IND,125
+304,428,1610612754,75,69,Turner Cutting Dunk Shot (20 PTS) (Siakam 6 AST),Made Shot,Cutting Dunk Shot,17850.0,v,False,IND,125
+305,431,1610612765,75,69,MISS Beasley 10' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,18140.0,h,True,DET,126
+306,432,1610612754,75,69,Siakam REBOUND (Off:3 Def:4),Rebound,Unknown,18180.0,v,True,IND,127
+307,433,1610612754,75,69,MISS Turner 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,18230.0,v,False,IND,127
+308,434,1610612765,75,69,Beasley REBOUND (Off:0 Def:3),Rebound,Unknown,18300.0,h,True,DET,128
+309,435,1610612765,75,69,MISS Cunningham 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,18370.0,h,False,DET,128
+310,436,1610612754,75,69,Mathurin REBOUND (Off:0 Def:4),Rebound,Unknown,18390.0,v,True,IND,129
+311,437,1610612754,75,71,Haliburton 1' Driving Dunk (6 PTS) (Turner 4 AST),Made Shot,Driving Dunk Shot,18560.0,v,False,IND,129
+312,439,1610612765,75,71,Harris Bad Pass Turnover (P1.T9),Turnover,Bad Pass,18690.0,h,True,DET,130
+313,439,1610612754,75,71,Haliburton STEAL (3 STL),,,18690.0,v,True,IND,131
+314,441,1610612754,75,71,MISS Mathurin 1' Running Layup,Missed Shot,Running Layup Shot,18730.0,v,False,IND,131
+315,442,0,75,71,PISTONS Rebound,Rebound,Unknown,18730.0,h,True,DET,132
+316,444,1610612765,75,71,SUB: Stewart FOR Duren,Substitution,,18730.0,h,False,DET,132
+317,445,1610612765,75,71,SUB: Holland II FOR Beasley,Substitution,,18730.0,h,False,DET,132
+318,451,1610612765,75,71,Cunningham Bad Pass Turnover (P2.T10),Turnover,Bad Pass,18990.0,h,False,DET,132
+319,451,1610612754,75,71,Siakam STEAL (2 STL),,,18990.0,v,True,IND,133
+320,453,1610612754,75,73,Siakam 5' Running Jump Shot (14 PTS) (Haliburton 3 AST),Made Shot,Running Jump Shot,19050.0,v,False,IND,133
+321,455,1610612765,75,73,Harris S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,19050.0,h,False,IND,133
+322,457,1610612765,75,73,SUB: Ivey FOR Hardaway Jr.,Substitution,,19050.0,h,False,IND,133
+323,459,1610612765,75,73,SUB: Fontecchio FOR Harris,Substitution,,19050.0,h,False,IND,133
+324,461,1610612754,75,74,Siakam Free Throw 1 of 1 (15 PTS),Free Throw,Free Throw 1 of 1,19050.0,v,False,IND,133
+325,462,1610612765,75,74,MISS Holland II 3PT Jump Shot,Missed Shot,Jump Shot,19240.0,h,True,DET,134
+326,463,1610612765,75,74,Ivey REBOUND (Off:2 Def:0),Rebound,Unknown,19270.0,h,False,DET,134
+327,464,1610612765,75,74,MISS Fontecchio 26' 3PT Jump Shot,Missed Shot,Jump Shot,19300.0,h,False,DET,134
+328,465,0,75,74,Pacers Rebound,Rebound,Unknown,19310.0,v,True,IND,135
+329,466,1610612765,75,74,Stewart L.B.FOUL (P1.T4) (T.Ricks),Foul,Loose Ball,19310.0,h,False,IND,135
+330,468,1610612754,75,74,SUB: Freeman FOR Turner,Substitution,,19310.0,v,False,IND,135
+331,469,1610612754,75,74,SUB: Toppin FOR Siakam,Substitution,,19310.0,v,False,IND,135
+332,472,1610612754,75,76,Haliburton 19' Pullup Jump Shot (8 PTS),Made Shot,Pullup Jump shot,19410.0,v,False,IND,135
+333,473,1610612754,75,76,Haliburton P.FOUL (P1.T2) (T.Ricks),Foul,Personal,19520.0,v,True,DET,136
+334,475,1610612765,75,76,MISS Ivey 26' 3PT Jump Shot,Missed Shot,Jump Shot,19580.0,h,False,DET,136
+335,476,1610612754,75,76,Haliburton REBOUND (Off:1 Def:2),Rebound,Unknown,19620.0,v,True,IND,137
+336,477,1610612754,75,76,MISS Haliburton 26' 3PT Jump Shot,Missed Shot,Jump Shot,19690.0,v,False,IND,137
+337,478,0,75,76,Pacers Rebound,Rebound,Unknown,19690.0,v,False,IND,137
+338,479,1610612765,75,76,Stewart L.B.FOUL (P2.PN) (T.Ricks),Foul,Loose Ball,19690.0,h,False,IND,137
+339,481,1610612754,75,77,Freeman Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,19690.0,v,False,IND,137
+340,482,1610612754,75,77,SUB: McConnell FOR Haliburton,Substitution,,19690.0,v,False,IND,137
+341,484,1610612754,75,78,Freeman Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,19690.0,v,False,IND,137
+342,485,1610612765,77,78,Cunningham 1' Driving Layup (18 PTS),Made Shot,Driving Layup Shot,19860.0,h,True,DET,138
+343,486,1610612754,77,78,Freeman Out of Bounds - Bad Pass Turnover Turnover (P1.T12),Turnover,Out of Bounds - Bad Pass Turnover,19940.0,v,True,IND,139
+344,487,1610612765,80,78,Cunningham 26' 3PT Pullup Jump Shot (21 PTS),Made Shot,Pullup Jump shot,20090.0,h,True,DET,140
+345,488,0,80,78,Pacers Timeout: Regular (Reg.4 Short 0),Timeout,Regular,20100.0,v,True,IND,141
+346,489,1610612754,80,78,SUB: Sheppard FOR Mathurin,Substitution,,20100.0,v,False,IND,141
+347,491,1610612754,80,80,Toppin 8' Floating Jump Shot (2 PTS) (Nembhard 6 AST),Made Shot,Floating Jump shot,20250.0,v,False,IND,141
+348,493,1610612765,82,80,Stewart 2' Cutting Layup Shot (2 PTS) (Cunningham 8 AST),Made Shot,Cutting Layup Shot,20420.0,h,True,DET,142
+349,495,1610612754,82,82,McConnell 10' Floating Jump Shot (6 PTS),Made Shot,Floating Jump shot,20530.0,v,True,IND,143
+350,496,1610612765,82,82,Stewart Lost Ball Turnover (P2.T11),Turnover,Lost Ball,20750.0,h,True,DET,144
+351,496,1610612754,82,82,Toppin STEAL (1 STL),,,20750.0,v,True,IND,145
+352,498,1610612754,82,82,MISS McConnell 10' Floating Jump Shot,Missed Shot,Floating Jump shot,20900.0,v,False,IND,145
+353,499,1610612765,82,82,Stewart REBOUND (Off:1 Def:2),Rebound,Unknown,20920.0,h,True,DET,146
+354,500,1610612754,82,82,Sheppard S.FOUL (P1.T3) (T.Ricks),Foul,Shooting,20960.0,v,False,DET,146
+355,502,1610612765,83,82,Ivey Free Throw 1 of 2 (8 PTS),Free Throw,Free Throw 1 of 2,20960.0,h,False,DET,146
+356,503,1610612765,83,82,SUB: Beasley FOR Cunningham,Substitution,,20960.0,h,False,DET,146
+357,505,1610612765,84,82,Ivey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,20960.0,h,False,DET,146
+358,506,1610612754,84,82,MISS Nembhard 24' 3PT Jump Shot,Missed Shot,Jump Shot,21146.0,v,True,IND,147
+359,507,1610612765,84,82,Ivey REBOUND (Off:2 Def:1),Rebound,Unknown,21169.0,h,True,DET,148
+360,508,1610612765,86,82,Ivey 3' Driving Finger Roll Layup (11 PTS),Made Shot,Driving Finger Roll Layup Shot,21222.0,h,False,DET,148
+361,509,1610612754,86,82,Toppin S.FOUL (P2.PN) (T.Brothers),Foul,Shooting,21222.0,v,False,DET,148
+362,511,1610612754,86,82,SUB: Mathurin FOR Nembhard,Substitution,,21222.0,v,False,DET,148
+363,512,1610612754,86,82,SUB: Turner FOR Freeman,Substitution,,21222.0,v,False,DET,148
+364,515,1610612765,87,82,Ivey Free Throw 1 of 1 (12 PTS),Free Throw,Free Throw 1 of 1,21222.0,h,False,DET,148
+365,516,1610612754,87,82,MISS Mathurin 21' Jump Shot,Missed Shot,Jump Shot,21357.0,v,True,IND,149
+366,517,0,87,82,PISTONS Rebound,Rebound,Unknown,21371.0,h,True,DET,150
+367,519,1610612765,87,82,SUB: Harris FOR Holland II,Substitution,,21384.0,h,False,DET,150
+368,520,1610612765,87,82,SUB: Cunningham FOR Stewart,Substitution,,21384.0,h,False,DET,150
+369,521,1610612754,87,82,SUB: Nembhard FOR Turner,Substitution,,21384.0,v,False,DET,150
+370,525,1610612765,90,82,Cunningham 26' 3PT Step Back Jump Shot (24 PTS),Made Shot,Step Back Jump shot,21592.0,h,False,DET,150
+371,526,0,90,82,End of 3rd Period (8:56 PM EST),period,end,21600.0,,True,IND,151
+372,534,1610612765,90,82,Holland II T.FOUL (P0.T0) (B.Barnaky),Foul,Technical,21600.0,h,False,IND,151
+373,535,1610612754,90,83,Mathurin Free Throw Technical (6 PTS),Free Throw,Free Throw Technical,21600.0,v,False,IND,151
+374,536,0,90,83,Start of 4th Period (8:59 PM EST),period,start,21600.0,,True,DET,152
+375,537,1610612765,90,83,MISS Ivey 9' Jump Shot,Missed Shot,Jump Shot,21780.0,h,False,DET,152
+376,537,1610612754,90,83,Sheppard BLOCK (1 BLK),,,21780.0,v,False,DET,152
+377,539,1610612754,90,83,McConnell REBOUND (Off:0 Def:2),Rebound,Unknown,21780.0,v,True,IND,153
+378,540,1610612754,90,85,McConnell 1' Layup (8 PTS) (Toppin 1 AST),Made Shot,Layup Shot,21850.0,v,False,IND,153
+379,542,1610612765,92,85,Duren 1' Dunk (9 PTS) (Ivey 3 AST),Made Shot,Dunk Shot,21970.0,h,True,DET,154
+380,544,1610612765,92,85,Holland II S.FOUL (P1.T1) (T.Ricks),Foul,Shooting,22130.0,h,True,IND,155
+381,546,1610612754,92,86,Mathurin Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,22130.0,v,False,IND,155
+382,547,1610612754,92,87,Mathurin Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,22130.0,v,False,IND,155
+383,548,1610612765,95,87,Beasley 3PT Pullup Jump Shot (13 PTS) (Ivey 4 AST),Made Shot,Pullup Jump shot,22300.0,h,True,DET,156
+384,550,1610612754,95,89,McConnell 2' Driving Layup (10 PTS) (Toppin 2 AST),Made Shot,Driving Layup Shot,22430.0,v,True,IND,157
+385,552,1610612765,95,89,MISS Ivey 12' Floating Jump Shot,Missed Shot,Floating Jump shot,22540.0,h,True,DET,158
+386,553,1610612754,95,89,Turner REBOUND (Off:0 Def:7),Rebound,Unknown,22550.0,v,True,IND,159
+387,554,1610612754,95,91,McConnell 1' Running Reverse Layup (12 PTS),Made Shot,Running Reverse Layup Shot,22600.0,v,False,IND,159
+388,555,0,95,91,PISTONS Timeout: Regular (Full 5 Short 0),Timeout,Regular,22600.0,h,True,DET,160
+389,556,1610612754,95,91,Sheppard S.FOUL (P2.T1) (T.Ricks),Foul,Shooting,22780.0,v,False,DET,160
+390,558,1610612765,96,91,Ivey Free Throw 1 of 2 (13 PTS),Free Throw,Free Throw 1 of 2,22780.0,h,False,DET,160
+391,559,1610612765,96,91,MISS Ivey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,22780.0,h,False,DET,160
+392,560,1610612754,96,91,Sheppard REBOUND (Off:0 Def:1),Rebound,Unknown,22810.0,v,True,IND,161
+393,561,1610612754,96,93,McConnell 2' Driving Layup (14 PTS) (Mathurin 1 AST),Made Shot,Driving Layup Shot,22930.0,v,False,IND,161
+394,563,1610612754,96,93,Turner S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,23100.0,v,True,DET,162
+395,565,1610612765,97,93,Duren Free Throw 1 of 2 (10 PTS),Free Throw,Free Throw 1 of 2,23100.0,h,False,DET,162
+396,566,1610612765,98,93,Duren Free Throw 2 of 2 (11 PTS),Free Throw,Free Throw 2 of 2,23100.0,h,False,DET,162
+397,567,1610612765,98,93,Duren S.FOUL (P2.T2) (T.Brothers),Foul,Shooting,23230.0,h,True,IND,163
+398,569,1610612754,98,94,Mathurin Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,23230.0,v,False,IND,163
+399,570,1610612754,98,94,MISS Mathurin Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,23230.0,v,False,IND,163
+400,571,1610612754,98,94,Mathurin REBOUND (Off:1 Def:4),Rebound,Unknown,23270.0,v,False,IND,163
+401,573,1610612754,98,96,Mathurin 21' Step Back Jump Shot (11 PTS),Made Shot,Step Back Jump shot,23420.0,v,False,IND,163
+402,574,1610612754,98,96,Toppin P.FOUL (P3.T3) (T.Brothers),Foul,Personal,23460.0,v,True,DET,164
+403,576,1610612765,98,96,MISS Beasley 24' 3PT Jump Shot,Missed Shot,Jump Shot,23610.0,h,False,DET,164
+404,577,1610612765,98,96,Fontecchio REBOUND (Off:1 Def:0),Rebound,Unknown,23640.0,h,False,DET,164
+405,578,1610612765,98,96,MISS Fontecchio 1' Layup,Missed Shot,Layup Shot,23650.0,h,False,DET,164
+406,579,1610612754,98,96,Sheppard REBOUND (Off:0 Def:2),Rebound,Unknown,23650.0,v,True,IND,165
+407,580,1610612754,98,96,MISS Toppin 24' 3PT Jump Shot,Missed Shot,Jump Shot,23800.0,v,False,IND,165
+408,581,0,98,96,PISTONS Rebound,Rebound,Unknown,23810.0,h,True,DET,166
+409,583,1610612765,98,96,SUB: Cunningham FOR Holland II,Substitution,,23810.0,h,False,DET,166
+410,585,0,98,96,PISTONS Too Many Players Tech Foul,Foul,Too Many Players Technical,23810.0,h,False,DET,166
+411,586,0,98,96,PISTONS Turnover: Too Many Players (T#12),Turnover,Too Many Players Turnover,23810.0,h,False,DET,166
+412,587,1610612754,98,97,Mathurin Free Throw Technical (12 PTS),Free Throw,Free Throw Technical,23810.0,v,True,IND,167
+413,588,1610612765,98,97,SUB: Hardaway Jr. FOR Duren,Substitution,,23810.0,h,False,IND,167
+414,589,1610612765,98,97,SUB: Harris FOR Fontecchio,Substitution,,23810.0,h,False,IND,167
+415,590,1610612765,98,97,SUB: Stewart FOR Ivey,Substitution,,23810.0,h,False,IND,167
+416,591,1610612754,98,97,SUB: Nembhard FOR Toppin,Substitution,,23810.0,v,False,IND,167
+417,592,1610612754,98,97,SUB: Haliburton FOR McConnell,Substitution,,23810.0,v,False,IND,167
+418,593,1610612754,98,97,SUB: Siakam FOR Sheppard,Substitution,,23810.0,v,False,IND,167
+419,602,1610612754,98,99,Haliburton 3' Driving Finger Roll Layup (10 PTS) (Siakam 7 AST),Made Shot,Driving Finger Roll Layup Shot,23960.0,v,False,IND,167
+420,604,1610612765,98,99,MISS Beasley 10' Floating Jump Shot,Missed Shot,Floating Jump shot,24160.0,h,True,DET,168
+421,605,1610612754,98,99,Siakam REBOUND (Off:3 Def:5),Rebound,Unknown,24180.0,v,True,IND,169
+422,606,1610612765,98,99,Hardaway Jr. P.FOUL (P2.T3) (T.Ricks),Foul,Personal,24210.0,h,False,IND,169
+423,608,1610612754,98,99,MISS Haliburton 25' 3PT Jump Shot,Missed Shot,Jump Shot,24280.0,v,False,IND,169
+424,609,1610612765,98,99,Harris REBOUND (Off:1 Def:1),Rebound,Unknown,24300.0,h,True,DET,170
+425,610,1610612765,100,99,Cunningham 3' Driving Hook Shot (26 PTS),Made Shot,Driving Hook Shot,24430.0,h,False,DET,170
+426,611,1610612765,100,99,Beasley P.FOUL (P2.T4) (B.Barnaky),Foul,Personal,24520.0,h,True,IND,171
+427,614,1610612754,100,101,Mathurin 19' Jump Shot (14 PTS) (Nembhard 7 AST),Made Shot,Jump Shot,24600.0,v,False,IND,171
+428,616,1610612765,100,101,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,24770.0,h,True,DET,172
+429,617,1610612754,100,101,Haliburton REBOUND (Off:1 Def:3),Rebound,Unknown,24790.0,v,True,IND,173
+430,618,1610612754,100,101,Haliburton Bad Pass Turnover (P3.T13),Turnover,Bad Pass,24850.0,v,False,IND,173
+431,618,1610612765,100,101,Cunningham STEAL (1 STL),,,24850.0,h,True,DET,174
+432,622,1610612765,100,101,Harris Offensive Charge Foul (P2) (B.Barnaky),Foul,Offensive Charge,24890.0,h,False,DET,174
+433,647,1610612765,100,101,Harris Offensive Foul Turnover (P2.T13),Turnover,Offensive Foul Turnover,24890.0,h,False,DET,174
+434,624,0,100,101,Pacers Timeout: Regular (Reg.5 Short 0),Timeout,Regular,24890.0,v,True,IND,175
+435,625,0,100,101,Instant Replay4th Period (9:16 PM EST),Instant Replay,Coach Challenge Overturn Ruling,24890.0,,False,IND,175
+436,626,1610612765,100,101,SUB: Ivey FOR Beasley,Substitution,,24890.0,h,False,IND,175
+437,629,1610612754,100,101,MISS Siakam 26' 3PT Jump Shot,Missed Shot,Jump Shot,25100.0,v,False,IND,175
+438,630,1610612765,100,101,Hardaway Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,25120.0,h,True,DET,176
+439,631,1610612765,100,101,MISS Cunningham 17' Pullup Jump Shot,Missed Shot,Pullup Jump shot,25300.0,h,False,DET,176
+440,632,1610612754,100,101,Turner REBOUND (Off:0 Def:8),Rebound,Unknown,25300.0,v,True,IND,177
+441,633,1610612754,100,101,MISS Siakam 12' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,25440.0,v,False,IND,177
+442,634,1610612765,100,101,Stewart REBOUND (Off:1 Def:3),Rebound,Unknown,25460.0,h,True,DET,178
+443,635,1610612765,100,101,MISS Stewart 3PT Jump Shot,Missed Shot,Jump Shot,25670.0,h,False,DET,178
+444,636,1610612754,100,101,Turner REBOUND (Off:0 Def:9),Rebound,Unknown,25690.0,v,True,IND,179
+445,637,1610612754,100,101,MISS Haliburton 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,25820.0,v,False,IND,179
+446,638,1610612765,100,101,Cunningham REBOUND (Off:0 Def:5),Rebound,Unknown,25840.0,h,True,DET,180
+447,639,1610612765,100,101,MISS Cunningham 7' Driving Layup,Missed Shot,Driving Layup Shot,26040.0,h,False,DET,180
+448,640,0,100,101,Pacers Rebound,Rebound,Unknown,26050.0,v,True,IND,181
+449,642,1610612765,100,101,SUB: Duren FOR Stewart,Substitution,,26050.0,h,False,IND,181
+450,644,1610612754,100,101,Turner OFF.Foul (P3) (T.Ricks),Foul,Offensive,26140.0,v,False,IND,181
+451,646,1610612754,100,101,Turner Offensive Foul Turnover (P4.T14),Turnover,Offensive Foul Turnover,26140.0,v,False,IND,181
+452,648,1610612765,100,101,MISS Cunningham 4' Driving Layup,Missed Shot,Driving Layup Shot,26340.0,h,True,DET,182
+453,648,1610612754,100,101,Turner BLOCK (4 BLK),,,26340.0,v,False,DET,182
+454,650,1610612765,100,101,Duren REBOUND (Off:4 Def:9),Rebound,Unknown,26370.0,h,False,DET,182
+455,651,1610612765,100,101,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,26370.0,h,False,DET,182
+456,652,1610612754,100,101,Mathurin REBOUND (Off:1 Def:5),Rebound,Unknown,26370.0,v,True,IND,183
+457,653,1610612754,100,103,Siakam 15' Fadeaway Jumper (17 PTS),Made Shot,Fadeaway Jump Shot,26590.0,v,False,IND,183
+458,654,1610612765,102,103,Ivey 1' Driving Finger Roll Layup (15 PTS) (Duren 4 AST),Made Shot,Driving Finger Roll Layup Shot,26880.0,h,True,DET,184
+459,656,1610612754,102,106,Mathurin 26' 3PT Jump Shot (17 PTS) (Siakam 8 AST),Made Shot,Jump Shot,27050.0,v,True,IND,185
+460,658,1610612765,102,106,MISS Ivey 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,27220.0,h,True,DET,186
+461,659,1610612754,102,106,Haliburton REBOUND (Off:1 Def:4),Rebound,Unknown,27250.0,v,True,IND,187
+462,660,1610612754,102,108,Siakam 1' Running Dunk (19 PTS) (Haliburton 4 AST),Made Shot,Running Dunk Shot,27310.0,v,False,IND,187
+463,662,1610612754,102,108,Mathurin S.FOUL (P3.T4) (T.Brothers),Foul,Shooting,27430.0,v,True,DET,188
+464,664,1610612765,103,108,Cunningham Free Throw 1 of 2 (27 PTS),Free Throw,Free Throw 1 of 2,27430.0,h,False,DET,188
+465,668,1610612765,104,108,Cunningham Free Throw 2 of 2 (28 PTS),Free Throw,Free Throw 2 of 2,27430.0,h,False,DET,188
+466,665,1610612765,104,108,SUB: Beasley FOR Hardaway Jr.,Substitution,,27430.0,h,False,DET,188
+467,669,1610612754,104,108,MISS Haliburton 20' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,27670.0,v,True,IND,189
+468,670,0,104,108,Pacers Rebound,Rebound,Unknown,27680.0,v,False,IND,189
+469,672,1610612765,104,108,Duren S.FOUL (P3.PN) (B.Barnaky),Foul,Shooting,27770.0,h,False,IND,189
+470,674,1610612754,104,108,MISS Mathurin Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,27770.0,v,False,IND,189
+471,675,0,104,108,Pacers Rebound,Rebound,Normal Rebound,27770.0,v,False,IND,189
+472,676,1610612754,104,109,Mathurin Free Throw 2 of 3 (18 PTS),Free Throw,Free Throw 2 of 3,27770.0,v,False,IND,189
+473,677,1610612754,104,110,Mathurin Free Throw 3 of 3 (19 PTS),Free Throw,Free Throw 3 of 3,27770.0,v,False,IND,189
+474,678,1610612754,104,110,Haliburton P.FOUL (P2.PN) (T.Brothers),Foul,Personal,27830.0,v,True,DET,190
+475,680,1610612765,105,110,Beasley Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,27830.0,h,False,DET,190
+476,681,1610612765,105,110,MISS Beasley Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,27830.0,h,False,DET,190
+477,682,0,105,110,Pacers Rebound,Rebound,Unknown,27850.0,v,True,IND,191
+478,684,1610612754,105,110,MISS Siakam 26' 3PT Jump Shot,Missed Shot,Jump Shot,28060.0,v,False,IND,191
+479,685,0,105,110,PISTONS Rebound,Rebound,Unknown,28070.0,h,True,DET,192
+480,687,1610612765,105,110,MISS Harris 3PT Jump Shot,Missed Shot,Jump Shot,28170.0,h,False,DET,192
+481,688,1610612754,105,110,Nembhard REBOUND (Off:0 Def:2),Rebound,Unknown,28200.0,v,True,IND,193
+482,689,1610612754,105,110,Nembhard OFF.Foul (P3) (T.Ricks),Foul,Offensive,28252.0,v,False,IND,193
+483,691,1610612754,105,110,Nembhard Offensive Foul Turnover (P2.T15),Turnover,Offensive Foul Turnover,28252.0,v,False,IND,193
+484,692,1610612754,105,110,Turner S.FOUL (P4.PN) (T.Brothers),Foul,Shooting,28375.0,v,True,DET,194
+485,694,1610612765,106,110,Duren Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,28375.0,h,False,DET,194
+486,695,1610612765,107,110,Duren Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,28375.0,h,False,DET,194
+487,696,1610612754,107,113,Haliburton 25' 3PT Jump Shot (13 PTS) (Siakam 9 AST),Made Shot,Jump Shot,28592.0,v,True,IND,195
+488,698,0,107,113,PISTONS Timeout: Regular (Full 6 Short 0),Timeout,Regular,28596.0,h,True,DET,196
+489,699,1610612765,107,113,SUB: Hardaway Jr. FOR Duren,Substitution,,28596.0,h,False,DET,196
+490,700,1610612754,107,113,SUB: Nesmith FOR Turner,Substitution,,28596.0,v,False,DET,196
+491,703,1610612765,107,113,MISS Cunningham 26' 3PT Jump Shot,Missed Shot,Jump Shot,28632.0,h,False,DET,196
+492,704,1610612765,107,113,Ivey REBOUND (Off:3 Def:1),Rebound,Unknown,28671.0,h,False,DET,196
+493,705,1610612765,107,113,MISS Harris 24' 3PT Jump Shot,Missed Shot,Jump Shot,28697.0,h,False,DET,196
+494,706,1610612765,107,113,Ivey REBOUND (Off:4 Def:1),Rebound,Unknown,28697.0,h,False,DET,196
+495,707,1610612765,109,113,Ivey 1' Putback Layup (17 PTS),Made Shot,Putback Layup Shot,28719.0,h,False,DET,196
+496,708,0,109,113,Pacers Timeout: Regular (Reg.6 Short 0),Timeout,Regular,28719.0,v,True,IND,197
+497,709,1610612765,109,113,SUB: Duren FOR Beasley,Substitution,,28719.0,h,False,IND,197
+498,710,1610612765,109,113,SUB: Holland II FOR Hardaway Jr.,Substitution,,28719.0,h,False,IND,197
+499,711,1610612754,109,113,SUB: Turner FOR Nesmith,Substitution,,28719.0,v,False,IND,197
+500,715,1610612765,109,113,Harris S.FOUL (P3.PN) (T.Ricks),Foul,Shooting,28730.0,h,False,IND,197
+501,717,1610612754,109,114,Haliburton Free Throw 1 of 2 (14 PTS),Free Throw,Free Throw 1 of 2,28730.0,v,False,IND,197
+502,718,1610612754,109,115,Haliburton Free Throw 2 of 2 (15 PTS),Free Throw,Free Throw 2 of 2,28730.0,v,False,IND,197
+503,719,0,109,115,PISTONS Timeout: Regular (Full 7 Short 0),Timeout,Regular,28730.0,h,False,IND,197
+504,720,1610612765,109,115,SUB: Beasley FOR Holland II,Substitution,,28730.0,h,False,IND,197
+505,721,1610612754,109,115,SUB: Sheppard FOR Haliburton,Substitution,,28730.0,v,False,IND,197
+506,722,1610612754,109,115,SUB: Nesmith FOR Turner,Substitution,,28730.0,v,False,IND,197
+507,726,1610612765,109,115,Beasley Bad Pass Turnover (P1.T14),Turnover,Bad Pass,28778.0,h,True,DET,198
+508,726,1610612754,109,115,Nembhard STEAL (1 STL),,,28778.0,v,True,IND,199
+509,728,0,109,115,End of 4th Period (9:37 PM EST),period,end,28800.0,,False,IND,199

@@ -3,3 +3,7 @@ venv
 
 # Log
 debug.log
+
+# Cache
+__pychache__
+pbp_cache

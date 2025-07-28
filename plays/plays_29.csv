@@ -1,0 +1,533 @@
+,actionNumber,teamId,scoreHome,scoreAway,description,actionType,subType,time,location,newPossession,possession,possessionCount
+0,2,0,0,0,Start of 1st Period (10:11 PM EST),period,start,0.0,,False,,0
+1,7,1610612743,0,0,Jump Ball Murray vs. Gilgeous-Alexander: Tip to Joe,Jump Ball,,0.0,h,True,OKC,1
+2,12,1610612760,0,0,MISS Holmgren 6' Floating Jump Shot,Missed Shot,Floating Jump shot,190.0,v,False,OKC,1
+3,12,1610612743,0,0,Jokić BLOCK (1 BLK),,,190.0,h,False,OKC,1
+4,13,1610612760,0,0,Holmgren REBOUND (Off:1 Def:0),Rebound,Unknown,220.0,v,False,OKC,1
+5,14,1610612760,0,0,Holmgren Lost Ball Turnover (P1.T1),Turnover,Lost Ball,230.0,v,False,OKC,1
+6,14,1610612743,0,0,Braun STEAL (1 STL),,,230.0,h,True,DEN,2
+7,16,1610612760,0,0,Williams P.FOUL (P1.T1) (K.Scott),Foul,Personal,240.0,v,False,DEN,2
+8,18,1610612743,3,0,Jokić 24' 3PT Jump Shot (3 PTS) (Gordon 1 AST),Made Shot,Jump Shot,300.0,h,False,DEN,2
+9,21,1610612760,3,0,MISS Gilgeous-Alexander 1' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,430.0,v,True,OKC,3
+10,22,1610612743,3,0,Gordon REBOUND (Off:0 Def:1),Rebound,Unknown,440.0,h,True,DEN,4
+11,23,1610612743,3,0,Braun Bad Pass Turnover (P1.T1),Turnover,Bad Pass,580.0,h,False,DEN,4
+12,23,1610612760,3,0,Dort STEAL (1 STL),,,580.0,v,True,OKC,5
+13,25,1610612760,3,0,MISS Dort 27' 3PT Running Pull-Up Jump Shot,Missed Shot,Running Pull-Up Jump Shot,650.0,v,False,OKC,5
+14,26,1610612743,3,0,Braun REBOUND (Off:0 Def:1),Rebound,Unknown,690.0,h,True,DEN,6
+15,27,1610612743,3,0,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,730.0,h,False,DEN,6
+16,28,0,3,0,Thunder Rebound,Rebound,Unknown,740.0,v,True,OKC,7
+17,30,1610612760,3,2,Joe 6' Floating Jump Shot (2 PTS) (Williams 1 AST),Made Shot,Floating Jump shot,840.0,v,False,OKC,7
+18,32,1610612743,3,2,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,1000.0,h,True,DEN,8
+19,33,1610612760,3,2,Holmgren REBOUND (Off:1 Def:1),Rebound,Unknown,1010.0,v,True,OKC,9
+20,34,1610612760,3,5,Williams 25' 3PT Jump Shot (3 PTS) (Holmgren 1 AST),Made Shot,Jump Shot,1080.0,v,False,OKC,9
+21,36,1610612760,3,5,Williams S.FOUL (P2.T2) (J.Orr),Foul,Shooting,1280.0,v,True,DEN,10
+22,38,1610612743,4,5,Murray Free Throw 1 of 2 (1 PTS),Free Throw,Free Throw 1 of 2,1280.0,h,False,DEN,10
+23,39,1610612743,5,5,Murray Free Throw 2 of 2 (2 PTS),Free Throw,Free Throw 2 of 2,1280.0,h,False,DEN,10
+24,40,1610612760,5,5,Williams Bad Pass Turnover (P1.T2),Turnover,Bad Pass,1440.0,v,True,OKC,11
+25,40,1610612743,5,5,Braun STEAL (2 STL),,,1440.0,h,True,DEN,12
+26,42,1610612743,7,5,Braun 1' Layup (2 PTS) (Murray 1 AST),Made Shot,Layup Shot,1540.0,h,False,DEN,12
+27,44,1610612760,7,5,MISS Holmgren 24' 3PT Jump Shot,Missed Shot,Jump Shot,1620.0,v,True,OKC,13
+28,45,1610612743,7,5,Braun REBOUND (Off:0 Def:2),Rebound,Unknown,1640.0,h,True,DEN,14
+29,46,1610612743,7,5,MISS Murray 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,1810.0,h,False,DEN,14
+30,47,0,7,5,NUGGETS Rebound,Rebound,Unknown,1830.0,h,False,DEN,14
+31,48,1610612760,7,5,Dort L.B.FOUL (P1.T3) (D.Scott),Foul,Loose Ball,1830.0,v,False,DEN,14
+32,50,1610612743,7,5,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,1930.0,h,False,DEN,14
+33,51,1610612760,7,5,Gilgeous-Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,1960.0,v,True,OKC,15
+34,52,1610612760,7,5,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,2160.0,v,False,OKC,15
+35,52,1610612743,7,5,Braun BLOCK (1 BLK),,,2160.0,h,False,OKC,15
+36,54,1610612743,7,5,Jokić REBOUND (Off:0 Def:1),Rebound,Unknown,2200.0,h,True,DEN,16
+37,55,1610612743,9,5,Gordon Running Reverse Layup (2 PTS) (Jokić 1 AST),Made Shot,Running Reverse Layup Shot,2220.0,h,False,DEN,16
+38,57,1610612760,9,5,Williams Bad Pass Turnover (P2.T3),Turnover,Bad Pass,2320.0,v,True,OKC,17
+39,57,1610612743,9,5,Gordon STEAL (1 STL),,,2320.0,h,True,DEN,18
+40,59,1610612743,11,5,Murray 1' Running Finger Roll Layup (4 PTS) (Gordon 2 AST),Made Shot,Running Finger Roll Layup Shot,2360.0,h,False,DEN,18
+41,60,1610612760,11,7,Dort 3' Jump Bank Shot (2 PTS) (Holmgren 2 AST),Made Shot,Jump Bank Shot,2530.0,v,True,OKC,19
+42,62,1610612743,11,7,Jokić S.FOUL (P1.T1) (D.Scott),Foul,Shooting,2530.0,h,False,OKC,19
+43,65,1610612760,11,8,Dort Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,2530.0,v,False,OKC,19
+44,66,1610612743,14,8,Murray 25' 3PT Jump Shot (7 PTS) (Jokić 2 AST),Made Shot,Jump Shot,2620.0,h,True,DEN,20
+45,68,1610612760,14,8,MISS Holmgren 26' 3PT Jump Shot,Missed Shot,Jump Shot,2720.0,v,True,OKC,21
+46,69,1610612743,14,8,Porter Jr. REBOUND (Off:0 Def:1),Rebound,Unknown,2750.0,h,True,DEN,22
+47,70,1610612743,14,8,Gordon Bad Pass Turnover (P1.T2),Turnover,Bad Pass,2810.0,h,False,DEN,22
+48,70,1610612760,14,8,Holmgren STEAL (1 STL),,,2810.0,v,True,OKC,23
+49,72,1610612760,14,8,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,2860.0,v,False,OKC,23
+50,73,1610612743,14,8,Jokić REBOUND (Off:0 Def:2),Rebound,Unknown,2900.0,h,True,DEN,24
+51,74,1610612743,16,8,Braun Cutting Layup Shot (4 PTS) (Jokić 3 AST),Made Shot,Cutting Layup Shot,2980.0,h,False,DEN,24
+52,76,1610612760,16,10,Gilgeous-Alexander 11' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,3150.0,v,True,OKC,25
+53,77,1610612743,18,10,Jokić 4' Driving Layup (5 PTS) (Murray 2 AST),Made Shot,Driving Layup Shot,3340.0,h,True,DEN,26
+54,79,0,18,10,Thunder Timeout: Regular (Reg.1 Short 0),Timeout,Regular,3340.0,v,True,OKC,27
+55,80,1610612760,18,10,SUB: Wallace FOR Williams,Substitution,,3340.0,v,False,OKC,27
+56,82,1610612760,18,10,MISS Wallace 26' 3PT Jump Shot,Missed Shot,Jump Shot,3480.0,v,False,OKC,27
+57,83,1610612743,18,10,Murray REBOUND (Off:0 Def:1),Rebound,Unknown,3500.0,h,True,DEN,28
+58,84,1610612760,18,10,Dort P.FOUL (P2.T4) (J.Orr),Foul,Personal,3530.0,v,False,DEN,28
+59,86,1610612743,18,10,MISS Porter Jr. 2' Cutting Dunk Shot,Missed Shot,Cutting Dunk Shot,3600.0,h,False,DEN,28
+60,86,1610612760,18,10,Holmgren BLOCK (1 BLK),,,3600.0,v,False,DEN,28
+61,88,1610612743,18,10,Porter Jr. REBOUND (Off:1 Def:1),Rebound,Unknown,3600.0,h,False,DEN,28
+62,89,1610612743,18,10,Porter Jr. Step Out of Bounds Turnover (P1.T3),Turnover,Step Out of Bounds Turnover,3600.0,h,False,DEN,28
+63,90,1610612743,18,10,SUB: Strawther FOR Braun,Substitution,,3600.0,h,True,OKC,29
+64,91,1610612743,18,10,SUB: Westbrook FOR Murray,Substitution,,3600.0,h,False,OKC,29
+65,94,1610612760,18,10,Gilgeous-Alexander Lost Ball Turnover (P1.T4),Turnover,Lost Ball,3720.0,v,False,OKC,29
+66,94,1610612743,18,10,Jokić STEAL (1 STL),,,3720.0,h,True,DEN,30
+67,96,1610612760,18,10,Gilgeous-Alexander P.FOUL (P1.PN) (K.Scott),Foul,Personal,3730.0,v,False,DEN,30
+68,98,1610612743,18,10,MISS Jokić Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,3730.0,h,False,DEN,30
+69,99,0,18,10,NUGGETS Rebound,Rebound,Normal Rebound,3730.0,h,False,DEN,30
+70,100,1610612743,19,10,Jokić Free Throw 2 of 2 (6 PTS),Free Throw,Free Throw 2 of 2,3730.0,h,False,DEN,30
+71,101,1610612760,19,13,Gilgeous-Alexander 25' 3PT Pullup Jump Shot (5 PTS),Made Shot,Pullup Jump shot,3870.0,v,True,OKC,31
+72,102,1610612743,19,13,MISS Strawther 26' 3PT Jump Shot,Missed Shot,Jump Shot,4060.0,h,True,DEN,32
+73,103,1610612760,19,13,Dort REBOUND (Off:0 Def:1),Rebound,Unknown,4100.0,v,True,OKC,33
+74,104,1610612760,19,15,Holmgren 11' Pullup Jump Shot (2 PTS) (Gilgeous-Alexander 1 AST),Made Shot,Pullup Jump shot,4200.0,v,False,OKC,33
+75,106,1610612743,21,15,Porter Jr. 1' Cutting Dunk Shot (2 PTS) (Westbrook 1 AST),Made Shot,Cutting Dunk Shot,4310.0,h,True,DEN,34
+76,108,1610612760,21,17,Joe 16' Step Back Jump Shot (4 PTS),Made Shot,Step Back Jump shot,4490.0,v,True,OKC,35
+77,110,1610612743,21,17,Westbrook Bad Pass Turnover (P1.T4),Turnover,Bad Pass,4690.0,h,True,DEN,36
+78,110,1610612760,21,17,Gilgeous-Alexander STEAL (1 STL),,,4690.0,v,True,OKC,37
+79,112,1610612760,21,17,MISS Gilgeous-Alexander 2' Running Layup,Missed Shot,Running Layup Shot,4720.0,v,False,OKC,37
+80,113,1610612760,21,17,Wallace REBOUND (Off:1 Def:0),Rebound,Unknown,4740.0,v,False,OKC,37
+81,114,1610612760,21,17,MISS Wallace Tip Layup Shot,Missed Shot,Tip Layup Shot,4750.0,v,False,OKC,37
+82,115,1610612760,21,17,Wallace REBOUND (Off:2 Def:0),Rebound,Unknown,4760.0,v,False,OKC,37
+83,116,1610612760,21,17,MISS Wallace 3' Putback Layup,Missed Shot,Putback Layup Shot,4770.0,v,False,OKC,37
+84,117,1610612760,21,17,Holmgren REBOUND (Off:2 Def:1),Rebound,Unknown,4770.0,v,False,OKC,37
+85,118,1610612760,21,19,Holmgren 1' Putback Layup (4 PTS),Made Shot,Putback Layup Shot,4770.0,v,False,OKC,37
+86,119,1610612743,21,19,Porter Jr. S.FOUL (P1.T2) (J.Orr),Foul,Shooting,4770.0,h,False,OKC,37
+87,121,0,21,19,NUGGETS Timeout: Regular (Full 1 Short 0),Timeout,Regular,4770.0,h,False,OKC,37
+88,122,1610612743,21,19,SUB: Watson FOR Gordon,Substitution,,4770.0,h,False,OKC,37
+89,123,1610612760,21,19,SUB: Dieng FOR Dort,Substitution,,4770.0,v,False,OKC,37
+90,124,1610612760,21,19,SUB: Caruso FOR Joe,Substitution,,4770.0,v,False,OKC,37
+91,128,1610612760,21,20,Holmgren Free Throw 1 of 1 (5 PTS),Free Throw,Free Throw 1 of 1,4770.0,v,False,OKC,37
+92,129,1610612743,21,20,MISS Westbrook 25' 3PT Jump Shot,Missed Shot,Jump Shot,4950.0,h,True,DEN,38
+93,130,0,21,20,Thunder Rebound,Rebound,Unknown,4960.0,v,True,OKC,39
+94,132,1610612760,21,20,MISS Dieng 26' 3PT Jump Shot,Missed Shot,Jump Shot,5120.0,v,False,OKC,39
+95,133,0,21,20,Thunder Rebound,Rebound,Unknown,5130.0,v,False,OKC,39
+96,135,1610612743,21,20,SUB: Murray FOR Porter Jr.,Substitution,,5130.0,h,False,OKC,39
+97,137,1610612760,21,23,Dieng 3PT Jump Shot (3 PTS) (Caruso 1 AST),Made Shot,Jump Shot,5150.0,v,False,OKC,39
+98,139,1610612743,23,23,Jokić 1' Dunk (8 PTS) (Westbrook 2 AST),Made Shot,Dunk Shot,5260.0,h,True,DEN,40
+99,141,1610612760,23,25,Gilgeous-Alexander 2' Driving Finger Roll Layup (7 PTS),Made Shot,Driving Finger Roll Layup Shot,5420.0,v,True,OKC,41
+100,142,1610612743,23,25,MISS Watson 24' 3PT Jump Shot,Missed Shot,Jump Shot,5550.0,h,True,DEN,42
+101,143,1610612760,23,25,Dieng REBOUND (Off:0 Def:1),Rebound,Unknown,5580.0,v,True,OKC,43
+102,144,1610612743,23,25,Strawther S.FOUL (P1.T3) (J.Orr),Foul,Shooting,5660.0,h,False,OKC,43
+103,146,1610612760,23,25,MISS Gilgeous-Alexander Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,5660.0,v,False,OKC,43
+104,147,0,23,25,Thunder Rebound,Rebound,Normal Rebound,5660.0,v,False,OKC,43
+105,148,1610612743,23,25,SUB: Šarić FOR Jokić,Substitution,,5660.0,h,False,OKC,43
+106,149,1610612760,23,25,SUB: Wiggins FOR Holmgren,Substitution,,5660.0,v,False,OKC,43
+107,152,1610612760,23,26,Gilgeous-Alexander Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,5660.0,v,False,OKC,43
+108,153,1610612743,23,26,MISS Murray 24' 3PT Jump Shot,Missed Shot,Jump Shot,5820.0,h,True,DEN,44
+109,154,1610612743,23,26,Murray REBOUND (Off:1 Def:1),Rebound,Unknown,5870.0,h,False,DEN,44
+110,212,1610612743,23,26,Murray Out of Bounds Lost Ball Turnover (P1.T5),Turnover,Out of Bounds Lost Ball Turnover,5870.0,h,False,DEN,44
+111,156,1610612760,23,26,SUB: Williams FOR Gilgeous-Alexander,Substitution,,5870.0,v,True,OKC,45
+112,158,1610612760,23,26,MISS Williams 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,5990.0,v,False,OKC,45
+113,159,1610612743,23,26,Watson REBOUND (Off:0 Def:1),Rebound,Unknown,6020.0,h,True,DEN,46
+114,160,1610612743,23,26,MISS Strawther 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,6180.0,h,False,DEN,46
+115,161,1610612743,23,26,Watson REBOUND (Off:1 Def:1),Rebound,Unknown,6180.0,h,False,DEN,46
+116,162,1610612743,23,26,MISS Watson Tip Layup Shot,Missed Shot,Tip Layup Shot,6180.0,h,False,DEN,46
+117,163,0,23,26,NUGGETS Rebound,Rebound,Unknown,6180.0,h,False,DEN,46
+118,165,1610612743,23,26,MISS Murray 13' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,6320.0,h,False,DEN,46
+119,166,1610612760,23,26,Caruso REBOUND (Off:0 Def:1),Rebound,Unknown,6350.0,v,True,OKC,47
+120,167,1610612760,23,28,Wiggins 10' Turnaround Fadeaway (2 PTS),Made Shot,Turnaround Fadeaway shot,6510.0,v,False,OKC,47
+121,168,1610612760,23,28,Caruso S.FOUL (P1.PN) (J.Orr),Foul,Shooting,6712.0,v,True,DEN,48
+122,170,1610612743,23,28,MISS Westbrook Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,6712.0,h,False,DEN,48
+123,171,0,23,28,NUGGETS Rebound,Rebound,Normal Rebound,6712.0,h,False,DEN,48
+124,172,1610612760,23,28,SUB: Joe FOR Wallace,Substitution,,6712.0,v,False,DEN,48
+125,174,1610612743,24,28,Westbrook Free Throw 2 of 2 (1 PTS),Free Throw,Free Throw 2 of 2,6712.0,h,False,DEN,48
+126,175,1610612760,24,31,Dieng 3PT Jump Shot (6 PTS) (Joe 1 AST),Made Shot,Jump Shot,6872.0,v,True,OKC,49
+127,177,1610612743,24,31,Murray Out of Bounds - Bad Pass Turnover Turnover (P2.T6),Turnover,Out of Bounds - Bad Pass Turnover,7075.0,h,True,DEN,50
+128,178,1610612743,24,31,SUB: Braun FOR Strawther,Substitution,,7075.0,h,True,OKC,51
+129,180,1610612760,24,31,MISS Williams 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,7170.0,v,False,OKC,51
+130,180,1610612743,24,31,Watson BLOCK (1 BLK),,,7170.0,h,False,OKC,51
+131,182,1610612743,24,31,Westbrook REBOUND (Off:0 Def:1),Rebound,Unknown,7170.0,h,True,DEN,52
+132,183,1610612743,24,31,MISS Murray 54' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,7196.0,h,False,DEN,52
+133,184,0,24,31,NUGGETS Rebound,Rebound,Unknown,7196.0,h,False,DEN,52
+134,185,0,24,31,End of 1st Period (10:39 PM EST),period,end,7200.0,,False,DEN,52
+135,190,0,24,31,Start of 2nd Period (10:42 PM EST),period,start,7200.0,,True,DEN,53
+136,191,1610612743,26,31,Westbrook 3' Driving Finger Roll Layup (3 PTS) (Strawther 1 AST),Made Shot,Driving Finger Roll Layup Shot,7290.0,h,False,DEN,53
+137,193,1610612760,26,31,MISS Wallace 3' Driving Layup,Missed Shot,Driving Layup Shot,7450.0,v,True,OKC,54
+138,193,1610612743,26,31,Westbrook BLOCK (1 BLK),,,7450.0,h,False,OKC,54
+139,195,0,26,31,Thunder Rebound,Rebound,Unknown,7450.0,v,False,OKC,54
+140,197,1610612760,26,31,MISS Williams 13' Pullup Jump Shot,Missed Shot,Pullup Jump shot,7510.0,v,False,OKC,54
+141,198,0,26,31,Thunder Rebound,Rebound,Unknown,7540.0,v,False,OKC,54
+142,200,1610612760,26,33,Wiggins 2' Driving Layup (4 PTS) (Caruso 2 AST),Made Shot,Driving Layup Shot,7590.0,v,False,OKC,54
+143,202,1610612743,26,33,MISS Westbrook 24' 3PT Jump Shot,Missed Shot,Jump Shot,7790.0,h,True,DEN,55
+144,203,1610612760,26,33,Caruso REBOUND (Off:0 Def:2),Rebound,Unknown,7820.0,v,True,OKC,56
+145,204,1610612760,26,33,Wiggins Bad Pass Turnover (P1.T5),Turnover,Bad Pass,8040.0,v,False,OKC,56
+146,204,1610612743,26,33,Strawther STEAL (1 STL),,,8040.0,h,True,DEN,57
+147,206,1610612743,28,33,Strawther 1' Running Layup (2 PTS),Made Shot,Running Layup Shot,8100.0,h,False,DEN,57
+148,207,1610612760,28,35,Williams 3' Layup (5 PTS),Made Shot,Layup Shot,8150.0,v,True,OKC,58
+149,208,1610612743,28,35,Šarić S.FOUL (P1.T1) (D.Scott),Foul,Shooting,8150.0,h,False,OKC,58
+150,210,1610612760,28,35,SUB: Mitchell FOR Dieng,Substitution,,8150.0,v,False,OKC,58
+151,213,1610612760,28,35,MISS Williams Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,8150.0,v,False,OKC,58
+152,214,1610612760,28,35,Williams REBOUND (Off:1 Def:0),Rebound,Unknown,8200.0,v,False,OKC,58
+153,215,1610612760,28,35,MISS Caruso 25' 3PT Jump Shot,Missed Shot,Jump Shot,8220.0,v,False,OKC,58
+154,216,1610612743,28,35,Watson REBOUND (Off:1 Def:2),Rebound,Unknown,8230.0,h,True,DEN,59
+155,217,1610612743,30,35,Šarić 2' Layup (2 PTS),Made Shot,Layup Shot,8330.0,h,False,DEN,59
+156,218,1610612760,30,35,MISS Wallace 3' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,8410.0,v,True,OKC,60
+157,219,1610612760,30,35,Caruso REBOUND (Off:1 Def:2),Rebound,Unknown,8430.0,v,False,OKC,60
+158,220,1610612760,30,35,MISS Caruso 1' Putback Layup,Missed Shot,Putback Layup Shot,8440.0,v,False,OKC,60
+159,221,1610612743,30,35,Šarić REBOUND (Off:0 Def:1),Rebound,Unknown,8460.0,h,True,DEN,61
+160,222,1610612743,30,35,MISS Westbrook 24' 3PT Jump Shot,Missed Shot,Jump Shot,8570.0,h,False,DEN,61
+161,223,1610612760,30,35,Caruso REBOUND (Off:1 Def:3),Rebound,Unknown,8590.0,v,True,OKC,62
+162,224,1610612760,30,35,MISS Mitchell 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,8710.0,v,False,OKC,62
+163,225,1610612743,30,35,Watson REBOUND (Off:1 Def:3),Rebound,Unknown,8750.0,h,True,DEN,63
+164,226,1610612743,30,35,MISS Šarić 25' 3PT Jump Shot,Missed Shot,Jump Shot,8850.0,h,False,DEN,63
+165,227,1610612743,30,35,Watson REBOUND (Off:2 Def:3),Rebound,Unknown,8880.0,h,False,DEN,63
+166,228,1610612743,32,35,Watson 1' Putback Dunk (2 PTS),Made Shot,Putback Dunk Shot,8880.0,h,False,DEN,63
+167,229,1610612760,32,37,Wiggins 2' Driving Layup (6 PTS) (Williams 2 AST),Made Shot,Driving Layup Shot,9080.0,v,True,OKC,64
+168,231,1610612743,32,37,MISS Murray 16' Turnaround Jump Shot,Missed Shot,Turnaround Jump Shot,9290.0,h,True,DEN,65
+169,232,1610612760,32,37,Wiggins REBOUND (Off:0 Def:1),Rebound,Unknown,9330.0,v,True,OKC,66
+170,233,1610612760,32,40,Wiggins 25' 3PT Running Pull-Up Jump Shot (9 PTS),Made Shot,Running Pull-Up Jump Shot,9380.0,v,False,OKC,66
+171,234,0,32,40,NUGGETS Timeout: Regular (Full 2 Short 0),Timeout,Regular,9380.0,h,True,DEN,67
+172,235,1610612743,32,40,SUB: Gordon FOR Strawther,Substitution,,9380.0,h,False,DEN,67
+173,236,1610612743,32,40,SUB: Braun FOR Watson,Substitution,,9380.0,h,False,DEN,67
+174,237,1610612743,32,40,SUB: Porter Jr. FOR Šarić,Substitution,,9380.0,h,False,DEN,67
+175,238,1610612743,32,40,SUB: Jokić FOR Murray,Substitution,,9380.0,h,False,DEN,67
+176,239,1610612760,32,40,SUB: Holmgren FOR Wallace,Substitution,,9380.0,v,False,DEN,67
+177,248,1610612743,32,40,Westbrook Traveling Turnover (P2.T7),Turnover,Traveling,9540.0,h,False,DEN,67
+178,249,1610612760,32,42,Holmgren 12' Turnaround Jump Shot (7 PTS) (Mitchell 1 AST),Made Shot,Turnaround Jump Shot,9690.0,v,True,OKC,68
+179,251,1610612760,32,42,Wiggins P.FOUL (P1.T1) (J.Orr),Foul,Personal,9760.0,v,True,DEN,69
+180,257,1610612760,32,42,SUB: Gilgeous-Alexander FOR Williams,Substitution,,9760.0,v,False,DEN,69
+181,255,1610612743,32,42,Braun Step Out of Bounds Turnover (P2.T8),Turnover,Step Out of Bounds Turnover,9880.0,h,False,DEN,69
+182,256,1610612760,32,42,Mitchell Traveling Turnover (P1.T6),Turnover,Traveling,10100.0,v,True,OKC,70
+183,258,1610612743,32,42,MISS Westbrook 1' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,10180.0,h,True,DEN,71
+184,258,1610612760,32,42,Gilgeous-Alexander BLOCK (1 BLK),,,10180.0,v,False,DEN,71
+185,260,1610612760,32,42,Mitchell REBOUND (Off:0 Def:1),Rebound,Unknown,10210.0,v,True,OKC,72
+186,261,1610612760,32,42,MISS Gilgeous-Alexander 3' Running Layup,Missed Shot,Running Layup Shot,10230.0,v,False,OKC,72
+187,261,1610612743,32,42,Westbrook BLOCK (2 BLK),,,10230.0,h,False,OKC,72
+188,263,0,32,42,Thunder Rebound,Rebound,Unknown,10230.0,v,False,OKC,72
+189,265,1610612760,32,42,MISS Gilgeous-Alexander 12' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,10250.0,v,False,OKC,72
+190,266,1610612743,32,42,Jokić REBOUND (Off:0 Def:3),Rebound,Unknown,10280.0,h,True,DEN,73
+191,267,1610612743,32,42,MISS Gordon 2' Layup,Missed Shot,Layup Shot,10330.0,h,False,DEN,73
+192,267,1610612760,32,42,Wiggins BLOCK (1 BLK),,,10330.0,v,False,DEN,73
+193,269,1610612743,32,42,Gordon REBOUND (Off:1 Def:1),Rebound,Unknown,10340.0,h,False,DEN,73
+194,270,1610612760,32,42,Gilgeous-Alexander S.FOUL (P2.T2) (J.Orr),Foul,Shooting,10340.0,v,False,DEN,73
+195,272,1610612743,33,42,Gordon Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,10340.0,h,False,DEN,73
+196,273,1610612743,33,42,SUB: Murray FOR Westbrook,Substitution,,10340.0,h,False,DEN,73
+197,274,1610612760,33,42,SUB: Dort FOR Caruso,Substitution,,10340.0,v,False,DEN,73
+198,277,1610612743,34,42,Gordon Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,10340.0,h,False,DEN,73
+199,278,1610612760,34,44,Wiggins 12' Pullup Jump Shot (11 PTS) (Holmgren 3 AST),Made Shot,Pullup Jump shot,10490.0,v,True,OKC,74
+200,280,1610612760,34,44,Holmgren S.FOUL (P1.T3) (K.Scott),Foul,Shooting,10700.0,v,True,DEN,75
+201,282,1610612743,35,44,Jokić Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,10700.0,h,False,DEN,75
+202,283,1610612743,36,44,Jokić Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,10700.0,h,False,DEN,75
+203,284,1610612760,36,46,Gilgeous-Alexander 10' Pullup Jump Shot (10 PTS),Made Shot,Pullup Jump shot,10840.0,v,True,OKC,76
+204,285,1610612743,38,46,Jokić 3' Driving Finger Roll Layup (12 PTS) (Braun 1 AST),Made Shot,Driving Finger Roll Layup Shot,11000.0,h,True,DEN,77
+205,287,1610612760,38,46,MISS Mitchell 27' 3PT Jump Shot,Missed Shot,Jump Shot,11160.0,v,True,OKC,78
+206,288,1610612743,38,46,Porter Jr. REBOUND (Off:1 Def:2),Rebound,Unknown,11190.0,h,True,DEN,79
+207,289,1610612743,38,46,Braun Bad Pass Turnover (P3.T9),Turnover,Bad Pass,11260.0,h,False,DEN,79
+208,289,1610612760,38,46,Holmgren STEAL (2 STL),,,11260.0,v,True,OKC,80
+209,291,1610612760,38,46,MISS Gilgeous-Alexander 15' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,11380.0,v,False,OKC,80
+210,292,1610612743,38,46,Gordon REBOUND (Off:1 Def:2),Rebound,Unknown,11410.0,h,True,DEN,81
+211,293,1610612743,38,46,MISS Braun 3PT Jump Shot,Missed Shot,Jump Shot,11510.0,h,False,DEN,81
+212,294,1610612743,38,46,Gordon REBOUND (Off:2 Def:2),Rebound,Unknown,11550.0,h,False,DEN,81
+213,295,1610612743,38,46,MISS Gordon Tip Layup Shot,Missed Shot,Tip Layup Shot,11550.0,h,False,DEN,81
+214,296,1610612743,38,46,Gordon REBOUND (Off:3 Def:2),Rebound,Unknown,11550.0,h,False,DEN,81
+215,297,1610612743,40,46,Gordon Tip Layup Shot (6 PTS),Made Shot,Tip Layup Shot,11550.0,h,False,DEN,81
+216,298,0,40,46,Thunder Timeout: Regular (Reg.2 Short 0),Timeout,Regular,11550.0,v,True,OKC,82
+217,299,1610612760,40,46,SUB: Joe FOR Wiggins,Substitution,,11550.0,v,False,OKC,82
+218,300,1610612760,40,46,SUB: Williams FOR Mitchell,Substitution,,11550.0,v,False,OKC,82
+219,303,1610612760,40,46,MISS Dort 11' Pullup Jump Shot,Missed Shot,Pullup Jump shot,11740.0,v,False,OKC,82
+220,303,1610612743,40,46,Braun BLOCK (2 BLK),,,11740.0,h,False,OKC,82
+221,305,1610612743,40,46,Braun REBOUND (Off:0 Def:3),Rebound,Unknown,11760.0,h,True,DEN,83
+222,306,1610612743,42,46,Braun Running Layup (6 PTS) (Jokić 4 AST),Made Shot,Running Layup Shot,11810.0,h,False,DEN,83
+223,308,1610612760,42,48,Holmgren 3' Cutting Layup Shot (9 PTS) (Williams 3 AST),Made Shot,Cutting Layup Shot,11960.0,v,True,OKC,84
+224,310,1610612743,42,48,Murray S.FOUL (P1.T2) (J.Orr),Foul,Shooting,11960.0,h,False,OKC,84
+225,312,1610612760,42,49,Holmgren Free Throw 1 of 1 (10 PTS),Free Throw,Free Throw 1 of 1,11960.0,v,False,OKC,84
+226,313,1610612743,45,49,Porter Jr. 25' 3PT Jump Shot (5 PTS) (Jokić 5 AST),Made Shot,Jump Shot,12080.0,h,True,DEN,85
+227,315,1610612760,45,52,Joe 26' 3PT Jump Shot (7 PTS) (Gilgeous-Alexander 2 AST),Made Shot,Jump Shot,12230.0,v,True,OKC,86
+228,317,1610612743,45,52,MISS Porter Jr. 26' 3PT Jump Shot,Missed Shot,Jump Shot,12440.0,h,True,DEN,87
+229,318,1610612743,45,52,Murray REBOUND (Off:2 Def:1),Rebound,Unknown,12460.0,h,False,DEN,87
+230,319,1610612743,45,52,Murray Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,12530.0,h,False,DEN,87
+231,320,1610612760,45,54,Holmgren 3' Driving Layup (12 PTS),Made Shot,Driving Layup Shot,12640.0,v,True,OKC,88
+232,321,1610612743,45,54,Porter Jr. S.FOUL (P2.T3) (J.Orr),Foul,Shooting,12640.0,h,False,OKC,88
+233,323,1610612760,45,54,MISS Holmgren Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,12640.0,v,False,OKC,88
+234,324,1610612743,45,54,Murray REBOUND (Off:2 Def:2),Rebound,Unknown,12660.0,h,True,DEN,89
+235,325,1610612743,47,54,Murray 9' Driving Floating Jump Shot (9 PTS),Made Shot,Driving Floating Jump Shot,12770.0,h,False,DEN,89
+236,326,1610612760,47,56,Gilgeous-Alexander 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,12910.0,v,True,OKC,90
+237,327,1610612743,47,56,MISS Murray 5' Pullup Jump Shot,Missed Shot,Pullup Jump shot,13120.0,h,True,DEN,91
+238,327,1610612760,47,56,Dort BLOCK (1 BLK),,,13120.0,v,False,DEN,91
+239,328,1610612760,47,56,Holmgren REBOUND (Off:2 Def:2),Rebound,Unknown,13140.0,v,True,OKC,92
+240,329,1610612743,47,56,Jump Ball Murray vs. Gilgeous-Alexander: Tip to Jokić,Jump Ball,,13170.0,h,False,OKC,92
+241,332,1610612760,47,56,Holmgren Lost Ball Turnover (P2.T7),Turnover,Lost Ball,13170.0,v,False,OKC,92
+242,332,1610612743,47,56,Murray STEAL (1 STL),,,13170.0,h,True,DEN,93
+243,334,1610612743,47,56,MISS Jokić 29' 3PT Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13230.0,h,False,DEN,93
+244,335,0,47,56,NUGGETS Rebound,Rebound,Unknown,13230.0,h,False,DEN,93
+245,337,0,47,56,NUGGETS Turnover: Shot Clock (T#11),Turnover,Shot Clock Turnover,13230.0,h,False,DEN,93
+246,338,1610612760,47,56,MISS Joe 27' 3PT Jump Shot,Missed Shot,Jump Shot,13320.0,v,True,OKC,94
+247,339,1610612760,47,56,Holmgren REBOUND (Off:3 Def:2),Rebound,Unknown,13350.0,v,False,OKC,94
+248,340,1610612760,47,56,MISS Joe 7' Cutting Layup Shot,Missed Shot,Cutting Layup Shot,13380.0,v,False,OKC,94
+249,341,1610612743,47,56,Gordon REBOUND (Off:3 Def:3),Rebound,Unknown,13420.0,h,True,DEN,95
+250,342,1610612743,49,56,Braun 1' Layup (8 PTS) (Jokić 6 AST),Made Shot,Layup Shot,13490.0,h,False,DEN,95
+251,344,1610612760,49,58,Dort 1' Dunk (5 PTS) (Holmgren 4 AST),Made Shot,Dunk Shot,13600.0,v,True,OKC,96
+252,348,1610612743,49,58,MISS Porter Jr. 3' Pullup Jump Shot,Missed Shot,Pullup Jump shot,13760.0,h,True,DEN,97
+253,349,1610612760,49,58,Holmgren REBOUND (Off:3 Def:3),Rebound,Unknown,13770.0,v,True,OKC,98
+254,350,1610612760,49,58,MISS Williams 2' Running Reverse Layup,Missed Shot,Running Reverse Layup Shot,13820.0,v,False,OKC,98
+255,351,1610612760,49,58,Gilgeous-Alexander REBOUND (Off:1 Def:1),Rebound,Unknown,13837.0,v,False,OKC,98
+256,352,1610612760,49,58,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,13847.0,v,False,OKC,98
+257,353,1610612760,49,58,Joe REBOUND (Off:1 Def:0),Rebound,Unknown,13847.0,v,False,OKC,98
+258,354,1610612743,49,58,Jokić Violation:Kicked Ball (J.Orr),Violation,Kicked Ball,13996.0,h,False,OKC,98
+259,355,1610612743,49,58,SUB: Watson FOR Porter Jr.,Substitution,,13996.0,h,False,OKC,98
+260,357,1610612760,49,58,MISS Gilgeous-Alexander 25' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14043.0,v,False,OKC,98
+261,358,1610612743,49,58,Jokić REBOUND (Off:0 Def:4),Rebound,Unknown,14077.0,h,True,DEN,99
+262,359,1610612743,51,58,Braun 1' Driving Finger Roll Layup (10 PTS) (Watson 1 AST),Made Shot,Driving Finger Roll Layup Shot,14261.0,h,False,DEN,99
+263,361,1610612743,51,58,Braun Personal Take Foul (P1.T4) (J.Orr),Foul,Personal Take,14323.0,h,True,OKC,100
+264,363,1610612743,51,58,SUB: Westbrook FOR Jokić,Substitution,,14323.0,h,False,OKC,100
+265,364,1610612760,51,58,SUB: Caruso FOR Williams,Substitution,,14323.0,v,False,OKC,100
+266,367,1610612760,51,58,MISS Joe 11' Floating Jump Shot,Missed Shot,Floating Jump shot,14397.0,v,False,OKC,100
+267,368,1610612743,51,58,Westbrook REBOUND (Off:0 Def:2),Rebound,Unknown,14397.0,h,True,DEN,101
+268,369,0,51,58,End of 2nd Period (11:09 PM EST),period,end,14400.0,,False,DEN,101
+269,376,0,51,58,Start of 3rd Period (11:25 PM EST),period,start,14400.0,,True,DEN,102
+270,377,1610612743,51,58,MISS Braun 24' 3PT Jump Shot,Missed Shot,Jump Shot,14560.0,h,False,DEN,102
+271,378,1610612760,51,58,Gilgeous-Alexander REBOUND (Off:1 Def:2),Rebound,Unknown,14630.0,v,True,OKC,103
+272,379,1610612760,51,61,Gilgeous-Alexander 26' 3PT Running Pull-Up Jump Shot (15 PTS),Made Shot,Running Pull-Up Jump Shot,14640.0,v,False,OKC,103
+273,380,1610612743,51,61,MISS Porter Jr. 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,14800.0,h,True,DEN,104
+274,381,1610612760,51,61,Holmgren REBOUND (Off:3 Def:4),Rebound,Unknown,14830.0,v,True,OKC,105
+275,382,1610612760,51,61,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,14910.0,v,False,OKC,105
+276,383,1610612743,51,61,Braun REBOUND (Off:0 Def:4),Rebound,Unknown,14960.0,h,True,DEN,106
+277,384,1610612743,54,61,Porter Jr. 26' 3PT Jump Shot (8 PTS) (Jokić 7 AST),Made Shot,Jump Shot,15050.0,h,False,DEN,106
+278,386,1610612760,54,61,MISS Dort 13' Step Back Jump Shot,Missed Shot,Step Back Jump shot,15250.0,v,True,OKC,107
+279,387,1610612743,54,61,Porter Jr. REBOUND (Off:1 Def:3),Rebound,Unknown,15270.0,h,True,DEN,108
+280,388,1610612743,56,61,Braun Running Dunk (12 PTS) (Porter Jr. 1 AST),Made Shot,Running Dunk Shot,15310.0,h,False,DEN,108
+281,390,0,56,61,Thunder Timeout: Regular (Reg.3 Short 0),Timeout,Regular,15310.0,v,True,OKC,109
+282,391,1610612760,56,63,Holmgren 1' Cutting Dunk Shot (14 PTS) (Gilgeous-Alexander 3 AST),Made Shot,Cutting Dunk Shot,15460.0,v,False,OKC,109
+283,393,1610612743,56,63,MISS Murray 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,15660.0,h,True,DEN,110
+284,394,1610612760,56,63,Williams REBOUND (Off:1 Def:1),Rebound,Unknown,15700.0,v,True,OKC,111
+285,395,1610612760,56,65,Holmgren 1' Driving Reverse Layup (16 PTS) (Gilgeous-Alexander 4 AST),Made Shot,Driving Reverse Layup Shot,15770.0,v,False,OKC,111
+286,396,1610612743,56,65,MISS Porter Jr. 25' 3PT Jump Shot,Missed Shot,Jump Shot,15880.0,h,True,DEN,112
+287,397,1610612743,56,65,Jokić REBOUND (Off:1 Def:4),Rebound,Unknown,15900.0,h,False,DEN,112
+288,398,1610612743,58,65,Porter Jr. 2' Cutting Layup Shot (10 PTS) (Jokić 8 AST),Made Shot,Cutting Layup Shot,15950.0,h,False,DEN,112
+289,400,1610612760,58,65,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,16050.0,v,True,OKC,113
+290,401,0,58,65,NUGGETS Rebound,Rebound,Unknown,16050.0,h,True,DEN,114
+291,403,1610612743,60,65,Gordon 17' Fadeaway Jumper (8 PTS) (Jokić 9 AST),Made Shot,Fadeaway Jump Shot,16270.0,h,False,DEN,114
+292,406,1610612760,60,65,MISS Williams 26' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,16440.0,v,True,OKC,115
+293,407,1610612743,60,65,Jokić REBOUND (Off:1 Def:5),Rebound,Unknown,16440.0,h,True,DEN,116
+294,408,1610612760,60,65,Williams S.FOUL (P3.T1) (J.Orr),Foul,Shooting,16490.0,v,False,DEN,116
+295,410,1610612743,61,65,Porter Jr. Free Throw 1 of 2 (11 PTS),Free Throw,Free Throw 1 of 2,16490.0,h,False,DEN,116
+296,411,1610612743,62,65,Porter Jr. Free Throw 2 of 2 (12 PTS),Free Throw,Free Throw 2 of 2,16490.0,h,False,DEN,116
+297,412,1610612760,62,67,Holmgren 16' Pullup Jump Shot (18 PTS) (Gilgeous-Alexander 5 AST),Made Shot,Pullup Jump shot,16700.0,v,True,OKC,117
+298,414,1610612743,64,67,Braun 5' Driving Floating Bank Jump Shot (14 PTS) (Jokić 10 AST),Made Shot,Driving Floating Bank Jump Shot,16890.0,h,True,DEN,118
+299,416,1610612743,64,67,Gordon S.FOUL (P1.T1) (J.Orr),Foul,Shooting,17000.0,h,True,OKC,119
+300,418,1610612760,64,68,Gilgeous-Alexander Free Throw 1 of 2 (16 PTS),Free Throw,Free Throw 1 of 2,17000.0,v,False,OKC,119
+301,419,1610612760,64,68,SUB: Wallace FOR Dort,Substitution,,17000.0,v,False,OKC,119
+302,421,1610612760,64,69,Gilgeous-Alexander Free Throw 2 of 2 (17 PTS),Free Throw,Free Throw 2 of 2,17000.0,v,False,OKC,119
+303,422,1610612743,64,69,MISS Porter Jr. 2' Dunk,Missed Shot,Dunk Shot,17160.0,h,True,DEN,120
+304,422,1610612760,64,69,Holmgren BLOCK (2 BLK),,,17160.0,v,False,DEN,120
+305,424,0,64,69,NUGGETS Rebound,Rebound,Unknown,17180.0,h,False,DEN,120
+306,426,1610612743,64,69,MISS Porter Jr. 3PT Jump Shot,Missed Shot,Jump Shot,17210.0,h,False,DEN,120
+307,427,1610612760,64,69,Joe REBOUND (Off:1 Def:1),Rebound,Unknown,17250.0,v,True,OKC,121
+308,428,1610612760,64,71,Williams 12' Driving Floating Jump Shot (7 PTS) (Holmgren 5 AST),Made Shot,Driving Floating Jump Shot,17340.0,v,False,OKC,121
+309,430,1610612743,64,71,MISS Murray 18' Step Back Jump Shot,Missed Shot,Step Back Jump shot,17610.0,h,True,DEN,122
+310,431,1610612743,64,71,Braun REBOUND (Off:1 Def:4),Rebound,Unknown,17660.0,h,False,DEN,122
+311,432,1610612743,64,71,MISS Braun Tip Layup Shot,Missed Shot,Tip Layup Shot,17660.0,h,False,DEN,122
+312,433,1610612743,64,71,Braun REBOUND (Off:2 Def:4),Rebound,Unknown,17670.0,h,False,DEN,122
+313,434,1610612743,64,71,MISS Braun Tip Layup Shot,Missed Shot,Tip Layup Shot,17670.0,h,False,DEN,122
+314,435,1610612743,64,71,Jokić REBOUND (Off:2 Def:5),Rebound,Unknown,17670.0,h,False,DEN,122
+315,436,1610612743,64,71,MISS Jokić Tip Layup Shot,Missed Shot,Tip Layup Shot,17680.0,h,False,DEN,122
+316,437,1610612760,64,71,Holmgren REBOUND (Off:3 Def:5),Rebound,Unknown,17690.0,v,True,OKC,123
+317,438,1610612760,64,73,Wallace 1' Reverse Layup (2 PTS) (Gilgeous-Alexander 6 AST),Made Shot,Reverse Layup Shot,17770.0,v,False,OKC,123
+318,440,1610612743,64,73,MISS Gordon 26' 3PT Jump Shot,Missed Shot,Jump Shot,17920.0,h,True,DEN,124
+319,441,1610612743,64,73,Jokić REBOUND (Off:3 Def:5),Rebound,Unknown,17950.0,h,False,DEN,124
+320,442,1610612743,66,73,Jokić 1' Putback Layup (14 PTS),Made Shot,Putback Layup Shot,17960.0,h,False,DEN,124
+321,443,1610612743,66,73,Jokić Personal Take Foul (P2.T2) (J.Orr),Foul,Personal Take,18040.0,h,True,OKC,125
+322,445,1610612760,66,73,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,18080.0,v,False,OKC,125
+323,446,1610612743,66,73,Porter Jr. REBOUND (Off:1 Def:4),Rebound,Unknown,18110.0,h,True,DEN,126
+324,469,1610612743,66,73,MISS Jokić 9' Dunk,Missed Shot,Dunk Shot,18270.0,h,False,DEN,126
+325,469,1610612760,66,73,Holmgren BLOCK (3 BLK),,,18270.0,v,False,DEN,126
+326,471,0,66,73,Thunder Rebound,Rebound,Unknown,18270.0,v,True,OKC,127
+327,449,0,66,73,Thunder Timeout: Regular (Reg.4 Short 0),Timeout,Regular,18270.0,v,False,OKC,127
+328,450,0,66,73,Instant Replay3rd Period (11:39 PM EST),Instant Replay,Coach Challenge Overturn Ruling,18270.0,,False,OKC,127
+329,451,1610612760,66,73,SUB: Caruso FOR Joe,Substitution,,18270.0,v,False,OKC,127
+330,453,1610612760,66,75,Gilgeous-Alexander 1' Driving Finger Roll Layup (19 PTS),Made Shot,Driving Finger Roll Layup Shot,18490.0,v,False,OKC,127
+331,454,1610612743,66,75,MISS Murray 2' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,18700.0,h,True,DEN,128
+332,455,1610612760,66,75,Gilgeous-Alexander REBOUND (Off:1 Def:3),Rebound,Unknown,18730.0,v,True,OKC,129
+333,456,1610612760,66,75,MISS Gilgeous-Alexander 15' Pullup Jump Shot,Missed Shot,Pullup Jump shot,18950.0,v,False,OKC,129
+334,457,1610612743,66,75,Jokić REBOUND (Off:3 Def:6),Rebound,Unknown,18970.0,h,True,DEN,130
+335,458,1610612743,66,75,MISS Gordon 3' Hook Bank Shot,Missed Shot,Hook Bank Shot,19070.0,h,False,DEN,130
+336,459,1610612743,66,75,Gordon REBOUND (Off:4 Def:3),Rebound,Unknown,19100.0,h,False,DEN,130
+337,460,1610612743,66,75,MISS Gordon Tip Layup Shot,Missed Shot,Tip Layup Shot,19100.0,h,False,DEN,130
+338,461,1610612760,66,75,Wallace REBOUND (Off:2 Def:1),Rebound,Unknown,19110.0,v,True,OKC,131
+339,462,1610612760,66,75,MISS Williams 24' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,19180.0,v,False,OKC,131
+340,463,1610612743,66,75,Braun REBOUND (Off:2 Def:5),Rebound,Unknown,19200.0,h,True,DEN,132
+341,464,1610612743,66,75,MISS Braun 2' Driving Layup,Missed Shot,Driving Layup Shot,19320.0,h,False,DEN,132
+342,465,1610612760,66,75,Gilgeous-Alexander REBOUND (Off:1 Def:4),Rebound,Unknown,19340.0,v,True,OKC,133
+343,466,1610612743,66,75,Murray S.FOUL (P2.T3) (D.Scott),Foul,Shooting,19380.0,h,False,OKC,133
+344,468,0,66,75,NUGGETS Timeout: Regular (Full 3 Short 0),Timeout,Regular,19380.0,h,False,OKC,133
+345,472,1610612743,66,75,SUB: Watson FOR Braun,Substitution,,19380.0,h,False,OKC,133
+346,473,1610612743,66,75,SUB: Westbrook FOR Porter Jr.,Substitution,,19380.0,h,False,OKC,133
+347,474,1610612743,66,75,SUB: Strawther FOR Murray,Substitution,,19380.0,h,False,OKC,133
+348,475,1610612760,66,75,SUB: Dieng FOR Williams,Substitution,,19380.0,v,False,OKC,133
+349,480,1610612760,66,75,MISS Holmgren Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,19380.0,v,False,OKC,133
+350,481,0,66,75,Thunder Rebound,Rebound,Normal Rebound,19380.0,v,False,OKC,133
+351,482,1610612760,66,76,Holmgren Free Throw 2 of 2 (19 PTS),Free Throw,Free Throw 2 of 2,19380.0,v,False,OKC,133
+352,483,1610612743,66,76,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,19490.0,h,True,DEN,134
+353,484,1610612760,66,76,Holmgren REBOUND (Off:3 Def:6),Rebound,Unknown,19520.0,v,True,OKC,135
+354,485,1610612760,66,78,Gilgeous-Alexander 4' Fadeaway Bank Shot (21 PTS),Made Shot,Fadeaway Bank shot,19620.0,v,False,OKC,135
+355,486,1610612743,66,78,MISS Jokić 4' Hook Shot,Missed Shot,Hook Shot,19820.0,h,True,DEN,136
+356,486,1610612760,66,78,Holmgren BLOCK (4 BLK),,,19820.0,v,False,DEN,136
+357,488,1610612760,66,78,Wallace REBOUND (Off:2 Def:2),Rebound,Unknown,19840.0,v,True,OKC,137
+358,489,1610612760,66,80,Holmgren 1' Running Dunk (21 PTS) (Gilgeous-Alexander 7 AST),Made Shot,Running Dunk Shot,19890.0,v,False,OKC,137
+359,492,0,66,80,Michael Malone Foul:T.FOUL (D.Scott),Foul,Technical,19900.0,,True,DEN,138
+360,493,0,66,80,NUGGETS Timeout: Regular (Full 4 Short 0),Timeout,Regular,19900.0,h,False,DEN,138
+361,496,1610612760,66,81,Gilgeous-Alexander Free Throw Technical (22 PTS),Free Throw,Free Throw Technical,19900.0,v,False,DEN,138
+362,497,1610612743,66,81,Jokić Bad Pass Turnover (P1.T12),Turnover,Bad Pass,20040.0,h,True,OKC,139
+363,497,1610612760,66,81,Wallace STEAL (1 STL),,,20040.0,v,True,DEN,140
+364,499,1610612760,66,81,MISS Holmgren 11' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,20190.0,v,False,DEN,140
+365,500,1610612743,66,81,Gordon REBOUND (Off:4 Def:4),Rebound,Unknown,20220.0,h,True,OKC,141
+366,501,1610612743,66,81,MISS Strawther 25' 3PT Jump Shot,Missed Shot,Jump Shot,20330.0,h,False,OKC,141
+367,501,1610612760,66,81,Gilgeous-Alexander BLOCK (2 BLK),,,20330.0,v,False,OKC,141
+368,503,0,66,81,NUGGETS Rebound,Rebound,Unknown,20340.0,h,False,OKC,141
+369,504,1610612760,66,81,Dieng L.B.FOUL (P1.T2) (K.Scott),Foul,Loose Ball,20340.0,v,False,OKC,141
+370,506,1610612743,66,81,SUB: Šarić FOR Jokić,Substitution,,20340.0,h,False,OKC,141
+371,507,1610612760,66,81,SUB: Wiggins FOR Holmgren,Substitution,,20340.0,v,False,OKC,141
+372,510,1610612760,66,81,Wallace S.FOUL (P1.T3) (J.Orr),Foul,Shooting,20400.0,v,False,OKC,141
+373,512,1610612743,66,81,MISS Westbrook Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,20400.0,h,False,OKC,141
+374,513,0,66,81,NUGGETS Rebound,Rebound,Normal Rebound,20400.0,h,False,OKC,141
+375,514,1610612743,66,81,SUB: Murray FOR Gordon,Substitution,,20400.0,h,False,OKC,141
+376,516,1610612743,66,81,MISS Westbrook Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,20400.0,h,False,OKC,141
+377,517,1610612760,66,81,Caruso REBOUND (Off:1 Def:4),Rebound,Unknown,20450.0,v,True,DEN,142
+378,518,1610612760,66,81,MISS Gilgeous-Alexander 17' Step Back Jump Shot,Missed Shot,Step Back Jump shot,20570.0,v,False,DEN,142
+379,519,1610612760,66,81,Caruso REBOUND (Off:2 Def:4),Rebound,Unknown,20600.0,v,False,DEN,142
+380,520,1610612760,66,83,Gilgeous-Alexander 2' Driving Layup (24 PTS),Made Shot,Driving Layup Shot,20650.0,v,False,DEN,142
+381,524,1610612743,66,83,MISS Watson 3PT Jump Shot,Missed Shot,Jump Shot,20810.0,h,True,OKC,143
+382,525,1610612760,66,83,Gilgeous-Alexander REBOUND (Off:1 Def:5),Rebound,Unknown,20850.0,v,True,DEN,144
+383,526,1610612760,66,83,MISS Dieng 2' Running Layup,Missed Shot,Running Layup Shot,20880.0,v,False,DEN,144
+384,526,1610612743,66,83,Watson BLOCK (2 BLK),,,20880.0,h,False,DEN,144
+385,528,0,66,83,Thunder Rebound,Rebound,Unknown,20880.0,v,False,DEN,144
+386,530,1610612760,66,85,Wallace 1' Cutting Layup Shot (4 PTS) (Caruso 3 AST),Made Shot,Cutting Layup Shot,20900.0,v,False,DEN,144
+387,533,1610612743,68,85,Strawther 8' Driving Floating Jump Shot (4 PTS) (Murray 3 AST),Made Shot,Driving Floating Jump Shot,21070.0,h,True,OKC,145
+388,535,1610612760,68,85,MISS Gilgeous-Alexander 25' 3PT Jump Shot,Missed Shot,Jump Shot,21302.0,v,True,DEN,146
+389,536,1610612760,68,85,Gilgeous-Alexander REBOUND (Off:2 Def:5),Rebound,Unknown,21333.0,v,False,DEN,146
+390,537,1610612760,68,85,MISS Gilgeous-Alexander 12' Jump Shot,Missed Shot,Jump Shot,21351.0,v,False,DEN,146
+391,538,1610612743,68,85,Watson REBOUND (Off:2 Def:4),Rebound,Unknown,21373.0,h,True,OKC,147
+392,539,1610612743,68,85,MISS Westbrook 26' 3PT Jump Shot,Missed Shot,Jump Shot,21499.0,h,False,OKC,147
+393,540,1610612760,68,85,Wiggins REBOUND (Off:0 Def:2),Rebound,Unknown,21537.0,v,True,DEN,148
+394,541,1610612760,68,85,Gilgeous-Alexander Lost Ball Turnover (P2.T8),Turnover,Lost Ball,21583.0,v,False,DEN,148
+395,541,1610612743,68,85,Murray STEAL (2 STL),,,21583.0,h,True,OKC,149
+396,545,0,68,85,End of 3rd Period (11:54 PM EST),period,end,21600.0,,False,OKC,149
+397,550,0,68,85,Start of 4th Period (11:58 PM EST),period,start,21600.0,,True,OKC,150
+398,551,1610612760,68,85,MISS Williams 5' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,21730.0,v,False,OKC,150
+399,552,1610612743,68,85,Westbrook REBOUND (Off:0 Def:3),Rebound,Unknown,21760.0,h,True,DEN,151
+400,553,1610612743,71,85,Murray 3PT Jump Shot (12 PTS) (Westbrook 3 AST),Made Shot,Jump Shot,21810.0,h,False,DEN,151
+401,555,1610612743,71,85,Strawther P.FOUL (P2.T1) (J.Orr),Foul,Personal,21990.0,h,True,OKC,152
+402,557,1610612760,71,85,MISS Wiggins 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,22130.0,v,False,OKC,152
+403,558,1610612743,71,85,Westbrook REBOUND (Off:0 Def:4),Rebound,Unknown,22140.0,h,True,DEN,153
+404,559,1610612743,73,85,Strawther 10' Driving Floating Bank Jump Shot (6 PTS) (Westbrook 4 AST),Made Shot,Driving Floating Bank Jump Shot,22190.0,h,False,DEN,153
+405,561,1610612760,73,85,MISS Williams 12' Pullup Jump Shot,Missed Shot,Pullup Jump shot,22350.0,v,True,OKC,154
+406,562,0,73,85,Thunder Rebound,Rebound,Unknown,22370.0,v,False,OKC,154
+407,564,1610612760,73,85,SUB: Dort FOR Wallace,Substitution,,22370.0,v,False,OKC,154
+408,566,1610612760,73,85,Caruso Bad Pass Turnover (P1.T9),Turnover,Bad Pass,22390.0,v,False,OKC,154
+409,566,1610612743,73,85,Westbrook STEAL (1 STL),,,22390.0,h,True,DEN,155
+410,568,1610612743,73,85,MISS Westbrook 2' Running Layup,Missed Shot,Running Layup Shot,22440.0,h,False,DEN,155
+411,568,1610612760,73,85,Williams BLOCK (1 BLK),,,22440.0,v,False,DEN,155
+412,570,1610612760,73,85,Wiggins REBOUND (Off:0 Def:3),Rebound,Unknown,22470.0,v,True,OKC,156
+413,571,1610612760,73,87,Wiggins 1' Driving Finger Roll Layup (13 PTS),Made Shot,Driving Finger Roll Layup Shot,22500.0,v,False,OKC,156
+414,572,1610612743,73,87,MISS Watson 1' Layup,Missed Shot,Layup Shot,22640.0,h,True,DEN,157
+415,572,1610612760,73,87,Dieng BLOCK (1 BLK),,,22640.0,v,False,DEN,157
+416,574,1610612760,73,87,Wiggins REBOUND (Off:0 Def:4),Rebound,Unknown,22660.0,v,True,OKC,158
+417,575,1610612760,73,89,Williams 1' Driving Dunk (9 PTS) (Wiggins 1 AST),Made Shot,Driving Dunk Shot,22800.0,v,False,OKC,158
+418,577,1610612743,73,89,MISS Watson 25' 3PT Jump Shot,Missed Shot,Jump Shot,23000.0,h,True,DEN,159
+419,578,1610612760,73,89,Wiggins REBOUND (Off:0 Def:5),Rebound,Unknown,23030.0,v,True,OKC,160
+420,579,1610612760,73,89,Williams Lost Ball Turnover (P3.T10),Turnover,Lost Ball,23160.0,v,False,OKC,160
+421,579,1610612743,73,89,Šarić STEAL (1 STL),,,23160.0,h,True,DEN,161
+422,581,1610612760,73,89,Caruso P.FOUL (P2.T1) (K.Scott),Foul,Personal,23240.0,v,False,DEN,161
+423,583,1610612743,73,89,SUB: Jokić FOR Šarić,Substitution,,23240.0,h,False,DEN,161
+424,584,1610612760,73,89,SUB: Holmgren FOR Dieng,Substitution,,23240.0,v,False,DEN,161
+425,600,1610612743,73,89,SUB: Porter Jr. FOR Watson,Substitution,,23240.0,h,False,DEN,161
+426,587,1610612743,73,89,MISS Westbrook 3' Driving Layup,Missed Shot,Driving Layup Shot,23320.0,h,False,DEN,161
+427,587,1610612760,73,89,Williams BLOCK (2 BLK),,,23320.0,v,False,DEN,161
+428,589,1610612743,73,89,Westbrook REBOUND (Off:1 Def:4),Rebound,Unknown,23330.0,h,False,DEN,161
+429,590,1610612743,75,89,Jokić 2' Hook Shot (16 PTS) (Westbrook 5 AST),Made Shot,Hook Shot,23350.0,h,False,DEN,161
+430,592,1610612760,75,92,Williams 26' 3PT Jump Shot (12 PTS) (Caruso 4 AST),Made Shot,Jump Shot,23540.0,v,True,OKC,162
+431,594,1610612743,75,92,Strawther Lost Ball Turnover (P1.T13),Turnover,Lost Ball,23740.0,h,True,DEN,163
+432,594,1610612760,75,92,Dort STEAL (2 STL),,,23740.0,v,True,OKC,164
+433,596,1610612760,75,92,MISS Dort 24' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,23780.0,v,False,OKC,164
+434,597,1610612743,75,92,Murray REBOUND (Off:2 Def:3),Rebound,Unknown,23840.0,h,True,DEN,165
+435,598,1610612743,75,92,MISS Porter Jr. 27' 3PT Jump Shot,Missed Shot,Jump Shot,23860.0,h,False,DEN,165
+436,599,1610612760,75,92,Holmgren REBOUND (Off:3 Def:7),Rebound,Unknown,23910.0,v,True,OKC,166
+437,602,1610612760,75,92,Williams Bad Pass Turnover (P4.T11),Turnover,Bad Pass,24060.0,v,False,OKC,166
+438,602,1610612743,75,92,Jokić STEAL (2 STL),,,24060.0,h,True,DEN,167
+439,604,1610612743,75,92,MISS Porter Jr. 2' Running Layup,Missed Shot,Running Layup Shot,24080.0,h,False,DEN,167
+440,604,1610612760,75,92,Wiggins BLOCK (2 BLK),,,24080.0,v,False,DEN,167
+441,606,0,75,92,NUGGETS Rebound,Rebound,Unknown,24080.0,h,False,DEN,167
+442,608,1610612743,75,92,SUB: Gordon FOR Strawther,Substitution,,24080.0,h,False,DEN,167
+443,609,1610612743,75,92,SUB: Braun FOR Murray,Substitution,,24080.0,h,False,DEN,167
+444,610,1610612760,75,92,SUB: Gilgeous-Alexander FOR Williams,Substitution,,24080.0,v,False,DEN,167
+445,611,1610612760,75,92,SUB: Wallace FOR Caruso,Substitution,,24080.0,v,False,DEN,167
+446,616,1610612743,75,92,MISS Jokić 4' Driving Finger Roll Layup,Missed Shot,Driving Finger Roll Layup Shot,24160.0,h,False,DEN,167
+447,617,1610612743,75,92,Jokić REBOUND (Off:4 Def:6),Rebound,Unknown,24190.0,h,False,DEN,167
+448,618,1610612743,75,92,Jokić Lost Ball Turnover (P2.T14),Turnover,Lost Ball,24210.0,h,False,DEN,167
+449,618,1610612760,75,92,Wallace STEAL (2 STL),,,24210.0,v,True,OKC,168
+450,620,1610612760,75,94,Gilgeous-Alexander 1' Running Layup (26 PTS),Made Shot,Running Layup Shot,24270.0,v,False,OKC,168
+451,621,1610612743,78,94,Westbrook 3PT Jump Shot (6 PTS) (Porter Jr. 2 AST),Made Shot,Jump Shot,24420.0,h,True,DEN,169
+452,623,1610612760,78,94,MISS Wiggins 24' 3PT Jump Shot,Missed Shot,Jump Shot,24630.0,v,True,OKC,170
+453,624,1610612743,78,94,Porter Jr. REBOUND (Off:1 Def:5),Rebound,Unknown,24670.0,h,True,DEN,171
+454,625,1610612743,78,94,MISS Braun 5' Driving Layup,Missed Shot,Driving Layup Shot,24820.0,h,False,DEN,171
+455,626,1610612760,78,94,Holmgren REBOUND (Off:3 Def:8),Rebound,Unknown,24830.0,v,True,OKC,172
+456,627,1610612760,78,96,Wiggins 2' Running Layup (15 PTS),Made Shot,Running Layup Shot,24870.0,v,False,OKC,172
+457,629,1610612743,78,96,MISS Jokić 2' Turnaround Hook Shot,Missed Shot,Turnaround Hook Shot,25040.0,h,True,DEN,173
+458,630,1610612743,78,96,Gordon REBOUND (Off:5 Def:4),Rebound,Unknown,25070.0,h,False,DEN,173
+459,631,1610612743,78,96,MISS Westbrook 24' 3PT Jump Shot,Missed Shot,Jump Shot,25090.0,h,False,DEN,173
+460,632,1610612760,78,96,Wiggins REBOUND (Off:0 Def:6),Rebound,Unknown,25120.0,v,True,OKC,174
+461,633,1610612760,78,96,MISS Holmgren 25' 3PT Jump Shot,Missed Shot,Jump Shot,25260.0,v,False,OKC,174
+462,634,1610612743,78,96,Porter Jr. REBOUND (Off:1 Def:6),Rebound,Unknown,25300.0,h,True,DEN,175
+463,635,1610612760,78,96,Holmgren P.FOUL (P2.T2) (K.Scott),Foul,Personal,25320.0,v,False,DEN,175
+464,637,0,78,96,NUGGETS Timeout: Regular (Full 5 Short 0),Timeout,Regular,25320.0,h,False,DEN,175
+465,638,1610612743,78,96,SUB: Murray FOR Westbrook,Substitution,,25320.0,h,False,DEN,175
+466,639,1610612760,78,96,SUB: Williams FOR Wallace,Substitution,,25320.0,v,False,DEN,175
+467,642,1610612743,78,96,MISS Jokić 26' 3PT Jump Shot,Missed Shot,Jump Shot,25400.0,h,False,DEN,175
+468,643,1610612760,78,96,Williams REBOUND (Off:1 Def:2),Rebound,Unknown,25420.0,v,True,OKC,176
+469,644,1610612760,78,96,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,25560.0,v,False,OKC,176
+470,645,1610612760,78,96,Dort REBOUND (Off:1 Def:1),Rebound,Unknown,25610.0,v,False,OKC,176
+471,646,1610612760,78,96,MISS Williams 24' 3PT Jump Shot,Missed Shot,Jump Shot,25630.0,v,False,OKC,176
+472,647,1610612743,78,96,Porter Jr. REBOUND (Off:1 Def:7),Rebound,Unknown,25670.0,h,True,DEN,177
+473,648,1610612743,80,96,Gordon 1' Cutting Dunk Shot (10 PTS) (Jokić 11 AST),Made Shot,Cutting Dunk Shot,25750.0,h,False,DEN,177
+474,650,1610612760,80,96,MISS Gilgeous-Alexander 9' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,25910.0,v,True,OKC,178
+475,651,1610612743,80,96,Jokić REBOUND (Off:4 Def:7),Rebound,Unknown,25940.0,h,True,DEN,179
+476,652,1610612743,80,96,Gordon Bad Pass Turnover (P2.T15),Turnover,Bad Pass,26000.0,h,False,DEN,179
+477,652,1610612760,80,96,Gilgeous-Alexander STEAL (2 STL),,,26000.0,v,True,OKC,180
+478,654,1610612760,80,98,Gilgeous-Alexander 1' Running Reverse Layup (28 PTS),Made Shot,Running Reverse Layup Shot,26030.0,v,False,OKC,180
+479,657,0,80,98,Thunder Timeout: Regular (Reg.5 Short 0),Timeout,Regular,26160.0,v,True,DEN,181
+480,658,0,80,98,Instant Replay4th Period (12:11 AM EST),Instant Replay,Coach Challenge Overturn Ruling,26160.0,,False,DEN,181
+481,681,1610612743,80,98,MISS Gordon 3' Layup,Missed Shot,Layup Shot,26160.0,h,False,DEN,181
+482,681,1610612760,80,98,Gilgeous-Alexander BLOCK (3 BLK),,,26160.0,v,False,DEN,181
+483,683,0,80,98,NUGGETS Rebound,Rebound,Unknown,26160.0,h,False,DEN,181
+484,659,1610612760,80,98,SUB: Wallace FOR Wiggins,Substitution,,26160.0,v,False,DEN,181
+485,661,1610612743,80,98,MISS Gordon 14' Turnaround Fadeaway Shot,Missed Shot,Turnaround Fadeaway shot,26240.0,h,False,DEN,181
+486,662,1610612760,80,98,Holmgren REBOUND (Off:3 Def:9),Rebound,Unknown,26270.0,v,True,OKC,182
+487,663,1610612760,80,100,Holmgren 11' Jump Shot (23 PTS) (Gilgeous-Alexander 8 AST),Made Shot,Jump Shot,26420.0,v,False,OKC,182
+488,665,1610612743,82,100,Braun 2' Driving Reverse Layup (16 PTS) (Jokić 12 AST),Made Shot,Driving Reverse Layup Shot,26530.0,h,True,DEN,183
+489,667,1610612760,82,100,MISS Gilgeous-Alexander 24' 3PT Jump Shot,Missed Shot,Jump Shot,26740.0,v,True,OKC,184
+490,668,1610612743,82,100,Jokić REBOUND (Off:4 Def:8),Rebound,Unknown,26750.0,h,True,DEN,185
+491,669,1610612743,85,100,Porter Jr. 26' 3PT Step Back Jump Shot (15 PTS) (Murray 4 AST),Made Shot,Step Back Jump shot,26850.0,h,False,DEN,185
+492,671,1610612760,85,100,MISS Williams 26' 3PT Step Back Jump Shot,Missed Shot,Step Back Jump shot,27080.0,v,True,OKC,186
+493,672,1610612743,85,100,Murray REBOUND (Off:2 Def:4),Rebound,Unknown,27140.0,h,True,DEN,187
+494,673,1610612743,87,100,Gordon 1' Running Alley Oop Dunk Shot (12 PTS) (Jokić 13 AST),Made Shot,Running Alley Oop Dunk Shot,27170.0,h,False,DEN,187
+495,675,1610612760,87,100,Williams Bad Pass Turnover (P5.T12),Turnover,Bad Pass,27390.0,v,True,OKC,188
+496,675,1610612743,87,100,Porter Jr. STEAL (1 STL),,,27390.0,h,True,DEN,189
+497,677,1610612743,87,100,MISS Porter Jr. 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,27430.0,h,False,DEN,189
+498,678,1610612760,87,100,Holmgren REBOUND (Off:3 Def:10),Rebound,Unknown,27470.0,v,True,OKC,190
+499,679,1610612743,87,100,Jokić P.FOUL (P3.T2) (D.Scott),Foul,Personal,27470.0,h,False,OKC,190
+500,684,1610612760,87,100,MISS Dort 19' Pullup Jump Shot,Missed Shot,Pullup Jump shot,27640.0,v,False,OKC,190
+501,685,1610612760,87,100,Holmgren REBOUND (Off:4 Def:10),Rebound,Unknown,27660.0,v,False,OKC,190
+502,686,1610612760,87,102,Holmgren 1' Putback Layup (25 PTS),Made Shot,Putback Layup Shot,27660.0,v,False,OKC,190
+503,687,1610612743,87,102,Jokić Bad Pass Turnover (P3.T16),Turnover,Bad Pass,27820.0,h,True,DEN,191
+504,687,1610612760,87,102,Dort STEAL (3 STL),,,27820.0,v,True,OKC,192
+505,689,0,87,102,Thunder Timeout: Regular (Reg.6 Short 0),Timeout,Regular,27820.0,v,False,OKC,192
+506,690,1610612743,87,102,SUB: Čančar FOR Braun,Substitution,,27820.0,h,False,OKC,192
+507,691,1610612743,87,102,SUB: Nnaji FOR Porter Jr.,Substitution,,27820.0,h,False,OKC,192
+508,692,1610612743,87,102,SUB: Tyson FOR Jokić,Substitution,,27820.0,h,False,OKC,192
+509,693,1610612743,87,102,SUB: Pickett FOR Murray,Substitution,,27820.0,h,False,OKC,192
+510,694,1610612743,87,102,SUB: Alexander FOR Gordon,Substitution,,27820.0,h,False,OKC,192
+511,695,1610612760,87,102,SUB: Joe FOR Wallace,Substitution,,27820.0,v,False,OKC,192
+512,702,1610612760,87,102,MISS Joe 26' 3PT Jump Shot,Missed Shot,Jump Shot,28010.0,v,False,OKC,192
+513,703,1610612743,87,102,Čančar REBOUND (Off:0 Def:1),Rebound,Unknown,28050.0,h,True,DEN,193
+514,706,1610612760,87,102,Dort P.FOUL (P3.T3) (D.Scott),Foul,Personal,28090.0,v,False,DEN,193
+515,708,1610612760,87,102,SUB: Mitchell FOR Gilgeous-Alexander,Substitution,,28090.0,v,False,DEN,193
+516,709,1610612760,87,102,SUB: Jones FOR Dort,Substitution,,28090.0,v,False,DEN,193
+517,710,1610612760,87,102,SUB: Dieng FOR Holmgren,Substitution,,28090.0,v,False,DEN,193
+518,711,1610612760,87,102,SUB: Flagler FOR Williams,Substitution,,28090.0,v,False,DEN,193
+519,716,0,87,102,Thunder Violation: Delay of game Violation,Violation,Delay Of Game,28090.0,v,False,DEN,193
+520,717,1610612760,87,102,SUB: Ducas FOR Joe,Substitution,,28090.0,v,False,DEN,193
+521,719,1610612743,87,102,MISS Nnaji 3PT Jump Shot,Missed Shot,Jump Shot,28160.0,h,False,DEN,193
+522,720,1610612760,87,102,Dieng REBOUND (Off:0 Def:2),Rebound,Unknown,28180.0,v,True,OKC,194
+523,721,1610612760,87,102,MISS Mitchell 3' Driving Floating Bank Jump Shot,Missed Shot,Driving Floating Bank Jump Shot,28276.0,v,False,OKC,194
+524,722,1610612743,87,102,Tyson REBOUND (Off:0 Def:1),Rebound,Unknown,28300.0,h,True,DEN,195
+525,723,1610612743,87,102,MISS Tyson 3PT Jump Shot,Missed Shot,Jump Shot,28440.0,h,False,DEN,195
+526,724,1610612760,87,102,Jones REBOUND (Off:0 Def:1),Rebound,Unknown,28474.0,v,True,OKC,196
+527,725,1610612760,87,102,MISS Jones 25' 3PT Jump Shot,Missed Shot,Jump Shot,28569.0,v,False,OKC,196
+528,726,1610612743,87,102,Alexander REBOUND (Off:0 Def:1),Rebound,Unknown,28611.0,h,True,DEN,197
+529,727,1610612743,87,102,MISS Pickett 25' 3PT Jump Shot,Missed Shot,Jump Shot,28708.0,h,False,DEN,197
+530,728,1610612760,87,102,Dieng REBOUND (Off:0 Def:3),Rebound,Unknown,28738.0,v,True,OKC,198
+531,729,0,87,102,End of 4th Period (12:22 AM EST),period,end,28800.0,,False,OKC,198

@@ -1,6 +1,7 @@
 from nba_api.stats.endpoints import GameRotation
 import pandas as pd
 
+
 def get_lineups(game_id: str) -> pd.DataFrame:
     """
     Extracts all player lineups for a specific NBA game and their starting and ending times.
@@ -52,9 +53,12 @@ def get_lineups(game_id: str) -> pd.DataFrame:
             player_list.extend([player_id, player_name])
 
         new_row = [t, next_time] + player_list
-        lineup = pd.concat(
-            [lineup, pd.DataFrame([new_row], columns=lineup.columns)], ignore_index=True
-        )
+        df_row = pd.DataFrame([new_row], columns=lineup.columns)
+
+        if lineup.empty:
+            lineup = df_row
+        else:
+            lineup = pd.concat([lineup, df_row], ignore_index=True)
 
         if t == times[-2]:
             break

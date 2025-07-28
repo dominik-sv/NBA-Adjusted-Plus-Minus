@@ -207,307 +207,307 @@
 205,288,1610612741,52,57,Dosunmu S.FOUL (P2.PN) (G.Petraitis),Foul,Shooting,13200.0,v,True,NOP,92
 206,290,1610612740,53,57,Theis Free Throw 1 of 2 (3 PTS),Free Throw,Free Throw 1 of 2,13200.0,h,False,NOP,92
 207,291,1610612740,54,57,Theis Free Throw 2 of 2 (4 PTS),Free Throw,Free Throw 2 of 2,13200.0,h,False,NOP,92
-208,292,1610612741,54,57,Vučević Offensive Charge Foul (P2) (G.Petraitis),Foul,Offensive Charge,13280.0,v,False,NOP,92
-209,294,1610612741,54,57,Vučević Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,13280.0,v,False,NOP,92
-210,295,1610612740,54,57,MISS Ingram 20' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13470.0,h,True,CHI,93
-211,296,1610612740,54,57,Ingram REBOUND (Off:1 Def:2),Rebound,Unknown,13480.0,h,False,CHI,93
-212,297,1610612740,54,57,MISS Ingram 6' Jump Shot,Missed Shot,Jump Shot,13510.0,h,False,CHI,93
-213,298,1610612740,54,57,Ingram REBOUND (Off:2 Def:2),Rebound,Unknown,13550.0,h,False,CHI,93
-214,299,1610612740,56,57,Ingram Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,13550.0,h,False,CHI,93
-215,300,1610612741,56,57,MISS White 28' 3PT Jump Shot,Missed Shot,Jump Shot,13610.0,v,True,NOP,94
-216,301,1610612740,56,57,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,13640.0,h,True,CHI,95
-217,302,1610612740,56,57,MISS Murray 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,13680.0,h,False,CHI,95
-218,303,1610612741,56,57,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,13720.0,v,True,NOP,96
-219,304,1610612740,56,57,Ingram S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,13824.0,h,False,NOP,96
-220,306,1610612741,56,57,MISS Giddey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,13824.0,v,False,NOP,96
-221,307,0,56,57,Bulls Rebound,Rebound,Normal Rebound,13824.0,v,False,NOP,96
-222,309,1610612741,56,58,Giddey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,13824.0,v,False,NOP,96
-223,310,1610612740,59,58,McCollum 25' 3PT Jump Shot (13 PTS) (Murray 4 AST),Made Shot,Jump Shot,14016.0,h,True,CHI,97
-224,312,1610612741,59,58,MISS LaVine 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14078.0,v,True,NOP,98
-225,313,0,59,58,PELICANS Rebound,Rebound,Unknown,14085.0,h,True,CHI,99
-226,315,1610612740,59,58,Theis OFF.Foul (P1) (G.Petraitis),Foul,Offensive,14281.0,h,False,CHI,99
-227,317,1610612740,59,58,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,14281.0,h,False,CHI,99
-228,318,1610612740,59,58,SUB: Green FOR McCollum,Substitution,,14281.0,h,True,NOP,100
-229,320,1610612741,59,58,LaVine Bad Pass Turnover (P4.T9),Turnover,Bad Pass,14385.0,v,False,NOP,100
-230,320,1610612740,59,58,Green STEAL (2 STL),,,14385.0,h,True,CHI,101
-231,322,1610612740,59,58,MISS Jones 46' 3PT Jump Shot,Missed Shot,Jump Shot,14398.0,h,False,CHI,101
-232,323,0,59,58,PELICANS Rebound,Rebound,Unknown,14399.0,h,False,CHI,101
-233,324,0,59,58,End of 2nd Period (9:08 PM EST),period,end,14400.0,,False,CHI,101
-234,329,0,59,58,Start of 3rd Period (9:23 PM EST),period,start,14400.0,,True,CHI,102
-235,330,1610612741,59,60,Vučević 1' Cutting Dunk Shot (10 PTS) (Giddey 3 AST),Made Shot,Cutting Dunk Shot,14500.0,v,False,CHI,102
-236,332,1610612740,59,60,Jones S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,14500.0,h,False,CHI,102
-237,334,0,59,60,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,14500.0,h,False,CHI,102
-238,336,1610612740,59,60,SUB: Green FOR Jones,Substitution,,14500.0,h,False,CHI,102
-239,338,1610612741,59,61,Vučević Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,14500.0,v,False,CHI,102
-240,339,1610612740,61,61,Ingram 2' Layup (15 PTS) (Green 1 AST),Made Shot,Layup Shot,14690.0,h,True,NOP,103
-241,341,1610612741,61,61,MISS Vučević 11' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,14870.0,v,True,CHI,104
-242,342,1610612740,61,61,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,14910.0,h,True,NOP,105
-243,343,1610612740,63,61,Theis 1' Cutting Dunk Shot (6 PTS) (McCollum 4 AST),Made Shot,Cutting Dunk Shot,14990.0,h,False,NOP,105
-244,345,1610612741,63,63,White 2' Driving Layup (4 PTS) (Vučević 1 AST),Made Shot,Driving Layup Shot,15150.0,v,True,CHI,106
-245,346,1610612740,63,63,MISS Murray 6' Driving Layup,Missed Shot,Driving Layup Shot,15360.0,h,True,NOP,107
-246,347,1610612741,63,63,Vučević REBOUND (Off:0 Def:3),Rebound,Unknown,15380.0,v,True,CHI,108
-247,348,1610612741,63,63,MISS Giddey 3' Driving Layup,Missed Shot,Driving Layup Shot,15410.0,v,False,CHI,108
-248,348,1610612740,63,63,Theis BLOCK (1 BLK),,,15410.0,h,False,CHI,108
-249,350,1610612740,63,63,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,15410.0,h,True,NOP,109
-250,351,1610612740,65,63,Murray 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,15480.0,h,False,NOP,109
-251,352,1610612741,65,63,MISS Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15600.0,v,True,CHI,110
-252,353,1610612740,65,63,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,15660.0,h,True,NOP,111
-253,356,1610612740,67,63,Murray 3' Running Finger Roll Layup (8 PTS) (McCollum 5 AST),Made Shot,Running Finger Roll Layup Shot,15720.0,h,False,NOP,111
-254,357,1610612741,67,65,Williams 14' Pullup Jump Shot (5 PTS) (White 3 AST),Made Shot,Pullup Jump shot,15880.0,v,True,CHI,112
-255,358,1610612740,67,65,MISS Murray 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16010.0,h,True,NOP,113
-256,359,1610612741,67,65,Giddey REBOUND (Off:1 Def:4),Rebound,Unknown,16030.0,v,True,CHI,114
-257,360,1610612740,67,65,Ingram S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,16070.0,h,False,CHI,114
-258,363,1610612741,67,66,Williams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,16070.0,v,False,CHI,114
-259,364,1610612741,67,66,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,16070.0,v,False,CHI,114
-260,365,1610612740,67,66,Green REBOUND (Off:0 Def:1),Rebound,Unknown,16100.0,h,True,NOP,115
-261,366,1610612740,69,66,Ingram Dunk (17 PTS) (Theis 2 AST),Made Shot,Dunk Shot,16270.0,h,False,NOP,115
-262,368,1610612741,69,66,LaVine Lost Ball Turnover (P5.T10),Turnover,Lost Ball,16350.0,v,True,CHI,116
-263,368,1610612740,69,66,McCollum STEAL (1 STL),,,16350.0,h,True,NOP,117
-264,370,1610612740,71,66,McCollum 2' Running Finger Roll Layup (15 PTS) (Theis 3 AST),Made Shot,Running Finger Roll Layup Shot,16400.0,h,False,NOP,117
-265,372,1610612741,71,66,White Bad Pass Turnover (P1.T11),Turnover,Bad Pass,16580.0,v,True,CHI,118
-266,372,1610612740,71,66,Theis STEAL (2 STL),,,16580.0,h,True,NOP,119
-267,374,1610612740,74,66,McCollum 3PT Running Jump Shot (18 PTS) (Murray 5 AST),Made Shot,Running Jump Shot,16620.0,h,False,NOP,119
-268,376,0,74,66,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,16630.0,v,True,CHI,120
-269,379,1610612740,74,66,SUB: Jones FOR Green,Substitution,,16630.0,h,False,CHI,120
-270,381,1610612741,74,66,White Bad Pass Turnover (P2.T12),Turnover,Bad Pass,16800.0,v,False,CHI,120
-271,381,1610612740,74,66,Jones STEAL (1 STL),,,16800.0,h,True,NOP,121
-272,384,1610612740,74,66,Theis Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,16960.0,h,False,NOP,121
-273,385,1610612741,74,66,SUB: Ball FOR White,Substitution,,16960.0,v,True,CHI,122
-274,386,1610612741,74,66,SUB: Dosunmu FOR Giddey,Substitution,,16960.0,v,False,CHI,122
-275,389,1610612741,74,66,MISS LaVine 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,17070.0,v,False,CHI,122
-276,390,1610612740,74,66,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,17110.0,h,True,NOP,123
-277,391,1610612740,76,66,Ingram 13' Running Pull-Up Jump Shot (19 PTS),Made Shot,Running Pull-Up Jump Shot,17150.0,h,False,NOP,123
-278,392,1610612741,76,66,LaVine Out of Bounds Lost Ball Turnover (P6.T13),Turnover,Out of Bounds Lost Ball Turnover,17280.0,v,True,CHI,124
-279,393,1610612741,76,66,Ball P.FOUL (P2.T1) (G.Petraitis),Foul,Personal,17360.0,v,True,NOP,125
-280,395,1610612740,76,66,MISS Ingram 14' Jump Shot,Missed Shot,Jump Shot,17480.0,h,False,NOP,125
-281,395,1610612741,76,66,Williams BLOCK (1 BLK),,,17480.0,v,False,NOP,125
-282,396,1610612741,76,66,Vučević REBOUND (Off:0 Def:4),Rebound,Unknown,17500.0,v,True,CHI,126
-283,398,1610612741,76,66,MISS Ball 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,17560.0,v,False,CHI,126
-284,399,1610612740,76,66,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,17620.0,h,True,NOP,127
-285,400,1610612740,76,66,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,17710.0,h,False,NOP,127
-286,401,1610612741,76,66,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,17740.0,v,True,CHI,128
-287,402,1610612741,76,68,Ball 2' Driving Finger Roll Layup (5 PTS) (Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,17850.0,v,False,CHI,128
-288,404,1610612740,76,68,MISS Murray 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,17950.0,h,True,NOP,129
-289,405,1610612741,76,68,Vučević REBOUND (Off:0 Def:5),Rebound,Unknown,17970.0,v,True,CHI,130
-290,406,1610612741,76,68,Williams Lost Ball Turnover (P1.T14),Turnover,Lost Ball,18000.0,v,False,CHI,130
-291,406,1610612740,76,68,Ingram STEAL (2 STL),,,18000.0,h,True,NOP,131
-292,408,1610612740,76,68,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,18080.0,h,False,NOP,131
-293,409,1610612741,76,68,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,18120.0,v,True,CHI,132
-294,410,1610612741,76,68,MISS Vučević 5' Driving Layup,Missed Shot,Driving Layup Shot,18190.0,v,False,CHI,132
-295,410,1610612740,76,68,Ingram BLOCK (1 BLK),,,18190.0,h,False,CHI,132
-296,412,1610612740,76,68,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,18210.0,h,True,NOP,133
-297,413,1610612740,76,68,MISS McCollum 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,18270.0,h,False,NOP,133
-298,414,1610612741,76,68,Vučević REBOUND (Off:0 Def:6),Rebound,Unknown,18290.0,v,True,CHI,134
-299,415,1610612741,76,70,LaVine Alley Oop Dunk (21 PTS) (Ball 4 AST),Made Shot,Alley Oop Dunk Shot,18380.0,v,False,CHI,134
-300,417,1610612740,78,70,Theis 1' Cutting Dunk Shot (8 PTS) (Murray 6 AST),Made Shot,Cutting Dunk Shot,18550.0,h,True,NOP,135
-301,419,0,78,70,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,18550.0,v,True,CHI,136
-302,420,1610612740,78,70,SUB: Hawkins FOR Murray,Substitution,,18550.0,h,False,CHI,136
-303,421,1610612740,78,70,SUB: Missi FOR Theis,Substitution,,18550.0,h,False,CHI,136
-304,422,1610612741,78,70,SUB: White FOR LaVine,Substitution,,18550.0,v,False,CHI,136
-305,423,1610612741,78,70,SUB: Phillips FOR Williams,Substitution,,18550.0,v,False,CHI,136
-306,483,1610612740,78,70,SUB: Green FOR Ingram,Substitution,,18550.0,h,False,CHI,136
-307,428,1610612741,78,70,White Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,18720.0,v,False,CHI,136
-308,429,1610612740,80,70,McCollum 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,18900.0,h,True,NOP,137
-309,430,1610612741,80,73,Vučević 26' 3PT Jump Shot (14 PTS) (Phillips 1 AST),Made Shot,Jump Shot,18980.0,v,True,CHI,138
-310,432,1610612740,80,73,Hawkins Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,19110.0,h,True,NOP,139
-311,495,1610612741,80,73,SUB: Giddey FOR Ball,Substitution,,19160.0,v,True,CHI,140
-312,433,1610612740,80,73,McCollum P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,19160.0,h,False,CHI,140
-313,437,1610612740,80,73,Missi S.FOUL (P1.T4) (N.Green),Foul,Shooting,19210.0,h,False,CHI,140
-314,439,1610612741,80,74,Vučević Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,19210.0,v,False,CHI,140
-315,440,1610612741,80,75,Vučević Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,19210.0,v,False,CHI,140
-316,441,1610612740,80,75,MISS Hawkins 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,19350.0,h,True,NOP,141
-317,442,1610612741,80,75,Vučević REBOUND (Off:0 Def:7),Rebound,Unknown,19370.0,v,True,CHI,142
-318,443,1610612741,80,77,Dosunmu 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,19430.0,v,False,CHI,142
-319,444,1610612740,83,77,McCollum 26' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,19600.0,h,True,NOP,143
-320,445,1610612741,83,77,MISS Giddey 1' Layup,Missed Shot,Layup Shot,19710.0,v,True,CHI,144
-321,445,1610612740,83,77,Missi BLOCK (2 BLK),,,19710.0,h,False,CHI,144
-322,447,1610612740,83,77,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,19740.0,h,True,NOP,145
-323,448,1610612740,83,77,Hawkins Bad Pass Turnover (P2.T7),Turnover,Bad Pass,19750.0,h,False,NOP,145
-324,448,1610612741,83,77,Phillips STEAL (1 STL),,,19750.0,v,True,CHI,146
-325,450,1610612741,83,77,MISS White 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,19790.0,v,False,CHI,146
-326,451,1610612740,83,77,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,19830.0,h,True,NOP,147
-327,452,1610612740,85,77,Missi 1' Running Alley Oop Dunk Shot (8 PTS) (Jones 1 AST),Made Shot,Running Alley Oop Dunk Shot,19880.0,h,False,NOP,147
-328,456,1610612741,85,77,Dosunmu Bad Pass Turnover (P2.T16),Turnover,Bad Pass,20070.0,v,True,CHI,148
-329,456,1610612740,85,77,Jones STEAL (2 STL),,,20070.0,h,True,NOP,149
-330,458,1610612740,87,77,Green 2' Running Layup (2 PTS) (Hawkins 1 AST),Made Shot,Running Layup Shot,20100.0,h,False,NOP,149
-331,459,1610612741,87,77,Giddey S.FOUL (P1.T2) (N.Green),Foul,Shooting,20100.0,v,False,NOP,149
-332,461,1610612740,87,77,SUB: Murray FOR McCollum,Substitution,,20100.0,h,False,NOP,149
-333,462,1610612741,87,77,SUB: Smith FOR Vučević,Substitution,,20100.0,v,False,NOP,149
-334,465,1610612740,88,77,Green Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,20100.0,h,False,NOP,149
-335,466,1610612741,88,77,MISS White 23' Jump Shot,Missed Shot,Jump Shot,20230.0,v,True,CHI,150
-336,467,1610612740,88,77,Murray REBOUND (Off:0 Def:6),Rebound,Unknown,20260.0,h,True,NOP,151
-337,468,1610612740,88,77,MISS Hawkins 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,20290.0,h,False,NOP,151
-338,469,1610612741,88,77,White REBOUND (Off:0 Def:6),Rebound,Unknown,20330.0,v,True,CHI,152
-339,470,1610612741,88,79,White 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,20370.0,v,False,CHI,152
-340,471,1610612740,90,79,Missi 1' Alley Oop Dunk (10 PTS) (Murray 7 AST),Made Shot,Alley Oop Dunk Shot,20500.0,h,True,NOP,153
-341,473,1610612741,90,79,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,20620.0,v,True,CHI,154
-342,474,1610612740,90,79,Missi REBOUND (Off:2 Def:3),Rebound,Unknown,20650.0,h,True,NOP,155
-343,475,1610612740,90,79,MISS Murray 4' Floating Jump Shot,Missed Shot,Floating Jump shot,20740.0,h,False,NOP,155
-344,476,1610612741,90,79,White REBOUND (Off:0 Def:7),Rebound,Unknown,20740.0,v,True,CHI,156
-345,477,1610612740,90,79,Hawkins S.FOUL (P1.PN) (N.Green),Foul,Shooting,20780.0,h,False,CHI,156
-346,479,1610612741,90,80,White Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,20780.0,v,False,CHI,156
-347,480,1610612741,90,80,SUB: LaVine FOR Dosunmu,Substitution,,20780.0,v,False,CHI,156
-348,482,1610612741,90,81,White Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,20780.0,v,False,CHI,156
-349,485,1610612740,90,81,MISS Murray 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,21024.0,h,True,NOP,157
-350,486,1610612740,90,81,Missi REBOUND (Off:3 Def:3),Rebound,Unknown,21033.0,h,False,NOP,157
-351,487,1610612740,90,81,MISS Missi Tip Layup Shot,Missed Shot,Tip Layup Shot,21033.0,h,False,NOP,157
-352,488,0,90,81,PELICANS Rebound,Rebound,Unknown,21033.0,h,False,NOP,157
-353,490,1610612740,92,81,Green 6' Layup (5 PTS) (Murray 8 AST),Made Shot,Layup Shot,21054.0,h,False,NOP,157
-354,492,1610612741,92,81,LaVine S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,21054.0,v,False,NOP,157
-355,494,1610612740,93,81,Green Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,21054.0,h,False,NOP,157
-356,497,1610612741,93,83,White 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,21163.0,v,True,CHI,158
-357,498,1610612740,95,83,Murray 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,21246.0,h,True,NOP,159
-358,499,1610612741,95,83,MISS White 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21408.0,v,True,CHI,160
-359,500,1610612740,95,83,Missi REBOUND (Off:3 Def:4),Rebound,Unknown,21433.0,h,True,NOP,161
-360,503,0,95,83,Instant Replay3rd Period (9:50 PM EST),Instant Replay,Support Ruling,21600.0,,False,NOP,161
-361,504,0,95,83,End of 3rd Period (9:51 PM EST),period,end,21600.0,,False,NOP,161
-362,513,0,95,83,Start of 4th Period (9:52 PM EST),period,start,21600.0,,True,NOP,162
-363,514,1610612740,95,83,Ingram Bad Pass Turnover (P1.T8),Turnover,Bad Pass,21780.0,h,False,NOP,162
-364,514,1610612741,95,83,Smith STEAL (1 STL),,,21780.0,v,True,CHI,163
-365,516,1610612741,95,83,White Bad Pass Turnover (P4.T17),Turnover,Bad Pass,21810.0,v,False,CHI,163
-366,516,1610612740,95,83,Alvarado STEAL (1 STL),,,21810.0,h,True,NOP,164
-367,518,1610612740,95,83,Ingram Lost Ball Turnover (P2.T9),Turnover,Lost Ball,21840.0,h,False,NOP,164
-368,518,1610612741,95,83,White STEAL (1 STL),,,21840.0,v,True,CHI,165
-369,520,1610612741,95,85,LaVine 1' Running Dunk (23 PTS) (Williams 3 AST),Made Shot,Running Dunk Shot,21870.0,v,False,CHI,165
-370,522,1610612740,95,85,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,21990.0,h,True,NOP,166
-371,523,1610612741,95,85,White REBOUND (Off:0 Def:8),Rebound,Unknown,22010.0,v,True,CHI,167
-372,524,1610612740,95,85,Ingram S.FOUL (P3.T1) (N.Green),Foul,Shooting,22040.0,h,False,CHI,167
-373,526,1610612741,95,86,Smith Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,22040.0,v,False,CHI,167
-374,527,1610612741,95,87,Smith Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,22040.0,v,False,CHI,167
-375,528,1610612740,95,87,MISS Hawkins 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,22180.0,h,True,NOP,168
-376,529,1610612741,95,87,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,22220.0,v,True,CHI,169
-377,530,1610612741,95,90,Smith 24' 3PT Jump Shot (13 PTS) (White 4 AST),Made Shot,Jump Shot,22310.0,v,False,CHI,169
-378,532,1610612740,98,90,Ingram 26' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,22460.0,h,True,NOP,170
-379,534,1610612741,98,90,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,22620.0,v,True,CHI,171
-380,535,1610612740,98,90,Hawkins REBOUND (Off:0 Def:5),Rebound,Unknown,22640.0,h,True,NOP,172
-381,536,1610612740,98,90,Ingram Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,22680.0,h,False,NOP,172
-382,537,1610612741,98,90,Williams Lost Ball Turnover (P2.T18),Turnover,Lost Ball,22840.0,v,True,CHI,173
-383,537,1610612740,98,90,Green STEAL (3 STL),,,22840.0,h,True,NOP,174
-384,538,1610612741,98,90,LaVine S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,22860.0,v,False,NOP,174
-385,541,1610612740,98,90,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,22860.0,h,False,NOP,174
-386,542,0,98,90,PELICANS Rebound,Rebound,Normal Rebound,22860.0,h,False,NOP,174
-387,543,1610612741,98,90,SUB: Giddey FOR White,Substitution,,22860.0,v,False,NOP,174
-388,545,1610612740,99,90,Green Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,22860.0,h,False,NOP,174
-389,547,1610612741,99,90,MISS Giddey 2' Driving Layup,Missed Shot,Driving Layup Shot,23040.0,v,True,CHI,175
-390,548,1610612741,99,90,Smith REBOUND (Off:3 Def:1),Rebound,Unknown,23050.0,v,False,CHI,175
-391,549,1610612741,99,92,Smith Putback Dunk (15 PTS),Made Shot,Putback Dunk Shot,23050.0,v,False,CHI,175
-392,550,1610612740,99,92,Missi Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,23190.0,h,True,NOP,176
-393,551,1610612741,99,92,MISS Smith 2' Driving Layup,Missed Shot,Driving Layup Shot,23330.0,v,True,CHI,177
-394,552,1610612740,99,92,Ingram REBOUND (Off:2 Def:3),Rebound,Unknown,23380.0,h,True,NOP,178
-395,553,1610612740,102,92,Hawkins 26' 3PT Running Jump Shot (11 PTS) (Ingram 2 AST),Made Shot,Running Jump Shot,23390.0,h,False,NOP,178
-396,556,1610612741,102,92,Giddey Out of Bounds - Bad Pass Turnover Turnover (P3.T19),Turnover,Out of Bounds - Bad Pass Turnover,23580.0,v,True,CHI,179
-397,557,1610612741,102,92,Smith S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,23790.0,v,True,NOP,180
-398,559,1610612740,103,92,Ingram Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,23790.0,h,False,NOP,180
-399,560,1610612741,103,92,SUB: Vučević FOR Smith,Substitution,,23790.0,v,False,NOP,180
-400,562,1610612740,104,92,Ingram Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,23790.0,h,False,NOP,180
-401,563,1610612741,104,92,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,23950.0,v,True,CHI,181
-402,564,0,104,92,PELICANS Rebound,Rebound,Unknown,23970.0,h,True,NOP,182
-403,566,1610612740,107,92,Ingram 26' 3PT Jump Shot (27 PTS),Made Shot,Jump Shot,24110.0,h,False,NOP,182
-404,567,1610612741,107,94,Giddey 4' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,24270.0,v,True,CHI,183
-405,568,1610612740,107,94,Alvarado S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,24270.0,h,False,CHI,183
-406,570,1610612741,107,94,SUB: White FOR Dosunmu,Substitution,,24270.0,v,False,CHI,183
-407,572,1610612741,107,94,MISS Giddey Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,24270.0,v,False,CHI,183
-408,573,1610612740,107,94,Ingram REBOUND (Off:2 Def:4),Rebound,Unknown,24290.0,h,True,NOP,184
-409,574,1610612740,107,94,MISS Ingram 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,24490.0,h,False,NOP,184
-410,575,1610612741,107,94,Vučević REBOUND (Off:0 Def:8),Rebound,Unknown,24530.0,v,True,CHI,185
-411,576,1610612741,107,94,LaVine Bad Pass Turnover (P7.T20),Turnover,Bad Pass,24580.0,v,False,CHI,185
-412,576,1610612740,107,94,Green STEAL (4 STL),,,24580.0,h,True,NOP,186
-413,578,1610612740,109,94,Green 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,24620.0,h,False,NOP,186
-414,579,0,109,94,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,24620.0,v,True,CHI,187
-415,580,1610612741,109,94,SUB: Dosunmu FOR Williams,Substitution,,24620.0,v,False,CHI,187
-416,582,1610612740,109,94,Alvarado S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,24750.0,h,False,CHI,187
-417,584,1610612741,109,95,Giddey Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,24750.0,v,False,CHI,187
-418,585,1610612741,109,95,MISS Giddey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,24750.0,v,False,CHI,187
-419,586,1610612740,109,95,Green REBOUND (Off:0 Def:2),Rebound,Unknown,24770.0,h,True,NOP,188
-420,587,1610612741,109,95,Vučević S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,24930.0,v,False,NOP,188
-421,589,1610612740,110,95,Hawkins Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,24930.0,h,False,NOP,188
-422,590,1610612740,111,95,Hawkins Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,24930.0,h,False,NOP,188
-423,591,1610612741,111,95,MISS LaVine 3PT Jump Shot,Missed Shot,Jump Shot,25090.0,v,True,CHI,189
-424,592,1610612741,111,95,LaVine REBOUND (Off:1 Def:4),Rebound,Unknown,25120.0,v,False,CHI,189
-425,593,1610612741,111,95,MISS LaVine 4' Driving Layup,Missed Shot,Driving Layup Shot,25150.0,v,False,CHI,189
-426,593,1610612740,111,95,Missi BLOCK (3 BLK),,,25150.0,h,False,CHI,189
-427,595,1610612740,111,95,Hawkins REBOUND (Off:0 Def:6),Rebound,Unknown,25150.0,h,True,NOP,190
-428,596,1610612740,111,95,MISS Hawkins 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,25200.0,h,False,NOP,190
-429,597,1610612741,111,95,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,25250.0,v,True,CHI,191
-430,598,1610612740,111,95,Missi S.FOUL (P2.T4) (N.Green),Foul,Shooting,25250.0,h,False,CHI,191
-431,600,1610612741,111,96,LaVine Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,25250.0,v,False,CHI,191
-432,601,1610612740,111,96,SUB: McCollum FOR Ingram,Substitution,,25250.0,h,False,CHI,191
-433,602,1610612740,111,96,SUB: Murray FOR Alvarado,Substitution,,25250.0,h,False,CHI,191
-434,603,1610612740,111,96,SUB: Jones FOR Hawkins,Substitution,,25250.0,h,False,CHI,191
-435,607,1610612741,111,97,LaVine Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,25250.0,v,False,CHI,191
-436,608,1610612740,113,97,Murray 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,25470.0,h,True,NOP,192
-437,609,1610612741,113,99,Dosunmu 2' Driving Finger Roll Layup (8 PTS) (White 5 AST),Made Shot,Driving Finger Roll Layup Shot,25700.0,v,True,CHI,193
-438,610,1610612740,115,99,Missi 1' Cutting Layup Shot (12 PTS) (Murray 9 AST),Made Shot,Cutting Layup Shot,25850.0,h,True,NOP,194
-439,612,1610612741,115,101,Giddey 2' Driving Floating Bank Jump Shot (14 PTS) (White 6 AST),Made Shot,Driving Floating Bank Jump Shot,26000.0,v,True,CHI,195
-440,614,1610612740,115,101,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,26140.0,h,True,NOP,196
-441,615,1610612741,115,101,Vučević REBOUND (Off:0 Def:9),Rebound,Unknown,26160.0,v,True,CHI,197
-442,620,1610612741,115,103,LaVine 1' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,26200.0,v,False,CHI,197
-443,621,1610612740,115,103,Jones S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,26200.0,h,False,CHI,197
-444,618,1610612740,115,103,SUB: Theis FOR Missi,Substitution,,26200.0,h,False,CHI,197
-445,623,1610612741,115,103,MISS LaVine Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,26200.0,v,False,CHI,197
-446,624,1610612740,115,103,Green REBOUND (Off:0 Def:3),Rebound,Unknown,26200.0,h,True,NOP,198
-447,651,1610612740,115,103,MISS Theis 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26320.0,h,False,NOP,198
-448,652,1610612741,115,103,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,26320.0,v,True,CHI,199
-449,633,1610612741,115,105,Vučević 2' Hook Shot (18 PTS) (LaVine 3 AST),Made Shot,Hook Shot,26430.0,v,False,CHI,199
-450,714,0,115,105,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,26430.0,h,True,NOP,200
-451,625,1610612740,115,105,SUB: Ingram FOR Green,Substitution,,26430.0,h,False,NOP,200
-452,627,1610612740,117,105,Ingram 2' Dunk (29 PTS) (Jones 2 AST),Made Shot,Dunk Shot,26620.0,h,False,NOP,200
-453,629,1610612741,117,107,Vučević 3' Hook Shot (20 PTS) (Dosunmu 3 AST),Made Shot,Hook Shot,26780.0,v,True,CHI,201
-454,632,1610612740,117,107,MISS McCollum 7' Layup,Missed Shot,Layup Shot,26970.0,h,True,NOP,202
-455,632,1610612741,117,107,White BLOCK (1 BLK),,,26970.0,v,False,NOP,202
-456,636,0,117,107,PELICANS Rebound,Rebound,Unknown,26970.0,h,False,NOP,202
-457,638,1610612740,119,107,Ingram 8' Layup (31 PTS) (Murray 10 AST),Made Shot,Layup Shot,27010.0,h,False,NOP,202
-458,640,1610612741,119,107,MISS White 3' Driving Dunk,Missed Shot,Driving Dunk Shot,27190.0,v,True,CHI,203
-459,640,1610612740,119,107,Theis BLOCK (2 BLK),,,27190.0,h,False,CHI,203
-460,642,1610612741,119,107,Vučević REBOUND (Off:1 Def:9),Rebound,Unknown,27230.0,v,False,CHI,203
-461,643,1610612741,119,107,MISS Vučević 4' Putback Layup,Missed Shot,Putback Layup Shot,27240.0,v,False,CHI,203
-462,643,1610612740,119,107,Theis BLOCK (3 BLK),,,27240.0,h,False,CHI,203
-463,645,1610612740,119,107,Murray REBOUND (Off:0 Def:7),Rebound,Unknown,27350.0,h,True,NOP,204
-464,646,1610612741,119,107,LaVine S.FOUL (P4.T4) (G.Petraitis),Foul,Shooting,27390.0,v,False,NOP,204
-465,648,1610612740,119,107,MISS Murray Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,27390.0,h,False,NOP,204
-466,650,0,119,107,PELICANS Rebound,Rebound,Normal Rebound,27390.0,h,False,NOP,204
-467,653,1610612740,120,107,Murray Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,27390.0,h,False,NOP,204
-468,654,1610612740,121,107,Murray Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,27390.0,h,False,NOP,204
-469,655,1610612741,121,107,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,27510.0,v,True,CHI,205
-470,655,1610612740,121,107,McCollum BLOCK (1 BLK),,,27510.0,h,False,CHI,205
-471,657,1610612741,121,107,Vučević REBOUND (Off:2 Def:9),Rebound,Unknown,27520.0,v,False,CHI,205
-472,658,1610612740,121,107,Theis P.FOUL (P2.PN) (N.Green),Foul,Personal,27520.0,h,False,CHI,205
-473,660,1610612741,121,108,Vučević Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,27520.0,v,False,CHI,205
-474,661,1610612741,121,108,MISS Vučević Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,27520.0,v,False,CHI,205
-475,662,1610612740,121,108,Murray REBOUND (Off:0 Def:8),Rebound,Unknown,27550.0,h,True,NOP,206
-476,663,1610612740,123,108,Ingram 13' Turnaround Fadeaway (33 PTS),Made Shot,Turnaround Fadeaway shot,27720.0,h,False,NOP,206
-477,664,0,123,108,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,27740.0,v,True,CHI,207
-478,665,1610612741,123,108,SUB: Terry FOR White,Substitution,,27740.0,v,False,CHI,207
-479,666,1610612741,123,108,SUB: Horton-Tucker FOR Giddey,Substitution,,27740.0,v,False,CHI,207
-480,667,1610612741,123,108,SUB: Smith FOR LaVine,Substitution,,27740.0,v,False,CHI,207
-481,668,1610612741,123,108,SUB: Buzelis FOR Vučević,Substitution,,27740.0,v,False,CHI,207
-482,669,1610612741,123,108,SUB: Duarte FOR Dosunmu,Substitution,,27740.0,v,False,CHI,207
-483,675,1610612741,123,108,MISS Buzelis 25' 3PT Jump Shot,Missed Shot,Jump Shot,27890.0,v,False,CHI,207
-484,676,1610612740,123,108,Ingram REBOUND (Off:2 Def:5),Rebound,Unknown,27940.0,h,True,NOP,208
-485,677,1610612740,123,108,MISS Murray 13' Jump Shot,Missed Shot,Jump Shot,28160.0,h,False,NOP,208
-486,678,1610612741,123,108,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,28200.0,v,True,CHI,209
-487,679,1610612740,123,108,Ingram P.FOUL (P4.PN) (G.Petraitis),Foul,Personal,28200.0,h,False,CHI,209
-488,681,1610612741,123,108,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,28200.0,v,False,CHI,209
-489,682,0,123,108,Bulls Rebound,Rebound,Normal Rebound,28200.0,v,False,CHI,209
-490,683,1610612740,123,108,SUB: Alvarado FOR Jones,Substitution,,28200.0,h,False,CHI,209
-491,684,1610612740,123,108,SUB: Reeves FOR McCollum,Substitution,,28200.0,h,False,CHI,209
-492,685,1610612740,123,108,SUB: Hawkins FOR Murray,Substitution,,28200.0,h,False,CHI,209
-493,686,1610612740,123,108,SUB: Robinson-Earl FOR Theis,Substitution,,28200.0,h,False,CHI,209
-494,687,1610612740,123,108,SUB: Matković FOR Ingram,Substitution,,28200.0,h,False,CHI,209
-495,693,1610612741,123,108,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,28200.0,v,False,CHI,209
-496,694,1610612740,123,108,Hawkins REBOUND (Off:0 Def:7),Rebound,Unknown,28224.0,h,True,NOP,210
-497,695,1610612740,123,108,MISS Reeves 4' Driving Layup,Missed Shot,Driving Layup Shot,28304.0,h,False,NOP,210
-498,696,1610612741,123,108,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,28341.0,v,True,CHI,211
-499,697,1610612741,123,108,Horton-Tucker Bad Pass Turnover (P1.T21),Turnover,Bad Pass,28348.0,v,False,CHI,211
-500,697,1610612740,123,108,Robinson-Earl STEAL (1 STL),,,28348.0,h,True,NOP,212
-501,699,1610612740,123,108,MISS Reeves 26' 3PT Jump Shot,Missed Shot,Jump Shot,28428.0,h,False,NOP,212
-502,700,1610612741,123,108,Smith REBOUND (Off:3 Def:2),Rebound,Unknown,28441.0,v,True,CHI,213
-503,701,1610612741,123,108,MISS Horton-Tucker 3' Running Layup,Missed Shot,Running Layup Shot,28441.0,v,False,CHI,213
-504,701,1610612740,123,108,Matković BLOCK (1 BLK),,,28441.0,h,False,CHI,213
-505,703,0,123,108,Bulls Rebound,Rebound,Unknown,28451.0,v,False,CHI,213
-506,705,1610612741,123,111,Duarte 25' 3PT Jump Shot (3 PTS) (Horton-Tucker 1 AST),Made Shot,Jump Shot,28521.0,v,False,CHI,213
-507,706,1610612740,123,111,MISS Reeves 3PT Jump Shot,Missed Shot,Jump Shot,28658.0,h,True,NOP,214
-508,707,1610612740,123,111,Matković REBOUND (Off:1 Def:0),Rebound,Unknown,28692.0,h,False,NOP,214
-509,708,1610612740,123,111,Reeves Lost Ball Turnover (P1.T12),Turnover,Lost Ball,28769.0,h,False,NOP,214
-510,708,1610612741,123,111,Terry STEAL (1 STL),,,28769.0,v,True,CHI,215
-511,711,0,123,111,End of 4th Period (10:28 PM EST),period,end,28800.0,,False,CHI,215
+208,292,1610612741,54,57,Vučević Offensive Charge Foul (P2) (G.Petraitis),Foul,Offensive Charge,13280.0,v,True,CHI,93
+209,294,1610612741,54,57,Vučević Offensive Foul Turnover (P1.T8),Turnover,Offensive Foul Turnover,13280.0,v,False,CHI,93
+210,295,1610612740,54,57,MISS Ingram 20' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,13470.0,h,True,NOP,94
+211,296,1610612740,54,57,Ingram REBOUND (Off:1 Def:2),Rebound,Unknown,13480.0,h,False,NOP,94
+212,297,1610612740,54,57,MISS Ingram 6' Jump Shot,Missed Shot,Jump Shot,13510.0,h,False,NOP,94
+213,298,1610612740,54,57,Ingram REBOUND (Off:2 Def:2),Rebound,Unknown,13550.0,h,False,NOP,94
+214,299,1610612740,56,57,Ingram Tip Layup Shot (13 PTS),Made Shot,Tip Layup Shot,13550.0,h,False,NOP,94
+215,300,1610612741,56,57,MISS White 28' 3PT Jump Shot,Missed Shot,Jump Shot,13610.0,v,True,CHI,95
+216,301,1610612740,56,57,Murray REBOUND (Off:0 Def:4),Rebound,Unknown,13640.0,h,True,NOP,96
+217,302,1610612740,56,57,MISS Murray 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,13680.0,h,False,NOP,96
+218,303,1610612741,56,57,LaVine REBOUND (Off:0 Def:4),Rebound,Unknown,13720.0,v,True,CHI,97
+219,304,1610612740,56,57,Ingram S.FOUL (P1.T3) (G.Petraitis),Foul,Shooting,13824.0,h,False,CHI,97
+220,306,1610612741,56,57,MISS Giddey Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,13824.0,v,False,CHI,97
+221,307,0,56,57,Bulls Rebound,Rebound,Normal Rebound,13824.0,v,False,CHI,97
+222,309,1610612741,56,58,Giddey Free Throw 2 of 2 (9 PTS),Free Throw,Free Throw 2 of 2,13824.0,v,False,CHI,97
+223,310,1610612740,59,58,McCollum 25' 3PT Jump Shot (13 PTS) (Murray 4 AST),Made Shot,Jump Shot,14016.0,h,True,NOP,98
+224,312,1610612741,59,58,MISS LaVine 28' 3PT Pullup Jump Shot,Missed Shot,Pullup Jump shot,14078.0,v,True,CHI,99
+225,313,0,59,58,PELICANS Rebound,Rebound,Unknown,14085.0,h,True,NOP,100
+226,315,1610612740,59,58,Theis OFF.Foul (P1) (G.Petraitis),Foul,Offensive,14281.0,h,False,NOP,100
+227,317,1610612740,59,58,Theis Offensive Foul Turnover (P1.T4),Turnover,Offensive Foul Turnover,14281.0,h,False,NOP,100
+228,318,1610612740,59,58,SUB: Green FOR McCollum,Substitution,,14281.0,h,True,CHI,101
+229,320,1610612741,59,58,LaVine Bad Pass Turnover (P4.T9),Turnover,Bad Pass,14385.0,v,False,CHI,101
+230,320,1610612740,59,58,Green STEAL (2 STL),,,14385.0,h,True,NOP,102
+231,322,1610612740,59,58,MISS Jones 46' 3PT Jump Shot,Missed Shot,Jump Shot,14398.0,h,False,NOP,102
+232,323,0,59,58,PELICANS Rebound,Rebound,Unknown,14399.0,h,False,NOP,102
+233,324,0,59,58,End of 2nd Period (9:08 PM EST),period,end,14400.0,,False,NOP,102
+234,329,0,59,58,Start of 3rd Period (9:23 PM EST),period,start,14400.0,,True,CHI,103
+235,330,1610612741,59,60,Vučević 1' Cutting Dunk Shot (10 PTS) (Giddey 3 AST),Made Shot,Cutting Dunk Shot,14500.0,v,False,CHI,103
+236,332,1610612740,59,60,Jones S.FOUL (P2.T1) (G.Petraitis),Foul,Shooting,14500.0,h,False,CHI,103
+237,334,0,59,60,PELICANS Timeout: Regular (Full 4 Short 0),Timeout,Regular,14500.0,h,False,CHI,103
+238,336,1610612740,59,60,SUB: Green FOR Jones,Substitution,,14500.0,h,False,CHI,103
+239,338,1610612741,59,61,Vučević Free Throw 1 of 1 (11 PTS),Free Throw,Free Throw 1 of 1,14500.0,v,False,CHI,103
+240,339,1610612740,61,61,Ingram 2' Layup (15 PTS) (Green 1 AST),Made Shot,Layup Shot,14690.0,h,True,NOP,104
+241,341,1610612741,61,61,MISS Vučević 11' Turnaround Fadeaway Bank Jump Shot,Missed Shot,Turnaround Fadeaway Bank Jump Shot,14870.0,v,True,CHI,105
+242,342,1610612740,61,61,Theis REBOUND (Off:0 Def:1),Rebound,Unknown,14910.0,h,True,NOP,106
+243,343,1610612740,63,61,Theis 1' Cutting Dunk Shot (6 PTS) (McCollum 4 AST),Made Shot,Cutting Dunk Shot,14990.0,h,False,NOP,106
+244,345,1610612741,63,63,White 2' Driving Layup (4 PTS) (Vučević 1 AST),Made Shot,Driving Layup Shot,15150.0,v,True,CHI,107
+245,346,1610612740,63,63,MISS Murray 6' Driving Layup,Missed Shot,Driving Layup Shot,15360.0,h,True,NOP,108
+246,347,1610612741,63,63,Vučević REBOUND (Off:0 Def:3),Rebound,Unknown,15380.0,v,True,CHI,109
+247,348,1610612741,63,63,MISS Giddey 3' Driving Layup,Missed Shot,Driving Layup Shot,15410.0,v,False,CHI,109
+248,348,1610612740,63,63,Theis BLOCK (1 BLK),,,15410.0,h,False,CHI,109
+249,350,1610612740,63,63,Murray REBOUND (Off:0 Def:5),Rebound,Unknown,15410.0,h,True,NOP,110
+250,351,1610612740,65,63,Murray 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,15480.0,h,False,NOP,110
+251,352,1610612741,65,63,MISS Williams 16' Pullup Jump Shot,Missed Shot,Pullup Jump shot,15600.0,v,True,CHI,111
+252,353,1610612740,65,63,McCollum REBOUND (Off:0 Def:1),Rebound,Unknown,15660.0,h,True,NOP,112
+253,356,1610612740,67,63,Murray 3' Running Finger Roll Layup (8 PTS) (McCollum 5 AST),Made Shot,Running Finger Roll Layup Shot,15720.0,h,False,NOP,112
+254,357,1610612741,67,65,Williams 14' Pullup Jump Shot (5 PTS) (White 3 AST),Made Shot,Pullup Jump shot,15880.0,v,True,CHI,113
+255,358,1610612740,67,65,MISS Murray 9' Pullup Jump Shot,Missed Shot,Pullup Jump shot,16010.0,h,True,NOP,114
+256,359,1610612741,67,65,Giddey REBOUND (Off:1 Def:4),Rebound,Unknown,16030.0,v,True,CHI,115
+257,360,1610612740,67,65,Ingram S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,16070.0,h,False,CHI,115
+258,363,1610612741,67,66,Williams Free Throw 1 of 2 (6 PTS),Free Throw,Free Throw 1 of 2,16070.0,v,False,CHI,115
+259,364,1610612741,67,66,MISS Williams Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,16070.0,v,False,CHI,115
+260,365,1610612740,67,66,Green REBOUND (Off:0 Def:1),Rebound,Unknown,16100.0,h,True,NOP,116
+261,366,1610612740,69,66,Ingram Dunk (17 PTS) (Theis 2 AST),Made Shot,Dunk Shot,16270.0,h,False,NOP,116
+262,368,1610612741,69,66,LaVine Lost Ball Turnover (P5.T10),Turnover,Lost Ball,16350.0,v,True,CHI,117
+263,368,1610612740,69,66,McCollum STEAL (1 STL),,,16350.0,h,True,NOP,118
+264,370,1610612740,71,66,McCollum 2' Running Finger Roll Layup (15 PTS) (Theis 3 AST),Made Shot,Running Finger Roll Layup Shot,16400.0,h,False,NOP,118
+265,372,1610612741,71,66,White Bad Pass Turnover (P1.T11),Turnover,Bad Pass,16580.0,v,True,CHI,119
+266,372,1610612740,71,66,Theis STEAL (2 STL),,,16580.0,h,True,NOP,120
+267,374,1610612740,74,66,McCollum 3PT Running Jump Shot (18 PTS) (Murray 5 AST),Made Shot,Running Jump Shot,16620.0,h,False,NOP,120
+268,376,0,74,66,Bulls Timeout: Regular (Reg.3 Short 0),Timeout,Regular,16630.0,v,True,CHI,121
+269,379,1610612740,74,66,SUB: Jones FOR Green,Substitution,,16630.0,h,False,CHI,121
+270,381,1610612741,74,66,White Bad Pass Turnover (P2.T12),Turnover,Bad Pass,16800.0,v,False,CHI,121
+271,381,1610612740,74,66,Jones STEAL (1 STL),,,16800.0,h,True,NOP,122
+272,384,1610612740,74,66,Theis Out of Bounds - Bad Pass Turnover Turnover (P2.T5),Turnover,Out of Bounds - Bad Pass Turnover,16960.0,h,False,NOP,122
+273,385,1610612741,74,66,SUB: Ball FOR White,Substitution,,16960.0,v,True,CHI,123
+274,386,1610612741,74,66,SUB: Dosunmu FOR Giddey,Substitution,,16960.0,v,False,CHI,123
+275,389,1610612741,74,66,MISS LaVine 22' Step Back Jump Shot,Missed Shot,Step Back Jump shot,17070.0,v,False,CHI,123
+276,390,1610612740,74,66,McCollum REBOUND (Off:0 Def:2),Rebound,Unknown,17110.0,h,True,NOP,124
+277,391,1610612740,76,66,Ingram 13' Running Pull-Up Jump Shot (19 PTS),Made Shot,Running Pull-Up Jump Shot,17150.0,h,False,NOP,124
+278,392,1610612741,76,66,LaVine Out of Bounds Lost Ball Turnover (P6.T13),Turnover,Out of Bounds Lost Ball Turnover,17280.0,v,True,CHI,125
+279,393,1610612741,76,66,Ball P.FOUL (P2.T1) (G.Petraitis),Foul,Personal,17360.0,v,True,NOP,126
+280,395,1610612740,76,66,MISS Ingram 14' Jump Shot,Missed Shot,Jump Shot,17480.0,h,False,NOP,126
+281,395,1610612741,76,66,Williams BLOCK (1 BLK),,,17480.0,v,False,NOP,126
+282,396,1610612741,76,66,Vučević REBOUND (Off:0 Def:4),Rebound,Unknown,17500.0,v,True,CHI,127
+283,398,1610612741,76,66,MISS Ball 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,17560.0,v,False,CHI,127
+284,399,1610612740,76,66,Theis REBOUND (Off:0 Def:2),Rebound,Unknown,17620.0,h,True,NOP,128
+285,400,1610612740,76,66,MISS McCollum 27' 3PT Jump Shot,Missed Shot,Jump Shot,17710.0,h,False,NOP,128
+286,401,1610612741,76,66,Williams REBOUND (Off:2 Def:1),Rebound,Unknown,17740.0,v,True,CHI,129
+287,402,1610612741,76,68,Ball 2' Driving Finger Roll Layup (5 PTS) (Williams 2 AST),Made Shot,Driving Finger Roll Layup Shot,17850.0,v,False,CHI,129
+288,404,1610612740,76,68,MISS Murray 2' Driving Reverse Layup,Missed Shot,Driving Reverse Layup Shot,17950.0,h,True,NOP,130
+289,405,1610612741,76,68,Vučević REBOUND (Off:0 Def:5),Rebound,Unknown,17970.0,v,True,CHI,131
+290,406,1610612741,76,68,Williams Lost Ball Turnover (P1.T14),Turnover,Lost Ball,18000.0,v,False,CHI,131
+291,406,1610612740,76,68,Ingram STEAL (2 STL),,,18000.0,h,True,NOP,132
+292,408,1610612740,76,68,MISS Theis 3PT Jump Shot,Missed Shot,Jump Shot,18080.0,h,False,NOP,132
+293,409,1610612741,76,68,Ball REBOUND (Off:0 Def:2),Rebound,Unknown,18120.0,v,True,CHI,133
+294,410,1610612741,76,68,MISS Vučević 5' Driving Layup,Missed Shot,Driving Layup Shot,18190.0,v,False,CHI,133
+295,410,1610612740,76,68,Ingram BLOCK (1 BLK),,,18190.0,h,False,CHI,133
+296,412,1610612740,76,68,Jones REBOUND (Off:1 Def:2),Rebound,Unknown,18210.0,h,True,NOP,134
+297,413,1610612740,76,68,MISS McCollum 26' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,18270.0,h,False,NOP,134
+298,414,1610612741,76,68,Vučević REBOUND (Off:0 Def:6),Rebound,Unknown,18290.0,v,True,CHI,135
+299,415,1610612741,76,70,LaVine Alley Oop Dunk (21 PTS) (Ball 4 AST),Made Shot,Alley Oop Dunk Shot,18380.0,v,False,CHI,135
+300,417,1610612740,78,70,Theis 1' Cutting Dunk Shot (8 PTS) (Murray 6 AST),Made Shot,Cutting Dunk Shot,18550.0,h,True,NOP,136
+301,419,0,78,70,Bulls Timeout: Regular (Reg.4 Short 0),Timeout,Regular,18550.0,v,True,CHI,137
+302,420,1610612740,78,70,SUB: Hawkins FOR Murray,Substitution,,18550.0,h,False,CHI,137
+303,421,1610612740,78,70,SUB: Missi FOR Theis,Substitution,,18550.0,h,False,CHI,137
+304,422,1610612741,78,70,SUB: White FOR LaVine,Substitution,,18550.0,v,False,CHI,137
+305,423,1610612741,78,70,SUB: Phillips FOR Williams,Substitution,,18550.0,v,False,CHI,137
+306,483,1610612740,78,70,SUB: Green FOR Ingram,Substitution,,18550.0,h,False,CHI,137
+307,428,1610612741,78,70,White Out of Bounds - Bad Pass Turnover Turnover (P3.T15),Turnover,Out of Bounds - Bad Pass Turnover,18720.0,v,False,CHI,137
+308,429,1610612740,80,70,McCollum 2' Driving Layup (20 PTS),Made Shot,Driving Layup Shot,18900.0,h,True,NOP,138
+309,430,1610612741,80,73,Vučević 26' 3PT Jump Shot (14 PTS) (Phillips 1 AST),Made Shot,Jump Shot,18980.0,v,True,CHI,139
+310,432,1610612740,80,73,Hawkins Step Out of Bounds Turnover (P1.T6),Turnover,Step Out of Bounds Turnover,19110.0,h,True,NOP,140
+311,495,1610612741,80,73,SUB: Giddey FOR Ball,Substitution,,19160.0,v,True,CHI,141
+312,433,1610612740,80,73,McCollum P.FOUL (P1.T3) (G.Petraitis),Foul,Personal,19160.0,h,False,CHI,141
+313,437,1610612740,80,73,Missi S.FOUL (P1.T4) (N.Green),Foul,Shooting,19210.0,h,False,CHI,141
+314,439,1610612741,80,74,Vučević Free Throw 1 of 2 (15 PTS),Free Throw,Free Throw 1 of 2,19210.0,v,False,CHI,141
+315,440,1610612741,80,75,Vučević Free Throw 2 of 2 (16 PTS),Free Throw,Free Throw 2 of 2,19210.0,v,False,CHI,141
+316,441,1610612740,80,75,MISS Hawkins 14' Pullup Jump Shot,Missed Shot,Pullup Jump shot,19350.0,h,True,NOP,142
+317,442,1610612741,80,75,Vučević REBOUND (Off:0 Def:7),Rebound,Unknown,19370.0,v,True,CHI,143
+318,443,1610612741,80,77,Dosunmu 3' Running Layup (6 PTS),Made Shot,Running Layup Shot,19430.0,v,False,CHI,143
+319,444,1610612740,83,77,McCollum 26' 3PT Step Back Jump Shot (23 PTS),Made Shot,Step Back Jump shot,19600.0,h,True,NOP,144
+320,445,1610612741,83,77,MISS Giddey 1' Layup,Missed Shot,Layup Shot,19710.0,v,True,CHI,145
+321,445,1610612740,83,77,Missi BLOCK (2 BLK),,,19710.0,h,False,CHI,145
+322,447,1610612740,83,77,Hawkins REBOUND (Off:0 Def:4),Rebound,Unknown,19740.0,h,True,NOP,146
+323,448,1610612740,83,77,Hawkins Bad Pass Turnover (P2.T7),Turnover,Bad Pass,19750.0,h,False,NOP,146
+324,448,1610612741,83,77,Phillips STEAL (1 STL),,,19750.0,v,True,CHI,147
+325,450,1610612741,83,77,MISS White 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,19790.0,v,False,CHI,147
+326,451,1610612740,83,77,Jones REBOUND (Off:1 Def:3),Rebound,Unknown,19830.0,h,True,NOP,148
+327,452,1610612740,85,77,Missi 1' Running Alley Oop Dunk Shot (8 PTS) (Jones 1 AST),Made Shot,Running Alley Oop Dunk Shot,19880.0,h,False,NOP,148
+328,456,1610612741,85,77,Dosunmu Bad Pass Turnover (P2.T16),Turnover,Bad Pass,20070.0,v,True,CHI,149
+329,456,1610612740,85,77,Jones STEAL (2 STL),,,20070.0,h,True,NOP,150
+330,458,1610612740,87,77,Green 2' Running Layup (2 PTS) (Hawkins 1 AST),Made Shot,Running Layup Shot,20100.0,h,False,NOP,150
+331,459,1610612741,87,77,Giddey S.FOUL (P1.T2) (N.Green),Foul,Shooting,20100.0,v,False,NOP,150
+332,461,1610612740,87,77,SUB: Murray FOR McCollum,Substitution,,20100.0,h,False,NOP,150
+333,462,1610612741,87,77,SUB: Smith FOR Vučević,Substitution,,20100.0,v,False,NOP,150
+334,465,1610612740,88,77,Green Free Throw 1 of 1 (3 PTS),Free Throw,Free Throw 1 of 1,20100.0,h,False,NOP,150
+335,466,1610612741,88,77,MISS White 23' Jump Shot,Missed Shot,Jump Shot,20230.0,v,True,CHI,151
+336,467,1610612740,88,77,Murray REBOUND (Off:0 Def:6),Rebound,Unknown,20260.0,h,True,NOP,152
+337,468,1610612740,88,77,MISS Hawkins 27' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,20290.0,h,False,NOP,152
+338,469,1610612741,88,77,White REBOUND (Off:0 Def:6),Rebound,Unknown,20330.0,v,True,CHI,153
+339,470,1610612741,88,79,White 2' Running Layup (6 PTS),Made Shot,Running Layup Shot,20370.0,v,False,CHI,153
+340,471,1610612740,90,79,Missi 1' Alley Oop Dunk (10 PTS) (Murray 7 AST),Made Shot,Alley Oop Dunk Shot,20500.0,h,True,NOP,154
+341,473,1610612741,90,79,MISS Smith 25' 3PT Jump Shot,Missed Shot,Jump Shot,20620.0,v,True,CHI,155
+342,474,1610612740,90,79,Missi REBOUND (Off:2 Def:3),Rebound,Unknown,20650.0,h,True,NOP,156
+343,475,1610612740,90,79,MISS Murray 4' Floating Jump Shot,Missed Shot,Floating Jump shot,20740.0,h,False,NOP,156
+344,476,1610612741,90,79,White REBOUND (Off:0 Def:7),Rebound,Unknown,20740.0,v,True,CHI,157
+345,477,1610612740,90,79,Hawkins S.FOUL (P1.PN) (N.Green),Foul,Shooting,20780.0,h,False,CHI,157
+346,479,1610612741,90,80,White Free Throw 1 of 2 (7 PTS),Free Throw,Free Throw 1 of 2,20780.0,v,False,CHI,157
+347,480,1610612741,90,80,SUB: LaVine FOR Dosunmu,Substitution,,20780.0,v,False,CHI,157
+348,482,1610612741,90,81,White Free Throw 2 of 2 (8 PTS),Free Throw,Free Throw 2 of 2,20780.0,v,False,CHI,157
+349,485,1610612740,90,81,MISS Murray 11' Fadeaway Jumper,Missed Shot,Fadeaway Jump Shot,21024.0,h,True,NOP,158
+350,486,1610612740,90,81,Missi REBOUND (Off:3 Def:3),Rebound,Unknown,21033.0,h,False,NOP,158
+351,487,1610612740,90,81,MISS Missi Tip Layup Shot,Missed Shot,Tip Layup Shot,21033.0,h,False,NOP,158
+352,488,0,90,81,PELICANS Rebound,Rebound,Unknown,21033.0,h,False,NOP,158
+353,490,1610612740,92,81,Green 6' Layup (5 PTS) (Murray 8 AST),Made Shot,Layup Shot,21054.0,h,False,NOP,158
+354,492,1610612741,92,81,LaVine S.FOUL (P2.T3) (G.Petraitis),Foul,Shooting,21054.0,v,False,NOP,158
+355,494,1610612740,93,81,Green Free Throw 1 of 1 (6 PTS),Free Throw,Free Throw 1 of 1,21054.0,h,False,NOP,158
+356,497,1610612741,93,83,White 2' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,21163.0,v,True,CHI,159
+357,498,1610612740,95,83,Murray 3' Driving Layup (10 PTS),Made Shot,Driving Layup Shot,21246.0,h,True,NOP,160
+358,499,1610612741,95,83,MISS White 8' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,21408.0,v,True,CHI,161
+359,500,1610612740,95,83,Missi REBOUND (Off:3 Def:4),Rebound,Unknown,21433.0,h,True,NOP,162
+360,503,0,95,83,Instant Replay3rd Period (9:50 PM EST),Instant Replay,Support Ruling,21600.0,,False,NOP,162
+361,504,0,95,83,End of 3rd Period (9:51 PM EST),period,end,21600.0,,False,NOP,162
+362,513,0,95,83,Start of 4th Period (9:52 PM EST),period,start,21600.0,,True,NOP,163
+363,514,1610612740,95,83,Ingram Bad Pass Turnover (P1.T8),Turnover,Bad Pass,21780.0,h,False,NOP,163
+364,514,1610612741,95,83,Smith STEAL (1 STL),,,21780.0,v,True,CHI,164
+365,516,1610612741,95,83,White Bad Pass Turnover (P4.T17),Turnover,Bad Pass,21810.0,v,False,CHI,164
+366,516,1610612740,95,83,Alvarado STEAL (1 STL),,,21810.0,h,True,NOP,165
+367,518,1610612740,95,83,Ingram Lost Ball Turnover (P2.T9),Turnover,Lost Ball,21840.0,h,False,NOP,165
+368,518,1610612741,95,83,White STEAL (1 STL),,,21840.0,v,True,CHI,166
+369,520,1610612741,95,85,LaVine 1' Running Dunk (23 PTS) (Williams 3 AST),Made Shot,Running Dunk Shot,21870.0,v,False,CHI,166
+370,522,1610612740,95,85,MISS Alvarado 25' 3PT Jump Shot,Missed Shot,Jump Shot,21990.0,h,True,NOP,167
+371,523,1610612741,95,85,White REBOUND (Off:0 Def:8),Rebound,Unknown,22010.0,v,True,CHI,168
+372,524,1610612740,95,85,Ingram S.FOUL (P3.T1) (N.Green),Foul,Shooting,22040.0,h,False,CHI,168
+373,526,1610612741,95,86,Smith Free Throw 1 of 2 (9 PTS),Free Throw,Free Throw 1 of 2,22040.0,v,False,CHI,168
+374,527,1610612741,95,87,Smith Free Throw 2 of 2 (10 PTS),Free Throw,Free Throw 2 of 2,22040.0,v,False,CHI,168
+375,528,1610612740,95,87,MISS Hawkins 10' Pullup Jump Shot,Missed Shot,Pullup Jump shot,22180.0,h,True,NOP,169
+376,529,1610612741,95,87,Dosunmu REBOUND (Off:0 Def:2),Rebound,Unknown,22220.0,v,True,CHI,170
+377,530,1610612741,95,90,Smith 24' 3PT Jump Shot (13 PTS) (White 4 AST),Made Shot,Jump Shot,22310.0,v,False,CHI,170
+378,532,1610612740,98,90,Ingram 26' 3PT Jump Shot (22 PTS),Made Shot,Jump Shot,22460.0,h,True,NOP,171
+379,534,1610612741,98,90,MISS LaVine 25' 3PT Jump Shot,Missed Shot,Jump Shot,22620.0,v,True,CHI,172
+380,535,1610612740,98,90,Hawkins REBOUND (Off:0 Def:5),Rebound,Unknown,22640.0,h,True,NOP,173
+381,536,1610612740,98,90,Ingram Out of Bounds - Bad Pass Turnover Turnover (P3.T10),Turnover,Out of Bounds - Bad Pass Turnover,22680.0,h,False,NOP,173
+382,537,1610612741,98,90,Williams Lost Ball Turnover (P2.T18),Turnover,Lost Ball,22840.0,v,True,CHI,174
+383,537,1610612740,98,90,Green STEAL (3 STL),,,22840.0,h,True,NOP,175
+384,538,1610612741,98,90,LaVine S.FOUL (P3.T1) (G.Petraitis),Foul,Shooting,22860.0,v,False,NOP,175
+385,541,1610612740,98,90,MISS Green Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,22860.0,h,False,NOP,175
+386,542,0,98,90,PELICANS Rebound,Rebound,Normal Rebound,22860.0,h,False,NOP,175
+387,543,1610612741,98,90,SUB: Giddey FOR White,Substitution,,22860.0,v,False,NOP,175
+388,545,1610612740,99,90,Green Free Throw 2 of 2 (7 PTS),Free Throw,Free Throw 2 of 2,22860.0,h,False,NOP,175
+389,547,1610612741,99,90,MISS Giddey 2' Driving Layup,Missed Shot,Driving Layup Shot,23040.0,v,True,CHI,176
+390,548,1610612741,99,90,Smith REBOUND (Off:3 Def:1),Rebound,Unknown,23050.0,v,False,CHI,176
+391,549,1610612741,99,92,Smith Putback Dunk (15 PTS),Made Shot,Putback Dunk Shot,23050.0,v,False,CHI,176
+392,550,1610612740,99,92,Missi Out of Bounds Lost Ball Turnover (P1.T11),Turnover,Out of Bounds Lost Ball Turnover,23190.0,h,True,NOP,177
+393,551,1610612741,99,92,MISS Smith 2' Driving Layup,Missed Shot,Driving Layup Shot,23330.0,v,True,CHI,178
+394,552,1610612740,99,92,Ingram REBOUND (Off:2 Def:3),Rebound,Unknown,23380.0,h,True,NOP,179
+395,553,1610612740,102,92,Hawkins 26' 3PT Running Jump Shot (11 PTS) (Ingram 2 AST),Made Shot,Running Jump Shot,23390.0,h,False,NOP,179
+396,556,1610612741,102,92,Giddey Out of Bounds - Bad Pass Turnover Turnover (P3.T19),Turnover,Out of Bounds - Bad Pass Turnover,23580.0,v,True,CHI,180
+397,557,1610612741,102,92,Smith S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,23790.0,v,True,NOP,181
+398,559,1610612740,103,92,Ingram Free Throw 1 of 2 (23 PTS),Free Throw,Free Throw 1 of 2,23790.0,h,False,NOP,181
+399,560,1610612741,103,92,SUB: Vučević FOR Smith,Substitution,,23790.0,v,False,NOP,181
+400,562,1610612740,104,92,Ingram Free Throw 2 of 2 (24 PTS),Free Throw,Free Throw 2 of 2,23790.0,h,False,NOP,181
+401,563,1610612741,104,92,MISS Williams 25' 3PT Jump Shot,Missed Shot,Jump Shot,23950.0,v,True,CHI,182
+402,564,0,104,92,PELICANS Rebound,Rebound,Unknown,23970.0,h,True,NOP,183
+403,566,1610612740,107,92,Ingram 26' 3PT Jump Shot (27 PTS),Made Shot,Jump Shot,24110.0,h,False,NOP,183
+404,567,1610612741,107,94,Giddey 4' Driving Floating Bank Jump Shot (11 PTS),Made Shot,Driving Floating Bank Jump Shot,24270.0,v,True,CHI,184
+405,568,1610612740,107,94,Alvarado S.FOUL (P2.T2) (B.Kennedy),Foul,Shooting,24270.0,h,False,CHI,184
+406,570,1610612741,107,94,SUB: White FOR Dosunmu,Substitution,,24270.0,v,False,CHI,184
+407,572,1610612741,107,94,MISS Giddey Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,24270.0,v,False,CHI,184
+408,573,1610612740,107,94,Ingram REBOUND (Off:2 Def:4),Rebound,Unknown,24290.0,h,True,NOP,185
+409,574,1610612740,107,94,MISS Ingram 21' Pullup Jump Shot,Missed Shot,Pullup Jump shot,24490.0,h,False,NOP,185
+410,575,1610612741,107,94,Vučević REBOUND (Off:0 Def:8),Rebound,Unknown,24530.0,v,True,CHI,186
+411,576,1610612741,107,94,LaVine Bad Pass Turnover (P7.T20),Turnover,Bad Pass,24580.0,v,False,CHI,186
+412,576,1610612740,107,94,Green STEAL (4 STL),,,24580.0,h,True,NOP,187
+413,578,1610612740,109,94,Green 1' Running Dunk (9 PTS),Made Shot,Running Dunk Shot,24620.0,h,False,NOP,187
+414,579,0,109,94,Bulls Timeout: Regular (Reg.5 Short 0),Timeout,Regular,24620.0,v,True,CHI,188
+415,580,1610612741,109,94,SUB: Dosunmu FOR Williams,Substitution,,24620.0,v,False,CHI,188
+416,582,1610612740,109,94,Alvarado S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,24750.0,h,False,CHI,188
+417,584,1610612741,109,95,Giddey Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,24750.0,v,False,CHI,188
+418,585,1610612741,109,95,MISS Giddey Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,24750.0,v,False,CHI,188
+419,586,1610612740,109,95,Green REBOUND (Off:0 Def:2),Rebound,Unknown,24770.0,h,True,NOP,189
+420,587,1610612741,109,95,Vučević S.FOUL (P3.T3) (G.Petraitis),Foul,Shooting,24930.0,v,False,NOP,189
+421,589,1610612740,110,95,Hawkins Free Throw 1 of 2 (12 PTS),Free Throw,Free Throw 1 of 2,24930.0,h,False,NOP,189
+422,590,1610612740,111,95,Hawkins Free Throw 2 of 2 (13 PTS),Free Throw,Free Throw 2 of 2,24930.0,h,False,NOP,189
+423,591,1610612741,111,95,MISS LaVine 3PT Jump Shot,Missed Shot,Jump Shot,25090.0,v,True,CHI,190
+424,592,1610612741,111,95,LaVine REBOUND (Off:1 Def:4),Rebound,Unknown,25120.0,v,False,CHI,190
+425,593,1610612741,111,95,MISS LaVine 4' Driving Layup,Missed Shot,Driving Layup Shot,25150.0,v,False,CHI,190
+426,593,1610612740,111,95,Missi BLOCK (3 BLK),,,25150.0,h,False,CHI,190
+427,595,1610612740,111,95,Hawkins REBOUND (Off:0 Def:6),Rebound,Unknown,25150.0,h,True,NOP,191
+428,596,1610612740,111,95,MISS Hawkins 25' 3PT Running Jump Shot,Missed Shot,Running Jump Shot,25200.0,h,False,NOP,191
+429,597,1610612741,111,95,Dosunmu REBOUND (Off:0 Def:3),Rebound,Unknown,25250.0,v,True,CHI,192
+430,598,1610612740,111,95,Missi S.FOUL (P2.T4) (N.Green),Foul,Shooting,25250.0,h,False,CHI,192
+431,600,1610612741,111,96,LaVine Free Throw 1 of 2 (24 PTS),Free Throw,Free Throw 1 of 2,25250.0,v,False,CHI,192
+432,601,1610612740,111,96,SUB: McCollum FOR Ingram,Substitution,,25250.0,h,False,CHI,192
+433,602,1610612740,111,96,SUB: Murray FOR Alvarado,Substitution,,25250.0,h,False,CHI,192
+434,603,1610612740,111,96,SUB: Jones FOR Hawkins,Substitution,,25250.0,h,False,CHI,192
+435,607,1610612741,111,97,LaVine Free Throw 2 of 2 (25 PTS),Free Throw,Free Throw 2 of 2,25250.0,v,False,CHI,192
+436,608,1610612740,113,97,Murray 18' Pullup Jump Shot (12 PTS),Made Shot,Pullup Jump shot,25470.0,h,True,NOP,193
+437,609,1610612741,113,99,Dosunmu 2' Driving Finger Roll Layup (8 PTS) (White 5 AST),Made Shot,Driving Finger Roll Layup Shot,25700.0,v,True,CHI,194
+438,610,1610612740,115,99,Missi 1' Cutting Layup Shot (12 PTS) (Murray 9 AST),Made Shot,Cutting Layup Shot,25850.0,h,True,NOP,195
+439,612,1610612741,115,101,Giddey 2' Driving Floating Bank Jump Shot (14 PTS) (White 6 AST),Made Shot,Driving Floating Bank Jump Shot,26000.0,v,True,CHI,196
+440,614,1610612740,115,101,MISS McCollum 26' 3PT Jump Shot,Missed Shot,Jump Shot,26140.0,h,True,NOP,197
+441,615,1610612741,115,101,Vučević REBOUND (Off:0 Def:9),Rebound,Unknown,26160.0,v,True,CHI,198
+442,620,1610612741,115,103,LaVine 1' Driving Layup (27 PTS),Made Shot,Driving Layup Shot,26200.0,v,False,CHI,198
+443,621,1610612740,115,103,Jones S.FOUL (P3.PN) (B.Kennedy),Foul,Shooting,26200.0,h,False,CHI,198
+444,618,1610612740,115,103,SUB: Theis FOR Missi,Substitution,,26200.0,h,False,CHI,198
+445,623,1610612741,115,103,MISS LaVine Free Throw 1 of 1,Free Throw,Free Throw 1 of 1,26200.0,v,False,CHI,198
+446,624,1610612740,115,103,Green REBOUND (Off:0 Def:3),Rebound,Unknown,26200.0,h,True,NOP,199
+447,651,1610612740,115,103,MISS Theis 4' Driving Floating Jump Shot,Missed Shot,Driving Floating Jump Shot,26320.0,h,False,NOP,199
+448,652,1610612741,115,103,Dosunmu REBOUND (Off:0 Def:4),Rebound,Unknown,26320.0,v,True,CHI,200
+449,633,1610612741,115,105,Vučević 2' Hook Shot (18 PTS) (LaVine 3 AST),Made Shot,Hook Shot,26430.0,v,False,CHI,200
+450,714,0,115,105,PELICANS Timeout: Regular (Full 5 Short 0),Timeout,Regular,26430.0,h,True,NOP,201
+451,625,1610612740,115,105,SUB: Ingram FOR Green,Substitution,,26430.0,h,False,NOP,201
+452,627,1610612740,117,105,Ingram 2' Dunk (29 PTS) (Jones 2 AST),Made Shot,Dunk Shot,26620.0,h,False,NOP,201
+453,629,1610612741,117,107,Vučević 3' Hook Shot (20 PTS) (Dosunmu 3 AST),Made Shot,Hook Shot,26780.0,v,True,CHI,202
+454,632,1610612740,117,107,MISS McCollum 7' Layup,Missed Shot,Layup Shot,26970.0,h,True,NOP,203
+455,632,1610612741,117,107,White BLOCK (1 BLK),,,26970.0,v,False,NOP,203
+456,636,0,117,107,PELICANS Rebound,Rebound,Unknown,26970.0,h,False,NOP,203
+457,638,1610612740,119,107,Ingram 8' Layup (31 PTS) (Murray 10 AST),Made Shot,Layup Shot,27010.0,h,False,NOP,203
+458,640,1610612741,119,107,MISS White 3' Driving Dunk,Missed Shot,Driving Dunk Shot,27190.0,v,True,CHI,204
+459,640,1610612740,119,107,Theis BLOCK (2 BLK),,,27190.0,h,False,CHI,204
+460,642,1610612741,119,107,Vučević REBOUND (Off:1 Def:9),Rebound,Unknown,27230.0,v,False,CHI,204
+461,643,1610612741,119,107,MISS Vučević 4' Putback Layup,Missed Shot,Putback Layup Shot,27240.0,v,False,CHI,204
+462,643,1610612740,119,107,Theis BLOCK (3 BLK),,,27240.0,h,False,CHI,204
+463,645,1610612740,119,107,Murray REBOUND (Off:0 Def:7),Rebound,Unknown,27350.0,h,True,NOP,205
+464,646,1610612741,119,107,LaVine S.FOUL (P4.T4) (G.Petraitis),Foul,Shooting,27390.0,v,False,NOP,205
+465,648,1610612740,119,107,MISS Murray Free Throw 1 of 3,Free Throw,Free Throw 1 of 3,27390.0,h,False,NOP,205
+466,650,0,119,107,PELICANS Rebound,Rebound,Normal Rebound,27390.0,h,False,NOP,205
+467,653,1610612740,120,107,Murray Free Throw 2 of 3 (13 PTS),Free Throw,Free Throw 2 of 3,27390.0,h,False,NOP,205
+468,654,1610612740,121,107,Murray Free Throw 3 of 3 (14 PTS),Free Throw,Free Throw 3 of 3,27390.0,h,False,NOP,205
+469,655,1610612741,121,107,MISS Dosunmu 25' 3PT Jump Shot,Missed Shot,Jump Shot,27510.0,v,True,CHI,206
+470,655,1610612740,121,107,McCollum BLOCK (1 BLK),,,27510.0,h,False,CHI,206
+471,657,1610612741,121,107,Vučević REBOUND (Off:2 Def:9),Rebound,Unknown,27520.0,v,False,CHI,206
+472,658,1610612740,121,107,Theis P.FOUL (P2.PN) (N.Green),Foul,Personal,27520.0,h,False,CHI,206
+473,660,1610612741,121,108,Vučević Free Throw 1 of 2 (21 PTS),Free Throw,Free Throw 1 of 2,27520.0,v,False,CHI,206
+474,661,1610612741,121,108,MISS Vučević Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,27520.0,v,False,CHI,206
+475,662,1610612740,121,108,Murray REBOUND (Off:0 Def:8),Rebound,Unknown,27550.0,h,True,NOP,207
+476,663,1610612740,123,108,Ingram 13' Turnaround Fadeaway (33 PTS),Made Shot,Turnaround Fadeaway shot,27720.0,h,False,NOP,207
+477,664,0,123,108,Bulls Timeout: Regular (Reg.6 Short 0),Timeout,Regular,27740.0,v,True,CHI,208
+478,665,1610612741,123,108,SUB: Terry FOR White,Substitution,,27740.0,v,False,CHI,208
+479,666,1610612741,123,108,SUB: Horton-Tucker FOR Giddey,Substitution,,27740.0,v,False,CHI,208
+480,667,1610612741,123,108,SUB: Smith FOR LaVine,Substitution,,27740.0,v,False,CHI,208
+481,668,1610612741,123,108,SUB: Buzelis FOR Vučević,Substitution,,27740.0,v,False,CHI,208
+482,669,1610612741,123,108,SUB: Duarte FOR Dosunmu,Substitution,,27740.0,v,False,CHI,208
+483,675,1610612741,123,108,MISS Buzelis 25' 3PT Jump Shot,Missed Shot,Jump Shot,27890.0,v,False,CHI,208
+484,676,1610612740,123,108,Ingram REBOUND (Off:2 Def:5),Rebound,Unknown,27940.0,h,True,NOP,209
+485,677,1610612740,123,108,MISS Murray 13' Jump Shot,Missed Shot,Jump Shot,28160.0,h,False,NOP,209
+486,678,1610612741,123,108,Horton-Tucker REBOUND (Off:0 Def:1),Rebound,Unknown,28200.0,v,True,CHI,210
+487,679,1610612740,123,108,Ingram P.FOUL (P4.PN) (G.Petraitis),Foul,Personal,28200.0,h,False,CHI,210
+488,681,1610612741,123,108,MISS Horton-Tucker Free Throw 1 of 2,Free Throw,Free Throw 1 of 2,28200.0,v,False,CHI,210
+489,682,0,123,108,Bulls Rebound,Rebound,Normal Rebound,28200.0,v,False,CHI,210
+490,683,1610612740,123,108,SUB: Alvarado FOR Jones,Substitution,,28200.0,h,False,CHI,210
+491,684,1610612740,123,108,SUB: Reeves FOR McCollum,Substitution,,28200.0,h,False,CHI,210
+492,685,1610612740,123,108,SUB: Hawkins FOR Murray,Substitution,,28200.0,h,False,CHI,210
+493,686,1610612740,123,108,SUB: Robinson-Earl FOR Theis,Substitution,,28200.0,h,False,CHI,210
+494,687,1610612740,123,108,SUB: Matković FOR Ingram,Substitution,,28200.0,h,False,CHI,210
+495,693,1610612741,123,108,MISS Horton-Tucker Free Throw 2 of 2,Free Throw,Free Throw 2 of 2,28200.0,v,False,CHI,210
+496,694,1610612740,123,108,Hawkins REBOUND (Off:0 Def:7),Rebound,Unknown,28224.0,h,True,NOP,211
+497,695,1610612740,123,108,MISS Reeves 4' Driving Layup,Missed Shot,Driving Layup Shot,28304.0,h,False,NOP,211
+498,696,1610612741,123,108,Horton-Tucker REBOUND (Off:0 Def:2),Rebound,Unknown,28341.0,v,True,CHI,212
+499,697,1610612741,123,108,Horton-Tucker Bad Pass Turnover (P1.T21),Turnover,Bad Pass,28348.0,v,False,CHI,212
+500,697,1610612740,123,108,Robinson-Earl STEAL (1 STL),,,28348.0,h,True,NOP,213
+501,699,1610612740,123,108,MISS Reeves 26' 3PT Jump Shot,Missed Shot,Jump Shot,28428.0,h,False,NOP,213
+502,700,1610612741,123,108,Smith REBOUND (Off:3 Def:2),Rebound,Unknown,28441.0,v,True,CHI,214
+503,701,1610612741,123,108,MISS Horton-Tucker 3' Running Layup,Missed Shot,Running Layup Shot,28441.0,v,False,CHI,214
+504,701,1610612740,123,108,Matković BLOCK (1 BLK),,,28441.0,h,False,CHI,214
+505,703,0,123,108,Bulls Rebound,Rebound,Unknown,28451.0,v,False,CHI,214
+506,705,1610612741,123,111,Duarte 25' 3PT Jump Shot (3 PTS) (Horton-Tucker 1 AST),Made Shot,Jump Shot,28521.0,v,False,CHI,214
+507,706,1610612740,123,111,MISS Reeves 3PT Jump Shot,Missed Shot,Jump Shot,28658.0,h,True,NOP,215
+508,707,1610612740,123,111,Matković REBOUND (Off:1 Def:0),Rebound,Unknown,28692.0,h,False,NOP,215
+509,708,1610612740,123,111,Reeves Lost Ball Turnover (P1.T12),Turnover,Lost Ball,28769.0,h,False,NOP,215
+510,708,1610612741,123,111,Terry STEAL (1 STL),,,28769.0,v,True,CHI,216
+511,711,0,123,111,End of 4th Period (10:28 PM EST),period,end,28800.0,,False,CHI,216
