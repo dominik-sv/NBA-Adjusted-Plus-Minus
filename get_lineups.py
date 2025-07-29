@@ -1,7 +1,6 @@
 from nba_api.stats.endpoints import GameRotation
 import pandas as pd
 
-
 def get_lineups(game_id: str) -> pd.DataFrame:
     """
     Extracts all player lineups for a specific NBA game and their starting and ending times.
@@ -24,7 +23,9 @@ def get_lineups(game_id: str) -> pd.DataFrame:
 
     rotation.sort_values("OUT_TIME_REAL")
 
-    columns = ["Start_Time", "End_Time"] + [
+    rotation = rotation[rotation["IN_TIME_REAL"] != rotation["OUT_TIME_REAL"]]
+
+    columns = ["ID", "Start_Time", "End_Time"] + [
         f"Player_{i}_{team}_{label}"
         for team in ["Home", "Away"]
         for i in range(1, 6)
@@ -39,6 +40,7 @@ def get_lineups(game_id: str) -> pd.DataFrame:
 
     # Starting lineup
     current_lineup = rotation[rotation["IN_TIME_REAL"] == times[0]]
+    rotation.to_csv('rotation.csv', index=False)
 
     # Changing lineups during game
     for t in times:
@@ -47,12 +49,24 @@ def get_lineups(game_id: str) -> pd.DataFrame:
 
         # Players in lineup
         player_list = []
+        ids_home = []
+        ids_visiting = []
         for idx, player in current_lineup.iterrows():
             player_id = player["PERSON_ID"]
             player_name = player["PLAYER_FIRST"] + " " + player["PLAYER_LAST"]
             player_list.extend([player_id, player_name])
+            if idx < 5:
+                ids_home.append(player_id)
+            else:
+                ids_visiting.append(player_id)
 
-        new_row = [t, next_time] + player_list
+        ids_home = sorted(ids_home)
+        ids_visiting = sorted(ids_visiting)
+        id_1 = ''.join(str(id) for id in ids_home)
+        id_2 = ''.join(str(id) for id in ids_visiting)
+        id = int(''.join([id_1, id_2]))
+
+        new_row = [id, t, next_time] + player_list
         df_row = pd.DataFrame([new_row], columns=lineup.columns)
 
         if lineup.empty:
@@ -71,7 +85,7 @@ def get_lineups(game_id: str) -> pd.DataFrame:
         subbing_in = rotation[rotation["IN_TIME_REAL"] == next_time]
         assert len(subbing_out_ids) == len(
             subbing_in
-        ), f"Sub out/in mismatch at t={next_time}"
+        ), f"Sub out/in mismatch at t={next_time}, game_id='{game_id}'"
 
         # Perform subs
         current_lineup = current_lineup[
@@ -86,3 +100,4 @@ def get_lineups(game_id: str) -> pd.DataFrame:
 if __name__ == "__main__":
     lineup = get_lineups()
     print(lineup)
+

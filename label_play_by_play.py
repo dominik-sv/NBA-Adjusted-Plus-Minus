@@ -165,7 +165,6 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
     """
 
 
-
     PERIOD_RE = re.compile(r"(Start|End) of (\d)(st|nd|rd|th) (Period|OT).*")
 
     team_player_dict, teams = get_team_player_dict(game_id=game_id)
@@ -178,13 +177,13 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
     loc_0 = pbp[pbp['teamTricode'] == team_tricodes[0]]['location'].unique()[0]
     loc_1 = pbp[pbp['teamTricode'] == team_tricodes[1]]['location'].unique()[0]
 
-    team_tricode_dictionary = {}
-    team_tricode_dictionary[team_tricodes[0]] = loc_0
-    team_tricode_dictionary[team_tricodes[1]] = loc_1
+    tricode_to_loc_dict = {}
+    tricode_to_loc_dict[team_tricodes[0]] = loc_0
+    tricode_to_loc_dict[team_tricodes[1]] = loc_1
 
-    team_location_dictionary = {}
-    team_location_dictionary[loc_0] = team_tricodes[0]
-    team_location_dictionary[loc_1] = team_tricodes[1]
+    loc_to_tricode_dict = {}
+    loc_to_tricode_dict[loc_0] = team_tricodes[0]
+    loc_to_tricode_dict[loc_1] = team_tricodes[1]
 
     # Add/edit columns in pbp
     pbp['time_in_period'] = (12 * 60 - (60 * pbp['clock'].str[2:4].astype(int) + pbp['clock'].str[5:10].astype(float))) * 10
@@ -260,7 +259,7 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
                     # Who got the ball (NEW based on next play)
                     next_play, next_idx = find_next_play(idx, actionNumber, plays)
                     next_play_team_poss = determine_play_possession(next_play)
-                    team = team_location_dictionary[next_play_team_poss]
+                    team = loc_to_tricode_dict[next_play_team_poss]
 
                     plays.at[idx, 'newPossession'] = True
                     plays.at[idx, 'possession'] = team
@@ -312,17 +311,10 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
 
     # Label possession count
     plays['possessionCount'] = plays['newPossession'].cumsum()
-
-    # Export
-    # directory = 'plays'
-    # path = os.path.join(directory, f'plays_{key}.csv')
-    # plays.to_csv(path)
-
-    # directory2 = 'team_player_dict'
-    # os.makedirs(directory2, exist_ok=True)
-    # path2 = os.path.join(directory2, f'dict_{key}.json')
-    # with open(path2, "w") as f:
-    #     json.dump(team_player_dict, f)
+    plays['possessionLoc'] = plays['possession'].map(tricode_to_loc_dict)
+    home_poss_mask = plays['possessionLoc'] == 'h'
+    plays['possessionH'] = plays['newPossession'].where(home_poss_mask, 0).cumsum()
+    plays['possessionV'] = plays['newPossession'].where(~home_poss_mask, 0).cumsum()
 
     return plays
 
