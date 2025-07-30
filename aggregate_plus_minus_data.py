@@ -38,47 +38,62 @@ columns = ['ID'] + [f'P{i}{loc}' for loc in ['H', 'V'] for i in range(1, 6)] + [
 df = pd.DataFrame(columns=columns)
 columns_to_keep = ['ID'] + [f'Player_{i}_{loc}_ID' for loc in ['Home', 'Away'] for i in range(1, 6)]
 
+problem = 0
 # Get data
-for game_id in tqdm(game_ids[:10]):
-    lineup = get_lineups(game_id)
-    pbp = get_labelled_play_by_play(game_id)
-    pbp = pbp.sort_values(by='time')
-    lineup = lineup.sort_values(by='End_Time')
+for game_id in tqdm(game_ids[:5]):
+    try:
+        lineup = get_lineups(game_id)
+        pbp = get_labelled_play_by_play(game_id)
+        pbp = pbp.sort_values(by='time')
+        lineup = lineup.sort_values(by='End_Time')
 
-    # Transform data
-    merged = pd.merge_asof(lineup, pbp, left_on = 'End_Time', right_on= 'time', direction = 'backward')
+        # Transform data
+        merged = pd.merge_asof(lineup, pbp, left_on = 'End_Time', right_on= 'time', direction = 'backward')
 
-    merged['scoreHome'] = calculate_diff(merged['scoreHome'])
-    merged['scoreAway'] = calculate_diff(merged['scoreAway'])
-    merged['plusMinus'] = merged['scoreHome'] - merged['scoreAway']
+        merged['scoreHome'] = calculate_diff(merged['scoreHome'])
+        merged['scoreAway'] = calculate_diff(merged['scoreAway'])
+        merged['plusMinus'] = merged['scoreHome'] - merged['scoreAway']
 
-    merged['possessionH'] = calculate_diff(merged['possessionH'])
-    merged['possessionV'] = calculate_diff(merged['possessionV'])
-    merged['possessionCount'] = calculate_diff(merged['possessionCount'])
+        merged['possessionH'] = calculate_diff(merged['possessionH'])
+        merged['possessionV'] = calculate_diff(merged['possessionV'])
+        merged['possessionCount'] = calculate_diff(merged['possessionCount'])
 
-    # Create output
-    for idx, row in merged.iterrows():
-        id = row['ID']
+        # Create output
+        for idx, row in merged.iterrows():
+            id = row['ID']
 
-        time = row['End_Time'] - row['Start_Time'] 
+            time = row['End_Time'] - row['Start_Time'] 
 
-        if len(df[df['ID'] == id]) == 0:
-            initializing_row = [row[col] for col in columns_to_keep] + [0, 0, 0, 0, 0, 0, 0]
-            init_df_row = pd.DataFrame([initializing_row], columns=df.columns)
-            if df.empty:
-                df = init_df_row
-            else:
-                df = pd.concat([df, init_df_row], ignore_index=True)
+            if len(df[df['ID'] == id]) == 0:
+                initializing_row = [row[col] for col in columns_to_keep] + [0, 0, 0, 0, 0, 0, 0]
+                init_df_row = pd.DataFrame([initializing_row], columns=df.columns)
+                if df.empty:
+                    df = init_df_row
+                else:
+                    df = pd.concat([df, init_df_row], ignore_index=True)
 
-        assert len(df[df['ID'] == id]) == 1, f"Multiple rows with same lineup ID"
-        mask = df['ID'] == id
-        df.loc[mask, 'Plus_Off'] += row['scoreHome']
-        df.loc[mask, 'Minus_Def'] += row['scoreAway']
-        df.loc[mask, 'Plus/Minus'] += row['plusMinus']
-        df.loc[mask, 'Home_Poss_Off'] += row['possessionH']
-        df.loc[mask, 'Home_Poss_Def'] += row['possessionV']
-        df.loc[mask, 'Poss_Tot'] += row['possessionCount']
-        df.loc[mask, 'Time'] += time
+            assert len(df[df['ID'] == id]) == 1, f"Multiple rows with same lineup ID"
+            mask = df['ID'] == id
+            df.loc[mask, 'Plus_Off'] += row['scoreHome']
+            df.loc[mask, 'Minus_Def'] += row['scoreAway']
+            df.loc[mask, 'Plus/Minus'] += row['plusMinus']
+            df.loc[mask, 'Home_Poss_Off'] += row['possessionH']
+            df.loc[mask, 'Home_Poss_Def'] += row['possessionV']
+            df.loc[mask, 'Poss_Tot'] += row['possessionCount']
+            df.loc[mask, 'Time'] += time
+
+    except Exception as e:
+        problem += 1
+        print(f"Error processing game ID {game_id}: {e}")
+        continue
+
+df['Off_Rating'] = df['Plus_Off'] / df['Home_Poss_Off'] * 100
+df.loc[df['Home_Poss_Off'] == 0, 'Off_Rating'] = np.nan
+df['Def_Rating'] = df['Minus_Def'] / df['Home_Poss_Def'] * 100
+df.loc[df['Home_Poss_Def'] == 0, 'Def_Rating'] = np.nan
+df['Net_Rating'] = df['Off_Rating'] - df['Def_Rating']
+
 
 # Export to CSV
 df.to_csv('lineup_plus_minus.csv', index=False)
+print(f"Problems encountered: {problem}")
