@@ -1,2 +1,0 @@
-create id player dictionary | look for function with id player dictionary
-create linear regression model
