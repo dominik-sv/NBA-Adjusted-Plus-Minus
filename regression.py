@@ -8,7 +8,7 @@ all_players = players.get_players()
 player_id_map = { p['id']: p['full_name'] for p in all_players }
 
 directory = 'data'
-df = pd.concat([pd.read_csv(os.path.join(directory, f'data_2024-25_{i}.csv')) for i in range(1, 3)], ignore_index=True)
+df = pd.concat([pd.read_csv(os.path.join(directory, f'data_2024-25_{i}.csv')) for i in range(1, 5)], ignore_index=True)
 
 all_slots = ["P1H","P2H","P3H","P4H","P5H","P1V","P2V","P3V","P4V","P5V"]
 players = pd.unique(df[all_slots].values.ravel())
@@ -24,16 +24,19 @@ for i, row in df.iterrows():
             player_id = row[slot]
             X.at[i, player_id] = -row['Poss_Tot']
 
-X = X.loc[(X != 0).any(axis=1), :] 
+mask = (X != 0).any(axis=1) & (df['h'] > 0)
 
-X_sm = sm.add_constant(X)  
-y = df.loc[X.index, 'Net_Rating']
-h = df.loc[X.index, 'h']
-weights = 1 / h
+X = X.loc[mask]
+y = df.loc[mask, 'Net_Rating']
+weights = 1 / df.loc[mask, 'h']
+
+ref_pid   = X.columns[-1]
+X_ref     = X.drop(columns=[ref_pid])
+X_sm_ref  = sm.add_constant(X_ref)
 
 # Model
-wls_model = sm.WLS(y, X_sm, weights=1/h)
-if False:
+wls_model = sm.WLS(y, X_sm_ref, weights=weights)
+if True:
     alpha     = 100
     wls_res = wls_model.fit_regularized(alpha=alpha, L1_wt=0)
 
@@ -48,6 +51,8 @@ inter_se = stderrs['const']
 # Player coefficients
 player_coefs = params.drop('const')
 player_stderrs = stderrs.drop('const')
+player_coefs[ref_pid] = -player_coefs.sum()
+player_stderrs[ref_pid] = np.nan
 
 output_df = pd.DataFrame({
     'Player_Name': [player_id_map.get(pid, pid) for pid in player_coefs.index],
@@ -57,7 +62,7 @@ output_df = pd.DataFrame({
 output_df.loc[len(output_df)] = ['Intercept', intercept, inter_se]
 output_df.sort_values(by='Coefficient', ascending=False, inplace=True)
 output_df.reset_index(drop=True, inplace=True)
-output_df = output_df[output_df['Std_Error'] < 5]
+output_df = output_df[output_df['Std_Error'] < 8]
 output_df.to_csv('player_coefficients.csv', index=False)
 
 top_players = player_coefs.sort_values(ascending=False).iloc[:25].index

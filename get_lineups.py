@@ -40,7 +40,6 @@ def get_lineups(game_id: str) -> pd.DataFrame:
 
     # Starting lineup
     current_lineup = rotation[rotation["IN_TIME_REAL"] == times[0]]
-    rotation.to_csv('rotation.csv', index=False)
 
     # Changing lineups during game
     for t in times:
