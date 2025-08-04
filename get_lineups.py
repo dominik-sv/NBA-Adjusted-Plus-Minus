@@ -1,7 +1,7 @@
 from nba_api.stats.endpoints import GameRotation
 import pandas as pd
 
-def get_lineups(game_id: str) -> pd.DataFrame:
+def get_lineups(game_id: str, test: bool = False) -> pd.DataFrame:
     """
     Extracts all player lineups for a specific NBA game and their starting and ending times.
 
@@ -20,6 +20,9 @@ def get_lineups(game_id: str) -> pd.DataFrame:
     game_rotation = GameRotation(game_id=game_id).get_data_frames()
     rotation_home, rotation_away = game_rotation[0], game_rotation[1]
     rotation = pd.concat([rotation_home, rotation_away], ignore_index=True)
+
+    if test:
+        rotation.to_csv('lineups.csv')
 
     rotation.sort_values("OUT_TIME_REAL")
 
@@ -66,6 +69,8 @@ def get_lineups(game_id: str) -> pd.DataFrame:
         id = int(''.join([id_1, id_2]))
 
         new_row = [id, t, next_time] + player_list
+        if len(new_row) != len(lineup.columns):
+            return None
         df_row = pd.DataFrame([new_row], columns=lineup.columns)
 
         if lineup.empty:
@@ -97,6 +102,6 @@ def get_lineups(game_id: str) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    lineup = get_lineups()
+    lineup = get_lineups(game_id="0022400236", test = True)
     print(lineup)
 

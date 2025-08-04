@@ -1,13 +1,14 @@
 import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+import random
 
 session = requests.Session()
 
 # Wrap session.request to inject default timeout
 _orig_request = session.request
 def _request_with_timeout(method, url, **kwargs):
-    kwargs.setdefault("timeout", 60)
+    kwargs.setdefault("timeout", (5, 60))
     return _orig_request(method, url, **kwargs)
 session.request = _request_with_timeout
 
@@ -64,6 +65,7 @@ df = pd.DataFrame(columns=columns)
 columns_to_keep = ['ID'] + [f'Player_{i}_{loc}_ID' for loc in ['Home', 'Away'] for i in range(1, 6)]
 
 problem = 0
+problematic_lineup = 0
 # Get game_ids
 for season in seasons:
     game_log = LeagueGameLog(season=season).get_data_frames()[0]
@@ -73,18 +75,21 @@ for season in seasons:
 
     # Get data
     i = 0
-    for game_id in tqdm(game_ids[200:], desc= f"Processing season {season}"):
+    for game_id in tqdm(game_ids, desc= f"Processing season {season}"):
         i += 1
-        time.sleep(0.7)
+        time.sleep(random.uniform(2, 5))
 
         try:
             lineup = get_lineups(game_id)
+            if lineup is None:
+                problematic_lineup += 1
+                continue
         except Exception as e:
             problem += 1
             print(f"[Lineups] {game_id} → {e}")
             continue
 
-        time.sleep(0.7)
+        time.sleep(random.uniform(2, 5))
         try:
             pbp = get_labelled_play_by_play(game_id)
         except Exception as e:
@@ -137,7 +142,8 @@ for season in seasons:
             continue
 
         if i % 100 == 0:
-            part = i // 100 + 2
+            part = i // 100
+
             # Final additions
             df['Off_Rating'] = df['Plus_Off'] / df['Home_Poss_Off'] * 100
             df.loc[df['Home_Poss_Off'] == 0, 'Off_Rating'] = np.nan
@@ -146,9 +152,14 @@ for season in seasons:
             df['Net_Rating'] = df['Off_Rating'] - df['Def_Rating']
             df['h'] = (df['Home_Poss_Def'] + df['Home_Poss_Off']) / (df['Home_Poss_Def'] * df['Home_Poss_Off'])
             df['Season'] = season
+
             # Export
             os.makedirs(directory, exist_ok=True)
             filepath = os.path.join(directory, f'data_{season}_{part}.csv')
             df.to_csv(filepath, index=False)
             print(f"Number of problems encountered: {problem}")
+            print(f"Problematic lineups (API issue): {problematic_lineup}")
+            problem = 0
+            problematic_lineup = 0
             df = pd.DataFrame(columns=columns)
+            time.sleep(10)

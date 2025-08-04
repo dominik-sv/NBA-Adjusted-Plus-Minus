@@ -75,7 +75,7 @@ def find_next_play(idx: int, actionNumber: int, plays: pd.DataFrame, reverse: bo
         increment = -1
 
     next_idx = idx + increment
-    while plays.at[next_idx, 'actionNumber'] == actionNumber or plays.at[next_idx, 'actionType'] in ('Substitution', 'Timeout') or (plays.at[next_idx, 'actionType'] == 'Foul' and plays.at[next_idx, 'subType'] in ('Double Personal', 'Technical', 'Too Many Players Technical', 'Double Technical')):
+    while plays.at[next_idx, 'actionNumber'] == actionNumber or plays.at[next_idx, 'actionType'] in ('Substitution', 'Timeout') or (plays.at[next_idx, 'actionType'] == 'Foul' and plays.at[next_idx, 'subType'] in ('Double Personal', 'Technical', 'Too Many Players Technical', 'Double Technical')) or plays.at[next_idx, 'actionType'] == 'Violation':
         next_idx += increment
     next_play = plays.loc[next_idx]
 
@@ -143,7 +143,7 @@ def get_other_value(value: str, list: list) -> str:
     return list[0] if value == list[1] else list[1]
 
 
-def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
+def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
     """
     Fetches play-by-play data for a game, annotates new possessions, and labels each play with possession information.
 
@@ -171,6 +171,8 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
 
     # Call Play by Play
     pbp = PlayByPlayV3(game_id=game_id).get_data_frames()[0]
+    if test:
+        pbp.to_csv("play_by_play.csv", index=False)
 
     # Get team tricode dictionary and team_location_dictionary
     team_tricodes = pbp['teamTricode'].unique()[1:]
@@ -198,7 +200,7 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
     plays = pbp[['actionNumber', 'teamId', 'scoreHome', 'scoreAway', 'description', 'actionType', 'subType', 'time', 'location']].copy()
     plays['newPossession'] = False
     plays['possession'] = None
-
+    tipoff_ready = True
 
     # Determine new possessions
     for idx, row in plays.iterrows():
@@ -265,7 +267,8 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
                     plays.at[idx, 'possession'] = team
 
                     # Save tipoff winner
-                    if idx == 1:
+                    if tipoff_ready:
+                        tipoff_ready = False
                         initial_tip = team
 
             # Period
@@ -277,6 +280,10 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
                     quarter_type = m.group(4)
 
                     if quarter_type == 'Period':
+                        if tipoff_ready:
+                            initial_tip = loc_to_tricode_dict[plays.at[1, 'location']]
+                            plays.at[2, 'possession'] = initial_tip
+
                         if period in (2, 3):
                             plays.at[idx, 'newPossession'] = True
                             plays.at[idx, 'possession'] = get_other_value(initial_tip, teams)
@@ -319,10 +326,4 @@ def get_labelled_play_by_play(game_id: str) -> pd.DataFrame:
     return plays
 
 if __name__ == "__main__":
-
-    with open('game_ids.json', 'r') as f:
-        game_ids = json.load(f)
-
-    for key, game_id in tqdm(list(game_ids.items())[:30]):
-        get_labelled_play_by_play(game_id=game_id)
-        time.sleep(2)
+    get_labelled_play_by_play(game_id="0022400206", test=True)
