@@ -29,8 +29,14 @@ def get_team_player_dict(game_id: str) -> tuple[dict, list]:
 
     boxscore = boxscoretraditionalv2.BoxScoreTraditionalV2(game_id=game_id).get_data_frames()[0]
     if boxscore.empty:
-        print('DataFrame is empty')
-    boxscore['LAST_NAME'] = boxscore.apply(lambda row: row['PLAYER_NAME'].replace(row['NICKNAME'], '').strip(), axis = 1)
+        return None, None
+    boxscore['LAST_NAME'] = [
+        full_name.replace(nickname, '').strip()
+        for full_name, nickname in zip(
+            boxscore['PLAYER_NAME'],
+            boxscore['NICKNAME']
+        )
+    ]
     team_player_dict = {}
     teams = []
     for idx, player in boxscore.iterrows():
@@ -168,6 +174,12 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
     PERIOD_RE = re.compile(r"(Start|End) of (\d)(st|nd|rd|th) (Period|OT).*")
 
     team_player_dict, teams = get_team_player_dict(game_id=game_id)
+
+    if teams == []:
+        return 'Nobody played'
+
+    if team_player_dict is None and teams is None:
+        return None
 
     # Call Play by Play
     pbp = PlayByPlayV3(game_id=game_id).get_data_frames()[0]
@@ -326,4 +338,5 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
     return plays
 
 if __name__ == "__main__":
-    get_labelled_play_by_play(game_id="0022400206", test=True)
+    one = get_labelled_play_by_play(game_id="0022401168", test=False)
+    print(one)

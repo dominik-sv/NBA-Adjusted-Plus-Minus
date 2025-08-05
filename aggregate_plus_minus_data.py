@@ -2,6 +2,24 @@ import requests
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 import random
+from requests.exceptions import ReadTimeout
+import time
+
+def safe_retry(func, *args, retries=3, backoff=5, backoff_factor=3, **kwargs):
+    """
+    Call `func(*args, **kwargs)`, retrying up to `retries` times on ReadTimeout.
+    Sleeps `backoff` seconds before first retry, then multiplies by backoff_factor.
+    """
+    delay = backoff
+    for attempt in range(1, retries+1):
+        try:
+            return func(*args, **kwargs)
+        except (ReadTimeout, ConnectionError) as e:
+            if attempt == retries:
+                raise
+            print(f"{type(e).__name__} on attempt {attempt}/{retries}, retrying in {delay:.0f}s…")
+            time.sleep(delay)
+            delay *= backoff_factor
 
 session = requests.Session()
 
@@ -33,7 +51,6 @@ import numpy as np
 from get_lineups import get_lineups
 from label_play_by_play import get_labelled_play_by_play
 from tqdm import tqdm
-import time
 import os
 
 
@@ -66,6 +83,9 @@ columns_to_keep = ['ID'] + [f'Player_{i}_{loc}_ID' for loc in ['Home', 'Away'] f
 
 problem = 0
 problematic_lineup = 0
+empty_boxscore_df = 0
+nobody_played = 0
+
 # Get game_ids
 for season in seasons:
     game_log = LeagueGameLog(season=season).get_data_frames()[0]
@@ -77,10 +97,10 @@ for season in seasons:
     i = 0
     for game_id in tqdm(game_ids, desc= f"Processing season {season}"):
         i += 1
-        time.sleep(random.uniform(2, 5))
+        time.sleep(2)
 
         try:
-            lineup = get_lineups(game_id)
+            lineup = safe_retry(get_lineups, game_id=game_id, retries=3, backoff=60*10)
             if lineup is None:
                 problematic_lineup += 1
                 continue
@@ -89,9 +109,15 @@ for season in seasons:
             print(f"[Lineups] {game_id} → {e}")
             continue
 
-        time.sleep(random.uniform(2, 5))
+        time.sleep(2)
         try:
-            pbp = get_labelled_play_by_play(game_id)
+            pbp = safe_retry(get_labelled_play_by_play, game_id=game_id, retries=3, backoff=60*10)
+            if pbp is None:
+                empty_boxscore_df += 1
+                continue
+            if pbp == 'Nobody played':
+                nobody_played += 1
+                continue
         except Exception as e:
             problem += 1
             print(f"[PBP] {game_id} → {e}")
@@ -157,9 +183,31 @@ for season in seasons:
             os.makedirs(directory, exist_ok=True)
             filepath = os.path.join(directory, f'data_{season}_{part}.csv')
             df.to_csv(filepath, index=False)
-            print(f"Number of problems encountered: {problem}")
-            print(f"Problematic lineups (API issue): {problematic_lineup}")
-            problem = 0
-            problematic_lineup = 0
+
+            # Setup
             df = pd.DataFrame(columns=columns)
             time.sleep(10)
+
+    # Final additions
+    df['Off_Rating'] = df['Plus_Off'] / df['Home_Poss_Off'] * 100
+    df.loc[df['Home_Poss_Off'] == 0, 'Off_Rating'] = np.nan
+    df['Def_Rating'] = df['Minus_Def'] / df['Home_Poss_Def'] * 100
+    df.loc[df['Home_Poss_Def'] == 0, 'Def_Rating'] = np.nan
+    df['Net_Rating'] = df['Off_Rating'] - df['Def_Rating']
+    df['h'] = (df['Home_Poss_Def'] + df['Home_Poss_Off']) / (df['Home_Poss_Def'] * df['Home_Poss_Off'])
+    df['Season'] = season
+
+    # Problems
+    print(f"Number of problems encountered: {problem}")
+    print(f"Problematic lineups (API issue): {problematic_lineup}")
+    print(f"Empty boxscore dataframes: {empty_boxscore_df}")
+    print(f"Nobody played: {nobody_played}")
+    
+    # Export
+    os.makedirs(directory, exist_ok=True)
+    filepath = os.path.join(directory, f'data_{season}_{part}.csv')
+    df.to_csv(filepath, index=False)
+
+    # Setup
+    df = pd.DataFrame(columns=columns)
+    time.sleep(10)

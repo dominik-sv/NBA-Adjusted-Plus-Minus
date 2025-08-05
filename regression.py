@@ -8,7 +8,7 @@ all_players = players.get_players()
 player_id_map = { p['id']: p['full_name'] for p in all_players }
 
 directory = 'data'
-df = pd.concat([pd.read_csv(os.path.join(directory, f'data_2024-25_{i}.csv')) for i in range(1, 5)], ignore_index=True)
+df = pd.concat([pd.read_csv(os.path.join(directory, f'data_2024-25_{i}.csv')) for i in range(1, 12)], ignore_index=True)
 
 all_slots = ["P1H","P2H","P3H","P4H","P5H","P1V","P2V","P3V","P4V","P5V"]
 players = pd.unique(df[all_slots].values.ravel())
@@ -62,7 +62,7 @@ output_df = pd.DataFrame({
 output_df.loc[len(output_df)] = ['Intercept', intercept, inter_se]
 output_df.sort_values(by='Coefficient', ascending=False, inplace=True)
 output_df.reset_index(drop=True, inplace=True)
-output_df = output_df[output_df['Std_Error'] < 8]
+output_df = output_df[output_df['Std_Error'] < 10]
 output_df.to_csv('player_coefficients.csv', index=False)
 
 top_players = player_coefs.sort_values(ascending=False).iloc[:25].index

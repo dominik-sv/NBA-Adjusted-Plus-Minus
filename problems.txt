@@ -1,3 +1,0 @@
-[PBP] 0022400124 → cannot access local variable 'initial_tip' where it is not associated with a value
-[PBP] 0022400206 → cannot access local variable 'initial_tip' where it is not associated with a value
-[Lineups] 0022400236 → 23 columns passed, passed data had 15 columns
