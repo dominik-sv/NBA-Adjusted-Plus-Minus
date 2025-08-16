@@ -1,13 +1,8 @@
-from get_lineups import get_lineups
 from nba_api.stats.endpoints import PlayByPlayV3
 from nba_api.stats.endpoints import boxscoretraditionalv2
 import pandas as pd
 import numpy as np
 import re
-import json
-from tqdm import tqdm
-import os
-import time
 
 
 def get_team_player_dict(game_id: str) -> tuple[dict, list]:

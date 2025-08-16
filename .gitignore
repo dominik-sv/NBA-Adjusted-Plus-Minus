@@ -4,6 +4,9 @@ venv
 # Log
 debug.log
 
+# Notes
+problems.txt
+
 # Cache
 __pychache__
 pbp_cache
