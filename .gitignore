@@ -8,5 +8,6 @@ debug.log
 problems.txt
 
 # Cache
-__pychache__
+__pycache__/
+*.py[cod]
 pbp_cache
