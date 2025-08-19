@@ -54,7 +54,6 @@ from label_play_by_play import get_labelled_play_by_play
 from tqdm import tqdm
 import os
 
-part = 11
 
 
 def calculate_diff(series: pd.Series) -> pd.Series:
@@ -76,7 +75,7 @@ def calculate_diff(series: pd.Series) -> pd.Series:
     diff.iat[0] = s.iat[0]
     return diff.astype(int)
 
-seasons = ['2024-25']
+seasons = ['2022-23']
 directory = 'data'
 
 # Create final output Dataframe
@@ -97,8 +96,8 @@ for season in seasons:
     game_ids = game_log['GAME_ID'].unique()
 
     # Get data
-    i = 1100
-    for game_id in tqdm(game_ids[1100:], desc= f"Processing season {season}"):
+    i = 0
+    for game_id in tqdm(game_ids, desc= f"Processing season {season}"):
         i += 1
         time.sleep(2)
 

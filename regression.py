@@ -9,7 +9,8 @@ all_players = players.get_players()
 player_id_map = { p['id']: p['full_name'] for p in all_players }
 
 directory = 'data'
-df = pd.concat([pd.read_csv(os.path.join(directory, f'data_2024-25_{i}.csv')) for i in range(1, 12)], ignore_index=True)
+print('Importing')
+df = pd.concat([pd.read_csv(os.path.join(directory, f'data_20{year}-{year + 1}_{i}.csv')) for i in range(1, 12) for year in range(22, 25)], ignore_index=True)
 
 all_slots = ["P1H","P2H","P3H","P4H","P5H","P1V","P2V","P3V","P4V","P5V"]
 plyrs = pd.unique(df[all_slots].values.ravel())
@@ -83,7 +84,7 @@ output_df.loc[len(output_df)] = ['Intercept', intercept, inter_se, 0]
 
 output_df.sort_values(by='Coefficient', ascending=False, inplace=True)
 output_df.reset_index(drop=True, inplace=True)
-output_df = output_df[output_df['Possessions'] > 1000]
+output_df = output_df[output_df['Possessions'] > 15000]
 
 print("Exporting...")
 output_df.to_csv('player_coefficients.csv', index=False)
