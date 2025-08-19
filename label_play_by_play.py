@@ -71,14 +71,15 @@ def find_next_play(idx: int, actionNumber: int, plays: pd.DataFrame, reverse: bo
         The DataFrame index of the next valid play.
     """
 
-    increment = 1
-    if reverse:
-        increment = -1
+    increment = -1 if reverse else 1
 
     next_idx = idx + increment
     while plays.at[next_idx, 'actionNumber'] == actionNumber or plays.at[next_idx, 'actionType'] in ('Substitution', 'Timeout') or (plays.at[next_idx, 'actionType'] == 'Foul' and plays.at[next_idx, 'subType'] in ('Double Personal', 'Technical', 'Too Many Players Technical', 'Double Technical')) or plays.at[next_idx, 'actionType'] == 'Violation':
         next_idx += increment
     next_play = plays.loc[next_idx]
+
+    if not (0 <= next_idx < len(plays)):
+        return None, None
 
     return next_play, next_idx
 
@@ -222,6 +223,8 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
             case 'Made Shot':
 
                 next_play, next_idx = find_next_play(idx, actionNumber, plays)
+                if next_play is None and next_idx is None:
+                    continue
 
                 # And 1 play
                 if (next_play['actionType'] == 'Foul') and (next_play['subType'] == 'Shooting') and (next_play['location'] != location):
@@ -238,6 +241,8 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
             case 'Missed Shot':
 
                 next_play, next_idx = find_next_play(idx, actionNumber, plays)
+                if next_play is None and next_idx is None:
+                    continue
 
                 assert next_play['actionType'] == 'Rebound', f"Next play {next_play['actionType']} is not a rebound (row {idx})"
                 
@@ -248,6 +253,8 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
             case 'Free Throw':
 
                 next_play, next_idx = find_next_play(idx, actionNumber, plays)
+                if next_play is None and next_idx is None:
+                    continue
 
                 if next_play['actionType'] == 'period':
                     continue
@@ -261,12 +268,17 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
             case 'Jump Ball':
 
                 last_play, last_idx = find_next_play(idx, actionNumber, plays, reverse = True)
+                if last_play is None and last_idx is None:
+                    continue
 
                 # Jump ball at new period
                 if last_play['actionType'] == 'period':
 
                     # Who got the ball (NEW based on next play)
                     next_play, next_idx = find_next_play(idx, actionNumber, plays)
+                    if next_play is None and next_idx is None:
+                        continue
+                    
                     next_play_team_poss = determine_play_possession(next_play)
                     team = loc_to_tricode_dict[next_play_team_poss]
 

@@ -18,13 +18,15 @@ def get_lineups(game_id: str, test: bool = False) -> pd.DataFrame:
     """
 
     game_rotation = GameRotation(game_id=game_id).get_data_frames()
-    rotation_home, rotation_away = game_rotation[0], game_rotation[1]
+    rotation_home, rotation_away = game_rotation[0], game_rotation[1].copy()
+    rotation_home['side'] = 'Home'
+    rotation_away['side'] = 'Away'
     rotation = pd.concat([rotation_home, rotation_away], ignore_index=True)
 
     if test:
         rotation.to_csv('lineups.csv')
 
-    rotation.sort_values("OUT_TIME_REAL")
+    rotation.sort_values(['IN_TIME_REAL', 'OUT_TIME_REAL'], kind='mergesort')
 
     rotation = rotation[rotation["IN_TIME_REAL"] != rotation["OUT_TIME_REAL"]]
 
@@ -57,7 +59,7 @@ def get_lineups(game_id: str, test: bool = False) -> pd.DataFrame:
             player_id = player["PERSON_ID"]
             player_name = player["PLAYER_FIRST"] + " " + player["PLAYER_LAST"]
             player_list.extend([player_id, player_name])
-            if idx < 5:
+            if player['side'] == 'Home':
                 ids_home.append(player_id)
             else:
                 ids_visiting.append(player_id)
