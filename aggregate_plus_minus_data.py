@@ -5,7 +5,8 @@ import random
 from requests.exceptions import ReadTimeout
 import time
 
-def safe_retry(func, *args, retries=3, backoff=5, backoff_factor=3, **kwargs):
+
+def safe_retry(func, *args, retries=3, backoff=5, backoff_factor=2, **kwargs):
     """
     Call `func(*args, **kwargs)`, retrying up to `retries` times on ReadTimeout.
     Sleeps `backoff` seconds before first retry, then multiplies by backoff_factor.
@@ -53,6 +54,8 @@ from label_play_by_play import get_labelled_play_by_play
 from tqdm import tqdm
 import os
 
+part = 11
+
 
 def calculate_diff(series: pd.Series) -> pd.Series:
     """
@@ -94,13 +97,13 @@ for season in seasons:
     game_ids = game_log['GAME_ID'].unique()
 
     # Get data
-    i = 0
-    for game_id in tqdm(game_ids, desc= f"Processing season {season}"):
+    i = 1100
+    for game_id in tqdm(game_ids[1100:], desc= f"Processing season {season}"):
         i += 1
         time.sleep(2)
 
         try:
-            lineup = safe_retry(get_lineups, game_id=game_id, retries=3, backoff=60*10)
+            lineup = safe_retry(get_lineups, game_id=game_id, retries=3, backoff=60*20)
             if lineup is None:
                 problematic_lineup += 1
                 continue
@@ -111,11 +114,11 @@ for season in seasons:
 
         time.sleep(2)
         try:
-            pbp = safe_retry(get_labelled_play_by_play, game_id=game_id, retries=3, backoff=60*10)
+            pbp = safe_retry(get_labelled_play_by_play, game_id=game_id, retries=3, backoff=60*20)
             if pbp is None:
                 empty_boxscore_df += 1
                 continue
-            if pbp == 'Nobody played':
+            if isinstance(pbp, str) and pbp == 'Nobody played':
                 nobody_played += 1
                 continue
         except Exception as e:
@@ -205,7 +208,7 @@ for season in seasons:
     
     # Export
     os.makedirs(directory, exist_ok=True)
-    filepath = os.path.join(directory, f'data_{season}_{part}.csv')
+    filepath = os.path.join(directory, f'data_{season}_{part+1}.csv')
     df.to_csv(filepath, index=False)
 
     # Setup

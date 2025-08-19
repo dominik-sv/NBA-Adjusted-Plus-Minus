@@ -170,7 +170,7 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
 
     team_player_dict, teams = get_team_player_dict(game_id=game_id)
 
-    if teams == []:
+    if teams is None or len(teams) == 0:
         return 'Nobody played'
 
     if team_player_dict is None and teams is None:
@@ -333,5 +333,5 @@ def get_labelled_play_by_play(game_id: str, test: bool=False) -> pd.DataFrame:
     return plays
 
 if __name__ == "__main__":
-    one = get_labelled_play_by_play(game_id="0022401168", test=False)
+    one = get_labelled_play_by_play(game_id="0022300062", test=False)
     print(one)
